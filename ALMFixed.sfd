@@ -16,11 +16,10 @@ Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
 XUID: [1021 22 738589847 4222270]
 FSType: 8
-OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409058521
-ModificationTime: 1427546758
+ModificationTime: 1436632199
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -112,7 +111,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 621 27 9
+WinInfo: 1890 27 9
 BeginPrivate: 7
 BlueValues 31 [-11 0 431 442 611 622 626 637]
 BlueScale 7 0.04546
@@ -39744,13 +39743,13 @@ StartChar: uni066E.medi
 Encoding: 65589 -1 977
 Width: 525
 GlyphClass: 2
-Flags: MW
-HStem: 110 21G<-8.5 0 0 176 0 0 349.5 383 383 525> 110 70<-8.5 0 0 174 174 176 -8.5 0 383 525> 160 20G<-8.5 0 0 174 174 200.5 383 525 525 525> 411 20G<265 293> 541 141<280.5 297> 676 141<188.5 205> 698 141<345.5 362>
-VStem: 131 132<736 755.5 735 756.5> 223 132<601 620.5 600 621.5> 244 69<305 390> 288 132<758 777.5 757 778.5>
+Flags: W
+HStem: 110 70<-16.6814 217.688 337.956 525> 411 20G<265 293>
+VStem: 244 69<205.431 429.873>
 LayerCount: 2
 Fore
 SplineSet
-174 180 m 2x5040
+174 180 m 2
  227 180 244 238 244 305 c 2
  244 390 l 2
  244 421 251 431 279 431 c 0
@@ -39764,26 +39763,11 @@ SplineSet
  266 147 241 110 176 110 c 2
  0 110 l 1
  0 180 l 1
- 174 180 l 2x5040
-0 180 m 1xa0
+ 174 180 l 2
+0 180 m 1
  0 110 l 1
  -17 110 -17 128 -17 145 c 0
- -17 162 -17 180 0 180 c 1xa0
-131 746 m 0x0520
- 131 767 180 817 197 817 c 0
- 214 817 263 765 263 746 c 0
- 263 724 213 676 197 676 c 0
- 179 676 131 726 131 746 c 0x0520
-288 768 m 0
- 288 789 337 839 354 839 c 0
- 371 839 420 787 420 768 c 0
- 420 746 370 698 354 698 c 0x0b20
- 336 698 288 748 288 768 c 0
-223 611 m 0x0a80
- 223 632 272 682 289 682 c 0
- 306 682 355 630 355 611 c 0
- 355 589 305 541 289 541 c 0
- 271 541 223 591 223 611 c 0x0a80
+ -17 162 -17 180 0 180 c 1
 EndSplineSet
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
