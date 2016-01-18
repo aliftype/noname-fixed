@@ -8,8 +8,8 @@ Version: 001.001
 ItalicAngle: 0
 UnderlinePosition: -99
 UnderlineWidth: 69
-Ascent: 800
-Descent: 200
+Ascent: 750
+Descent: 250
 sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 0 "Back"  1
@@ -19,25 +19,25 @@ FSType: 8
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409058521
-ModificationTime: 1436632199
+ModificationTime: 1453136893
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 56
+LineGap: 0
 VLineGap: 0
 Panose: 2 0 5 0 0 0 0 0 0 0
-OS2TypoAscent: 900
+OS2TypoAscent: 750
 OS2TypoAOffset: 0
-OS2TypoDescent: -500
+OS2TypoDescent: -250
 OS2TypoDOffset: 0
-OS2TypoLinegap: 139
+OS2TypoLinegap: 0
 OS2WinAscent: 975
 OS2WinAOffset: 0
 OS2WinDescent: 565
 OS2WinDOffset: 0
-HheadAscent: 900
+HheadAscent: 750
 HheadAOffset: 0
-HheadDescent: -500
+HheadDescent: -250
 HheadDOffset: 0
 OS2SubXSize: 650
 OS2SubYSize: 600
@@ -52,7 +52,6 @@ OS2StrikeYPos: 250
 OS2Vendor: 'UKWN'
 OS2CodePages: 200001d3.00000000
 OS2UnicodeRanges: a000200f.80000000.00000008.00000000
-OS2UpperOpticalPointSize: 0
 Lookup: 1 1 0 "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0"  {"'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable"  } ['ccmp' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'dlig' Discretionary Ligatures in Arabic lookup 1"  {"'dlig' Discretionary Ligatures in Arabic lookup 1 subtable"  } ['dlig' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'locl' Localized Forms in Arabic lookup 2"  {"'locl' Localized Forms in Arabic lookup 2 subtable"  } ['locl' ('arab' <'ARA ' > ) ]
@@ -111,7 +110,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1890 27 9
+WinInfo: 27 27 9
 BeginPrivate: 7
 BlueValues 31 [-11 0 431 442 611 622 626 637]
 BlueScale 7 0.04546
