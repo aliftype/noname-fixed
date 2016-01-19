@@ -19,7 +19,7 @@ FSType: 8
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409058521
-ModificationTime: 1453224111
+ModificationTime: 1453224433
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -104,13 +104,12 @@ ChainSub2: coverage "'rlig' Required Ligatures in Arabic lookup 11 contextual 0"
 EndFPST
 LangName: 1033 "Copyright 2014 Idris Samawi Hamid (Arabic-Latin Modern Fixed Regular). Derived from Copyright 2003, 2009 B. Jackowski and J. M. Nowacki (Latin Modern Mono Regular 10). Derived from Copyright Donald Knuth 1990 (Computer Modern Mono 10)." "" "Regular" "IdrisSamawiHamid: Arabic-Latin Modern Fixed Regular: 2014" "ALMFixed" "Version 0.92" "" "Please refer to the Copyright section for the font trademark attribution notices." "Idris Samawi Hamid" "Idris Samawi Hamid" "'ALM' stands for 'Arabic-Latin Modern'. " "" "http://walayah.org/project/typography" "Arabic-Latin Modern Fixed is licensed under the GUST Font License with one important adjustment: It is requested, AS WELL AS LEGALLY REQUIRED, that derived works be distributed only after changing the names of the fonts comprising this work." "http://www.gust.org.pl/projects/e-foundry/licenses/GUST-FONT-LICENSE.txt/view" "" "" "" "ALM Fixed Regular" 
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1674 27 9
+WinInfo: 65124 27 9
 BeginPrivate: 7
 BlueValues 31 [-11 0 431 442 611 622 626 637]
 BlueScale 7 0.04546
@@ -104968,38 +104967,12 @@ StartChar: uniFECC
 Encoding: 65228 65228 2167
 Width: 525
 GlyphClass: 2
-Flags: MW
-HStem: -235 70<205.5 323 205.5 347.5> -235 172<198 482> 110 70<355.5 525 397 525> 426 69<220.5 270>
-VStem: 34 69<-41.5 33.5 -41.5 37.5> 73 61<379 405 379 437> 356 61<370.5 405>
+Flags: W
+HStem: 110 21<-8.5 0 0 83 0 0 401 443 443 525> 110 70<-8.5 0 0 83 -8.5 0 443 525> 160 20<-8.5 0 0 83 83 113.5 443 525 525 525> 411 70<228 298>
+VStem: 91 70<362 393 362 428> 365 70<362 393>
 LayerCount: 2
 Fore
-SplineSet
-73 389 m 0xb6
- 73 485 172 495 245 495 c 0
- 318 495 417 485 417 389 c 0
- 417 338 378 305 331 277 c 0
- 306 262 278 246 248 224 c 1
- 286 198 335 180 397 180 c 2
- 525 180 l 1
- 525 110 l 1
- 397 110 l 2
- 314 110 247 139 196 179 c 1
- 145 128 103 67 103 0 c 0
- 103 -83 142 -165 269 -165 c 0xba
- 377 -165 408 -121 432 -88 c 0
- 444 -72 454 -63 471 -63 c 0
- 493 -63 513 -79 513 -106 c 0
- 513 -160 426 -235 269 -235 c 0
- 127 -235 34 -153 34 0 c 0x7a
- 34 75 70 146 150 225 c 1
- 109 274 73 331 73 389 c 0xb6
-245 426 m 0
- 196 426 134 421 134 389 c 0
- 134 369 164 309 200 267 c 1
- 214 277 l 2
- 294 333 356 352 356 389 c 0
- 356 421 295 426 245 426 c 0
-EndSplineSet
+Refer: 1109 -1 N 1 0 0 1 0 0 2
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
