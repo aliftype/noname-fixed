@@ -19,7 +19,6 @@ FSType: 8
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409058521
-ModificationTime: 1454661414
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -107,10 +106,6 @@ LangName: 1033 "Copyright 2014 Idris Samawi Hamid (Arabic-Latin Modern Fixed Reg
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
-AntiAlias: 1
-FitToEm: 0
-WinInfo: 1890 27 9
 BeginPrivate: 7
 BlueValues 31 [-11 0 431 442 611 622 626 637]
 BlueScale 7 0.04546
@@ -120,7 +115,7 @@ StdVW 4 [69]
 StemSnapH 31 [38 54 60 61 62 63 64 65 70 90]
 StemSnapV 33 [35 56 58 62 69 70 89 90 100 154]
 EndPrivate
-BeginChars: 66305 2726
+BeginChars: 66305 2727
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -90158,16 +90153,16 @@ VStem: 386 69<188.773 719.873>
 LayerCount: 2
 Back
 SplineSet
-525 180 m 5
- 525 110 l 5
- 351 110 l 6
- 261 110 228 166 228 250 c 6
- 228 680 l 6
- 228 711 235 721 264 721 c 4
- 291 721 297 711 297 680 c 6
- 297 250 l 6
- 297 228 297 180 351 180 c 6
- 525 180 l 5
+525 180 m 1
+ 525 110 l 1
+ 351 110 l 2
+ 261 110 228 166 228 250 c 2
+ 228 680 l 2
+ 228 711 235 721 264 721 c 0
+ 291 721 297 711 297 680 c 2
+ 297 250 l 2
+ 297 228 297 180 351 180 c 2
+ 525 180 l 1
 EndSplineSet
 Fore
 SplineSet
@@ -114913,6 +114908,44 @@ SplineSet
  270 484 204 500 204 562 c 0
  204 580 220 639 282 639 c 0
  304 639 318 624 318 601 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni1E9E
+Encoding: 7838 7838 2726
+Width: 525
+Flags: W
+HStem: 0 61<23.8847 64 153 193.115 296.908 367.06> 561 61<198.016 261>
+VStem: 23 171<1.58203 59.3652> 74 69<432 508.501> 216 80<62.3978 96.537> 422 69<112.818 244.123>
+LayerCount: 2
+Fore
+SplineSet
+261 622 m 0xdc
+ 161 622 74 560 74 437 c 2
+ 74 61 l 1xdc
+ 64 61 l 2
+ 49 61 23 61 23 30 c 0
+ 23 0 49 0 64 0 c 2
+ 153 0 l 2
+ 168 0 194 0 194 30 c 0xec
+ 194 61 168 61 153 61 c 2
+ 143 61 l 1
+ 143 432 l 2
+ 143 519 208 561 261 561 c 0
+ 379 561 l 1
+ 278 348 l 0
+ 270 333 268 289 307 287 c 0
+ 392 287 422 224 422 179 c 0
+ 422 130 383 61 296 61 c 1
+ 296 85 296 87 289 97 c 0
+ 282 106 270 113 257 113 c 0
+ 236 113 216 98 216 71 c 0
+ 216 34 250 0 318 0 c 0
+ 431 0 491 99 491 177 c 0
+ 491 246 452 320 349 342 c 1
+ 457 562 l 0
+ 466 583 476 616 437 622 c 0
+ 261 622 l 0xdc
 EndSplineSet
 EndChar
 EndChars
