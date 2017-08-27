@@ -51,7 +51,6 @@ OS2StrikeYPos: 250
 OS2Vendor: 'UKWN'
 OS2CodePages: 200001d3.00000000
 OS2UnicodeRanges: a000200f.80000000.00000008.00000000
-OS2UpperOpticalPointSize: 0
 Lookup: 1 1 0 "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0"  {"'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable"  } ['ccmp' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'dlig' Discretionary Ligatures in Arabic lookup 1"  {"'dlig' Discretionary Ligatures in Arabic lookup 1 subtable"  } ['dlig' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'locl' Localized Forms in Arabic lookup 2"  {"'locl' Localized Forms in Arabic lookup 2 subtable"  } ['locl' ('arab' <'ARA ' > ) ]
