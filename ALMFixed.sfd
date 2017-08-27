@@ -1,10 +1,11 @@
 SplineFontDB: 3.0
-FontName: ALMFixed
+FontName: ALMFixed-Regular
 FullName: ALM Fixed
 FamilyName: ALM Fixed
-Weight: Normal
-Copyright: 'ALM' stands for 'Arabic-Latin Modern'. 
+Weight: Regular
+Copyright: Copyright 2014 Idris Samawi Hamid (Arabic-Latin Modern Fixed Regular). Derived from Copyright 2003, 2009 B. Jackowski and J. M. Nowacki (Latin Modern Mono Regular 10). Derived from Copyright Donald Knuth 1990 (Computer Modern Mono 10).
 Version: 001.001
+DefaultBaseFilename: ALMFixed
 ItalicAngle: 0
 UnderlinePosition: -99
 UnderlineWidth: 69
@@ -15,7 +16,7 @@ LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
 XUID: [1021 22 738589847 4222270]
-FSType: 8
+FSType: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409058521
@@ -24,7 +25,6 @@ TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 0 5 0 0 0 0 0 0 0
 OS2TypoAscent: 1000
 OS2TypoAOffset: 0
 OS2TypoDescent: -1000
@@ -38,19 +38,7 @@ HheadAscent: 1000
 HheadAOffset: 0
 HheadDescent: -1000
 HheadDOffset: 0
-OS2SubXSize: 650
-OS2SubYSize: 600
-OS2SubXOff: 0
-OS2SubYOff: 75
-OS2SupXSize: 650
-OS2SupYSize: 600
-OS2SupXOff: 0
-OS2SupYOff: 350
-OS2StrikeYSize: 69
-OS2StrikeYPos: 250
 OS2Vendor: 'UKWN'
-OS2CodePages: 200001d3.00000000
-OS2UnicodeRanges: a000200f.80000000.00000008.00000000
 Lookup: 1 1 0 "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0"  {"'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable"  } ['ccmp' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'dlig' Discretionary Ligatures in Arabic lookup 1"  {"'dlig' Discretionary Ligatures in Arabic lookup 1 subtable"  } ['dlig' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'locl' Localized Forms in Arabic lookup 2"  {"'locl' Localized Forms in Arabic lookup 2 subtable"  } ['locl' ('arab' <'ARA ' > ) ]
@@ -101,7 +89,7 @@ ChainSub2: coverage "'rlig' Required Ligatures in Arabic lookup 11 contextual 0"
  1
   SeqLookup: 0 "Multiple Substitution lookup 21" 
 EndFPST
-LangName: 1033 "Copyright 2014 Idris Samawi Hamid (Arabic-Latin Modern Fixed Regular). Derived from Copyright 2003, 2009 B. Jackowski and J. M. Nowacki (Latin Modern Mono Regular 10). Derived from Copyright Donald Knuth 1990 (Computer Modern Mono 10)." "" "Regular" "IdrisSamawiHamid: Arabic-Latin Modern Fixed Regular: 2014" "ALMFixed" "Version 0.92" "" "Please refer to the Copyright section for the font trademark attribution notices." "Idris Samawi Hamid" "Idris Samawi Hamid" "'ALM' stands for 'Arabic-Latin Modern'. " "" "http://walayah.org/project/typography" "Arabic-Latin Modern Fixed is licensed under the GUST Font License with one important adjustment: It is requested, AS WELL AS LEGALLY REQUIRED, that derived works be distributed only after changing the names of the fonts comprising this work." "http://www.gust.org.pl/projects/e-foundry/licenses/GUST-FONT-LICENSE.txt/view" "" "" "" "ALM Fixed Regular" 
+LangName: 1033 "" "" "" "" "" "" "" "Please refer to the Copyright section for the font trademark attribution notices." "Idris Samawi Hamid" "Idris Samawi Hamid" "'ALM' stands for 'Arabic-Latin Modern'. " "" "http://walayah.org/project/typography" "Arabic-Latin Modern Fixed is licensed under the GUST Font License with one important adjustment: It is requested, AS WELL AS LEGALLY REQUIRED, that derived works be distributed only after changing the names of the fonts comprising this work." "http://www.gust.org.pl/projects/e-foundry/licenses/GUST-FONT-LICENSE.txt/view" "" "" "" "ALM Fixed Regular" 
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
