@@ -58273,24 +58273,23 @@ StartChar: uni06E1
 Encoding: 1761 1761 1419
 Width: 525
 GlyphClass: 2
-Flags: MW
-HStem: 644 61<77.5 403 83 403 83 428> 790 100<162 284.5> 829 61<223 269>
+Flags: W
+HStem: 607 65<83.7798 232.701>
 LayerCount: 2
 Fore
 SplineSet
-83 705 m 2xc0
- 403 705 l 1
- 378 736 302 829 236 829 c 0xa0
- 210 829 204 819 199 810 c 0
- 193 800 185 790 170 790 c 0
- 154 790 140 803 140 826 c 0
- 140 867 196 890 236 890 c 0
- 333 890 453 731 453 698 c 2
- 453 679 l 2
- 453 653 449 644 428 644 c 2
- 83 644 l 2
- 72 644 72 666 72 676 c 0
- 72 686 72 705 83 705 c 2xc0
+137 781 m 0
+ 118 781 105 796 105 813 c 0
+ 105 866 182 886 216 886 c 0
+ 281 886 375 861 417 832 c 0
+ 425 827 430 815 430 804 c 0
+ 430 798 429 792 425 786 c 0
+ 362 696 270 607 118 607 c 0
+ 100 607 82 614 82 640 c 0
+ 82 658 97 672 114 672 c 0
+ 237 672 294 719 351 792 c 1
+ 299 811 192 839 165 796 c 0
+ 159 786 148 781 137 781 c 0
 EndSplineSet
 Substitution2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni06E1.base
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
@@ -74627,24 +74626,9 @@ Encoding: 65967 -1 1782
 Width: 525
 GlyphClass: 2
 Flags: MW
-HStem: 644 61<77.5 403 83 403 83 428> 790 100<162 284.5> 829 61<223 269>
 LayerCount: 2
 Fore
-SplineSet
-83 705 m 2xc0
- 403 705 l 1
- 378 736 302 829 236 829 c 0xa0
- 210 829 204 819 199 810 c 0
- 193 800 185 790 170 790 c 0
- 154 790 140 803 140 826 c 0
- 140 867 196 890 236 890 c 0
- 333 890 453 731 453 698 c 2
- 453 679 l 2
- 453 653 449 644 428 644 c 2
- 83 644 l 2
- 72 644 72 666 72 676 c 0
- 72 686 72 705 83 705 c 2xc0
-EndSplineSet
+Refer: 1419 1761 N 1 0 0 1 0 0 2
 MultipleSubs2: "Multiple Substitution lookup 21 subtable" uni0640 uni06E1.base
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
@@ -89667,24 +89651,9 @@ Encoding: 66287 -1 2161
 Width: 525
 GlyphClass: 2
 Flags: MW
-HStem: 574 61<77.5 403 83 403 83 428> 720 100<162 284.5> 759 61<223 269>
 LayerCount: 2
 Fore
-SplineSet
-83 635 m 2xc0
- 403 635 l 1
- 378 666 302 759 236 759 c 0xa0
- 210 759 204 749 199 740 c 0
- 193 730 185 720 170 720 c 0
- 154 720 140 733 140 756 c 0
- 140 797 196 820 236 820 c 0
- 333 820 453 661 453 628 c 2
- 453 609 l 2
- 453 583 449 574 428 574 c 2
- 83 574 l 2
- 72 574 72 596 72 606 c 0
- 72 616 72 635 83 635 c 2xc0
-EndSplineSet
+Refer: 1419 1761 N 1 0 0 1 0 -71 2
 EndChar
 
 StartChar: Threedotsarabic_flat.comp
