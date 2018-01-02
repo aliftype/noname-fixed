@@ -41,15 +41,10 @@ HheadDOffset: 0
 OS2Vendor: 'UKWN'
 Lookup: 1 1 0 "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0"  {"'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable"  } ['ccmp' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'dlig' Discretionary Ligatures in Arabic lookup 1"  {"'dlig' Discretionary Ligatures in Arabic lookup 1 subtable"  } ['dlig' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
-Lookup: 1 9 0 "'locl' Localized Forms in Arabic lookup 2"  {"'locl' Localized Forms in Arabic lookup 2 subtable"  } ['locl' ('arab' <'ARA ' > ) ]
-Lookup: 1 9 0 "'locl' Localized Forms in Arabic lookup 3"  {"'locl' Localized Forms in Arabic lookup 3 subtable"  } ['locl' ('arab' <'FAR ' > ) ]
 Lookup: 1 8 0 "'locl' Localized Forms in Arabic lookup 4"  {"'locl' Localized Forms in Arabic lookup 4 subtable"  } ['locl' ('arab' <'URD ' > ) ]
 Lookup: 1 9 0 "'fina' Terminal Forms in Arabic lookup 5"  {"'fina' Terminal Forms in Arabic lookup 5 subtable"  } ['fina' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 6"  {"'medi' Medial Forms in Arabic lookup 6 subtable"  } ['medi' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 7"  {"'init' Initial Forms in Arabic lookup 7 subtable"  } ['init' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
-Lookup: 1 9 0 "'locl' Localized Forms in Arabic lookup 8"  {"'locl' Localized Forms in Arabic lookup 8 subtable"  } ['locl' ('arab' <'FAR ' > ) ]
-Lookup: 1 9 0 "'locl' Localized Forms in Arabic lookup 9"  {"'locl' Localized Forms in Arabic lookup 9 subtable"  } ['locl' ('arab' <'ARA ' > ) ]
-Lookup: 1 9 0 "'locl' Localized Forms in Arabic lookup 10"  {"'locl' Localized Forms in Arabic lookup 10 subtable"  } ['locl' ('arab' <'URD ' > ) ]
 Lookup: 6 1 0 "'rlig' Required Ligatures in Arabic lookup 11"  {"'rlig' Required Ligatures in Arabic lookup 11 contextual 0"  "'rlig' Required Ligatures in Arabic lookup 11 contextual 1"  } ['rlig' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 1 0 "'rlig' Required Ligatures in Arabic lookup 12"  {"'rlig' Required Ligatures in Arabic lookup 12 subtable"  } ['rlig' ('arab' <'ARA ' > ) ]
 Lookup: 1 0 0 "'aalt' Access All Alternates in Latin lookup 13"  {"'aalt' Access All Alternates in Latin lookup 13 subtable"  } ['aalt' ('latn' <'dflt' > ) ]
@@ -34392,7 +34387,6 @@ SplineSet
  380 740 330 692 314 692 c 0
  296 692 248 742 248 762 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni0629.alt
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0629.fina
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
@@ -35464,7 +35458,6 @@ SplineSet
  390 -267 340 -315 324 -315 c 0
  306 -315 258 -265 258 -245 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 8 subtable" uni06CC
 Substitution2: "'init' Initial Forms in Arabic lookup 7 subtable" uni064A.init
 Substitution2: "'medi' Medial Forms in Arabic lookup 6 subtable" uni064A.medi
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni064A.fina
@@ -35545,11 +35538,10 @@ SplineSet
  291 280 295 245 371 245 c 0
  469 245 506 218 506 136 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 9 subtable" uni064A
-Substitution2: "'init' Initial Forms in Arabic lookup 7 subtable" uni06CC.init
-Substitution2: "'medi' Medial Forms in Arabic lookup 6 subtable" uni06CC.medi
+Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06CC.fina
-Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
+Substitution2: "'medi' Medial Forms in Arabic lookup 6 subtable" uni06CC.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 7 subtable" uni06CC.init
 EndChar
 
 StartChar: uni06CE
@@ -47947,7 +47939,6 @@ SplineSet
  380 727 330 679 314 679 c 0
  296 679 248 729 248 749 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni06C3.fina
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -48056,7 +48047,6 @@ SplineSet
  -17 110 -17 128 -17 145 c 0
  -17 162 -17 180 0 180 c 1
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni06C1.init
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -48148,7 +48138,6 @@ SplineSet
  -17 110 -17 128 -17 145 c 0
  -17 162 -17 180 0 180 c 1
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni06C1.medi
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -48231,7 +48220,6 @@ SplineSet
  265 250 310 287 310 322 c 2
  310 431 l 1
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 10 subtable" uni06C1.fina
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -50385,7 +50373,6 @@ SplineSet
  390 -431 340 -479 324 -479 c 0
  306 -479 258 -429 258 -409 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 8 subtable" uni06CC.fina
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -50460,7 +50447,6 @@ SplineSet
  88 -83 113 -165 240 -165 c 0
  399 -165 437 -118 437 -70 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 9 subtable" uni064A.fina
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52684,8 +52670,6 @@ SplineSet
  342 276 285 212 263 212 c 0
  238 212 183 278 183 305 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F0
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F0
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52706,8 +52690,6 @@ SplineSet
  151 549 148 553 148 569 c 0
  148 591 164 611 183 611 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F1
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F1
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52733,8 +52715,6 @@ SplineSet
  88 549 85 553 85 569 c 0
  85 591 101 611 120 611 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F2
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F2
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52764,8 +52744,6 @@ SplineSet
  46 549 43 553 43 569 c 0
  43 591 59 611 78 611 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F3
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F3
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52798,8 +52776,6 @@ SplineSet
  79 532 161 611 250 611 c 0
  295 611 331 593 331 555 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F4.indo
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F4
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52822,8 +52798,6 @@ SplineSet
  129 170 152 125 251 125 c 0
  374 125 390 193 390 233 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F5
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F5
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52852,8 +52826,6 @@ SplineSet
  335 536 343 560 365 590 c 0
  375 604 385 611 399 611 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F6
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F6
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52879,8 +52851,6 @@ SplineSet
  33 550 29 553 29 569 c 0
  29 591 45 611 64 611 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F7.indo
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F7
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52906,8 +52876,6 @@ SplineSet
  215 229 137 54 94 12 c 0
  84 3 74 0 64 0 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F8
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F8
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52937,8 +52905,6 @@ SplineSet
  275 370 290 372 317 380 c 1
  317 494 l 2
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F9
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F9
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52956,7 +52922,6 @@ SplineSet
  342 276 285 212 263 212 c 0
  238 212 183 278 183 305 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0660
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -52977,7 +52942,6 @@ SplineSet
  151 549 148 553 148 569 c 0
  148 591 164 611 183 611 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0661
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -53003,7 +52967,6 @@ SplineSet
  88 549 85 553 85 569 c 0
  85 591 101 611 120 611 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0662
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -53033,7 +52996,6 @@ SplineSet
  46 549 43 553 43 569 c 0
  43 591 59 611 78 611 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0663
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -53068,7 +53030,6 @@ SplineSet
  246 560 311 611 379 611 c 0
 EndSplineSet
 Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F4.indo
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0664
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -53095,7 +53056,6 @@ SplineSet
  289 245 306 188 356 188 c 0
  374 188 384 219 384 264 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0665
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -53125,7 +53085,6 @@ SplineSet
  127 553 216 611 312 611 c 0
  357 611 393 593 393 555 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0666
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -53152,7 +53111,6 @@ SplineSet
  29 591 45 611 64 611 c 0
 EndSplineSet
 Substitution2: "'locl' Localized Forms in Arabic lookup 4 subtable" uni06F7.indo
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0667
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -53178,7 +53136,6 @@ SplineSet
  215 229 137 54 94 12 c 0
  84 3 74 0 64 0 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0668
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -53208,7 +53165,6 @@ SplineSet
  275 370 290 372 317 380 c 1
  317 494 l 2
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0669
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -72298,8 +72254,6 @@ SplineSet
  386 480 334 408 301 345 c 0
  296 335 292 330 290 330 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F4
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0667
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
@@ -80741,8 +80695,6 @@ SplineSet
  439 535 441 539 452 539 c 0
  468 539 482 523 482 504 c 0
 EndSplineSet
-Substitution2: "'locl' Localized Forms in Arabic lookup 3 subtable" uni06F7
-Substitution2: "'locl' Localized Forms in Arabic lookup 2 subtable" uni0667
 Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 EndChar
 
