@@ -1,896 +1,896 @@
 
-# GSUB 
+# GSUB
 
 
-lookup ccmpGlyphCompositionDecompositi {
+lookup ccmp_0 {
   lookupflag RightToLeft;
-    sub \uni0618 by \uni0618.base ;
-    sub \uni0619 by \uni0619.base ;
-    sub \uni061A by \uni061A.base ;
-    sub \uni064B by \uni064B.base ;
-    sub \uni064C by \uni064C.base ;
-    sub \uni064D by \uni064D.base ;
-    sub \uni064E by \uni064E.base ;
-    sub \uni064F by \uni064F.base ;
-    sub \uni0650 by \uni0650.base ;
-    sub \uni0651 by \uni0651.base ;
-    sub \uni0652 by \uni0652.base ;
-    sub \uni0653 by \uni0653.base ;
-    sub \uni0654 by \uni0654.base ;
-    sub \uni0655 by \uni0655.base ;
-    sub \uni0656 by \uni0656.base ;
-    sub \uni0657 by \uni0657.base ;
-    sub \uni0658 by \uni0658.base ;
-    sub \uni0659 by \uni0659.base ;
-    sub \uni065A by \uni065A.base ;
-    sub \uni065B by \uni065B.base ;
-    sub \uni065C by \uni065C.base ;
-    sub \uni065D by \uni065D.base ;
-    sub \uni065E by \uni065E.base ;
-    sub \uni065F by \uni065F.base ;
-    sub \uni0670 by \uni0670.base ;
-    sub \uni0674 by \uni0674.base ;
-    sub \uni06DC by \uni06DC.base ;
-    sub \uni06DF by \uni06DF.base ;
-    sub \uni06E0 by \uni06E0.base ;
-    sub \uni06E4 by \uni06E4.base ;
-    sub \uni06E1 by \uni06E1.base ;
-    sub \uni06E7 by \uni06E7.base ;
-    sub \uni06E2 by \uni06E2.base ;
-    sub \uni06E3 by \uni06E3.base ;
-    sub \uni06EA by \uni06EA.base ;
-    sub \uni06E8 by \uni06E8.base ;
-    sub \uni06EB by \uni06EB.base ;
-    sub \uni06EC by \uni06EC.base ;
-    sub \uni06ED by \uni06ED.base ;
-    sub \uni08E4 by \uni08E4.base ;
-    sub \uni08E5 by \uni08E5.base ;
-    sub \uni08E6 by \uni08E6.base ;
-    sub \uni08E7 by \uni08E7.base ;
-    sub \uni08E8 by \uni08E8.base ;
-    sub \uni08E9 by \uni08E9.base ;
-    sub \uni08EA by \uni08EA.base ;
-    sub \uni08EB by \uni08EB.base ;
-    sub \uni08EC by \uni08EC.base ;
-    sub \uni08ED by \uni08ED.base ;
-    sub \uni08EE by \uni08EE.base ;
-    sub \uni08EF by \uni08EF.base ;
-    sub \uni08F0 by \uni08F0.base ;
-    sub \uni08F1 by \uni08F1.base ;
-    sub \uni08F2 by \uni08F2.base ;
-    sub \uni08F3 by \uni08F3.base ;
-    sub \uni08F4 by \uni08F4.base ;
-    sub \uni08F5 by \uni08F5.base ;
-    sub \uni08F6 by \uni08F6.base ;
-    sub \uni08F7 by \uni08F7.base ;
-    sub \uni08F8 by \uni08F8.base ;
-    sub \uni08F9 by \uni08F9.base ;
-    sub \uni08FA by \uni08FA.base ;
-    sub \uni08FB by \uni08FB.base ;
-    sub \uni08FC by \uni08FC.base ;
-    sub \uni08FD by \uni08FD.base ;
-    sub \uni08FE by \uni08FE.base ;
-    sub \uni08FF by \uni08FF.base ;
-} ccmpGlyphCompositionDecompositi;
+    sub uni0618 by uni0618.base;
+    sub uni0619 by uni0619.base;
+    sub uni061A by uni061A.base;
+    sub uni064B by uni064B.base;
+    sub uni064C by uni064C.base;
+    sub uni064D by uni064D.base;
+    sub uni064E by uni064E.base;
+    sub uni064F by uni064F.base;
+    sub uni0650 by uni0650.base;
+    sub uni0651 by uni0651.base;
+    sub uni0652 by uni0652.base;
+    sub uni0653 by uni0653.base;
+    sub uni0654 by uni0654.base;
+    sub uni0655 by uni0655.base;
+    sub uni0656 by uni0656.base;
+    sub uni0657 by uni0657.base;
+    sub uni0658 by uni0658.base;
+    sub uni0659 by uni0659.base;
+    sub uni065A by uni065A.base;
+    sub uni065B by uni065B.base;
+    sub uni065C by uni065C.base;
+    sub uni065D by uni065D.base;
+    sub uni065E by uni065E.base;
+    sub uni065F by uni065F.base;
+    sub uni0670 by uni0670.base;
+    sub uni0674 by uni0674.base;
+    sub uni06DC by uni06DC.base;
+    sub uni06DF by uni06DF.base;
+    sub uni06E0 by uni06E0.base;
+    sub uni06E4 by uni06E4.base;
+    sub uni06E1 by uni06E1.base;
+    sub uni06E7 by uni06E7.base;
+    sub uni06E2 by uni06E2.base;
+    sub uni06E3 by uni06E3.base;
+    sub uni06EA by uni06EA.base;
+    sub uni06E8 by uni06E8.base;
+    sub uni06EB by uni06EB.base;
+    sub uni06EC by uni06EC.base;
+    sub uni06ED by uni06ED.base;
+    sub uni08E4 by uni08E4.base;
+    sub uni08E5 by uni08E5.base;
+    sub uni08E6 by uni08E6.base;
+    sub uni08E7 by uni08E7.base;
+    sub uni08E8 by uni08E8.base;
+    sub uni08E9 by uni08E9.base;
+    sub uni08EA by uni08EA.base;
+    sub uni08EB by uni08EB.base;
+    sub uni08EC by uni08EC.base;
+    sub uni08ED by uni08ED.base;
+    sub uni08EE by uni08EE.base;
+    sub uni08EF by uni08EF.base;
+    sub uni08F0 by uni08F0.base;
+    sub uni08F1 by uni08F1.base;
+    sub uni08F2 by uni08F2.base;
+    sub uni08F3 by uni08F3.base;
+    sub uni08F4 by uni08F4.base;
+    sub uni08F5 by uni08F5.base;
+    sub uni08F6 by uni08F6.base;
+    sub uni08F7 by uni08F7.base;
+    sub uni08F8 by uni08F8.base;
+    sub uni08F9 by uni08F9.base;
+    sub uni08FA by uni08FA.base;
+    sub uni08FB by uni08FB.base;
+    sub uni08FC by uni08FC.base;
+    sub uni08FD by uni08FD.base;
+    sub uni08FE by uni08FE.base;
+    sub uni08FF by uni08FF.base;
+} ccmp_0;
 
-lookup dligDiscretionaryLigaturesinAra {
+lookup dlig_0 {
   lookupflag RightToLeft IgnoreMarks;
-    sub \colon by \colon.arabic ;
-    sub \exclam by \exclam.arabic ;
-    sub \period by \period.arabic ;
-    sub \question by \uni061F ;
-} dligDiscretionaryLigaturesinAra;
+    sub colon by colon.arabic;
+    sub exclam by exclam.arabic;
+    sub period by period.arabic;
+    sub question by uni061F;
+} dlig_0;
 
-lookup loclLocalizedFormsinArabiclooku {
+lookup locl_0 {
   lookupflag IgnoreMarks;
-    sub \uni06F4 by \uni06F4.indo ;
-    sub \uni06F7 by \uni06F7.indo ;
-} loclLocalizedFormsinArabiclooku;
+    sub uni06F4 by uni06F4.indo;
+    sub uni06F7 by uni06F7.indo;
+} locl_0;
 
-lookup finaTerminalFormsinArabiclookup {
+lookup fina_0 {
   lookupflag RightToLeft IgnoreMarks;
-    sub \uni0640 by \uni0640 ;
-    sub \uni0622 by \uni0622.fina ;
-    sub \uni0623 by \uni0623.fina ;
-    sub \uni0625 by \uni0625.fina ;
-    sub \uni0627 by \uni0627.fina ;
-    sub \uni0671 by \uni0671.fina ;
-    sub \uni0672 by \uni0672.fina ;
-    sub \uni0673 by \uni0673.fina ;
-    sub \uni0675 by \uni0675.fina ;
-    sub \uni0628 by \uni0628.fina ;
-    sub \uni062A by \uni062A.fina ;
-    sub \uni062B by \uni062B.fina ;
-    sub \uni066E by \uni066E.fina ;
-    sub \uni0679 by \uni0679.fina ;
-    sub \uni067A by \uni067A.fina ;
-    sub \uni067B by \uni067B.fina ;
-    sub \uni067C by \uni067C.fina ;
-    sub \uni067D by \uni067D.fina ;
-    sub \uni067E by \uni067E.fina ;
-    sub \uni067F by \uni067F.fina ;
-    sub \uni0680 by \uni0680.fina ;
-    sub \uni08A0 by \uni08A0.fina ;
-    sub \uni062C by \uni062C.fina ;
-    sub \uni062D by \uni062D.fina ;
-    sub \uni062E by \uni062E.fina ;
-    sub \uni0681 by \uni0681.fina ;
-    sub \uni0682 by \uni0682.fina ;
-    sub \uni0683 by \uni0683.fina ;
-    sub \uni0684 by \uni0684.fina ;
-    sub \uni0685 by \uni0685.fina ;
-    sub \uni0686 by \uni0686.fina ;
-    sub \uni0687 by \uni0687.fina ;
-    sub \uni06BF by \uni06BF.fina ;
-    sub \uni08A2 by \uni08A2.fina ;
-    sub \uni062F by \uni062F.fina ;
-    sub \uni0630 by \uni0630.fina ;
-    sub \uni0688 by \uni0688.fina ;
-    sub \uni0689 by \uni0689.fina ;
-    sub \uni068A by \uni068A.fina ;
-    sub \uni068B by \uni068B.fina ;
-    sub \uni068C by \uni068C.fina ;
-    sub \uni068D by \uni068D.fina ;
-    sub \uni068E by \uni068E.fina ;
-    sub \uni068F by \uni068F.fina ;
-    sub \uni0690 by \uni0690.fina ;
-    sub \uni06EE by \uni06EE.fina ;
-    sub \uni0631 by \uni0631.fina ;
-    sub \uni0632 by \uni0632.fina ;
-    sub \uni0691 by \uni0691.fina ;
-    sub \uni0692 by \uni0692.fina ;
-    sub \uni0693 by \uni0693.fina ;
-    sub \uni0694 by \uni0694.fina ;
-    sub \uni0695 by \uni0695.fina ;
-    sub \uni0696 by \uni0696.fina ;
-    sub \uni0697 by \uni0697.fina ;
-    sub \uni0698 by \uni0698.fina ;
-    sub \uni0699 by \uni0699.fina ;
-    sub \uni06EF by \uni06EF.fina ;
-    sub \uni0633 by \uni0633.fina ;
-    sub \uni0634 by \uni0634.fina ;
-    sub \uni069A by \uni069A.fina ;
-    sub \uni069B by \uni069B.fina ;
-    sub \uni069C by \uni069C.fina ;
-    sub \uni06FA by \uni06FA.fina ;
-    sub \uni0635 by \uni0635.fina ;
-    sub \uni0636 by \uni0636.fina ;
-    sub \uni069D by \uni069D.fina ;
-    sub \uni069E by \uni069E.fina ;
-    sub \uni06FB by \uni06FB.fina ;
-    sub \uni0637 by \uni0637.fina ;
-    sub \uni0638 by \uni0638.fina ;
-    sub \uni069F by \uni069F.fina ;
-    sub \uni08A3 by \uni08A3.fina ;
-    sub \uni0639 by \uni0639.fina ;
-    sub \uni063A by \uni063A.fina ;
-    sub \uni06A0 by \uni06A0.fina ;
-    sub \uni06FC by \uni06FC.fina ;
-    sub \uni0641 by \uni0641.fina ;
-    sub \uni06A1 by \uni06A1.fina ;
-    sub \uni06A2 by \uni06A2.fina ;
-    sub \uni06A3 by \uni06A3.fina ;
-    sub \uni06A4 by \uni06A4.fina ;
-    sub \uni06A5 by \uni06A5.fina ;
-    sub \uni06A6 by \uni06A6.fina ;
-    sub \uni08A4 by \uni08A4.fina ;
-    sub \uni0642 by \uni0642.fina ;
-    sub \uni066F by \uni066F.fina ;
-    sub \uni06A7 by \uni06A7.fina ;
-    sub \uni06A8 by \uni06A8.fina ;
-    sub \uni08A5 by \uni08A5.fina ;
-    sub \uni0643 by \uni0643.fina ;
-    sub \uni06AC by \uni06AC.fina ;
-    sub \uni06AD by \uni06AD.fina ;
-    sub \uni06AE by \uni06AE.fina ;
-    sub \uni0644 by \uni0644.fina ;
-    sub \uni06B5 by \uni06B5.fina ;
-    sub \uni06B6 by \uni06B6.fina ;
-    sub \uni06B7 by \uni06B7.fina ;
-    sub \uni06B8 by \uni06B8.fina ;
-    sub \uni08A6 by \uni08A6.fina ;
-    sub \uni0645 by \uni0645.fina ;
-    sub \uni06FE by \uni06FE.fina ;
-    sub \uni08A7 by \uni08A7.fina ;
-    sub \uni0646 by \uni0646.fina ;
-    sub \uni06B9 by \uni06B9.fina ;
-    sub \uni06BA by \uni06BA.fina ;
-    sub \uni06BB by \uni06BB.fina ;
-    sub \uni06BC by \uni06BC.fina ;
-    sub \uni06BD by \uni06BD.fina ;
-    sub \uni0629 by \uni0629.fina ;
-    sub \uni06C0 by \uni06C0.fina ;
-    sub \uni06D5 by \uni06D5.fina ;
-    sub \uni0647 by \uni0647.fina ;
-    sub \uni06FF by \uni06FF.fina ;
-    sub \uni06BE by \uni06BE.fina ;
-    sub \uni0624 by \uni0624.fina ;
-    sub \uni0648 by \uni0648.fina ;
-    sub \uni0676 by \uni0676.fina ;
-    sub \uni0677 by \uni0677.fina ;
-    sub \uni06C4 by \uni06C4.fina ;
-    sub \uni06C5 by \uni06C5.fina ;
-    sub \uni06C6 by \uni06C6.fina ;
-    sub \uni06C7 by \uni06C7.fina ;
-    sub \uni06C8 by \uni06C8.fina ;
-    sub \uni06C9 by \uni06C9.fina ;
-    sub \uni06CA by \uni06CA.fina ;
-    sub \uni06CB by \uni06CB.fina ;
-    sub \uni06CF by \uni06CF.fina ;
-    sub \uni08AB by \uni08AB.fina ;
-    sub \uni0620 by \uni0620.fina ;
-    sub \uni0626 by \uni0626.fina ;
-    sub \uni063D by \uni063D.fina ;
-    sub \uni063E by \uni063E.fina ;
-    sub \uni063F by \uni063F.fina ;
-    sub \uni0649 by \uni0649.fina ;
-    sub \uni064A by \uni064A.fina ;
-    sub \uni0678 by \uni0678.fina ;
-    sub \uni06CC by \uni06CC.fina ;
-    sub \uni06CE by \uni06CE.fina ;
-    sub \uni06D0 by \uni06D0.fina ;
-    sub \uni06D1 by \uni06D1.fina ;
-    sub \uni08A8 by \uni08A8.fina ;
-    sub \uni08A9 by \uni08A9.fina ;
-    sub \uni06CD by \uni06CD.fina ;
-    sub \uni06A9 by \uni06A9.fina ;
-    sub \uni063B by \uni063B.fina ;
-    sub \uni063C by \uni063C.fina ;
-    sub \uni06AB by \uni06AB.fina ;
-    sub \uni06AF by \uni06AF.fina ;
-    sub \uni06B0 by \uni06B0.fina ;
-    sub \uni06B1 by \uni06B1.fina ;
-    sub \uni06B2 by \uni06B2.fina ;
-    sub \uni06B3 by \uni06B3.fina ;
-    sub \uni06B4 by \uni06B4.fina ;
-    sub \uni06AA by \uni06AA.fina ;
-    sub \uni06C1 by \uni06C1.fina ;
-    sub \uni06C2 by \uni06C2.fina ;
-    sub \uni06C3 by \uni06C3.fina ;
-    sub \uni06D2 by \uni06D2.fina ;
-    sub \uni06D3 by \uni06D3.fina ;
-    sub \uni08AA by \uni08AA.fina ;
-    sub \uni08AC by \uni08AC.fina ;
-    sub \uniFEFB by \uniFEFC ;
-    sub \uni200D by \uni200D ;
-    sub \uni0773 by \uni0773.fina ;
-    sub \uni0774 by \uni0774.fina ;
-    sub \uni0750 by \uni0750.fina ;
-    sub \uni0751 by \uni0751.fina ;
-    sub \uni0752 by \uni0752.fina ;
-    sub \uni0753 by \uni0753.fina ;
-    sub \uni0754 by \uni0754.fina ;
-    sub \uni0755 by \uni0755.fina ;
-    sub \uni0756 by \uni0756.fina ;
-    sub \uni0757 by \uni0757.fina ;
-    sub \uni0758 by \uni0758.fina ;
-    sub \uni076E by \uni076E.fina ;
-    sub \uni076F by \uni076F.fina ;
-    sub \uni0772 by \uni0772.fina ;
-    sub \uni077C by \uni077C.fina ;
-    sub \uni0759 by \uni0759.fina ;
-    sub \uni075A by \uni075A.fina ;
-    sub \uni075B by \uni075B.fina ;
-    sub \uni076B by \uni076B.fina ;
-    sub \uni076C by \uni076C.fina ;
-    sub \uni0771 by \uni0771.fina ;
-    sub \uni075C by \uni075C.fina ;
-    sub \uni076D by \uni076D.fina ;
-    sub \uni0770 by \uni0770.fina ;
-    sub \uni077D by \uni077D.fina ;
-    sub \uni077E by \uni077E.fina ;
-    sub \uni075D by \uni075D.fina ;
-    sub \uni075E by \uni075E.fina ;
-    sub \uni075F by \uni075F.fina ;
-    sub \uni0760 by \uni0760.fina ;
-    sub \uni0761 by \uni0761.fina ;
-    sub \uni077F by \uni077F.fina ;
-    sub \uni0762 by \uni0762.fina ;
-    sub \uni0763 by \uni0763.fina ;
-    sub \uni0764 by \uni0764.fina ;
-    sub \uni076A by \uni076A.fina ;
-    sub \uni0765 by \uni0765.fina ;
-    sub \uni0766 by \uni0766.fina ;
-    sub \uni0767 by \uni0767.fina ;
-    sub \uni0768 by \uni0768.fina ;
-    sub \uni0769 by \uni0769.fina ;
-    sub \uni0778 by \uni0778.fina ;
-    sub \uni0779 by \uni0779.fina ;
-    sub \uni0775 by \uni0775.fina ;
-    sub \uni0776 by \uni0776.fina ;
-    sub \uni0777 by \uni0777.fina ;
-    sub \uni077A by \uni077A.fina ;
-    sub \uni077B by \uni077B.fina ;
-    sub \uni08A1 by \uni08A1.fina ;
-    sub \uni08AE by \uni08AE.fina ;
-    sub \uni08B2 by \uni08B2.fina ;
-    sub \uni08AF by \uni08AF.fina ;
-    sub \uni08B0 by \uni08B0.fina ;
-    sub \uni08B1 by \uni08B1.fina ;
-} finaTerminalFormsinArabiclookup;
+    sub uni0640 by uni0640;
+    sub uni0622 by uni0622.fina;
+    sub uni0623 by uni0623.fina;
+    sub uni0625 by uni0625.fina;
+    sub uni0627 by uni0627.fina;
+    sub uni0671 by uni0671.fina;
+    sub uni0672 by uni0672.fina;
+    sub uni0673 by uni0673.fina;
+    sub uni0675 by uni0675.fina;
+    sub uni0628 by uni0628.fina;
+    sub uni062A by uni062A.fina;
+    sub uni062B by uni062B.fina;
+    sub uni066E by uni066E.fina;
+    sub uni0679 by uni0679.fina;
+    sub uni067A by uni067A.fina;
+    sub uni067B by uni067B.fina;
+    sub uni067C by uni067C.fina;
+    sub uni067D by uni067D.fina;
+    sub uni067E by uni067E.fina;
+    sub uni067F by uni067F.fina;
+    sub uni0680 by uni0680.fina;
+    sub uni08A0 by uni08A0.fina;
+    sub uni062C by uni062C.fina;
+    sub uni062D by uni062D.fina;
+    sub uni062E by uni062E.fina;
+    sub uni0681 by uni0681.fina;
+    sub uni0682 by uni0682.fina;
+    sub uni0683 by uni0683.fina;
+    sub uni0684 by uni0684.fina;
+    sub uni0685 by uni0685.fina;
+    sub uni0686 by uni0686.fina;
+    sub uni0687 by uni0687.fina;
+    sub uni06BF by uni06BF.fina;
+    sub uni08A2 by uni08A2.fina;
+    sub uni062F by uni062F.fina;
+    sub uni0630 by uni0630.fina;
+    sub uni0688 by uni0688.fina;
+    sub uni0689 by uni0689.fina;
+    sub uni068A by uni068A.fina;
+    sub uni068B by uni068B.fina;
+    sub uni068C by uni068C.fina;
+    sub uni068D by uni068D.fina;
+    sub uni068E by uni068E.fina;
+    sub uni068F by uni068F.fina;
+    sub uni0690 by uni0690.fina;
+    sub uni06EE by uni06EE.fina;
+    sub uni0631 by uni0631.fina;
+    sub uni0632 by uni0632.fina;
+    sub uni0691 by uni0691.fina;
+    sub uni0692 by uni0692.fina;
+    sub uni0693 by uni0693.fina;
+    sub uni0694 by uni0694.fina;
+    sub uni0695 by uni0695.fina;
+    sub uni0696 by uni0696.fina;
+    sub uni0697 by uni0697.fina;
+    sub uni0698 by uni0698.fina;
+    sub uni0699 by uni0699.fina;
+    sub uni06EF by uni06EF.fina;
+    sub uni0633 by uni0633.fina;
+    sub uni0634 by uni0634.fina;
+    sub uni069A by uni069A.fina;
+    sub uni069B by uni069B.fina;
+    sub uni069C by uni069C.fina;
+    sub uni06FA by uni06FA.fina;
+    sub uni0635 by uni0635.fina;
+    sub uni0636 by uni0636.fina;
+    sub uni069D by uni069D.fina;
+    sub uni069E by uni069E.fina;
+    sub uni06FB by uni06FB.fina;
+    sub uni0637 by uni0637.fina;
+    sub uni0638 by uni0638.fina;
+    sub uni069F by uni069F.fina;
+    sub uni08A3 by uni08A3.fina;
+    sub uni0639 by uni0639.fina;
+    sub uni063A by uni063A.fina;
+    sub uni06A0 by uni06A0.fina;
+    sub uni06FC by uni06FC.fina;
+    sub uni0641 by uni0641.fina;
+    sub uni06A1 by uni06A1.fina;
+    sub uni06A2 by uni06A2.fina;
+    sub uni06A3 by uni06A3.fina;
+    sub uni06A4 by uni06A4.fina;
+    sub uni06A5 by uni06A5.fina;
+    sub uni06A6 by uni06A6.fina;
+    sub uni08A4 by uni08A4.fina;
+    sub uni0642 by uni0642.fina;
+    sub uni066F by uni066F.fina;
+    sub uni06A7 by uni06A7.fina;
+    sub uni06A8 by uni06A8.fina;
+    sub uni08A5 by uni08A5.fina;
+    sub uni0643 by uni0643.fina;
+    sub uni06AC by uni06AC.fina;
+    sub uni06AD by uni06AD.fina;
+    sub uni06AE by uni06AE.fina;
+    sub uni0644 by uni0644.fina;
+    sub uni06B5 by uni06B5.fina;
+    sub uni06B6 by uni06B6.fina;
+    sub uni06B7 by uni06B7.fina;
+    sub uni06B8 by uni06B8.fina;
+    sub uni08A6 by uni08A6.fina;
+    sub uni0645 by uni0645.fina;
+    sub uni06FE by uni06FE.fina;
+    sub uni08A7 by uni08A7.fina;
+    sub uni0646 by uni0646.fina;
+    sub uni06B9 by uni06B9.fina;
+    sub uni06BA by uni06BA.fina;
+    sub uni06BB by uni06BB.fina;
+    sub uni06BC by uni06BC.fina;
+    sub uni06BD by uni06BD.fina;
+    sub uni0629 by uni0629.fina;
+    sub uni06C0 by uni06C0.fina;
+    sub uni06D5 by uni06D5.fina;
+    sub uni0647 by uni0647.fina;
+    sub uni06FF by uni06FF.fina;
+    sub uni06BE by uni06BE.fina;
+    sub uni0624 by uni0624.fina;
+    sub uni0648 by uni0648.fina;
+    sub uni0676 by uni0676.fina;
+    sub uni0677 by uni0677.fina;
+    sub uni06C4 by uni06C4.fina;
+    sub uni06C5 by uni06C5.fina;
+    sub uni06C6 by uni06C6.fina;
+    sub uni06C7 by uni06C7.fina;
+    sub uni06C8 by uni06C8.fina;
+    sub uni06C9 by uni06C9.fina;
+    sub uni06CA by uni06CA.fina;
+    sub uni06CB by uni06CB.fina;
+    sub uni06CF by uni06CF.fina;
+    sub uni08AB by uni08AB.fina;
+    sub uni0620 by uni0620.fina;
+    sub uni0626 by uni0626.fina;
+    sub uni063D by uni063D.fina;
+    sub uni063E by uni063E.fina;
+    sub uni063F by uni063F.fina;
+    sub uni0649 by uni0649.fina;
+    sub uni064A by uni064A.fina;
+    sub uni0678 by uni0678.fina;
+    sub uni06CC by uni06CC.fina;
+    sub uni06CE by uni06CE.fina;
+    sub uni06D0 by uni06D0.fina;
+    sub uni06D1 by uni06D1.fina;
+    sub uni08A8 by uni08A8.fina;
+    sub uni08A9 by uni08A9.fina;
+    sub uni06CD by uni06CD.fina;
+    sub uni06A9 by uni06A9.fina;
+    sub uni063B by uni063B.fina;
+    sub uni063C by uni063C.fina;
+    sub uni06AB by uni06AB.fina;
+    sub uni06AF by uni06AF.fina;
+    sub uni06B0 by uni06B0.fina;
+    sub uni06B1 by uni06B1.fina;
+    sub uni06B2 by uni06B2.fina;
+    sub uni06B3 by uni06B3.fina;
+    sub uni06B4 by uni06B4.fina;
+    sub uni06AA by uni06AA.fina;
+    sub uni06C1 by uni06C1.fina;
+    sub uni06C2 by uni06C2.fina;
+    sub uni06C3 by uni06C3.fina;
+    sub uni06D2 by uni06D2.fina;
+    sub uni06D3 by uni06D3.fina;
+    sub uni08AA by uni08AA.fina;
+    sub uni08AC by uni08AC.fina;
+    sub uniFEFB by uniFEFC;
+    sub uni200D by uni200D;
+    sub uni0773 by uni0773.fina;
+    sub uni0774 by uni0774.fina;
+    sub uni0750 by uni0750.fina;
+    sub uni0751 by uni0751.fina;
+    sub uni0752 by uni0752.fina;
+    sub uni0753 by uni0753.fina;
+    sub uni0754 by uni0754.fina;
+    sub uni0755 by uni0755.fina;
+    sub uni0756 by uni0756.fina;
+    sub uni0757 by uni0757.fina;
+    sub uni0758 by uni0758.fina;
+    sub uni076E by uni076E.fina;
+    sub uni076F by uni076F.fina;
+    sub uni0772 by uni0772.fina;
+    sub uni077C by uni077C.fina;
+    sub uni0759 by uni0759.fina;
+    sub uni075A by uni075A.fina;
+    sub uni075B by uni075B.fina;
+    sub uni076B by uni076B.fina;
+    sub uni076C by uni076C.fina;
+    sub uni0771 by uni0771.fina;
+    sub uni075C by uni075C.fina;
+    sub uni076D by uni076D.fina;
+    sub uni0770 by uni0770.fina;
+    sub uni077D by uni077D.fina;
+    sub uni077E by uni077E.fina;
+    sub uni075D by uni075D.fina;
+    sub uni075E by uni075E.fina;
+    sub uni075F by uni075F.fina;
+    sub uni0760 by uni0760.fina;
+    sub uni0761 by uni0761.fina;
+    sub uni077F by uni077F.fina;
+    sub uni0762 by uni0762.fina;
+    sub uni0763 by uni0763.fina;
+    sub uni0764 by uni0764.fina;
+    sub uni076A by uni076A.fina;
+    sub uni0765 by uni0765.fina;
+    sub uni0766 by uni0766.fina;
+    sub uni0767 by uni0767.fina;
+    sub uni0768 by uni0768.fina;
+    sub uni0769 by uni0769.fina;
+    sub uni0778 by uni0778.fina;
+    sub uni0779 by uni0779.fina;
+    sub uni0775 by uni0775.fina;
+    sub uni0776 by uni0776.fina;
+    sub uni0777 by uni0777.fina;
+    sub uni077A by uni077A.fina;
+    sub uni077B by uni077B.fina;
+    sub uni08A1 by uni08A1.fina;
+    sub uni08AE by uni08AE.fina;
+    sub uni08B2 by uni08B2.fina;
+    sub uni08AF by uni08AF.fina;
+    sub uni08B0 by uni08B0.fina;
+    sub uni08B1 by uni08B1.fina;
+} fina_0;
 
-lookup mediMedialFormsinArabiclookup6 {
+lookup media_0 {
   lookupflag RightToLeft IgnoreMarks;
-    sub \uni0640 by \uni0640 ;
-    sub \uni0628 by \uni0628.medi ;
-    sub \uni062A by \uni062A.medi ;
-    sub \uni062B by \uni062B.medi ;
-    sub \uni066E by \uni066E.medi ;
-    sub \uni0679 by \uni0679.medi ;
-    sub \uni067A by \uni067A.medi ;
-    sub \uni067B by \uni067B.medi ;
-    sub \uni067C by \uni067C.medi ;
-    sub \uni067D by \uni067D.medi ;
-    sub \uni067E by \uni067E.medi ;
-    sub \uni067F by \uni067F.medi ;
-    sub \uni0680 by \uni0680.medi ;
-    sub \uni08A0 by \uni08A0.medi ;
-    sub \uni062C by \uni062C.medi ;
-    sub \uni062D by \uni062D.medi ;
-    sub \uni062E by \uni062E.medi ;
-    sub \uni0681 by \uni0681.medi ;
-    sub \uni0682 by \uni0682.medi ;
-    sub \uni0683 by \uni0683.medi ;
-    sub \uni0684 by \uni0684.medi ;
-    sub \uni0685 by \uni0685.medi ;
-    sub \uni0686 by \uni0686.medi ;
-    sub \uni0687 by \uni0687.medi ;
-    sub \uni06BF by \uni06BF.medi ;
-    sub \uni08A2 by \uni08A2.medi ;
-    sub \uni0633 by \uni0633.medi ;
-    sub \uni0634 by \uni0634.medi ;
-    sub \uni069A by \uni069A.medi ;
-    sub \uni069B by \uni069B.medi ;
-    sub \uni069C by \uni069C.medi ;
-    sub \uni06FA by \uni06FA.medi ;
-    sub \uni0635 by \uni0635.medi ;
-    sub \uni0636 by \uni0636.medi ;
-    sub \uni069D by \uni069D.medi ;
-    sub \uni069E by \uni069E.medi ;
-    sub \uni06FB by \uni06FB.medi ;
-    sub \uni0637 by \uni0637.medi ;
-    sub \uni0638 by \uni0638.medi ;
-    sub \uni069F by \uni069F.medi ;
-    sub \uni08A3 by \uni08A3.medi ;
-    sub \uni0639 by \uni0639.medi ;
-    sub \uni063A by \uni063A.medi ;
-    sub \uni06A0 by \uni06A0.medi ;
-    sub \uni06FC by \uni06FC.medi ;
-    sub \uni0641 by \uni0641.medi ;
-    sub \uni06A1 by \uni06A1.medi ;
-    sub \uni06A2 by \uni06A2.medi ;
-    sub \uni06A3 by \uni06A3.medi ;
-    sub \uni06A4 by \uni06A4.medi ;
-    sub \uni06A5 by \uni06A5.medi ;
-    sub \uni06A6 by \uni06A6.medi ;
-    sub \uni08A4 by \uni08A4.medi ;
-    sub \uni0642 by \uni0642.medi ;
-    sub \uni066F by \uni066F.medi ;
-    sub \uni06A7 by \uni06A7.medi ;
-    sub \uni06A8 by \uni06A8.medi ;
-    sub \uni08A5 by \uni08A5.medi ;
-    sub \uni0643 by \uni0643.medi ;
-    sub \uni06AC by \uni06AC.medi ;
-    sub \uni06AD by \uni06AD.medi ;
-    sub \uni06AE by \uni06AE.medi ;
-    sub \uni0644 by \uni0644.medi ;
-    sub \uni06B5 by \uni06B5.medi ;
-    sub \uni06B6 by \uni06B6.medi ;
-    sub \uni06B7 by \uni06B7.medi ;
-    sub \uni06B8 by \uni06B8.medi ;
-    sub \uni08A6 by \uni08A6.medi ;
-    sub \uni0645 by \uni0645.medi ;
-    sub \uni06FE by \uni06FE.medi ;
-    sub \uni08A7 by \uni08A7.medi ;
-    sub \uni0646 by \uni0646.medi ;
-    sub \uni06B9 by \uni06B9.medi ;
-    sub \uni06BA by \uni06BA.medi ;
-    sub \uni06BB by \uni06BB.medi ;
-    sub \uni06BC by \uni06BC.medi ;
-    sub \uni06BD by \uni06BD.medi ;
-    sub \uni0647 by \uni0647.medi ;
-    sub \uni06FF by \uni06FF.medi ;
-    sub \uni06BE by \uni06BE.medi ;
-    sub \uni0620 by \uni0620.medi ;
-    sub \uni0626 by \uni0626.medi ;
-    sub \uni063D by \uni063D.medi ;
-    sub \uni063E by \uni063E.medi ;
-    sub \uni063F by \uni063F.medi ;
-    sub \uni0649 by \uni0649.medi ;
-    sub \uni064A by \uni064A.medi ;
-    sub \uni0678 by \uni0678.medi ;
-    sub \uni06CC by \uni06CC.medi ;
-    sub \uni06CE by \uni06CE.medi ;
-    sub \uni06D0 by \uni06D0.medi ;
-    sub \uni06D1 by \uni06D1.medi ;
-    sub \uni08A8 by \uni08A8.medi ;
-    sub \uni08A9 by \uni08A9.medi ;
-    sub \uni06A9 by \uni06A9.medi ;
-    sub \uni063B by \uni063B.medi ;
-    sub \uni063C by \uni063C.medi ;
-    sub \uni06AB by \uni06AB.medi ;
-    sub \uni06AF by \uni06AF.medi ;
-    sub \uni06B0 by \uni06B0.medi ;
-    sub \uni06B1 by \uni06B1.medi ;
-    sub \uni06B2 by \uni06B2.medi ;
-    sub \uni06B3 by \uni06B3.medi ;
-    sub \uni06B4 by \uni06B4.medi ;
-    sub \uni06AA by \uni06AA.medi ;
-    sub \uni06C1 by \uni06C1.medi ;
-    sub \uni200D by \uni200D ;
-    sub \uni0750 by \uni0750.medi ;
-    sub \uni0751 by \uni0751.medi ;
-    sub \uni0752 by \uni0752.medi ;
-    sub \uni0753 by \uni0753.medi ;
-    sub \uni0754 by \uni0754.medi ;
-    sub \uni0755 by \uni0755.medi ;
-    sub \uni0756 by \uni0756.medi ;
-    sub \uni0757 by \uni0757.medi ;
-    sub \uni0758 by \uni0758.medi ;
-    sub \uni076E by \uni076E.medi ;
-    sub \uni076F by \uni076F.medi ;
-    sub \uni0772 by \uni0772.medi ;
-    sub \uni077C by \uni077C.medi ;
-    sub \uni075C by \uni075C.medi ;
-    sub \uni076D by \uni076D.medi ;
-    sub \uni0770 by \uni0770.medi ;
-    sub \uni077D by \uni077D.medi ;
-    sub \uni077E by \uni077E.medi ;
-    sub \uni075D by \uni075D.medi ;
-    sub \uni075E by \uni075E.medi ;
-    sub \uni075F by \uni075F.medi ;
-    sub \uni0760 by \uni0760.medi ;
-    sub \uni0761 by \uni0761.medi ;
-    sub \uni077F by \uni077F.medi ;
-    sub \uni0762 by \uni0762.medi ;
-    sub \uni0763 by \uni0763.medi ;
-    sub \uni0764 by \uni0764.medi ;
-    sub \uni076A by \uni076A.medi ;
-    sub \uni0765 by \uni0765.medi ;
-    sub \uni0766 by \uni0766.medi ;
-    sub \uni0767 by \uni0767.medi ;
-    sub \uni0768 by \uni0768.medi ;
-    sub \uni0769 by \uni0769.medi ;
-    sub \uni0775 by \uni0775.medi ;
-    sub \uni0776 by \uni0776.medi ;
-    sub \uni0777 by \uni0777.medi ;
-    sub \uni08A1 by \uni08A1.medi ;
-    sub \uni08AF by \uni08AF.medi ;
-    sub \uni08B0 by \uni08B0.medi ;
-} mediMedialFormsinArabiclookup6;
+    sub uni0640 by uni0640;
+    sub uni0628 by uni0628.medi;
+    sub uni062A by uni062A.medi;
+    sub uni062B by uni062B.medi;
+    sub uni066E by uni066E.medi;
+    sub uni0679 by uni0679.medi;
+    sub uni067A by uni067A.medi;
+    sub uni067B by uni067B.medi;
+    sub uni067C by uni067C.medi;
+    sub uni067D by uni067D.medi;
+    sub uni067E by uni067E.medi;
+    sub uni067F by uni067F.medi;
+    sub uni0680 by uni0680.medi;
+    sub uni08A0 by uni08A0.medi;
+    sub uni062C by uni062C.medi;
+    sub uni062D by uni062D.medi;
+    sub uni062E by uni062E.medi;
+    sub uni0681 by uni0681.medi;
+    sub uni0682 by uni0682.medi;
+    sub uni0683 by uni0683.medi;
+    sub uni0684 by uni0684.medi;
+    sub uni0685 by uni0685.medi;
+    sub uni0686 by uni0686.medi;
+    sub uni0687 by uni0687.medi;
+    sub uni06BF by uni06BF.medi;
+    sub uni08A2 by uni08A2.medi;
+    sub uni0633 by uni0633.medi;
+    sub uni0634 by uni0634.medi;
+    sub uni069A by uni069A.medi;
+    sub uni069B by uni069B.medi;
+    sub uni069C by uni069C.medi;
+    sub uni06FA by uni06FA.medi;
+    sub uni0635 by uni0635.medi;
+    sub uni0636 by uni0636.medi;
+    sub uni069D by uni069D.medi;
+    sub uni069E by uni069E.medi;
+    sub uni06FB by uni06FB.medi;
+    sub uni0637 by uni0637.medi;
+    sub uni0638 by uni0638.medi;
+    sub uni069F by uni069F.medi;
+    sub uni08A3 by uni08A3.medi;
+    sub uni0639 by uni0639.medi;
+    sub uni063A by uni063A.medi;
+    sub uni06A0 by uni06A0.medi;
+    sub uni06FC by uni06FC.medi;
+    sub uni0641 by uni0641.medi;
+    sub uni06A1 by uni06A1.medi;
+    sub uni06A2 by uni06A2.medi;
+    sub uni06A3 by uni06A3.medi;
+    sub uni06A4 by uni06A4.medi;
+    sub uni06A5 by uni06A5.medi;
+    sub uni06A6 by uni06A6.medi;
+    sub uni08A4 by uni08A4.medi;
+    sub uni0642 by uni0642.medi;
+    sub uni066F by uni066F.medi;
+    sub uni06A7 by uni06A7.medi;
+    sub uni06A8 by uni06A8.medi;
+    sub uni08A5 by uni08A5.medi;
+    sub uni0643 by uni0643.medi;
+    sub uni06AC by uni06AC.medi;
+    sub uni06AD by uni06AD.medi;
+    sub uni06AE by uni06AE.medi;
+    sub uni0644 by uni0644.medi;
+    sub uni06B5 by uni06B5.medi;
+    sub uni06B6 by uni06B6.medi;
+    sub uni06B7 by uni06B7.medi;
+    sub uni06B8 by uni06B8.medi;
+    sub uni08A6 by uni08A6.medi;
+    sub uni0645 by uni0645.medi;
+    sub uni06FE by uni06FE.medi;
+    sub uni08A7 by uni08A7.medi;
+    sub uni0646 by uni0646.medi;
+    sub uni06B9 by uni06B9.medi;
+    sub uni06BA by uni06BA.medi;
+    sub uni06BB by uni06BB.medi;
+    sub uni06BC by uni06BC.medi;
+    sub uni06BD by uni06BD.medi;
+    sub uni0647 by uni0647.medi;
+    sub uni06FF by uni06FF.medi;
+    sub uni06BE by uni06BE.medi;
+    sub uni0620 by uni0620.medi;
+    sub uni0626 by uni0626.medi;
+    sub uni063D by uni063D.medi;
+    sub uni063E by uni063E.medi;
+    sub uni063F by uni063F.medi;
+    sub uni0649 by uni0649.medi;
+    sub uni064A by uni064A.medi;
+    sub uni0678 by uni0678.medi;
+    sub uni06CC by uni06CC.medi;
+    sub uni06CE by uni06CE.medi;
+    sub uni06D0 by uni06D0.medi;
+    sub uni06D1 by uni06D1.medi;
+    sub uni08A8 by uni08A8.medi;
+    sub uni08A9 by uni08A9.medi;
+    sub uni06A9 by uni06A9.medi;
+    sub uni063B by uni063B.medi;
+    sub uni063C by uni063C.medi;
+    sub uni06AB by uni06AB.medi;
+    sub uni06AF by uni06AF.medi;
+    sub uni06B0 by uni06B0.medi;
+    sub uni06B1 by uni06B1.medi;
+    sub uni06B2 by uni06B2.medi;
+    sub uni06B3 by uni06B3.medi;
+    sub uni06B4 by uni06B4.medi;
+    sub uni06AA by uni06AA.medi;
+    sub uni06C1 by uni06C1.medi;
+    sub uni200D by uni200D;
+    sub uni0750 by uni0750.medi;
+    sub uni0751 by uni0751.medi;
+    sub uni0752 by uni0752.medi;
+    sub uni0753 by uni0753.medi;
+    sub uni0754 by uni0754.medi;
+    sub uni0755 by uni0755.medi;
+    sub uni0756 by uni0756.medi;
+    sub uni0757 by uni0757.medi;
+    sub uni0758 by uni0758.medi;
+    sub uni076E by uni076E.medi;
+    sub uni076F by uni076F.medi;
+    sub uni0772 by uni0772.medi;
+    sub uni077C by uni077C.medi;
+    sub uni075C by uni075C.medi;
+    sub uni076D by uni076D.medi;
+    sub uni0770 by uni0770.medi;
+    sub uni077D by uni077D.medi;
+    sub uni077E by uni077E.medi;
+    sub uni075D by uni075D.medi;
+    sub uni075E by uni075E.medi;
+    sub uni075F by uni075F.medi;
+    sub uni0760 by uni0760.medi;
+    sub uni0761 by uni0761.medi;
+    sub uni077F by uni077F.medi;
+    sub uni0762 by uni0762.medi;
+    sub uni0763 by uni0763.medi;
+    sub uni0764 by uni0764.medi;
+    sub uni076A by uni076A.medi;
+    sub uni0765 by uni0765.medi;
+    sub uni0766 by uni0766.medi;
+    sub uni0767 by uni0767.medi;
+    sub uni0768 by uni0768.medi;
+    sub uni0769 by uni0769.medi;
+    sub uni0775 by uni0775.medi;
+    sub uni0776 by uni0776.medi;
+    sub uni0777 by uni0777.medi;
+    sub uni08A1 by uni08A1.medi;
+    sub uni08AF by uni08AF.medi;
+    sub uni08B0 by uni08B0.medi;
+} media_0;
 
-lookup initInitialFormsinArabiclookup7 {
+lookup init_0 {
   lookupflag RightToLeft IgnoreMarks;
-    sub \uni0640 by \uni0640 ;
-    sub \uni0628 by \uni0628.init ;
-    sub \uni062A by \uni062A.init ;
-    sub \uni062B by \uni062B.init ;
-    sub \uni066E by \uni066E.init ;
-    sub \uni0679 by \uni0679.init ;
-    sub \uni067A by \uni067A.init ;
-    sub \uni067B by \uni067B.init ;
-    sub \uni067C by \uni067C.init ;
-    sub \uni067D by \uni067D.init ;
-    sub \uni067E by \uni067E.init ;
-    sub \uni067F by \uni067F.init ;
-    sub \uni0680 by \uni0680.init ;
-    sub \uni08A0 by \uni08A0.init ;
-    sub \uni062C by \uni062C.init ;
-    sub \uni062D by \uni062D.init ;
-    sub \uni062E by \uni062E.init ;
-    sub \uni0681 by \uni0681.init ;
-    sub \uni0682 by \uni0682.init ;
-    sub \uni0683 by \uni0683.init ;
-    sub \uni0684 by \uni0684.init ;
-    sub \uni0685 by \uni0685.init ;
-    sub \uni0686 by \uni0686.init ;
-    sub \uni0687 by \uni0687.init ;
-    sub \uni06BF by \uni06BF.init ;
-    sub \uni08A2 by \uni08A2.init ;
-    sub \uni0633 by \uni0633.init ;
-    sub \uni0634 by \uni0634.init ;
-    sub \uni069A by \uni069A.init ;
-    sub \uni069B by \uni069B.init ;
-    sub \uni069C by \uni069C.init ;
-    sub \uni06FA by \uni06FA.init ;
-    sub \uni0635 by \uni0635.init ;
-    sub \uni0636 by \uni0636.init ;
-    sub \uni069D by \uni069D.init ;
-    sub \uni069E by \uni069E.init ;
-    sub \uni06FB by \uni06FB.init ;
-    sub \uni0637 by \uni0637.init ;
-    sub \uni0638 by \uni0638.init ;
-    sub \uni069F by \uni069F.init ;
-    sub \uni08A3 by \uni08A3.init ;
-    sub \uni0639 by \uni0639.init ;
-    sub \uni063A by \uni063A.init ;
-    sub \uni06A0 by \uni06A0.init ;
-    sub \uni06FC by \uni06FC.init ;
-    sub \uni0641 by \uni0641.init ;
-    sub \uni06A1 by \uni06A1.init ;
-    sub \uni06A2 by \uni06A2.init ;
-    sub \uni06A3 by \uni06A3.init ;
-    sub \uni06A4 by \uni06A4.init ;
-    sub \uni06A5 by \uni06A5.init ;
-    sub \uni06A6 by \uni06A6.init ;
-    sub \uni08A4 by \uni08A4.init ;
-    sub \uni0642 by \uni0642.init ;
-    sub \uni066F by \uni066F.init ;
-    sub \uni06A7 by \uni06A7.init ;
-    sub \uni06A8 by \uni06A8.init ;
-    sub \uni08A5 by \uni08A5.init ;
-    sub \uni0643 by \uni0643.init ;
-    sub \uni06AC by \uni06AC.init ;
-    sub \uni06AD by \uni06AD.init ;
-    sub \uni06AE by \uni06AE.init ;
-    sub \uni0644 by \uni0644.init ;
-    sub \uni06B5 by \uni06B5.init ;
-    sub \uni06B6 by \uni06B6.init ;
-    sub \uni06B7 by \uni06B7.init ;
-    sub \uni06B8 by \uni06B8.init ;
-    sub \uni08A6 by \uni08A6.init ;
-    sub \uni0645 by \uni0645.init ;
-    sub \uni06FE by \uni06FE.init ;
-    sub \uni08A7 by \uni08A7.init ;
-    sub \uni0646 by \uni0646.init ;
-    sub \uni06B9 by \uni06B9.init ;
-    sub \uni06BA by \uni06BA.init ;
-    sub \uni06BB by \uni06BB.init ;
-    sub \uni06BC by \uni06BC.init ;
-    sub \uni06BD by \uni06BD.init ;
-    sub \uni0647 by \uni0647.init ;
-    sub \uni06FF by \uni06FF.init ;
-    sub \uni06BE by \uni06BE.init ;
-    sub \uni0620 by \uni0620.init ;
-    sub \uni0626 by \uni0626.init ;
-    sub \uni063D by \uni063D.init ;
-    sub \uni063E by \uni063E.init ;
-    sub \uni063F by \uni063F.init ;
-    sub \uni0649 by \uni0649.init ;
-    sub \uni064A by \uni064A.init ;
-    sub \uni0678 by \uni0678.init ;
-    sub \uni06CC by \uni06CC.init ;
-    sub \uni06CE by \uni06CE.init ;
-    sub \uni06D0 by \uni06D0.init ;
-    sub \uni06D1 by \uni06D1.init ;
-    sub \uni08A8 by \uni08A8.init ;
-    sub \uni08A9 by \uni08A9.init ;
-    sub \uni06A9 by \uni06A9.init ;
-    sub \uni063B by \uni063B.init ;
-    sub \uni063C by \uni063C.init ;
-    sub \uni06AB by \uni06AB.init ;
-    sub \uni06AF by \uni06AF.init ;
-    sub \uni06B0 by \uni06B0.init ;
-    sub \uni06B1 by \uni06B1.init ;
-    sub \uni06B2 by \uni06B2.init ;
-    sub \uni06B3 by \uni06B3.init ;
-    sub \uni06B4 by \uni06B4.init ;
-    sub \uni06AA by \uni06AA.init ;
-    sub \uni06C1 by \uni06C1.init ;
-    sub \uni200D by \uni200D ;
-    sub \uni0750 by \uni0750.init ;
-    sub \uni0751 by \uni0751.init ;
-    sub \uni0752 by \uni0752.init ;
-    sub \uni0753 by \uni0753.init ;
-    sub \uni0754 by \uni0754.init ;
-    sub \uni0755 by \uni0755.init ;
-    sub \uni0756 by \uni0756.init ;
-    sub \uni0757 by \uni0757.init ;
-    sub \uni0758 by \uni0758.init ;
-    sub \uni076E by \uni076E.init ;
-    sub \uni076F by \uni076F.init ;
-    sub \uni0772 by \uni0772.init ;
-    sub \uni077C by \uni077C.init ;
-    sub \uni075C by \uni075C.init ;
-    sub \uni076D by \uni076D.init ;
-    sub \uni0770 by \uni0770.init ;
-    sub \uni077D by \uni077D.init ;
-    sub \uni077E by \uni077E.init ;
-    sub \uni075D by \uni075D.init ;
-    sub \uni075E by \uni075E.init ;
-    sub \uni075F by \uni075F.init ;
-    sub \uni0760 by \uni0760.init ;
-    sub \uni0761 by \uni0761.init ;
-    sub \uni077F by \uni077F.init ;
-    sub \uni0762 by \uni0762.init ;
-    sub \uni0763 by \uni0763.init ;
-    sub \uni0764 by \uni0764.init ;
-    sub \uni076A by \uni076A.init ;
-    sub \uni0765 by \uni0765.init ;
-    sub \uni0766 by \uni0766.init ;
-    sub \uni0767 by \uni0767.init ;
-    sub \uni0768 by \uni0768.init ;
-    sub \uni0769 by \uni0769.init ;
-    sub \uni0775 by \uni0775.init ;
-    sub \uni0776 by \uni0776.init ;
-    sub \uni0777 by \uni0777.init ;
-    sub \uni08A1 by \uni08A1.init ;
-    sub \uni08AF by \uni08AF.init ;
-    sub \uni08B0 by \uni08B0.init ;
-} initInitialFormsinArabiclookup7;
+    sub uni0640 by uni0640;
+    sub uni0628 by uni0628.init;
+    sub uni062A by uni062A.init;
+    sub uni062B by uni062B.init;
+    sub uni066E by uni066E.init;
+    sub uni0679 by uni0679.init;
+    sub uni067A by uni067A.init;
+    sub uni067B by uni067B.init;
+    sub uni067C by uni067C.init;
+    sub uni067D by uni067D.init;
+    sub uni067E by uni067E.init;
+    sub uni067F by uni067F.init;
+    sub uni0680 by uni0680.init;
+    sub uni08A0 by uni08A0.init;
+    sub uni062C by uni062C.init;
+    sub uni062D by uni062D.init;
+    sub uni062E by uni062E.init;
+    sub uni0681 by uni0681.init;
+    sub uni0682 by uni0682.init;
+    sub uni0683 by uni0683.init;
+    sub uni0684 by uni0684.init;
+    sub uni0685 by uni0685.init;
+    sub uni0686 by uni0686.init;
+    sub uni0687 by uni0687.init;
+    sub uni06BF by uni06BF.init;
+    sub uni08A2 by uni08A2.init;
+    sub uni0633 by uni0633.init;
+    sub uni0634 by uni0634.init;
+    sub uni069A by uni069A.init;
+    sub uni069B by uni069B.init;
+    sub uni069C by uni069C.init;
+    sub uni06FA by uni06FA.init;
+    sub uni0635 by uni0635.init;
+    sub uni0636 by uni0636.init;
+    sub uni069D by uni069D.init;
+    sub uni069E by uni069E.init;
+    sub uni06FB by uni06FB.init;
+    sub uni0637 by uni0637.init;
+    sub uni0638 by uni0638.init;
+    sub uni069F by uni069F.init;
+    sub uni08A3 by uni08A3.init;
+    sub uni0639 by uni0639.init;
+    sub uni063A by uni063A.init;
+    sub uni06A0 by uni06A0.init;
+    sub uni06FC by uni06FC.init;
+    sub uni0641 by uni0641.init;
+    sub uni06A1 by uni06A1.init;
+    sub uni06A2 by uni06A2.init;
+    sub uni06A3 by uni06A3.init;
+    sub uni06A4 by uni06A4.init;
+    sub uni06A5 by uni06A5.init;
+    sub uni06A6 by uni06A6.init;
+    sub uni08A4 by uni08A4.init;
+    sub uni0642 by uni0642.init;
+    sub uni066F by uni066F.init;
+    sub uni06A7 by uni06A7.init;
+    sub uni06A8 by uni06A8.init;
+    sub uni08A5 by uni08A5.init;
+    sub uni0643 by uni0643.init;
+    sub uni06AC by uni06AC.init;
+    sub uni06AD by uni06AD.init;
+    sub uni06AE by uni06AE.init;
+    sub uni0644 by uni0644.init;
+    sub uni06B5 by uni06B5.init;
+    sub uni06B6 by uni06B6.init;
+    sub uni06B7 by uni06B7.init;
+    sub uni06B8 by uni06B8.init;
+    sub uni08A6 by uni08A6.init;
+    sub uni0645 by uni0645.init;
+    sub uni06FE by uni06FE.init;
+    sub uni08A7 by uni08A7.init;
+    sub uni0646 by uni0646.init;
+    sub uni06B9 by uni06B9.init;
+    sub uni06BA by uni06BA.init;
+    sub uni06BB by uni06BB.init;
+    sub uni06BC by uni06BC.init;
+    sub uni06BD by uni06BD.init;
+    sub uni0647 by uni0647.init;
+    sub uni06FF by uni06FF.init;
+    sub uni06BE by uni06BE.init;
+    sub uni0620 by uni0620.init;
+    sub uni0626 by uni0626.init;
+    sub uni063D by uni063D.init;
+    sub uni063E by uni063E.init;
+    sub uni063F by uni063F.init;
+    sub uni0649 by uni0649.init;
+    sub uni064A by uni064A.init;
+    sub uni0678 by uni0678.init;
+    sub uni06CC by uni06CC.init;
+    sub uni06CE by uni06CE.init;
+    sub uni06D0 by uni06D0.init;
+    sub uni06D1 by uni06D1.init;
+    sub uni08A8 by uni08A8.init;
+    sub uni08A9 by uni08A9.init;
+    sub uni06A9 by uni06A9.init;
+    sub uni063B by uni063B.init;
+    sub uni063C by uni063C.init;
+    sub uni06AB by uni06AB.init;
+    sub uni06AF by uni06AF.init;
+    sub uni06B0 by uni06B0.init;
+    sub uni06B1 by uni06B1.init;
+    sub uni06B2 by uni06B2.init;
+    sub uni06B3 by uni06B3.init;
+    sub uni06B4 by uni06B4.init;
+    sub uni06AA by uni06AA.init;
+    sub uni06C1 by uni06C1.init;
+    sub uni200D by uni200D;
+    sub uni0750 by uni0750.init;
+    sub uni0751 by uni0751.init;
+    sub uni0752 by uni0752.init;
+    sub uni0753 by uni0753.init;
+    sub uni0754 by uni0754.init;
+    sub uni0755 by uni0755.init;
+    sub uni0756 by uni0756.init;
+    sub uni0757 by uni0757.init;
+    sub uni0758 by uni0758.init;
+    sub uni076E by uni076E.init;
+    sub uni076F by uni076F.init;
+    sub uni0772 by uni0772.init;
+    sub uni077C by uni077C.init;
+    sub uni075C by uni075C.init;
+    sub uni076D by uni076D.init;
+    sub uni0770 by uni0770.init;
+    sub uni077D by uni077D.init;
+    sub uni077E by uni077E.init;
+    sub uni075D by uni075D.init;
+    sub uni075E by uni075E.init;
+    sub uni075F by uni075F.init;
+    sub uni0760 by uni0760.init;
+    sub uni0761 by uni0761.init;
+    sub uni077F by uni077F.init;
+    sub uni0762 by uni0762.init;
+    sub uni0763 by uni0763.init;
+    sub uni0764 by uni0764.init;
+    sub uni076A by uni076A.init;
+    sub uni0765 by uni0765.init;
+    sub uni0766 by uni0766.init;
+    sub uni0767 by uni0767.init;
+    sub uni0768 by uni0768.init;
+    sub uni0769 by uni0769.init;
+    sub uni0775 by uni0775.init;
+    sub uni0776 by uni0776.init;
+    sub uni0777 by uni0777.init;
+    sub uni08A1 by uni08A1.init;
+    sub uni08AF by uni08AF.init;
+    sub uni08B0 by uni08B0.init;
+} init_0;
 
-lookup MultipleSubstitutionlookup21 {
+lookup rlig_0_0 {
   lookupflag RightToLeft;
-    sub \uni0618.base by \uni0640 \uni0618.base ;
-    sub \uni0619.base by \uni0640 \uni0619.base ;
-    sub \uni061A.base by \uni0640 \uni061A.base ;
-    sub \uni064B.base by \uni0640 \uni064B.base ;
-    sub \uni064C.base by \uni0640 \uni064C.base ;
-    sub \uni064D.base by \uni0640 \uni064D.base ;
-    sub \uni064E.base by \uni0640 \uni064E.base ;
-    sub \uni064F.base by \uni0640 \uni064F.base ;
-    sub \uni0650.base by \uni0640 \uni0650.base ;
-    sub \uni0651.base by \uni0640 \uni0651.base ;
-    sub \uni0652.base by \uni0640 \uni0652.base ;
-    sub \uni0653.base by \uni0640 \uni0653.base ;
-    sub \uni0654.base by \uni0640 \uni0654.base ;
-    sub \uni0655.base by \uni0640 \uni0655.base ;
-    sub \uni0656.base by \uni0640 \uni0656.base ;
-    sub \uni0657.base by \uni0640 \uni0657.base ;
-    sub \uni0658.base by \uni0640 \uni0658.base ;
-    sub \uni0659.base by \uni0640 \uni0659.base ;
-    sub \uni065A.base by \uni0640 \uni065A.base ;
-    sub \uni065B.base by \uni0640 \uni065B.base ;
-    sub \uni065C.base by \uni0640 \uni065C.base ;
-    sub \uni065D.base by \uni0640 \uni065D.base ;
-    sub \uni065E.base by \uni0640 \uni065E.base ;
-    sub \uni065F.base by \uni0640 \uni065F.base ;
-    sub \uni0670.base by \uni0640 \uni0670.base ;
-    sub \uni0674.base by \uni0640 \uni0674.base ;
-    sub \uni06DC.base by \uni0640 \uni06DC.base ;
-    sub \uni06DF.base by \uni0640 \uni06DF.base ;
-    sub \uni06E0.base by \uni0640 \uni06E0.base ;
-    sub \uni06E4.base by \uni0640 \uni06E4.base ;
-    sub \uni06E1.base by \uni0640 \uni06E1.base ;
-    sub \uni06E7.base by \uni0640 \uni06E7.base ;
-    sub \uni06E2.base by \uni0640 \uni06E2.base ;
-    sub \uni06E3.base by \uni0640 \uni06E3.base ;
-    sub \uni06EA.base by \uni0640 \uni06EA.base ;
-    sub \uni06E8.base by \uni0640 \uni06E8.base ;
-    sub \uni06EB.base by \uni0640 \uni06EB.base ;
-    sub \uni06EC.base by \uni0640 \uni06EC.base ;
-    sub \uni06ED.base by \uni0640 \uni06ED.base ;
-    sub \uni08E4.base by \uni0640 \uni08E4.base ;
-    sub \uni08E5.base by \uni0640 \uni08E5.base ;
-    sub \uni08E6.base by \uni0640 \uni08E6.base ;
-    sub \uni08E7.base by \uni0640 \uni08E7.base ;
-    sub \uni08E8.base by \uni0640 \uni08E8.base ;
-    sub \uni08E9.base by \uni0640 \uni08E9.base ;
-    sub \uni08EA.base by \uni0640 \uni08EA.base ;
-    sub \uni08EB.base by \uni0640 \uni08EB.base ;
-    sub \uni08EC.base by \uni0640 \uni08EC.base ;
-    sub \uni08ED.base by \uni0640 \uni08ED.base ;
-    sub \uni08EE.base by \uni0640 \uni08EE.base ;
-    sub \uni08EF.base by \uni0640 \uni08EF.base ;
-    sub \uni08F0.base by \uni0640 \uni08F0.base ;
-    sub \uni08F1.base by \uni0640 \uni08F1.base ;
-    sub \uni08F2.base by \uni0640 \uni08F2.base ;
-    sub \uni08F3.base by \uni0640 \uni08F3.base ;
-    sub \uni08F4.base by \uni0640 \uni08F4.base ;
-    sub \uni08F5.base by \uni0640 \uni08F5.base ;
-    sub \uni08F6.base by \uni0640 \uni08F6.base ;
-    sub \uni08F7.base by \uni0640 \uni08F7.base ;
-    sub \uni08F8.base by \uni0640 \uni08F8.base ;
-    sub \uni08F9.base by \uni0640 \uni08F9.base ;
-    sub \uni08FA.base by \uni0640 \uni08FA.base ;
-    sub \uni08FB.base by \uni0640 \uni08FB.base ;
-    sub \uni08FC.base by \uni0640 \uni08FC.base ;
-    sub \uni08FD.base by \uni0640 \uni08FD.base ;
-    sub \uni08FE.base by \uni0640 \uni08FE.base ;
-    sub \uni08FF.base by \uni0640 \uni08FF.base ;
-} MultipleSubstitutionlookup21;
+    sub uni0618.base by uni0640 uni0618.base;
+    sub uni0619.base by uni0640 uni0619.base;
+    sub uni061A.base by uni0640 uni061A.base;
+    sub uni064B.base by uni0640 uni064B.base;
+    sub uni064C.base by uni0640 uni064C.base;
+    sub uni064D.base by uni0640 uni064D.base;
+    sub uni064E.base by uni0640 uni064E.base;
+    sub uni064F.base by uni0640 uni064F.base;
+    sub uni0650.base by uni0640 uni0650.base;
+    sub uni0651.base by uni0640 uni0651.base;
+    sub uni0652.base by uni0640 uni0652.base;
+    sub uni0653.base by uni0640 uni0653.base;
+    sub uni0654.base by uni0640 uni0654.base;
+    sub uni0655.base by uni0640 uni0655.base;
+    sub uni0656.base by uni0640 uni0656.base;
+    sub uni0657.base by uni0640 uni0657.base;
+    sub uni0658.base by uni0640 uni0658.base;
+    sub uni0659.base by uni0640 uni0659.base;
+    sub uni065A.base by uni0640 uni065A.base;
+    sub uni065B.base by uni0640 uni065B.base;
+    sub uni065C.base by uni0640 uni065C.base;
+    sub uni065D.base by uni0640 uni065D.base;
+    sub uni065E.base by uni0640 uni065E.base;
+    sub uni065F.base by uni0640 uni065F.base;
+    sub uni0670.base by uni0640 uni0670.base;
+    sub uni0674.base by uni0640 uni0674.base;
+    sub uni06DC.base by uni0640 uni06DC.base;
+    sub uni06DF.base by uni0640 uni06DF.base;
+    sub uni06E0.base by uni0640 uni06E0.base;
+    sub uni06E4.base by uni0640 uni06E4.base;
+    sub uni06E1.base by uni0640 uni06E1.base;
+    sub uni06E7.base by uni0640 uni06E7.base;
+    sub uni06E2.base by uni0640 uni06E2.base;
+    sub uni06E3.base by uni0640 uni06E3.base;
+    sub uni06EA.base by uni0640 uni06EA.base;
+    sub uni06E8.base by uni0640 uni06E8.base;
+    sub uni06EB.base by uni0640 uni06EB.base;
+    sub uni06EC.base by uni0640 uni06EC.base;
+    sub uni06ED.base by uni0640 uni06ED.base;
+    sub uni08E4.base by uni0640 uni08E4.base;
+    sub uni08E5.base by uni0640 uni08E5.base;
+    sub uni08E6.base by uni0640 uni08E6.base;
+    sub uni08E7.base by uni0640 uni08E7.base;
+    sub uni08E8.base by uni0640 uni08E8.base;
+    sub uni08E9.base by uni0640 uni08E9.base;
+    sub uni08EA.base by uni0640 uni08EA.base;
+    sub uni08EB.base by uni0640 uni08EB.base;
+    sub uni08EC.base by uni0640 uni08EC.base;
+    sub uni08ED.base by uni0640 uni08ED.base;
+    sub uni08EE.base by uni0640 uni08EE.base;
+    sub uni08EF.base by uni0640 uni08EF.base;
+    sub uni08F0.base by uni0640 uni08F0.base;
+    sub uni08F1.base by uni0640 uni08F1.base;
+    sub uni08F2.base by uni0640 uni08F2.base;
+    sub uni08F3.base by uni0640 uni08F3.base;
+    sub uni08F4.base by uni0640 uni08F4.base;
+    sub uni08F5.base by uni0640 uni08F5.base;
+    sub uni08F6.base by uni0640 uni08F6.base;
+    sub uni08F7.base by uni0640 uni08F7.base;
+    sub uni08F8.base by uni0640 uni08F8.base;
+    sub uni08F9.base by uni0640 uni08F9.base;
+    sub uni08FA.base by uni0640 uni08FA.base;
+    sub uni08FB.base by uni0640 uni08FB.base;
+    sub uni08FC.base by uni0640 uni08FC.base;
+    sub uni08FD.base by uni0640 uni08FD.base;
+    sub uni08FE.base by uni0640 uni08FE.base;
+    sub uni08FF.base by uni0640 uni08FF.base;
+} rlig_0_0;
 
-lookup rligRequiredLigaturesinArabiclo {
+lookup rlig_0 {
   lookupflag RightToLeft;
-    sub [\uni0640 \uni0628.init \uni062A.init \uni062B.init \uni066E.init 
-	\uni0679.init \uni067A.init \uni067B.init \uni067C.init 
-	\uni067D.init \uni067E.init \uni067F.init \uni0680.init 
-	\uni08A0.init \uni0628.medi \uni062A.medi \uni062B.medi 
-	\uni066E.medi \uni0679.medi \uni067A.medi \uni067B.medi 
-	\uni067C.medi \uni067D.medi \uni067E.medi \uni067F.medi 
-	\uni0680.medi \uni08A0.medi \uni062C.init \uni062D.init 
-	\uni062E.init \uni0681.init \uni0682.init \uni0683.init 
-	\uni0684.init \uni0685.init \uni0686.init \uni0687.init 
-	\uni06BF.init \uni08A2.init \uni062C.medi \uni062D.medi 
-	\uni062E.medi \uni0681.medi \uni0682.medi \uni0683.medi 
-	\uni0684.medi \uni0685.medi \uni0686.medi \uni0687.medi 
-	\uni06BF.medi \uni08A2.medi \uni0633.init \uni0634.init 
-	\uni069A.init \uni069B.init \uni069C.init \uni06FA.init 
-	\uni0633.medi \uni0634.medi \uni069A.medi \uni069B.medi 
-	\uni069C.medi \uni06FA.medi \uni0635.init \uni0636.init 
-	\uni069D.init \uni069E.init \uni06FB.init \uni0635.medi 
-	\uni0636.medi \uni069D.medi \uni069E.medi \uni06FB.medi 
-	\uni0637.init \uni0638.init \uni069F.init \uni08A3.init 
-	\uni0637.medi \uni0638.medi \uni069F.medi \uni08A3.medi 
-	\uni0639.init \uni063A.init \uni06A0.init \uni06FC.init 
-	\uni0639.medi \uni063A.medi \uni06A0.medi \uni06FC.medi 
-	\uni0641.init \uni06A1.init \uni06A2.init \uni06A3.init 
-	\uni06A4.init \uni06A5.init \uni06A6.init \uni08A4.init 
-	\uni0641.medi \uni06A1.medi \uni06A2.medi \uni06A3.medi 
-	\uni06A4.medi \uni06A5.medi \uni06A6.medi \uni08A4.medi 
-	\uni0642.init \uni066F.init \uni06A7.init \uni06A8.init 
-	\uni08A5.init \uni0642.medi \uni066F.medi \uni06A7.medi 
-	\uni06A8.medi \uni08A5.medi \uni0643.init \uni06AC.init 
-	\uni06AD.init \uni06AE.init \uni0643.medi \uni06AC.medi 
-	\uni06AD.medi \uni06AE.medi \uni0644.init \uni06B5.init 
-	\uni06B6.init \uni06B7.init \uni06B8.init \uni08A6.init 
-	\uni0644.medi \uni06B5.medi \uni06B6.medi \uni06B7.medi 
-	\uni06B8.medi \uni08A6.medi \uni0645.init \uni06FE.init 
-	\uni08A7.init \uni0645.medi \uni06FE.medi \uni08A7.medi 
-	\uni0646.init \uni06B9.init \uni06BA.init \uni06BB.init 
-	\uni06BC.init \uni06BD.init \uni0646.medi \uni06B9.medi 
-	\uni06BA.medi \uni06BB.medi \uni06BC.medi \uni06BD.medi 
-	\uni0647.init \uni06FF.init \uni0647.medi \uni06FF.medi 
-	\uni06BE.init \uni06BE.medi \uni0620.init \uni0626.init 
-	\uni063D.init \uni063E.init \uni063F.init \uni0649.init 
-	\uni064A.init \uni0678.init \uni06CC.init \uni06CE.init 
-	\uni06D0.init \uni06D1.init \uni08A8.init \uni08A9.init 
-	\uni0620.medi \uni0626.medi \uni063D.medi \uni063E.medi 
-	\uni063F.medi \uni0649.medi \uni064A.medi \uni0678.medi 
-	\uni06CC.medi \uni06CE.medi \uni06D0.medi \uni06D1.medi 
-	\uni08A8.medi \uni08A9.medi \uni06A9.init \uni063B.init 
-	\uni063C.init \uni06AB.init \uni06A9.medi \uni063B.medi 
-	\uni063C.medi \uni06AB.medi \uni06AF.init \uni06B0.init 
-	\uni06B1.init \uni06B2.init \uni06B3.init \uni06B4.init 
-	\uni06AF.medi \uni06B0.medi \uni06B1.medi \uni06B2.medi 
-	\uni06B3.medi \uni06B4.medi \uni06AA.init \uni06AA.medi \uni200D 
-	\uni0750.init \uni0751.init \uni0752.init \uni0753.init 
-	\uni0754.init \uni0755.init \uni0756.init \uni0750.medi 
-	\uni0751.medi \uni0752.medi \uni0753.medi \uni0754.medi 
-	\uni0755.medi \uni0756.medi \uni0757.init \uni0758.init 
-	\uni076E.init \uni076F.init \uni0772.init \uni077C.init 
-	\uni0757.medi \uni0758.medi \uni076E.medi \uni076F.medi 
-	\uni0772.medi \uni077C.medi \uni075C.init \uni076D.init 
-	\uni0770.init \uni077D.init \uni077E.init \uni075C.medi 
-	\uni076D.medi \uni0770.medi \uni077D.medi \uni077E.medi 
-	\uni075D.init \uni075E.init \uni075F.init \uni075D.medi 
-	\uni075E.medi \uni075F.medi \uni0760.init \uni0761.init 
-	\uni0760.medi \uni0761.medi \uni077F.init \uni077F.medi 
-	\uni0762.init \uni0763.init \uni0764.init \uni0762.medi 
-	\uni0763.medi \uni0764.medi \uni076A.init \uni076A.medi 
-	\uni0765.init \uni0766.init \uni0765.medi \uni0766.medi 
-	\uni0767.init \uni0768.init \uni0769.init \uni0767.medi 
-	\uni0768.medi \uni0769.medi \uni0775.init \uni0776.init 
-	\uni0777.init \uni0775.medi \uni0776.medi \uni0777.medi 
-	\uni06C1.init \uni06C1.medi \uni08A1.init \uni08A1.medi 
-	\uni08AF.init \uni08AF.medi \uni08B0.init \uni08B0.medi ] [\uni0618.base \uni0619.base \uni061A.base \uni064B.base \uni064C.base 
-	\uni064D.base \uni064E.base \uni064F.base \uni0650.base 
-	\uni0651.base \uni0652.base \uni0653.base \uni0654.base 
-	\uni0655.base \uni0656.base \uni0657.base \uni0658.base 
-	\uni0659.base \uni065A.base \uni065B.base \uni065C.base 
-	\uni065D.base \uni065E.base \uni065F.base \uni0670.base 
-	\uni0674.base \uni06DC.base \uni06DF.base \uni06E0.base 
-	\uni06E4.base \uni06E1.base \uni06E7.base \uni06E2.base 
-	\uni06E3.base \uni06EA.base \uni06E8.base \uni06EB.base 
-	\uni06EC.base \uni06ED.base \uni08E4.base \uni08E5.base 
-	\uni08E6.base \uni08E7.base \uni08E8.base \uni08E9.base 
-	\uni08EA.base \uni08EB.base \uni08EC.base \uni08ED.base 
-	\uni08EE.base \uni08EF.base \uni08F0.base \uni08F1.base 
-	\uni08F2.base \uni08F3.base \uni08F4.base \uni08F5.base 
-	\uni08F6.base \uni08F7.base \uni08F8.base \uni08F9.base 
-	\uni08FA.base \uni08FB.base \uni08FC.base \uni08FD.base 
-	\uni08FE.base \uni08FF.base ]'lookup MultipleSubstitutionlookup21  ;
+    sub [uni0640 uni0628.init uni062A.init uni062B.init uni066E.init
+	uni0679.init uni067A.init uni067B.init uni067C.init
+	uni067D.init uni067E.init uni067F.init uni0680.init
+	uni08A0.init uni0628.medi uni062A.medi uni062B.medi
+	uni066E.medi uni0679.medi uni067A.medi uni067B.medi
+	uni067C.medi uni067D.medi uni067E.medi uni067F.medi
+	uni0680.medi uni08A0.medi uni062C.init uni062D.init
+	uni062E.init uni0681.init uni0682.init uni0683.init
+	uni0684.init uni0685.init uni0686.init uni0687.init
+	uni06BF.init uni08A2.init uni062C.medi uni062D.medi
+	uni062E.medi uni0681.medi uni0682.medi uni0683.medi
+	uni0684.medi uni0685.medi uni0686.medi uni0687.medi
+	uni06BF.medi uni08A2.medi uni0633.init uni0634.init
+	uni069A.init uni069B.init uni069C.init uni06FA.init
+	uni0633.medi uni0634.medi uni069A.medi uni069B.medi
+	uni069C.medi uni06FA.medi uni0635.init uni0636.init
+	uni069D.init uni069E.init uni06FB.init uni0635.medi
+	uni0636.medi uni069D.medi uni069E.medi uni06FB.medi
+	uni0637.init uni0638.init uni069F.init uni08A3.init
+	uni0637.medi uni0638.medi uni069F.medi uni08A3.medi
+	uni0639.init uni063A.init uni06A0.init uni06FC.init
+	uni0639.medi uni063A.medi uni06A0.medi uni06FC.medi
+	uni0641.init uni06A1.init uni06A2.init uni06A3.init
+	uni06A4.init uni06A5.init uni06A6.init uni08A4.init
+	uni0641.medi uni06A1.medi uni06A2.medi uni06A3.medi
+	uni06A4.medi uni06A5.medi uni06A6.medi uni08A4.medi
+	uni0642.init uni066F.init uni06A7.init uni06A8.init
+	uni08A5.init uni0642.medi uni066F.medi uni06A7.medi
+	uni06A8.medi uni08A5.medi uni0643.init uni06AC.init
+	uni06AD.init uni06AE.init uni0643.medi uni06AC.medi
+	uni06AD.medi uni06AE.medi uni0644.init uni06B5.init
+	uni06B6.init uni06B7.init uni06B8.init uni08A6.init
+	uni0644.medi uni06B5.medi uni06B6.medi uni06B7.medi
+	uni06B8.medi uni08A6.medi uni0645.init uni06FE.init
+	uni08A7.init uni0645.medi uni06FE.medi uni08A7.medi
+	uni0646.init uni06B9.init uni06BA.init uni06BB.init
+	uni06BC.init uni06BD.init uni0646.medi uni06B9.medi
+	uni06BA.medi uni06BB.medi uni06BC.medi uni06BD.medi
+	uni0647.init uni06FF.init uni0647.medi uni06FF.medi
+	uni06BE.init uni06BE.medi uni0620.init uni0626.init
+	uni063D.init uni063E.init uni063F.init uni0649.init
+	uni064A.init uni0678.init uni06CC.init uni06CE.init
+	uni06D0.init uni06D1.init uni08A8.init uni08A9.init
+	uni0620.medi uni0626.medi uni063D.medi uni063E.medi
+	uni063F.medi uni0649.medi uni064A.medi uni0678.medi
+	uni06CC.medi uni06CE.medi uni06D0.medi uni06D1.medi
+	uni08A8.medi uni08A9.medi uni06A9.init uni063B.init
+	uni063C.init uni06AB.init uni06A9.medi uni063B.medi
+	uni063C.medi uni06AB.medi uni06AF.init uni06B0.init
+	uni06B1.init uni06B2.init uni06B3.init uni06B4.init
+	uni06AF.medi uni06B0.medi uni06B1.medi uni06B2.medi
+	uni06B3.medi uni06B4.medi uni06AA.init uni06AA.medi uni200D
+	uni0750.init uni0751.init uni0752.init uni0753.init
+	uni0754.init uni0755.init uni0756.init uni0750.medi
+	uni0751.medi uni0752.medi uni0753.medi uni0754.medi
+	uni0755.medi uni0756.medi uni0757.init uni0758.init
+	uni076E.init uni076F.init uni0772.init uni077C.init
+	uni0757.medi uni0758.medi uni076E.medi uni076F.medi
+	uni0772.medi uni077C.medi uni075C.init uni076D.init
+	uni0770.init uni077D.init uni077E.init uni075C.medi
+	uni076D.medi uni0770.medi uni077D.medi uni077E.medi
+	uni075D.init uni075E.init uni075F.init uni075D.medi
+	uni075E.medi uni075F.medi uni0760.init uni0761.init
+	uni0760.medi uni0761.medi uni077F.init uni077F.medi
+	uni0762.init uni0763.init uni0764.init uni0762.medi
+	uni0763.medi uni0764.medi uni076A.init uni076A.medi
+	uni0765.init uni0766.init uni0765.medi uni0766.medi
+	uni0767.init uni0768.init uni0769.init uni0767.medi
+	uni0768.medi uni0769.medi uni0775.init uni0776.init
+	uni0777.init uni0775.medi uni0776.medi uni0777.medi
+	uni06C1.init uni06C1.medi uni08A1.init uni08A1.medi
+	uni08AF.init uni08AF.medi uni08B0.init uni08B0.medi] [uni0618.base uni0619.base uni061A.base uni064B.base uni064C.base
+	uni064D.base uni064E.base uni064F.base uni0650.base
+	uni0651.base uni0652.base uni0653.base uni0654.base
+	uni0655.base uni0656.base uni0657.base uni0658.base
+	uni0659.base uni065A.base uni065B.base uni065C.base
+	uni065D.base uni065E.base uni065F.base uni0670.base
+	uni0674.base uni06DC.base uni06DF.base uni06E0.base
+	uni06E4.base uni06E1.base uni06E7.base uni06E2.base
+	uni06E3.base uni06EA.base uni06E8.base uni06EB.base
+	uni06EC.base uni06ED.base uni08E4.base uni08E5.base
+	uni08E6.base uni08E7.base uni08E8.base uni08E9.base
+	uni08EA.base uni08EB.base uni08EC.base uni08ED.base
+	uni08EE.base uni08EF.base uni08F0.base uni08F1.base
+	uni08F2.base uni08F3.base uni08F4.base uni08F5.base
+	uni08F6.base uni08F7.base uni08F8.base uni08F9.base
+	uni08FA.base uni08FB.base uni08FC.base uni08FD.base
+	uni08FE.base uni08FF.base]'lookup rlig_0_0 ;
   subtable;
-    sub [\uni0640 \uni0628.init \uni062A.init \uni062B.init \uni066E.init 
-	\uni0679.init \uni067A.init \uni067B.init \uni067C.init 
-	\uni067D.init \uni067E.init \uni067F.init \uni0680.init 
-	\uni08A0.init \uni0628.medi \uni062A.medi \uni062B.medi 
-	\uni066E.medi \uni0679.medi \uni067A.medi \uni067B.medi 
-	\uni067C.medi \uni067D.medi \uni067E.medi \uni067F.medi 
-	\uni0680.medi \uni08A0.medi \uni062C.init \uni062D.init 
-	\uni062E.init \uni0681.init \uni0682.init \uni0683.init 
-	\uni0684.init \uni0685.init \uni0686.init \uni0687.init 
-	\uni06BF.init \uni08A2.init \uni062C.medi \uni062D.medi 
-	\uni062E.medi \uni0681.medi \uni0682.medi \uni0683.medi 
-	\uni0684.medi \uni0685.medi \uni0686.medi \uni0687.medi 
-	\uni06BF.medi \uni08A2.medi \uni0633.init \uni0634.init 
-	\uni069A.init \uni069B.init \uni069C.init \uni06FA.init 
-	\uni0633.medi \uni0634.medi \uni069A.medi \uni069B.medi 
-	\uni069C.medi \uni06FA.medi \uni0635.init \uni0636.init 
-	\uni069D.init \uni069E.init \uni06FB.init \uni0635.medi 
-	\uni0636.medi \uni069D.medi \uni069E.medi \uni06FB.medi 
-	\uni0637.init \uni0638.init \uni069F.init \uni08A3.init 
-	\uni0637.medi \uni0638.medi \uni069F.medi \uni08A3.medi 
-	\uni0639.init \uni063A.init \uni06A0.init \uni06FC.init 
-	\uni0639.medi \uni063A.medi \uni06A0.medi \uni06FC.medi 
-	\uni0641.init \uni06A1.init \uni06A2.init \uni06A3.init 
-	\uni06A4.init \uni06A5.init \uni06A6.init \uni08A4.init 
-	\uni0641.medi \uni06A1.medi \uni06A2.medi \uni06A3.medi 
-	\uni06A4.medi \uni06A5.medi \uni06A6.medi \uni08A4.medi 
-	\uni0642.init \uni066F.init \uni06A7.init \uni06A8.init 
-	\uni08A5.init \uni0642.medi \uni066F.medi \uni06A7.medi 
-	\uni06A8.medi \uni08A5.medi \uni0643.init \uni06AC.init 
-	\uni06AD.init \uni06AE.init \uni0643.medi \uni06AC.medi 
-	\uni06AD.medi \uni06AE.medi \uni0644.init \uni06B5.init 
-	\uni06B6.init \uni06B7.init \uni06B8.init \uni08A6.init 
-	\uni0644.medi \uni06B5.medi \uni06B6.medi \uni06B7.medi 
-	\uni06B8.medi \uni08A6.medi \uni0645.init \uni06FE.init 
-	\uni08A7.init \uni0645.medi \uni06FE.medi \uni08A7.medi 
-	\uni0646.init \uni06B9.init \uni06BA.init \uni06BB.init 
-	\uni06BC.init \uni06BD.init \uni0646.medi \uni06B9.medi 
-	\uni06BA.medi \uni06BB.medi \uni06BC.medi \uni06BD.medi 
-	\uni0647.init \uni06FF.init \uni0647.medi \uni06FF.medi 
-	\uni06BE.init \uni06BE.medi \uni0620.init \uni0626.init 
-	\uni063D.init \uni063E.init \uni063F.init \uni0649.init 
-	\uni064A.init \uni0678.init \uni06CC.init \uni06CE.init 
-	\uni06D0.init \uni06D1.init \uni08A8.init \uni08A9.init 
-	\uni0620.medi \uni0626.medi \uni063D.medi \uni063E.medi 
-	\uni063F.medi \uni0649.medi \uni064A.medi \uni0678.medi 
-	\uni06CC.medi \uni06CE.medi \uni06D0.medi \uni06D1.medi 
-	\uni08A8.medi \uni08A9.medi \uni06A9.init \uni063B.init 
-	\uni063C.init \uni06AB.init \uni06A9.medi \uni063B.medi 
-	\uni063C.medi \uni06AB.medi \uni06AF.init \uni06B0.init 
-	\uni06B1.init \uni06B2.init \uni06B3.init \uni06B4.init 
-	\uni06AF.medi \uni06B0.medi \uni06B1.medi \uni06B2.medi 
-	\uni06B3.medi \uni06B4.medi \uni06AA.init \uni06AA.medi \uni200D 
-	\uni0750.init \uni0751.init \uni0752.init \uni0753.init 
-	\uni0754.init \uni0755.init \uni0756.init \uni0750.medi 
-	\uni0751.medi \uni0752.medi \uni0753.medi \uni0754.medi 
-	\uni0755.medi \uni0756.medi \uni0757.init \uni0758.init 
-	\uni076E.init \uni076F.init \uni0772.init \uni077C.init 
-	\uni0757.medi \uni0758.medi \uni076E.medi \uni076F.medi 
-	\uni0772.medi \uni077C.medi \uni075C.init \uni076D.init 
-	\uni0770.init \uni077D.init \uni077E.init \uni075C.medi 
-	\uni076D.medi \uni0770.medi \uni077D.medi \uni077E.medi 
-	\uni075D.init \uni075E.init \uni075F.init \uni075D.medi 
-	\uni075E.medi \uni075F.medi \uni0760.init \uni0761.init 
-	\uni0760.medi \uni0761.medi \uni077F.init \uni077F.medi 
-	\uni0762.init \uni0763.init \uni0764.init \uni0762.medi 
-	\uni0763.medi \uni0764.medi \uni076A.init \uni076A.medi 
-	\uni0765.init \uni0766.init \uni0765.medi \uni0766.medi 
-	\uni0767.init \uni0768.init \uni0769.init \uni0767.medi 
-	\uni0768.medi \uni0769.medi \uni0775.init \uni0776.init 
-	\uni0777.init \uni0775.medi \uni0776.medi \uni0777.medi 
-	\uni06C1.init \uni06C1.medi \uni08A1.init \uni08A1.medi 
-	\uni08AF.init \uni08AF.medi \uni08B0.init \uni08B0.medi ] [\uni0618 \uni0619 \uni061A \uni064B \uni064C \uni064D \uni064E \uni064F \uni0650 
-	\uni0651 \uni0652 \uni0653 \uni0654 \uni0655 \uni0656 \uni0657 \uni0658 
-	\uni0659 \uni065A \uni065B \uni065C \uni065D \uni065E \uni065F \uni0670 
-	\uni0674 \uni06DC \uni06DF \uni06E0 \uni06E4 \uni06E1 \uni06E7 \uni06E2 
-	\uni06E3 \uni06EA \uni06E8 \uni06EB \uni06EC \uni06ED \uni08E4 \uni08E5 
-	\uni08E6 \uni08E7 \uni08E8 \uni08E9 \uni08EA \uni08EB \uni08EC \uni08ED 
-	\uni08EE \uni08EF \uni08F0 \uni08F1 \uni08F2 \uni08F3 \uni08F4 \uni08F5 
-	\uni08F6 \uni08F7 \uni08F8 \uni08F9 \uni08FA \uni08FB \uni08FC \uni08FD 
-	\uni08FE \uni0618.base \uni0619.base \uni061A.base \uni064B.base 
-	\uni064C.base \uni064D.base \uni064E.base \uni064F.base 
-	\uni0650.base \uni0651.base \uni0652.base \uni0653.base 
-	\uni0654.base \uni0655.base \uni0656.base \uni0657.base 
-	\uni0658.base \uni0659.base \uni065A.base \uni065B.base 
-	\uni065C.base \uni065D.base \uni065E.base \uni065F.base 
-	\uni0670.base \uni0674.base \uni06DC.base \uni06DF.base 
-	\uni06E0.base \uni06E4.base \uni06E1.base \uni06E7.base 
-	\uni06E2.base \uni06E3.base \uni06EA.base \uni06E8.base 
-	\uni06EB.base \uni06EC.base \uni06ED.base \uni08E4.base 
-	\uni08E5.base \uni08E6.base \uni08E7.base \uni08E8.base 
-	\uni08E9.base \uni08EA.base \uni08EB.base \uni08EC.base 
-	\uni08ED.base \uni08EE.base \uni08EF.base \uni08F0.base 
-	\uni08F1.base \uni08F2.base \uni08F3.base \uni08F4.base 
-	\uni08F5.base \uni08F6.base \uni08F7.base \uni08F8.base 
-	\uni08F9.base \uni08FA.base \uni08FB.base \uni08FC.base 
-	\uni08FD.base \uni08FE.base \uni08FF \uni08FF.base ] [\uni0618.base \uni0619.base \uni061A.base \uni064B.base \uni064C.base 
-	\uni064D.base \uni064E.base \uni064F.base \uni0650.base 
-	\uni0651.base \uni0652.base \uni0653.base \uni0654.base 
-	\uni0655.base \uni0656.base \uni0657.base \uni0658.base 
-	\uni0659.base \uni065A.base \uni065B.base \uni065C.base 
-	\uni065D.base \uni065E.base \uni065F.base \uni0670.base 
-	\uni0674.base \uni06DC.base \uni06DF.base \uni06E0.base 
-	\uni06E4.base \uni06E1.base \uni06E7.base \uni06E2.base 
-	\uni06E3.base \uni06EA.base \uni06E8.base \uni06EB.base 
-	\uni06EC.base \uni06ED.base \uni08E4.base \uni08E5.base 
-	\uni08E6.base \uni08E7.base \uni08E8.base \uni08E9.base 
-	\uni08EA.base \uni08EB.base \uni08EC.base \uni08ED.base 
-	\uni08EE.base \uni08EF.base \uni08F0.base \uni08F1.base 
-	\uni08F2.base \uni08F3.base \uni08F4.base \uni08F5.base 
-	\uni08F6.base \uni08F7.base \uni08F8.base \uni08F9.base 
-	\uni08FA.base \uni08FB.base \uni08FC.base \uni08FD.base 
-	\uni08FE.base \uni08FF.base ]'lookup MultipleSubstitutionlookup21  ;
-} rligRequiredLigaturesinArabiclo;
+    sub [uni0640 uni0628.init uni062A.init uni062B.init uni066E.init
+	uni0679.init uni067A.init uni067B.init uni067C.init
+	uni067D.init uni067E.init uni067F.init uni0680.init
+	uni08A0.init uni0628.medi uni062A.medi uni062B.medi
+	uni066E.medi uni0679.medi uni067A.medi uni067B.medi
+	uni067C.medi uni067D.medi uni067E.medi uni067F.medi
+	uni0680.medi uni08A0.medi uni062C.init uni062D.init
+	uni062E.init uni0681.init uni0682.init uni0683.init
+	uni0684.init uni0685.init uni0686.init uni0687.init
+	uni06BF.init uni08A2.init uni062C.medi uni062D.medi
+	uni062E.medi uni0681.medi uni0682.medi uni0683.medi
+	uni0684.medi uni0685.medi uni0686.medi uni0687.medi
+	uni06BF.medi uni08A2.medi uni0633.init uni0634.init
+	uni069A.init uni069B.init uni069C.init uni06FA.init
+	uni0633.medi uni0634.medi uni069A.medi uni069B.medi
+	uni069C.medi uni06FA.medi uni0635.init uni0636.init
+	uni069D.init uni069E.init uni06FB.init uni0635.medi
+	uni0636.medi uni069D.medi uni069E.medi uni06FB.medi
+	uni0637.init uni0638.init uni069F.init uni08A3.init
+	uni0637.medi uni0638.medi uni069F.medi uni08A3.medi
+	uni0639.init uni063A.init uni06A0.init uni06FC.init
+	uni0639.medi uni063A.medi uni06A0.medi uni06FC.medi
+	uni0641.init uni06A1.init uni06A2.init uni06A3.init
+	uni06A4.init uni06A5.init uni06A6.init uni08A4.init
+	uni0641.medi uni06A1.medi uni06A2.medi uni06A3.medi
+	uni06A4.medi uni06A5.medi uni06A6.medi uni08A4.medi
+	uni0642.init uni066F.init uni06A7.init uni06A8.init
+	uni08A5.init uni0642.medi uni066F.medi uni06A7.medi
+	uni06A8.medi uni08A5.medi uni0643.init uni06AC.init
+	uni06AD.init uni06AE.init uni0643.medi uni06AC.medi
+	uni06AD.medi uni06AE.medi uni0644.init uni06B5.init
+	uni06B6.init uni06B7.init uni06B8.init uni08A6.init
+	uni0644.medi uni06B5.medi uni06B6.medi uni06B7.medi
+	uni06B8.medi uni08A6.medi uni0645.init uni06FE.init
+	uni08A7.init uni0645.medi uni06FE.medi uni08A7.medi
+	uni0646.init uni06B9.init uni06BA.init uni06BB.init
+	uni06BC.init uni06BD.init uni0646.medi uni06B9.medi
+	uni06BA.medi uni06BB.medi uni06BC.medi uni06BD.medi
+	uni0647.init uni06FF.init uni0647.medi uni06FF.medi
+	uni06BE.init uni06BE.medi uni0620.init uni0626.init
+	uni063D.init uni063E.init uni063F.init uni0649.init
+	uni064A.init uni0678.init uni06CC.init uni06CE.init
+	uni06D0.init uni06D1.init uni08A8.init uni08A9.init
+	uni0620.medi uni0626.medi uni063D.medi uni063E.medi
+	uni063F.medi uni0649.medi uni064A.medi uni0678.medi
+	uni06CC.medi uni06CE.medi uni06D0.medi uni06D1.medi
+	uni08A8.medi uni08A9.medi uni06A9.init uni063B.init
+	uni063C.init uni06AB.init uni06A9.medi uni063B.medi
+	uni063C.medi uni06AB.medi uni06AF.init uni06B0.init
+	uni06B1.init uni06B2.init uni06B3.init uni06B4.init
+	uni06AF.medi uni06B0.medi uni06B1.medi uni06B2.medi
+	uni06B3.medi uni06B4.medi uni06AA.init uni06AA.medi uni200D
+	uni0750.init uni0751.init uni0752.init uni0753.init
+	uni0754.init uni0755.init uni0756.init uni0750.medi
+	uni0751.medi uni0752.medi uni0753.medi uni0754.medi
+	uni0755.medi uni0756.medi uni0757.init uni0758.init
+	uni076E.init uni076F.init uni0772.init uni077C.init
+	uni0757.medi uni0758.medi uni076E.medi uni076F.medi
+	uni0772.medi uni077C.medi uni075C.init uni076D.init
+	uni0770.init uni077D.init uni077E.init uni075C.medi
+	uni076D.medi uni0770.medi uni077D.medi uni077E.medi
+	uni075D.init uni075E.init uni075F.init uni075D.medi
+	uni075E.medi uni075F.medi uni0760.init uni0761.init
+	uni0760.medi uni0761.medi uni077F.init uni077F.medi
+	uni0762.init uni0763.init uni0764.init uni0762.medi
+	uni0763.medi uni0764.medi uni076A.init uni076A.medi
+	uni0765.init uni0766.init uni0765.medi uni0766.medi
+	uni0767.init uni0768.init uni0769.init uni0767.medi
+	uni0768.medi uni0769.medi uni0775.init uni0776.init
+	uni0777.init uni0775.medi uni0776.medi uni0777.medi
+	uni06C1.init uni06C1.medi uni08A1.init uni08A1.medi
+	uni08AF.init uni08AF.medi uni08B0.init uni08B0.medi] [uni0618 uni0619 uni061A uni064B uni064C uni064D uni064E uni064F uni0650
+	uni0651 uni0652 uni0653 uni0654 uni0655 uni0656 uni0657 uni0658
+	uni0659 uni065A uni065B uni065C uni065D uni065E uni065F uni0670
+	uni0674 uni06DC uni06DF uni06E0 uni06E4 uni06E1 uni06E7 uni06E2
+	uni06E3 uni06EA uni06E8 uni06EB uni06EC uni06ED uni08E4 uni08E5
+	uni08E6 uni08E7 uni08E8 uni08E9 uni08EA uni08EB uni08EC uni08ED
+	uni08EE uni08EF uni08F0 uni08F1 uni08F2 uni08F3 uni08F4 uni08F5
+	uni08F6 uni08F7 uni08F8 uni08F9 uni08FA uni08FB uni08FC uni08FD
+	uni08FE uni0618.base uni0619.base uni061A.base uni064B.base
+	uni064C.base uni064D.base uni064E.base uni064F.base
+	uni0650.base uni0651.base uni0652.base uni0653.base
+	uni0654.base uni0655.base uni0656.base uni0657.base
+	uni0658.base uni0659.base uni065A.base uni065B.base
+	uni065C.base uni065D.base uni065E.base uni065F.base
+	uni0670.base uni0674.base uni06DC.base uni06DF.base
+	uni06E0.base uni06E4.base uni06E1.base uni06E7.base
+	uni06E2.base uni06E3.base uni06EA.base uni06E8.base
+	uni06EB.base uni06EC.base uni06ED.base uni08E4.base
+	uni08E5.base uni08E6.base uni08E7.base uni08E8.base
+	uni08E9.base uni08EA.base uni08EB.base uni08EC.base
+	uni08ED.base uni08EE.base uni08EF.base uni08F0.base
+	uni08F1.base uni08F2.base uni08F3.base uni08F4.base
+	uni08F5.base uni08F6.base uni08F7.base uni08F8.base
+	uni08F9.base uni08FA.base uni08FB.base uni08FC.base
+	uni08FD.base uni08FE.base uni08FF uni08FF.base] [uni0618.base uni0619.base uni061A.base uni064B.base uni064C.base
+	uni064D.base uni064E.base uni064F.base uni0650.base
+	uni0651.base uni0652.base uni0653.base uni0654.base
+	uni0655.base uni0656.base uni0657.base uni0658.base
+	uni0659.base uni065A.base uni065B.base uni065C.base
+	uni065D.base uni065E.base uni065F.base uni0670.base
+	uni0674.base uni06DC.base uni06DF.base uni06E0.base
+	uni06E4.base uni06E1.base uni06E7.base uni06E2.base
+	uni06E3.base uni06EA.base uni06E8.base uni06EB.base
+	uni06EC.base uni06ED.base uni08E4.base uni08E5.base
+	uni08E6.base uni08E7.base uni08E8.base uni08E9.base
+	uni08EA.base uni08EB.base uni08EC.base uni08ED.base
+	uni08EE.base uni08EF.base uni08F0.base uni08F1.base
+	uni08F2.base uni08F3.base uni08F4.base uni08F5.base
+	uni08F6.base uni08F7.base uni08F8.base uni08F9.base
+	uni08FA.base uni08FB.base uni08FC.base uni08FD.base
+	uni08FE.base uni08FF.base]'lookup rlig_0_0 ;
+} rlig_0;
 
-lookup sub_single_rligarab_0 {
+lookup rlig_1 {
   lookupflag RightToLeft;
-    sub \uni25CC by \uni0640 ;
-} sub_single_rligarab_0;
+    sub uni25CC by uni0640;
+} rlig_1;
 
-lookup aaltAccessAllAlternatesinLatinl {
+lookup aalt_0 {
   lookupflag 0;
     sub \ampersand by \ampersand ;
     sub \dollar by \dollar.oldstyle ;
@@ -919,833 +919,822 @@ lookup aaltAccessAllAlternatesinLatinl {
     sub \six.taboldstyle by \six ;
     sub \three.taboldstyle by \three ;
     sub \two.taboldstyle by \two ;
-} aaltAccessAllAlternatesinLatinl;
+} aalt_0;
 
-lookup sub_alt_aaltlatn_0 {
+lookup aalt_1 {
   lookupflag 0;
     sub \zero from [\zero.taboldstyle \zero.slash ];
     sub \zero.taboldstyle from [\zero ];
-} sub_alt_aaltlatn_0;
+} aalt_1;
 
-lookup fracDiagonalFractionsinLatinloo {
+lookup frac_0 {
   lookupflag 0;
-    sub \one \fraction \two  by \onehalf;
-    sub \one \slash \two  by \onehalf;
-    sub \one \fraction \four  by \onequarter;
-    sub \one \slash \four  by \onequarter;
-    sub \three \fraction \four  by \threequarters;
-    sub \three \slash \four  by \threequarters;
-} fracDiagonalFractionsinLatinloo;
+    sub one fraction two  by onehalf;
+    sub one slash two  by onehalf;
+    sub one fraction four  by onequarter;
+    sub one slash four  by onequarter;
+    sub three fraction four  by threequarters;
+    sub three slash four  by threequarters;
+} frac_0;
 
-lookup onumOldstyleFiguresinLatinlooku {
+lookup onum_0 {
   lookupflag 0;
-    sub \ampersand by \ampersand ;
-    sub \dollar by \dollar.oldstyle ;
-    sub \eight by \eight.taboldstyle ;
-    sub \five by \five.taboldstyle ;
-    sub \four by \four.taboldstyle ;
-    sub \nine by \nine.taboldstyle ;
-    sub \one by \one.taboldstyle ;
-    sub \seven by \seven.taboldstyle ;
-    sub \six by \six.taboldstyle ;
-    sub \three by \three.taboldstyle ;
-    sub \two by \two.taboldstyle ;
-    sub \zero by \zero.taboldstyle ;
-    sub \cent by \cent.oldstyle ;
-} onumOldstyleFiguresinLatinlooku;
+    sub ampersand by ampersand;
+    sub dollar by dollar.oldstyle;
+    sub eight by eight.taboldstyle;
+    sub five by five.taboldstyle;
+    sub four by four.taboldstyle;
+    sub nine by nine.taboldstyle;
+    sub one by one.taboldstyle;
+    sub seven by seven.taboldstyle;
+    sub six by six.taboldstyle;
+    sub three by three.taboldstyle;
+    sub two by two.taboldstyle;
+    sub zero by zero.taboldstyle;
+    sub cent by cent.oldstyle;
+} onum_0;
 
-lookup lnumLiningFiguresinLatinlookup1 {
+lookup lnum_0 {
   lookupflag 0;
-    sub \ampersand by \ampersand ;
-    sub \cent.oldstyle by \cent ;
-    sub \dollar.oldstyle by \dollar ;
-    sub \eight.taboldstyle by \eight ;
-    sub \five.taboldstyle by \five ;
-    sub \four.taboldstyle by \four ;
-    sub \nine.taboldstyle by \nine ;
-    sub \one.taboldstyle by \one ;
-    sub \seven.taboldstyle by \seven ;
-    sub \six.taboldstyle by \six ;
-    sub \three.taboldstyle by \three ;
-    sub \two.taboldstyle by \two ;
-    sub \zero.taboldstyle by \zero ;
-} lnumLiningFiguresinLatinlookup1;
+    sub ampersand by ampersand;
+    sub cent.oldstyle by cent;
+    sub dollar.oldstyle by dollar;
+    sub eight.taboldstyle by eight;
+    sub five.taboldstyle by five;
+    sub four.taboldstyle by four;
+    sub nine.taboldstyle by nine;
+    sub one.taboldstyle by one;
+    sub seven.taboldstyle by seven;
+    sub six.taboldstyle by six;
+    sub three.taboldstyle by three;
+    sub two.taboldstyle by two;
+    sub zero.taboldstyle by zero;
+} lnum_0;
 
-lookup dligDiscretionaryLigaturesinLat {
+lookup dlig_1 {
   lookupflag 0;
-    sub \exclam \quoteleft  by \exclamdown;
-    sub \exclam \grave  by \exclamdown;
-    sub \question \quoteleft  by \questiondown;
-    sub \question \grave  by \questiondown;
-} dligDiscretionaryLigaturesinLat;
+    sub exclam quoteleft  by exclamdown;
+    sub exclam grave  by exclamdown;
+    sub question quoteleft  by questiondown;
+    sub question grave  by questiondown;
+} dlig_1;
 
-lookup zeroSlashedZeroinLatinlookup20 {
+lookup zero_0 {
   lookupflag 0;
-    sub \zero by \zero.slash ;
-} zeroSlashedZeroinLatinlookup20;
+    sub zero by zero.slash;
+} zero_0;
 
-lookup ligaStandardLigatureslookup22 {
+lookup liga_0 {
   lookupflag IgnoreMarks;
-    sub [\uni0644.init \uni0644.medi \uni06B5.init \uni06B5.medi \uni06B6.init 
-	\uni06B6.medi \uni06B7.init \uni06B7.medi \uni06B8.init 
-	\uni06B8.medi \uni076A.init \uni076A.medi ] [\uni0622.fina \uni0623.fina \uni0625.fina \uni0627.fina \uni0671.fina 
-	\uni0672.fina \uni0673.fina \uni0773.fina \uni0774.fina ]'  by [\uni0622.fina.alt \uni0623.fina.alt 
-	\uni0625.fina.alt \uni0627.fina.alt \uni0671.fina.alt \uni0672.fina.alt 
-	\uni0673.fina.alt \uni0773.fina.alt \uni0774.fina.alt ];
-} ligaStandardLigatureslookup22;
+    sub [uni0644.init uni0644.medi uni06B5.init uni06B5.medi uni06B6.init
+	uni06B6.medi uni06B7.init uni06B7.medi uni06B8.init
+	uni06B8.medi uni076A.init uni076A.medi] [uni0622.fina uni0623.fina uni0625.fina uni0627.fina uni0671.fina
+	uni0672.fina uni0673.fina uni0773.fina uni0774.fina]'  by [uni0622.fina.alt uni0623.fina.alt
+	uni0625.fina.alt uni0627.fina.alt uni0671.fina.alt uni0672.fina.alt
+	uni0673.fina.alt uni0773.fina.alt uni0774.fina.alt];
+} liga_0;
 
 feature ccmp {
 
   script arab;
-     language dflt ;
-      lookup ccmpGlyphCompositionDecompositi;
+     language dflt;
+      lookup ccmp_0;
      language ARA  exclude_dflt;
-      lookup ccmpGlyphCompositionDecompositi;
+      lookup ccmp_0;
      language FAR  exclude_dflt;
-      lookup ccmpGlyphCompositionDecompositi;
+      lookup ccmp_0;
      language URD  exclude_dflt;
-      lookup ccmpGlyphCompositionDecompositi;
+      lookup ccmp_0;
 } ccmp;
 
 feature dlig {
-
   script arab;
-     language dflt ;
-      lookup dligDiscretionaryLigaturesinAra;
+     language dflt;
+      lookup dlig_0;
      language ARA  exclude_dflt;
-      lookup dligDiscretionaryLigaturesinAra;
+      lookup dlig_0;
      language FAR  exclude_dflt;
-      lookup dligDiscretionaryLigaturesinAra;
+      lookup dlig_0;
      language URD  exclude_dflt;
-      lookup dligDiscretionaryLigaturesinAra;
+      lookup dlig_0;
 
   script latn;
-     language dflt ;
-      lookup dligDiscretionaryLigaturesinLat;
+     language dflt;
+      lookup dlig_1;
      language AZE  exclude_dflt;
-      lookup dligDiscretionaryLigaturesinLat;
+      lookup dlig_1;
      language CRT  exclude_dflt;
-      lookup dligDiscretionaryLigaturesinLat;
+      lookup dlig_1;
      language MOL  exclude_dflt;
-      lookup dligDiscretionaryLigaturesinLat;
+      lookup dlig_1;
      language ROM  exclude_dflt;
-      lookup dligDiscretionaryLigaturesinLat;
+      lookup dlig_1;
      language TRK  exclude_dflt;
-      lookup dligDiscretionaryLigaturesinLat;
+      lookup dlig_1;
 } dlig;
 
 feature locl {
-
   script arab;
      language URD  exclude_dflt;
-      lookup loclLocalizedFormsinArabiclooku;
+      lookup locl_0;
 } locl;
 
 feature fina {
-
   script arab;
-     language dflt ;
-      lookup finaTerminalFormsinArabiclookup;
+     language dflt;
+      lookup fina_0;
      language ARA  exclude_dflt;
-      lookup finaTerminalFormsinArabiclookup;
+      lookup fina_0;
      language FAR  exclude_dflt;
-      lookup finaTerminalFormsinArabiclookup;
+      lookup fina_0;
      language URD  exclude_dflt;
-      lookup finaTerminalFormsinArabiclookup;
+      lookup fina_0;
 } fina;
 
 feature medi {
-
   script arab;
-     language dflt ;
-      lookup mediMedialFormsinArabiclookup6;
+     language dflt;
+      lookup media_0;
      language ARA  exclude_dflt;
-      lookup mediMedialFormsinArabiclookup6;
+      lookup media_0;
      language FAR  exclude_dflt;
-      lookup mediMedialFormsinArabiclookup6;
+      lookup media_0;
      language URD  exclude_dflt;
-      lookup mediMedialFormsinArabiclookup6;
+      lookup media_0;
 } medi;
 
 feature init {
-
   script arab;
-     language dflt ;
-      lookup initInitialFormsinArabiclookup7;
+     language dflt;
+      lookup init_0;
      language ARA  exclude_dflt;
-      lookup initInitialFormsinArabiclookup7;
+      lookup init_0;
      language FAR  exclude_dflt;
-      lookup initInitialFormsinArabiclookup7;
+      lookup init_0;
      language URD  exclude_dflt;
-      lookup initInitialFormsinArabiclookup7;
+      lookup init_0;
 } init;
 
 feature rlig {
-
   script arab;
-     language dflt ;
-      lookup rligRequiredLigaturesinArabiclo;
+     language dflt;
+      lookup rlig_0;
      language ARA  exclude_dflt;
-      lookup rligRequiredLigaturesinArabiclo;
-      lookup sub_single_rligarab_0;
+      lookup rlig_0;
+      lookup rlig_1;
      language FAR  exclude_dflt;
-      lookup rligRequiredLigaturesinArabiclo;
+      lookup rlig_0;
      language URD  exclude_dflt;
-      lookup rligRequiredLigaturesinArabiclo;
+      lookup rlig_0;
 } rlig;
 
 feature aalt {
-      lookup aaltAccessAllAlternatesinLatinl;
-      lookup sub_alt_aaltlatn_0;
+      lookup aalt_0;
+      lookup aalt_1;
 } aalt;
 
 feature frac {
-
   script latn;
-     language dflt ;
-      lookup fracDiagonalFractionsinLatinloo;
+     language dflt;
+      lookup frac_0;
      language AZE  exclude_dflt;
-      lookup fracDiagonalFractionsinLatinloo;
+      lookup frac_0;
      language CRT  exclude_dflt;
-      lookup fracDiagonalFractionsinLatinloo;
+      lookup frac_0;
      language MOL  exclude_dflt;
-      lookup fracDiagonalFractionsinLatinloo;
+      lookup frac_0;
      language ROM  exclude_dflt;
-      lookup fracDiagonalFractionsinLatinloo;
+      lookup frac_0;
      language TRK  exclude_dflt;
-      lookup fracDiagonalFractionsinLatinloo;
+      lookup frac_0;
 } frac;
 
 feature onum {
-
   script latn;
-     language dflt ;
-      lookup onumOldstyleFiguresinLatinlooku;
+     language dflt;
+      lookup onum_0;
      language AZE  exclude_dflt;
-      lookup onumOldstyleFiguresinLatinlooku;
+      lookup onum_0;
      language CRT  exclude_dflt;
-      lookup onumOldstyleFiguresinLatinlooku;
+      lookup onum_0;
      language MOL  exclude_dflt;
-      lookup onumOldstyleFiguresinLatinlooku;
+      lookup onum_0;
      language ROM  exclude_dflt;
-      lookup onumOldstyleFiguresinLatinlooku;
+      lookup onum_0;
      language TRK  exclude_dflt;
-      lookup onumOldstyleFiguresinLatinlooku;
+      lookup onum_0;
 } onum;
 
 feature lnum {
-
   script latn;
-     language dflt ;
-      lookup lnumLiningFiguresinLatinlookup1;
+     language dflt;
+      lookup lnum_0;
      language AZE  exclude_dflt;
-      lookup lnumLiningFiguresinLatinlookup1;
+      lookup lnum_0;
      language CRT  exclude_dflt;
-      lookup lnumLiningFiguresinLatinlookup1;
+      lookup lnum_0;
      language MOL  exclude_dflt;
-      lookup lnumLiningFiguresinLatinlookup1;
+      lookup lnum_0;
      language ROM  exclude_dflt;
-      lookup lnumLiningFiguresinLatinlookup1;
+      lookup lnum_0;
      language TRK  exclude_dflt;
-      lookup lnumLiningFiguresinLatinlookup1;
+      lookup lnum_0;
 } lnum;
 
 feature zero {
-
   script latn;
-     language dflt ;
-      lookup zeroSlashedZeroinLatinlookup20;
+     language dflt;
+      lookup zero_0;
      language AZE  exclude_dflt;
-      lookup zeroSlashedZeroinLatinlookup20;
+      lookup zero_0;
      language CRT  exclude_dflt;
-      lookup zeroSlashedZeroinLatinlookup20;
+      lookup zero_0;
      language MOL  exclude_dflt;
-      lookup zeroSlashedZeroinLatinlookup20;
+      lookup zero_0;
      language ROM  exclude_dflt;
-      lookup zeroSlashedZeroinLatinlookup20;
+      lookup zero_0;
      language TRK  exclude_dflt;
-      lookup zeroSlashedZeroinLatinlookup20;
+      lookup zero_0;
 } zero;
 
 feature liga {
-
   script arab;
-     language dflt ;
-      lookup ligaStandardLigatureslookup22;
+     language dflt;
+      lookup liga_0;
      language ARA  exclude_dflt;
-      lookup ligaStandardLigatureslookup22;
+      lookup liga_0;
      language FAR  exclude_dflt;
-      lookup ligaStandardLigatureslookup22;
+      lookup liga_0;
      language URD  exclude_dflt;
-      lookup ligaStandardLigatureslookup22;
+      lookup liga_0;
 } liga;
 
-# GPOS 
+# GPOS
 
 
-lookup markMarkPositioninginArabiclook {
+lookup mark_0 {
   lookupflag RightToLeft;
-    pos \uni0640 <0 0 0 0> \uni08FF.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08FE.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08FD.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08FC.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08FB.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08FA.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08F9.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08F8.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08F7.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08F6.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08F5.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08F4.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08F3.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08F2.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08F1.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08F0.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08EF.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08EE.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08ED.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08EC.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08EB.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08EA.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08E9.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08E8.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08E7.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08E6.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08E5.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni08E4.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06ED.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06EC.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06EB.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06E8.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06EA.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06E3.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06E2.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06E7.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06E1.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06E4.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06E0.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06DF.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni06DC.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0674.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0670.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni065F.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni065E.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni065D.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni065C.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni065B.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni065A.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0659.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0658.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0657.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0656.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0655.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0654.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0653.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0652.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0651.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0650.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni064F.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni064E.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni064D.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni064C.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni064B.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni061A.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0619.base  <0 0 -525 0>;
-    pos \uni0640 <0 0 0 0> \uni0618.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08FF.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08FE.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08FD.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08FC.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08FB.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08FA.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08F9.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08F8.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08F7.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08F6.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08F5.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08F4.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08F3.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08F2.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08F1.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08F0.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08EF.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08EE.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08ED.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08EC.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08EB.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08EA.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08E9.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08E8.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08E7.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08E6.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08E5.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni08E4.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06ED.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06EC.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06EB.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06E8.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06EA.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06E3.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06E2.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06E7.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06E1.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06E4.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06E0.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06DF.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni06DC.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0674.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0670.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni065F.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni065E.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni065D.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni065C.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni065B.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni065A.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0659.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0658.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0657.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0656.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0655.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0654.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0653.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0652.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0651.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0650.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni064F.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni064E.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni064D.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni064C.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni064B.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni061A.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0619.base  <0 0 -525 0>;
-    pos \uni25CC <0 0 0 0> \uni0618.base  <0 0 -525 0>;
-} markMarkPositioninginArabiclook;
+    pos uni0640 <0 0 0 0> uni08FF.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08FE.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08FD.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08FC.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08FB.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08FA.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08F9.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08F8.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08F7.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08F6.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08F5.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08F4.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08F3.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08F2.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08F1.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08F0.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08EF.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08EE.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08ED.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08EC.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08EB.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08EA.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08E9.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08E8.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08E7.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08E6.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08E5.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni08E4.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06ED.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06EC.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06EB.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06E8.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06EA.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06E3.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06E2.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06E7.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06E1.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06E4.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06E0.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06DF.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni06DC.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0674.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0670.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni065F.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni065E.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni065D.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni065C.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni065B.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni065A.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0659.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0658.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0657.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0656.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0655.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0654.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0653.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0652.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0651.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0650.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni064F.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni064E.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni064D.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni064C.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni064B.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni061A.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0619.base  <0 0 -525 0>;
+    pos uni0640 <0 0 0 0> uni0618.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08FF.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08FE.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08FD.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08FC.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08FB.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08FA.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08F9.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08F8.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08F7.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08F6.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08F5.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08F4.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08F3.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08F2.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08F1.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08F0.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08EF.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08EE.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08ED.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08EC.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08EB.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08EA.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08E9.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08E8.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08E7.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08E6.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08E5.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni08E4.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06ED.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06EC.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06EB.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06E8.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06EA.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06E3.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06E2.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06E7.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06E1.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06E4.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06E0.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06DF.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni06DC.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0674.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0670.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni065F.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni065E.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni065D.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni065C.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni065B.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni065A.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0659.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0658.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0657.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0656.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0655.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0654.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0653.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0652.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0651.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0650.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni064F.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni064E.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni064D.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni064C.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni064B.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni061A.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0619.base  <0 0 -525 0>;
+    pos uni25CC <0 0 0 0> uni0618.base  <0 0 -525 0>;
+} mark_0;
 
 feature mark {
-
   script arab;
-     language dflt ;
-      lookup markMarkPositioninginArabiclook;
+     language dflt;
+      lookup mark_0;
      language ARA  exclude_dflt;
-      lookup markMarkPositioninginArabiclook;
+      lookup mark_0;
      language FAR  exclude_dflt;
-      lookup markMarkPositioninginArabiclook;
+      lookup mark_0;
      language URD  exclude_dflt;
-      lookup markMarkPositioninginArabiclook;
+      lookup mark_0;
 } mark;
+
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [\.notdef \acute.dup \AE.dup \ae.dup \cedilla.dup \circumflex.dup 
-	\dieresis.dup \Gcedilla \gcedilla \germandbls.dup \hyphen.dup \Kcedilla 
-	\kcedilla \Lcedilla \lcedilla \macron.dup \Ncedilla \ncedilla \OE.dup \oe.dup 
-	\Oslash.dup \oslash.dup \quoteleft.dup \quoteright.dup \Rcedilla \rcedilla 
-	\tilde.dup \A \a \ampersand \asciicircum \asciitilde \asterisk \at \B \b 
-	\backslash \bar \braceleft \braceright \bracketleft \bracketright \C \c \colon 
-	\comma \D \d \dollar \E \e \eight \equal \exclam \F \f \five \four \G \g \grave \greater 
-	\H \h \hyphen \I \i \J \j \K \k \L \l \less \M \m \N \n \nine \numbersign \O \o \one \P \p 
-	\parenleft \parenright \percent \period \plus \Q \q \question \quotedbl 
-	\quotesingle \R \r \S \s \semicolon \seven \six \slash \space \T \t \three \two \U \u 
-	\underscore \V \v \W \w \X \x \Y \y \Z \z \zero \Aacute \aacute \Abreve \abreve 
-	\Abreveacute \abreveacute \Abrevedotbelow \abrevedotbelow \Abrevegrave 
-	\abrevegrave \Abrevehookabove \abrevehookabove \Abrevetilde \abrevetilde 
-	\Acaron \acaron \Acircumflex \acircumflex \Acircumflexacute \acircumflexacute 
-	\Acircumflexdotbelow \acircumflexdotbelow \Acircumflexgrave 
-	\acircumflexgrave \Acircumflexhookabove \acircumflexhookabove 
-	\Acircumflextilde \acircumflextilde \acute \uni0301 \Adblgrave \adblgrave 
-	\Adieresis \adieresis \Adotbelow \adotbelow \AE \ae \AEacute \aeacute \Agrave 
-	\agrave \Ahookabove \ahookabove \Alpha \Amacron \amacron \anglearc \angleleft 
-	\angleright \Aogonek \aogonek \Aring \aring \Aringacute \aringacute \uni2193 
-	\uni2190 \uni2192 \uni2191 \asterisk.math \Atilde \atilde \baht \Beta 
-	\blanksymbol \breve \uni032E \uni032F \uni0306 \uni0311 \brokenbar \bullet 
-	\Cacute \cacute \caron \uni030C \Ccaron \ccaron \Ccedilla \ccedilla \Ccircumflex 
-	\ccircumflex \Cdotaccent \cdotaccent \cedilla \cent \centigrade \Chi 
-	\circumflex \uni0302 \colonmonetary \uni0326 \copyright \currency \dagger 
-	\daggerdbl \dblbracketleft \dblbracketright \uni030F \dblverticalbar \Dcaron 
-	\dcaron \Dcroat \dcroat \Ddotbelow \ddotbelow \degree \Delta \diameter \dieresis 
-	\uni0308 \discount \divide \divorced \Dlinebelow \dlinebelow \dong \dotaccent 
-	\uni0307 \uni0323 \dotlessi \uni0237 \Eacute \eacute \Ebreve \ebreve \Ecaron 
-	\ecaron \Ecircumflex \ecircumflex \Ecircumflexacute \ecircumflexacute 
-	\Ecircumflexdotbelow \ecircumflexdotbelow \Ecircumflexgrave 
-	\ecircumflexgrave \Ecircumflexhookabove \ecircumflexhookabove 
-	\Ecircumflextilde \ecircumflextilde \Edblgrave \edblgrave \Edieresis 
-	\edieresis \Edotaccent \edotaccent \Edotbelow \edotbelow \Egrave \egrave 
-	\Ehookabove \ehookabove \ellipsis \Emacron \emacron \emdash \endash \Eng \eng 
-	\Eogonek \eogonek \Epsilon \Ereversed \ereversed \estimated \Eta \Eth \eth 
-	\Etilde \etilde \eturned \Euro \exclamdown \florin \fraction \fraction.alt 
-	\Gacute \gacute \Gamma \Gbreve \gbreve \Gcaron \gcaron \Gcircumflex \gcircumflex 
-	\Gcommaaccent \gcommaaccent \Gdotaccent \gdotaccent \germandbls \uni0300 
-	\guillemotleft \guillemotright \guilsinglleft \guilsinglright \Hbar \hbar 
-	\Hbrevebelow \hbrevebelow \Hcircumflex \hcircumflex \Hdieresis \hdieresis 
-	\Hdotbelow \hdotbelow \uni0309 \hungarumlaut \uni030B \Iacute \iacute \Ibreve 
-	\ibreve \Icaron \icaron \Icircumflex \icircumflex \Idblgrave \idblgrave 
-	\Idieresis \idieresis \Idieresisacute \idieresisacute \Idotaccent \Idotbelow 
-	\idotbelow \Igrave \igrave \Ihookabove \ihookabove \Imacron \imacron \infinity 
-	\interrobang \Iogonek \iogonek \Iota \Itilde \itilde \jcaron \Jcircumflex 
-	\jcircumflex \Kappa \Kcommaaccent \kcommaaccent \Lacute \lacute \Lambda \Lcaron 
-	\lcaron \Lcommaaccent \lcommaaccent \Ldot \ldot \Ldotbelow \ldotbelow 
-	\Ldotbelowmacron \ldotbelowmacron \uni0332 \lira \logicalnot \longs \Lslash 
-	\lslash \macron \uni0331 \uni0304 \married \Mdotbelow \mdotbelow \uni2127 \minus 
-	\Mu \uni00B5 \multiply \uni266A \Nacute \nacute \naira \uni00A0 \Ncaron \ncaron 
-	\Ncommaaccent \ncommaaccent \Ndotaccent \ndotaccent \Ndotbelow \ndotbelow 
-	\Ntilde \ntilde \Nu \numero \Oacute \oacute \Obreve \obreve \Ocaron \ocaron 
-	\Ocircumflex \ocircumflex \Ocircumflexacute \ocircumflexacute 
-	\Ocircumflexdotbelow \ocircumflexdotbelow \Ocircumflexgrave 
-	\ocircumflexgrave \Ocircumflexhookabove \ocircumflexhookabove 
-	\Ocircumflextilde \ocircumflextilde \Odblgrave \odblgrave \Odieresis 
-	\odieresis \Odotbelow \odotbelow \OE \oe \ogonek \Ograve \ograve \ohm \Ohookabove 
-	\ohookabove \Ohorn \ohorn \Ohornacute \ohornacute \Ohorndotbelow 
-	\ohorndotbelow \Ohorngrave \ohorngrave \Ohornhookabove \ohornhookabove 
-	\Ohorntilde \ohorntilde \Ohungarumlaut \ohungarumlaut \Omacron \omacron \Omega 
-	\Omicron \onehalf \onequarter \one.superior \Oogonek \oogonek \openbullet 
-	\ordfeminine \ordmasculine \Oslash \oslash \Oslashacute \oslashacute \Otilde 
-	\otilde \paragraph \periodcentered \perthousand \peso \Phi \Pi \plusminus \Psi 
-	\published \questiondown \quillbracketleft \quillbracketright \quotedblbase 
-	\quotedblleft \quotedblright \quoteleft \quoteright \quotesinglbase \Racute 
-	\racute \radical \Rcaron \rcaron \Rcommaaccent \rcommaaccent \Rdblgrave 
-	\rdblgrave \Rdotaccent \rdotaccent \Rdotbelow \rdotbelow \Rdotbelowmacron 
-	\rdotbelowmacron \recipe \referencemark \registered \Rho \ring \uni030A 
-	\ringhalfleft \ringhalfright \Sacute \sacute \Scaron \scaron \Scedilla 
-	\scedilla \schwa \Scircumflex \scircumflex \uni0218 \uni0219 \Sdotbelow 
-	\sdotbelow \section \uni00AD \Sigma \sterling \Tau \Tcaron \tcaron \Tcedilla 
-	\tcedilla \uni021A \uni021B \tdieresis \Tdotbelow \tdotbelow \Theta \Thorn 
-	\thorn \threequarters \three.superior \uni2040 \tilde \uni0330 \uni0303 
-	\Tlinebelow \tlinebelow \two.superior \Uacute \uacute \Ubreve \ubreve \Ucaron 
-	\ucaron \Ucircumflex \ucircumflex \Udblgrave \udblgrave \Udieresis \udieresis 
-	\Udieresisacute \udieresisacute \Udieresiscaron \udieresiscaron 
-	\Udieresisgrave \udieresisgrave \Udotbelow \udotbelow \Ugrave \ugrave 
-	\Uhookabove \uhookabove \Uhorn \uhorn \Uhornacute \uhornacute \Uhorndotbelow 
-	\uhorndotbelow \Uhorngrave \uhorngrave \Uhornhookabove \uhornhookabove 
-	\Uhorntilde \uhorntilde \Uhungarumlaut \uhungarumlaut \Umacron \umacron 
-	\uni203F \uni2054 \uni2010 \uni2011 \uni2423 \Uogonek \uogonek \Upsilon \Uring 
-	\uring \Utilde \utilde \Wacute \wacute \Wcircumflex \wcircumflex \Wdieresis 
-	\wdieresis \Wgrave \wgrave \won \Xi \Yacute \yacute \Ycircumflex \ycircumflex 
-	\Ydieresis \ydieresis \Ydotbelow \ydotbelow \yen \Ygrave \ygrave \Yhookabove 
-	\yhookabove \Ytilde \ytilde \Zacute \zacute \Zcaron \zcaron \Zdotaccent 
-	\zdotaccent \Zdotbelow \zdotbelow \Zeta \acute.cap \uni0301.cap \breve.cap 
-	\space_uni0306_uni0301.cap \space_uni0306_uni0301 \space_uni032E 
-	\space_uni032F \uni0306.cap \space_uni0306_uni0300.cap 
-	\space_uni0306_uni0300 \space_uni0306_uni0309.cap \space_uni0306_uni0309 
-	\space_uni0311.cap \space_uni0311 \uni0311.cap \space_uni0306_uni0303.cap 
-	\space_uni0306_uni0303 \caron.cap \uni030C.cap \circumflex.cap 
-	\space_uni0302_uni0301.cap \space_uni0302_uni0301 \uni0302.cap 
-	\space_uni0302_uni0300.cap \space_uni0302_uni0300 
-	\space_uni0302_uni0309.cap \space_uni0302_uni0309 
-	\space_uni0302_uni0303.cap \space_uni0302_uni0303 \space_uni0326 
-	\space_uni030F.cap \space_uni030F \uni030F.cap \dieresis.cap 
-	\space_uni0308_uni0301.cap \space_uni0308_uni0301 
-	\space_uni0308_uni030C.cap \space_uni0308_uni030C \uni0308.cap 
-	\space_uni0308_uni0300.cap \space_uni0308_uni0300 \dotaccent.cap 
-	\uni0307.cap \grave.cap \uni0300.cap \space_uni0309.cap \space_uni0309 
-	\uni0309.cap \hungarumlaut.cap \uni030B.cap \space_uni0332 \macron.cap 
-	\macron.cap.alt \macron.alt \space_uni0331 \uni0304.cap \ring.cap 
-	\space_uni030A_uni0301.cap \space_uni030A_uni0301 \uni030A.cap \tilde.cap 
-	\space_uni0330 \uni0303.cap \acute.ts1 \Aogonekacute \aogonekacute \bigcircle 
-	\star.alt \breve.ts1 \caron.ts1 \copyleft \cwm \cwmascender \cwmcapital 
-	\dblgrave.ts1 \died \dieresis.ts1 \space_uni0323 \Eogonekacute \eogonekacute 
-	\gnaborretni \grave.ts1 \guarani \hungarumlaut.ts1 \hyphen.alt \hyphendbl 
-	\hyphendbl.alt \Iogonekacute \iogonekacute \J_uni030C.cap \Jacute \jacute 
-	\leaf \macron.ts1 \Oogonekacute \oogonekacute \paragraph.alt \perthousandzero 
-	\quotedblbase.cm \quotedblbase.cs \quotedblbase.ts1 \quotedblleft.cm 
-	\quotedblright.cm \quotedblright.cs \quotesinglbase.ts1 \quotesingle.ts1 
-	\registered.alt \tieaccentcapital \tieaccentcapital.new \tieaccentlowercase 
-	\tieaccentlowercase.new \asciitilde.low \emdash.alt \U_uni032F \u_uni032F 
-	\H_uni0303 \h_uni0303 \Imacron.alt \imacron.alt \L_uni0303 \l_uni0303 \Orogate 
-	\orogate \T_uni0308 \T_uni0303 \t_uni0303 \dotaccent.alt \cent.oldstyle 
-	\dollar.oldstyle \dotlessj \eight.taboldstyle \five.taboldstyle 
-	\four.taboldstyle \nine.taboldstyle \one.taboldstyle \seven.taboldstyle 
-	\six.taboldstyle \threequartersemdash \three.taboldstyle \two.taboldstyle 
-	\zero.slash \zero.taboldstyle \uni0621 \uni06FD \uni0640 \uni0622 \uni0623 
-	\uni0625 \uni0627 \uni0671 \uni0672 \uni0673 \uni0675 \uni0628 \uni062A \uni062B 
-	\uni066E \uni0679 \uni067A \uni067B \uni067C \uni067D \uni067E \uni067F \uni0680 
-	\uni08A0 \uni062C \uni062D \uni062E \uni0681 \uni0682 \uni0683 \uni0684 \uni0685 
-	\uni0686 \uni0687 \uni06BF \uni08A2 \uni062F \uni0630 \uni0688 \uni0689 \uni068A 
-	\uni068B \uni068C \uni068D \uni068E \uni068F \uni0690 \uni06EE \uni0631 \uni0632 
-	\uni0691 \uni0692 \uni0693 \uni0694 \uni0695 \uni0696 \uni0697 \uni0698 \uni0699 
-	\uni06EF \uni0633 \uni0634 \uni069A \uni069B \uni069C \uni06FA \uni0635 \uni0636 
-	\uni069D \uni069E \uni06FB \uni0637 \uni0638 \uni069F \uni08A3 \uni0639 \uni063A 
-	\uni06A0 \uni06FC \uni0641 \uni06A1 \uni06A2 \uni06A3 \uni06A4 \uni06A5 \uni06A6 
-	\uni08A4 \uni0642 \uni066F \uni06A7 \uni06A8 \uni08A5 \uni0643 \uni06AC \uni06AD 
-	\uni06AE \uni0644 \uni06B5 \uni06B6 \uni06B7 \uni06B8 \uni08A6 \uni0645 \uni06FE 
-	\uni08A7 \uni0646 \uni06B9 \uni06BA \uni06BB \uni06BC \uni06BD \uni0629 \uni06C0 
-	\uni06D5 \uni0647 \uni06FF \uni06BE \uni0624 \uni0648 \uni0676 \uni0677 \uni06C4 
-	\uni06C5 \uni06C6 \uni06C7 \uni06C8 \uni06C9 \uni06CA \uni06CB \uni06CF \uni08AB 
-	\uni0620 \uni0626 \uni063D \uni063E \uni063F \uni0649 \uni064A \uni0678 \uni06CC 
-	\uni06CE \uni06D0 \uni06D1 \uni08A8 \uni08A9 \uni06CD \uni06A9 \uni063B \uni063C 
-	\uni06AB \uni06AF \uni06B0 \uni06B1 \uni06B2 \uni06B3 \uni06B4 \uni06AA \uni06C1 
-	\uni06C2 \uni06C3 \uni06D2 \uni06D3 \uni08AA \uni08AC \uniFEFB \uni0647.alt 
-	\uni0629.alt \uni0622.fina \uni0623.fina \uni0625.fina \uni0627.fina 
-	\uni0671.fina \uni0672.fina \uni0673.fina \uni0675.fina \uni0628.init 
-	\uni062A.init \uni062B.init \uni066E.init \uni0679.init \uni067A.init 
-	\uni067B.init \uni067C.init \uni067D.init \uni067E.init \uni067F.init 
-	\uni0680.init \uni08A0.init \uni0628.medi \uni062A.medi \uni062B.medi 
-	\uni066E.medi \uni0679.medi \uni067A.medi \uni067B.medi \uni067C.medi 
-	\uni067D.medi \uni067E.medi \uni067F.medi \uni0680.medi \uni08A0.medi 
-	\uni0628.fina \uni062A.fina \uni062B.fina \uni066E.fina \uni0679.fina 
-	\uni067A.fina \uni067B.fina \uni067C.fina \uni067D.fina \uni067E.fina 
-	\uni067F.fina \uni0680.fina \uni08A0.fina \uni062C.init \uni062D.init 
-	\uni062E.init \uni0681.init \uni0682.init \uni0683.init \uni0684.init 
-	\uni0685.init \uni0686.init \uni0687.init \uni06BF.init \uni08A2.init 
-	\uni062C.medi \uni062D.medi \uni062E.medi \uni0681.medi \uni0682.medi 
-	\uni0683.medi \uni0684.medi \uni0685.medi \uni0686.medi \uni0687.medi 
-	\uni06BF.medi \uni08A2.medi \uni062C.fina \uni062D.fina \uni062E.fina 
-	\uni0681.fina \uni0682.fina \uni0683.fina \uni0684.fina \uni0685.fina 
-	\uni0686.fina \uni0687.fina \uni06BF.fina \uni08A2.fina \uni062F.fina 
-	\uni0630.fina \uni0688.fina \uni0689.fina \uni068A.fina \uni068B.fina 
-	\uni068C.fina \uni068D.fina \uni068E.fina \uni068F.fina \uni0690.fina 
-	\uni06EE.fina \uni0631.fina \uni0632.fina \uni0691.fina \uni0692.fina 
-	\uni0693.fina \uni0694.fina \uni0695.fina \uni0696.fina \uni0697.fina 
-	\uni0698.fina \uni0699.fina \uni06EF.fina \uni0633.init \uni0634.init 
-	\uni069A.init \uni069B.init \uni069C.init \uni06FA.init \uni0633.medi 
-	\uni0634.medi \uni069A.medi \uni069B.medi \uni069C.medi \uni06FA.medi 
-	\uni0633.fina \uni0634.fina \uni069A.fina \uni069B.fina \uni069C.fina 
-	\uni06FA.fina \uni0635.init \uni0636.init \uni069D.init \uni069E.init 
-	\uni06FB.init \uni0635.medi \uni0636.medi \uni069D.medi \uni069E.medi 
-	\uni06FB.medi \uni0635.fina \uni0636.fina \uni069D.fina \uni069E.fina 
-	\uni06FB.fina \uni0637.init \uni0638.init \uni069F.init \uni08A3.init 
-	\uni0637.medi \uni0638.medi \uni069F.medi \uni08A3.medi \uni0637.fina 
-	\uni0638.fina \uni069F.fina \uni08A3.fina \uni0639.init \uni063A.init 
-	\uni06A0.init \uni06FC.init \uni0639.medi \uni063A.medi \uni06A0.medi 
-	\uni06FC.medi \uni0639.fina \uni063A.fina \uni06A0.fina \uni06FC.fina 
-	\uni0641.init \uni06A1.init \uni06A2.init \uni06A3.init \uni06A4.init 
-	\uni06A5.init \uni06A6.init \uni08A4.init \uni0641.medi \uni06A1.medi 
-	\uni06A2.medi \uni06A3.medi \uni06A4.medi \uni06A5.medi \uni06A6.medi 
-	\uni08A4.medi \uni0641.fina \uni06A1.fina \uni06A2.fina \uni06A3.fina 
-	\uni06A4.fina \uni06A5.fina \uni06A6.fina \uni08A4.fina \uni0642.init 
-	\uni066F.init \uni06A7.init \uni06A8.init \uni08A5.init \uni0642.medi 
-	\uni066F.medi \uni06A7.medi \uni06A8.medi \uni08A5.medi \uni0642.fina 
-	\uni066F.fina \uni06A7.fina \uni06A8.fina \uni08A5.fina \uni0643.init 
-	\uni06AC.init \uni06AD.init \uni06AE.init \uni0643.medi \uni06AC.medi 
-	\uni06AD.medi \uni06AE.medi \uni0643.fina \uni06AC.fina \uni06AD.fina 
-	\uni06AE.fina \uni0644.init \uni06B5.init \uni06B6.init \uni06B7.init 
-	\uni06B8.init \uni08A6.init \uni0644.medi \uni06B5.medi \uni06B6.medi 
-	\uni06B7.medi \uni06B8.medi \uni08A6.medi \uni0644.fina \uni06B5.fina 
-	\uni06B6.fina \uni06B7.fina \uni06B8.fina \uni08A6.fina \uni0645.init 
-	\uni06FE.init \uni08A7.init \uni0645.medi \uni06FE.medi \uni08A7.medi 
-	\uni0645.fina \uni06FE.fina \uni08A7.fina \uni0646.init \uni06B9.init 
-	\uni06BA.init \uni06BB.init \uni06BC.init \uni06BD.init \uni0646.medi 
-	\uni06B9.medi \uni06BA.medi \uni06BB.medi \uni06BC.medi \uni06BD.medi 
-	\uni0646.fina \uni06B9.fina \uni06BA.fina \uni06BB.fina \uni06BC.fina 
-	\uni06BD.fina \uni0629.fina \uni06C0.fina \uni06D5.fina \uni0647.init 
-	\uni06FF.init \uni0647.medi \uni06FF.medi \uni0647.fina \uni06FF.fina 
-	\uni06BE.init \uni06BE.medi \uni06BE.fina \uni0624.fina \uni0648.fina 
-	\uni0676.fina \uni0677.fina \uni06C4.fina \uni06C5.fina \uni06C6.fina 
-	\uni06C7.fina \uni06C8.fina \uni06C9.fina \uni06CA.fina \uni06CB.fina 
-	\uni06CF.fina \uni08AB.fina \uni0620.init \uni0626.init \uni063D.init 
-	\uni063E.init \uni063F.init \uni0649.init \uni064A.init \uni0678.init 
-	\uni06CC.init \uni06CE.init \uni06D0.init \uni06D1.init \uni08A8.init 
-	\uni08A9.init \uni0620.medi \uni0626.medi \uni063D.medi \uni063E.medi 
-	\uni063F.medi \uni0649.medi \uni064A.medi \uni0678.medi \uni06CC.medi 
-	\uni06CE.medi \uni06D0.medi \uni06D1.medi \uni08A8.medi \uni08A9.medi 
-	\uni0620.fina \uni0626.fina \uni063D.fina \uni063E.fina \uni063F.fina 
-	\uni0649.fina \uni064A.fina \uni0678.fina \uni06CC.fina \uni06CE.fina 
-	\uni06D0.fina \uni06D1.fina \uni08A8.fina \uni08A9.fina \uni06CD.fina 
-	\uni06A9.init \uni063B.init \uni063C.init \uni06AB.init \uni06A9.medi 
-	\uni063B.medi \uni063C.medi \uni06AB.medi \uni06A9.fina \uni063B.fina 
-	\uni063C.fina \uni06AB.fina \uni06AF.init \uni06B0.init \uni06B1.init 
-	\uni06B2.init \uni06B3.init \uni06B4.init \uni06AF.medi \uni06B0.medi 
-	\uni06B1.medi \uni06B2.medi \uni06B3.medi \uni06B4.medi \uni06AF.fina 
-	\uni06B0.fina \uni06B1.fina \uni06B2.fina \uni06B3.fina \uni06B4.fina 
-	\uni06AA.init \uni06AA.medi \uni06AA.fina \uni06C1.fina \uni06C2.fina 
-	\uni06C3.fina \uni06D2.fina \uni06D3.fina \uni08AA.fina \uni08AC.fina 
-	\uniFEFC \uni0660 \uni0661 \uni0662 \uni0663 \uni0664 \uni0665 \uni0666 \uni0667 
-	\uni0668 \uni0669 \uni06F0 \uni06F1 \uni06F2 \uni06F3 \uni06F4 \uni06F5 \uni06F6 
-	\uni06F7 \uni06F8 \uni06F9 \uni0609 \uni060A \uni066A \uni0606 \uni0607 \uni0600 
-	\uni0601 \uni0602 \uni0603 \uni0604 \uni0608 \uni060B \uni060C \uni060D \uni060E 
-	\uni060F \uni0610 \uni0611 \uni0612 \uni0613 \uni0614 \uni0616 \uni061B \uni061E 
-	\uni061F \exclam.arabic \colon.arabic \uni066B \uni066C \uni066D \uni06D4 
-	\uni0615 \uni0617 \uni06D6 \uni06D7 \uni06D8 \uni06D9 \uni06DA \uni06DB \uni06DD 
-	\uni06DE \uni06E5 \uni06E6 \uni06E9 \uniFD3E \uniFD3F \uni0618 \uni0619 \uni061A 
-	\uni064B \uni064C \uni064D \uni064E \uni064F \uni0650 \uni0651 \uni0652 \uni0653 
-	\uni0654 \uni0655 \uni0656 \uni0657 \uni0658 \uni0659 \uni065A \uni065B \uni065C 
-	\uni065D \uni065E \uni065F \uni0670 \uni0674 \uni06DC \uni06DF \uni06E0 \uni06E4 
-	\uni06E1 \uni06E7 \uni06E2 \uni06E3 \uni06EA \uni06E8 \uni06EB \uni06EC \uni06ED 
-	\uni08E4 \uni08E5 \uni08E6 \uni08E7 \uni08E8 \uni08E9 \uni08EA \uni08EB \uni08EC 
-	\uni08ED \uni08EE \uni08EF \uni08F0 \uni08F1 \uni08F2 \uni08F3 \uni08F4 \uni08F5 
-	\uni08F6 \uni08F7 \uni08F8 \uni08F9 \uni08FA \uni08FB \uni08FC \uni08FD \uni08FE 
-	\uniFBB2 \uniFBB3 \uniFBB4 \uniFBB5 \uniFBB6 \uniFBB7 \uniFBB8 \uniFBB9 \uniFBBA 
-	\uniFBBB \uniFBBC \uniFBBD \uniFBBE \uniFBBF \uniFBC0 \uniFBC1 \uniFDF2 \uniFDF4 
-	\uniFDFA \uniFDFB \uniFDFC \uniFDFD \uni061C \uni200C \uni200D \uni202A \uni202B 
-	\uni202C \uni202D \uni202E \uni202F \uniFEFF \uniFE73 \uniFDFA.batraa \uni25CC 
-	\uniFB50 \uniFB51 \uniFB52 \uniFB53 \uniFB54 \uniFB55 \uniFB56 \uniFB57 \uniFB58 
-	\uniFB59 \uniFB5A \uniFB5B \uniFB5C \uniFB5D \uniFB5E \uniFB5F \uniFB60 \uniFB61 
-	\uniFB62 \uniFB63 \uniFB64 \uniFB65 \uniFB66 \uniFB67 \uniFB68 \uniFB69 \uniFB6A 
-	\uniFB6B \uniFB6C \uniFB6D \uniFB6E \uniFB6F \uniFB70 \uniFB71 \uniFB72 \uniFB73 
-	\uniFB74 \uniFB75 \uniFB76 \uniFB77 \uniFB78 \uniFB79 \uniFB7A \uniFB7B \uniFB7C 
-	\uniFB7D \uniFB7E \uniFB7F \uniFB80 \uniFB81 \uniFB82 \uniFB83 \uniFB84 \uniFB85 
-	\uniFB86 \uniFB87 \uniFB88 \uniFB89 \uniFB8A \uniFB8B \uniFB8C \uniFB8D \uniFB8E 
-	\uniFB8F \uniFB90 \uniFB91 \uniFB92 \uniFB93 \uniFB94 \uniFB95 \uniFB96 \uniFB97 
-	\uniFB98 \uniFB99 \uniFB9A \uniFB9B \uniFB9C \uniFB9D \uniFB9E \uniFB9F \uniFBA0 
-	\uniFBA1 \uniFBA2 \uniFBA3 \uniFBA4 \uniFBA5 \uniFBA6 \uniFBA7 \uniFBA8 \uniFBA9 
-	\uniFBAA \uniFBAB \uniFBAC \uniFBAD \uniFBAE \uniFBAF \uniFBB0 \uniFBB1 \uniFBD3 
-	\uniFBD4 \uniFBD5 \uniFBD6 \uniFBD7 \uniFBD8 \uniFBD9 \uniFBDA \uniFBDB \uniFBDC 
-	\uniFBDD \uniFBDE \uniFBDF \uniFBE0 \uniFBE1 \uniFBE2 \uniFBE3 \uniFBE4 \uniFBE5 
-	\uniFBE6 \uniFBE7 \uniFBE8 \uniFBE9 \uniFBFC \uniFBFD \uniFBFE \uniFBFF \uniFE70 
-	\uniFE71 \uniFE72 \uniFE74 \uniFE76 \uniFE77 \uniFE78 \uniFE79 \uniFE7A \uniFE7B 
-	\uniFE7C \uniFE7D \uniFE7E \uniFE7F \uniFE80 \uniFE81 \uniFE82 \uniFE83 \uniFE84 
-	\uniFE85 \uniFE86 \uniFE87 \uniFE88 \uniFE89 \uniFE8A \uniFE8B \uniFE8C \uniFE8D 
-	\uniFE8E \uniFE8F \uniFE90 \uniFE91 \uniFE92 \uniFE93 \uniFE94 \uniFE95 \uniFE96 
-	\uniFE97 \uniFE98 \uniFE99 \uniFE9A \uniFE9B \uniFE9C \uniFE9D \uniFE9E \uniFE9F 
-	\uniFEA0 \uniFEA1 \uniFEA2 \uniFEA3 \uniFEA4 \uniFEA5 \uniFEA6 \uniFEA7 \uniFEA8 
-	\uniFEA9 \uniFEAA \uniFEAB \uniFEAC \uniFEAD \uniFEAE \uniFEAF \uniFEB0 \uniFEB1 
-	\uniFEB2 \uniFEB3 \uniFEB4 \uniFEB5 \uniFEB6 \uniFEB7 \uniFEB8 \uniFEB9 \uniFEBA 
-	\uniFEBB \uniFEBC \uniFEBD \uniFEBE \uniFEBF \uniFEC0 \uniFEC1 \uniFEC2 \uniFEC3 
-	\uniFEC4 \uniFEC5 \uniFEC6 \uniFEC7 \uniFEC8 \uniFEC9 \uniFECA \uniFECB \uniFECC 
-	\uniFECD \uniFECE \uniFECF \uniFED0 \uniFED1 \uniFED2 \uniFED3 \uniFED4 \uniFED5 
-	\uniFED6 \uniFED7 \uniFED8 \uniFED9 \uniFEDA \uniFEDB \uniFEDC \uniFEDD \uniFEDE 
-	\uniFEDF \uniFEE0 \uniFEE1 \uniFEE2 \uniFEE3 \uniFEE4 \uniFEE5 \uniFEE6 \uniFEE7 
-	\uniFEE8 \uniFEE9 \uniFEEA \uniFEEB \uniFEEC \uniFEED \uniFEEE \uniFEEF \uniFEF0 
-	\uniFEF1 \uniFEF2 \uniFEF3 \uniFEF4 \uniFEF5 \uniFEF6 \uniFEF7 \uniFEF8 \uniFEF9 
-	\uniFEFA \uni0618.base \uni0619.base \uni061A.base \uni064B.base 
-	\uni064C.base \uni064D.base \uni064E.base \uni064F.base \uni0650.base 
-	\uni0651.base \uni0652.base \uni0653.base \uni0654.base \uni0655.base 
-	\uni0656.base \uni0657.base \uni0658.base \uni0659.base \uni065A.base 
-	\uni065B.base \uni065C.base \uni065D.base \uni065E.base \uni065F.base 
-	\uni0670.base \uni0674.base \uni06DC.base \uni06DF.base \uni06E0.base 
-	\uni06E4.base \uni06E1.base \uni06E7.base \uni06E2.base \uni06E3.base 
-	\uni06EA.base \uni06E8.base \uni06EB.base \uni06EC.base \uni06ED.base 
-	\uni08E4.base \uni08E5.base \uni08E6.base \uni08E7.base \uni08E8.base 
-	\uni08E9.base \uni08EA.base \uni08EB.base \uni08EC.base \uni08ED.base 
-	\uni08EE.base \uni08EF.base \uni08F0.base \uni08F1.base \uni08F2.base 
-	\uni08F3.base \uni08F4.base \uni08F5.base \uni08F6.base \uni08F7.base 
-	\uni08F8.base \uni08F9.base \uni08FA.base \uni08FB.base \uni08FC.base 
-	\uni08FD.base \uni08FE.base \uni06F4.indo \uni0773 \uni0774 \uni0750 \uni0751 
-	\uni0752 \uni0753 \uni0754 \uni0755 \uni0756 \uni0757 \uni0758 \uni076E \uni076F 
-	\uni0772 \uni077C \uni0759 \uni075A \uni075B \uni076B \uni076C \uni0771 \uni075C 
-	\uni076D \uni0770 \uni077D \uni077E \uni075D \uni075E \uni075F \uni0760 \uni0761 
-	\uni077F \uni0762 \uni0763 \uni0764 \uni076A \uni0765 \uni0766 \uni0767 \uni0768 
-	\uni0769 \uni0778 \uni0779 \uni0775 \uni0776 \uni0777 \uni077A \uni077B 
-	\uni0773.fina \uni0774.fina \uni0750.init \uni0751.init \uni0752.init 
-	\uni0753.init \uni0754.init \uni0755.init \uni0756.init \uni0750.medi 
-	\uni0751.medi \uni0752.medi \uni0753.medi \uni0754.medi \uni0755.medi 
-	\uni0756.medi \uni0750.fina \uni0751.fina \uni0752.fina \uni0753.fina 
-	\uni0754.fina \uni0755.fina \uni0756.fina \uni0757.init \uni0758.init 
-	\uni076E.init \uni076F.init \uni0772.init \uni077C.init \uni0757.medi 
-	\uni0758.medi \uni076E.medi \uni076F.medi \uni0772.medi \uni077C.medi 
-	\uni0757.fina \uni0758.fina \uni076E.fina \uni076F.fina \uni0772.fina 
-	\uni077C.fina \uni0759.fina \uni075A.fina \uni075B.fina \uni076B.fina 
-	\uni076C.fina \uni0771.fina \uni075C.init \uni076D.init \uni0770.init 
-	\uni077D.init \uni077E.init \uni075C.medi \uni076D.medi \uni0770.medi 
-	\uni077D.medi \uni077E.medi \uni075C.fina \uni076D.fina \uni0770.fina 
-	\uni077D.fina \uni077E.fina \uni075D.init \uni075E.init \uni075F.init 
-	\uni075D.medi \uni075E.medi \uni075F.medi \uni075D.fina \uni075E.fina 
-	\uni075F.fina \uni0760.init \uni0761.init \uni0760.medi \uni0761.medi 
-	\uni0760.fina \uni0761.fina \uni077F.init \uni077F.medi \uni077F.fina 
-	\uni0762.init \uni0763.init \uni0764.init \uni0762.medi \uni0763.medi 
-	\uni0764.medi \uni0762.fina \uni0763.fina \uni0764.fina \uni076A.init 
-	\uni076A.medi \uni076A.fina \uni0765.init \uni0766.init \uni0765.medi 
-	\uni0766.medi \uni0765.fina \uni0766.fina \uni0767.init \uni0768.init 
-	\uni0769.init \uni0767.medi \uni0768.medi \uni0769.medi \uni0767.fina 
-	\uni0768.fina \uni0769.fina \uni0778.fina \uni0779.fina \uni0775.init 
-	\uni0776.init \uni0777.init \uni0775.medi \uni0776.medi \uni0777.medi 
-	\uni0775.fina \uni0776.fina \uni0777.fina \uni077A.fina \uni077B.fina 
-	\uni200E \uni200F \uni06C1.init \uni06C1.medi \uni06F7.indo \period.arabic 
-	\uni0605 \uni08AD \uni08A1 \uni08AE \uni08B2 \uni08AF \uni08B0 \uni08B1 
-	\uni08FF.base \uni08A1.init \uni08A1.medi \uni08A1.fina \uni08AE.fina 
-	\uni08B2.fina \uni08AF.init \uni08AF.medi \uni08AF.fina \uni08B0.init 
-	\uni08B0.medi \uni08B0.fina \uni08B1.fina \ittisal.comp \Tatwiil.comp 
-	\Hamzah.comp \Alif.short.comp \Alif.short.shorter.comp 
-	\Alif.short.shortest.comp \Laam_m.short.comp \Onedotarabic.comp 
-	\Twodotsarabic.comp \Threedotsarabic.comp \Threedotsarabicinverse.comp 
-	\Fourdotsarabic.comp \Twodotsarabic.vertical.comp 
-	\Threedotsinverted.alt.comp \Waslah.comp \Hamzahwavy.comp \Ttaa_minor.comp 
-	\Yaa_minor.comp \ring.arabic.comp \Gaaf.swsh.comp \kyrgyz_oe.comp 
-	\Jiim_minor.comp \decimals.arabic.comp \uni08A6.comp \sindhi_equals.comp 
-	\Haa.tip.comp \Haa.alt.tip.comp \Onedotarabic.minor.comp \Alif.comp 
-	\Baa.comp \Jiim.comp \Daal.comp \Raa.comp \Siin.comp \Ssaad.comp \Ttaa.comp 
-	\Ayn.comp \Faa.comp \Qaaf.comp \Kaaf.comp \Kaaf.ess.comp \Laam.comp \Miim.comp 
-	\Nuun.comp \Haa.comp \uni06BE.comp \Waaw.comp \Yaa.comp \Yaawide_f.comp 
-	\percent.arabic.comp \arabic_root.comp \charbox.comp \ayah_dot.comp 
-	\Baa_i.comp \Jiim_i.comp \Siin_i.comp \Ssaad_i.comp \Ttaa_i.comp \Ayn_i.comp 
-	\Faa_i.comp \Kaaf_i.comp \Laam_i.comp \Miim_i.comp \Haa_i.comp 
-	\uni06BE.init.comp \Baa_m.comp \Jiim_m.comp \Siin_m.comp \Ssaad_m.comp 
-	\Ttaa_m.comp \Ayn_m.comp \Faa_m.comp \Kaaf_m.comp \Laam_m.comp \Miim_m.comp 
-	\Haa_m.comp \Alif_f.comp \Alif.short_f.comp \Alif.short.shorter_f.comp 
-	\Alif.short.shortest_f.comp \Baa_f.comp \Jiim_f.comp \Daal_f.comp 
-	\Raa_f.comp \Siin_f.comp \Ssaad_f.comp \Ttaa_f.comp \Ayn_f.comp \Faa_f.comp 
-	\Qaaf_f.comp \Kaaf_f.comp \Laam_f.comp \Miim_f.comp \Nuun_f.comp \Haa_f.comp 
-	\Waaw_f.comp \Yaa_f.comp \Keheh.comp \Keheh.fina.comp \Kaaf.swsh.comp 
-	\Kaaf.swsh.init.comp \Haagoal.comp \Haagoal.comp.fina.comp \Yaawide.comp 
-	\Yaawide.fina.comp \uni08AA.comp \uni08AC.comp \zero.arabic.comp 
-	\one.arabic.comp \two.arabic.comp \three.arabic.comp \seven.arabic.comp 
-	\nine.arabic.comp \percent.arabic.bar \uni0602.comp \Fathahvertical.comp 
-	\Ddammah.comp \uni06E5.comp \uni06E6.comp \uniFD3E.comp \Fathah.minor.comp 
-	\Fathah.comp \Fathahdouble.comp \uni08F0.comp \uni08EE.comp \Maaddah.comp 
-	\Hamzahabove.comp \Nuunghunnah.comp \arabicv.comp \arabicvinverted.comp 
-	\Siin_minor.comp \Miim_minor.comp \uni08E4.comp \emptystop.comp 
-	\uni08E5.comp \uni08EC.comp \uni08F7.comp \tail.comp \Zaa_minor.comp 
-	\uni061A.comp \uni0651.comp \uni0652.comp \uni0659.comp \uni06DF.comp 
-	\uni06EC.comp \uni06E4.comp \uni06E1.comp \Threedotsarabic_flat.comp 
-	\Twoarabic_minor.comp \Threearabic_minor.comp \Fourarabic_minor.comp 
-	\Fourarabic_minor.indo.comp \Haa_m.alt.comp \nbsp.comp 
-	\Nuunghunnah.comp.001 \uni0622.fina.alt \uni0623.fina.alt \uni0625.fina.alt 
-	\uni0627.fina.alt \uni0671.fina.alt \uni0672.fina.alt \uni0673.fina.alt 
-	\uni0773.fina.alt \uni0774.fina.alt \uni0374 \uni0375 \uni037A \uni037E \tonos 
-	\dieresistonos \Alphatonos \anoteleia \Epsilontonos \Etatonos \Iotatonos 
-	\Omicrontonos \Upsilontonos \Omegatonos \iotadieresistonos \Iotadieresis 
-	\Upsilondieresis \alphatonos \epsilontonos \etatonos \iotatonos 
-	\upsilondieresistonos \alpha \beta \gamma \delta \epsilon \zeta \eta \theta \iota 
-	\kappa \lambda \mu \nu \xi \omicron \pi \rho \sigma1 \sigma \tau \upsilon \phi \chi 
-	\psi \omega \iotadieresis \upsilondieresis \omicrontonos \upsilontonos 
-	\omegatonos \uni03D8 \uni03D9 \uni03DA \uni03DC \uni03DD \uni03DF \uni03E0 
-	\uni03E1 \uni0400 \afii10023 \afii10051 \afii10052 \afii10053 \afii10054 
-	\afii10055 \afii10056 \afii10057 \afii10058 \afii10059 \afii10060 \afii10061 
-	\uni040D \afii10062 \afii10145 \afii10017 \afii10018 \afii10019 \afii10020 
-	\afii10021 \afii10022 \afii10024 \afii10025 \afii10026 \afii10027 \afii10028 
-	\afii10029 \afii10030 \afii10031 \afii10032 \afii10033 \afii10034 \afii10035 
-	\afii10036 \afii10037 \afii10038 \afii10039 \afii10040 \afii10041 \afii10042 
-	\afii10043 \afii10044 \afii10045 \afii10046 \afii10047 \afii10048 \afii10049 
-	\afii10065 \afii10066 \afii10067 \afii10068 \afii10069 \afii10070 \afii10072 
-	\afii10073 \afii10074 \afii10075 \afii10076 \afii10077 \afii10078 \afii10079 
-	\afii10080 \afii10081 \afii10082 \afii10083 \afii10084 \afii10085 \afii10086 
-	\afii10087 \afii10088 \afii10089 \afii10090 \afii10091 \afii10092 \afii10093 
-	\afii10094 \afii10095 \afii10096 \afii10097 \uni0450 \afii10071 \afii10099 
-	\afii10100 \afii10101 \afii10102 \afii10103 \afii10104 \afii10105 \afii10106 
-	\afii10107 \afii10108 \afii10109 \uni045D \afii10110 \afii10193 \uni0460 
-	\uni0461 \afii10146 \afii10194 \uni0464 \uni0465 \uni0466 \uni0467 \uni0468 
-	\uni0469 \uni046A \uni046B \uni046C \uni046D \uni046E \uni046F \uni0470 \uni0471 
-	\afii10147 \afii10195 \afii10148 \afii10196 \uni0476 \uni0477 \uni0478 \uni0479 
-	\uni047A \uni047B \uni047C \uni047D \uni047E \uni047F \uni0480 \uni0481 \uni0482 
-	\uni0483 \uni0484 \uni0485 \uni0486 \uni0488 \uni0489 \uni048A \uni048B \uni048C 
-	\uni048D \uni048E \uni048F \afii10050 \afii10098 \uni0492 \uni0493 \uni0494 
-	\uni0495 \uni0496 \uni0497 \uni0498 \uni0499 \uni049A \uni049B \uni049C \uni049D 
-	\uni049E \uni049F \uni04A0 \uni04A1 \uni04A2 \uni04A3 \uni04A4 \uni04A5 \uni04A6 
-	\uni04A7 \uni04A8 \uni04A9 \uni04AA \uni04AB \uni04AC \uni04AD \uni04AE \uni04AF 
-	\uni04B0 \uni04B1 \uni04B2 \uni04B3 \uni04B4 \uni04B5 \uni04B6 \uni04B7 \uni04B8 
-	\uni04B9 \uni04BA \uni04BB \uni04BC \uni04BD \uni04BE \uni04BF \uni04C0 \uni04C1 
-	\uni04C2 \uni04C3 \uni04C4 \uni04C5 \uni04C6 \uni04C7 \uni04C8 \uni04C9 \uni04CA 
-	\uni04CB \uni04CC \uni04CD \uni04CE \uni04D0 \uni04D1 \uni04D2 \uni04D3 \uni04D4 
-	\uni04D5 \uni04D6 \uni04D7 \uni04D8 \afii10846 \uni04DA \uni04DB \uni04DC 
-	\uni04DD \uni04DE \uni04DF \uni04E0 \uni04E1 \uni04E2 \uni04E3 \uni04E4 \uni04E5 
-	\uni04E6 \uni04E7 \uni04E8 \uni04E9 \uni04EA \uni04EB \uni04EC \uni04ED \uni04EE 
-	\uni04EF \uni04F0 \uni04F1 \uni04F2 \uni04F3 \uni04F4 \uni04F5 \uni04F6 \uni04F7 
-	\uni04F8 \uni04F9 \uni04FC \uni04FD \uni04FE \uni04FF \uni0512 \uni0513 \uni1F00 
-	\uni1F01 \uni1F02 \uni1F03 \uni1F04 \uni1F05 \uni1F06 \uni1F07 \uni1F08 \uni1F09 
-	\uni1F0A \uni1F0B \uni1F0C \uni1F0D \uni1F0E \uni1F0F \uni1F10 \uni1F11 \uni1F12 
-	\uni1F13 \uni1F14 \uni1F15 \uni1F18 \uni1F19 \uni1F1A \uni1F1B \uni1F1C \uni1F1D 
-	\uni1F20 \uni1F21 \uni1F22 \uni1F23 \uni1F24 \uni1F25 \uni1F26 \uni1F27 \uni1F28 
-	\uni1F29 \uni1F2A \uni1F2B \uni1F2C \uni1F2D \uni1F2E \uni1F2F \uni1F30 \uni1F31 
-	\uni1F32 \uni1F33 \uni1F34 \uni1F35 \uni1F36 \uni1F37 \uni1F38 \uni1F39 \uni1F3A 
-	\uni1F3B \uni1F3C \uni1F3D \uni1F3E \uni1F3F \uni1F40 \uni1F41 \uni1F42 \uni1F43 
-	\uni1F44 \uni1F45 \uni1F48 \uni1F49 \uni1F4A \uni1F4B \uni1F4C \uni1F4D \uni1F50 
-	\uni1F51 \uni1F52 \uni1F53 \uni1F54 \uni1F55 \uni1F56 \uni1F57 \uni1F59 \uni1F5B 
-	\uni1F5D \uni1F5F \uni1F60 \uni1F61 \uni1F62 \uni1F63 \uni1F64 \uni1F65 \uni1F66 
-	\uni1F67 \uni1F68 \uni1F69 \uni1F6A \uni1F6B \uni1F6C \uni1F6D \uni1F6E \uni1F6F 
-	\uni1F70 \uni1F71 \uni1F72 \uni1F73 \uni1F74 \uni1F75 \uni1F76 \uni1F77 \uni1F78 
-	\uni1F79 \uni1F7A \uni1F7B \uni1F7C \uni1F7D \uni1F80 \uni1F81 \uni1F82 \uni1F83 
-	\uni1F84 \uni1F85 \uni1F86 \uni1F87 \uni1F88 \uni1F89 \uni1F8A \uni1F8B \uni1F8C 
-	\uni1F8D \uni1F8E \uni1F8F \uni1F90 \uni1F91 \uni1F92 \uni1F93 \uni1F94 \uni1F95 
-	\uni1F96 \uni1F97 \uni1F98 \uni1F99 \uni1F9A \uni1F9B \uni1F9C \uni1F9D \uni1F9E 
-	\uni1F9F \uni1FA0 \uni1FA1 \uni1FA2 \uni1FA3 \uni1FA4 \uni1FA5 \uni1FA6 \uni1FA7 
-	\uni1FA8 \uni1FA9 \uni1FAA \uni1FAB \uni1FAC \uni1FAD \uni1FAE \uni1FAF \uni1FB0 
-	\uni1FB1 \uni1FB2 \uni1FB3 \uni1FB4 \uni1FB6 \uni1FB7 \uni1FB8 \uni1FB9 \uni1FBA 
-	\uni1FBB \uni1FBC \uni1FBD \uni1FBE \uni1FBF \uni1FC0 \uni1FC1 \uni1FC2 \uni1FC3 
-	\uni1FC4 \uni1FC6 \uni1FC7 \uni1FC8 \uni1FC9 \uni1FCA \uni1FCB \uni1FCC \uni1FCD 
-	\uni1FCE \uni1FCF \uni1FD0 \uni1FD1 \uni1FD2 \uni1FD3 \uni1FD6 \uni1FD7 \uni1FD8 
-	\uni1FD9 \uni1FDA \uni1FDB \uni1FDD \uni1FDE \uni1FDF \uni1FE0 \uni1FE1 \uni1FE2 
-	\uni1FE3 \uni1FE4 \uni1FE5 \uni1FE6 \uni1FE7 \uni1FE8 \uni1FE9 \uni1FEA \uni1FEB 
-	\uni1FEC \uni1FED \uni1FEE \uni1FEF \uni1FF2 \uni1FF3 \uni1FF4 \uni1FF6 \uni1FF7 
-	\uni1FF8 \uni1FF9 \uni1FFA \uni1FFB \uni1FFC \uni1FFD \uni1FFE \uni1E9E ];
-@GDEF_Mark = [\uni08FF ];
+@GDEF_Simple = [.notdef acute.dup AE.dup ae.dup cedilla.dup circumflex.dup
+	dieresis.dup Gcedilla gcedilla germandbls.dup hyphen.dup Kcedilla
+	kcedilla Lcedilla lcedilla macron.dup Ncedilla ncedilla OE.dup oe.dup
+	Oslash.dup oslash.dup quoteleft.dup quoteright.dup Rcedilla rcedilla
+	tilde.dup A a ampersand asciicircum asciitilde asterisk at B b
+	backslash bar braceleft braceright bracketleft bracketright C c colon
+	comma D d dollar E e eight equal exclam F f five four G g grave greater
+	H h hyphen I i J j K k L l less M m N n nine numbersign O o one P p
+	parenleft parenright percent period plus Q q question quotedbl
+	quotesingle R r S s semicolon seven six slash space T t three two U u
+	underscore V v W w X x Y y Z z zero Aacute aacute Abreve abreve
+	Abreveacute abreveacute Abrevedotbelow abrevedotbelow Abrevegrave
+	abrevegrave Abrevehookabove abrevehookabove Abrevetilde abrevetilde
+	Acaron acaron Acircumflex acircumflex Acircumflexacute acircumflexacute
+	Acircumflexdotbelow acircumflexdotbelow Acircumflexgrave
+	acircumflexgrave Acircumflexhookabove acircumflexhookabove
+	Acircumflextilde acircumflextilde acute uni0301 Adblgrave adblgrave
+	Adieresis adieresis Adotbelow adotbelow AE ae AEacute aeacute Agrave
+	agrave Ahookabove ahookabove Alpha Amacron amacron anglearc angleleft
+	angleright Aogonek aogonek Aring aring Aringacute aringacute uni2193
+	uni2190 uni2192 uni2191 asterisk.math Atilde atilde baht Beta
+	blanksymbol breve uni032E uni032F uni0306 uni0311 brokenbar bullet
+	Cacute cacute caron uni030C Ccaron ccaron Ccedilla ccedilla Ccircumflex
+	ccircumflex Cdotaccent cdotaccent cedilla cent centigrade Chi
+	circumflex uni0302 colonmonetary uni0326 copyright currency dagger
+	daggerdbl dblbracketleft dblbracketright uni030F dblverticalbar Dcaron
+	dcaron Dcroat dcroat Ddotbelow ddotbelow degree Delta diameter dieresis
+	uni0308 discount divide divorced Dlinebelow dlinebelow dong dotaccent
+	uni0307 uni0323 dotlessi uni0237 Eacute eacute Ebreve ebreve Ecaron
+	ecaron Ecircumflex ecircumflex Ecircumflexacute ecircumflexacute
+	Ecircumflexdotbelow ecircumflexdotbelow Ecircumflexgrave
+	ecircumflexgrave Ecircumflexhookabove ecircumflexhookabove
+	Ecircumflextilde ecircumflextilde Edblgrave edblgrave Edieresis
+	edieresis Edotaccent edotaccent Edotbelow edotbelow Egrave egrave
+	Ehookabove ehookabove ellipsis Emacron emacron emdash endash Eng eng
+	Eogonek eogonek Epsilon Ereversed ereversed estimated Eta Eth eth
+	Etilde etilde eturned Euro exclamdown florin fraction fraction.alt
+	Gacute gacute Gamma Gbreve gbreve Gcaron gcaron Gcircumflex gcircumflex
+	Gcommaaccent gcommaaccent Gdotaccent gdotaccent germandbls uni0300
+	guillemotleft guillemotright guilsinglleft guilsinglright Hbar hbar
+	Hbrevebelow hbrevebelow Hcircumflex hcircumflex Hdieresis hdieresis
+	Hdotbelow hdotbelow uni0309 hungarumlaut uni030B Iacute iacute Ibreve
+	ibreve Icaron icaron Icircumflex icircumflex Idblgrave idblgrave
+	Idieresis idieresis Idieresisacute idieresisacute Idotaccent Idotbelow
+	idotbelow Igrave igrave Ihookabove ihookabove Imacron imacron infinity
+	interrobang Iogonek iogonek Iota Itilde itilde jcaron Jcircumflex
+	jcircumflex Kappa Kcommaaccent kcommaaccent Lacute lacute Lambda Lcaron
+	lcaron Lcommaaccent lcommaaccent Ldot ldot Ldotbelow ldotbelow
+	Ldotbelowmacron ldotbelowmacron uni0332 lira logicalnot longs Lslash
+	lslash macron uni0331 uni0304 married Mdotbelow mdotbelow uni2127 minus
+	Mu uni00B5 multiply uni266A Nacute nacute naira uni00A0 Ncaron ncaron
+	Ncommaaccent ncommaaccent Ndotaccent ndotaccent Ndotbelow ndotbelow
+	Ntilde ntilde Nu numero Oacute oacute Obreve obreve Ocaron ocaron
+	Ocircumflex ocircumflex Ocircumflexacute ocircumflexacute
+	Ocircumflexdotbelow ocircumflexdotbelow Ocircumflexgrave
+	ocircumflexgrave Ocircumflexhookabove ocircumflexhookabove
+	Ocircumflextilde ocircumflextilde Odblgrave odblgrave Odieresis
+	odieresis Odotbelow odotbelow OE oe ogonek Ograve ograve ohm Ohookabove
+	ohookabove Ohorn ohorn Ohornacute ohornacute Ohorndotbelow
+	ohorndotbelow Ohorngrave ohorngrave Ohornhookabove ohornhookabove
+	Ohorntilde ohorntilde Ohungarumlaut ohungarumlaut Omacron omacron Omega
+	Omicron onehalf onequarter one.superior Oogonek oogonek openbullet
+	ordfeminine ordmasculine Oslash oslash Oslashacute oslashacute Otilde
+	otilde paragraph periodcentered perthousand peso Phi Pi plusminus Psi
+	published questiondown quillbracketleft quillbracketright quotedblbase
+	quotedblleft quotedblright quoteleft quoteright quotesinglbase Racute
+	racute radical Rcaron rcaron Rcommaaccent rcommaaccent Rdblgrave
+	rdblgrave Rdotaccent rdotaccent Rdotbelow rdotbelow Rdotbelowmacron
+	rdotbelowmacron recipe referencemark registered Rho ring uni030A
+	ringhalfleft ringhalfright Sacute sacute Scaron scaron Scedilla
+	scedilla schwa Scircumflex scircumflex uni0218 uni0219 Sdotbelow
+	sdotbelow section uni00AD Sigma sterling Tau Tcaron tcaron Tcedilla
+	tcedilla uni021A uni021B tdieresis Tdotbelow tdotbelow Theta Thorn
+	thorn threequarters three.superior uni2040 tilde uni0330 uni0303
+	Tlinebelow tlinebelow two.superior Uacute uacute Ubreve ubreve Ucaron
+	ucaron Ucircumflex ucircumflex Udblgrave udblgrave Udieresis udieresis
+	Udieresisacute udieresisacute Udieresiscaron udieresiscaron
+	Udieresisgrave udieresisgrave Udotbelow udotbelow Ugrave ugrave
+	Uhookabove uhookabove Uhorn uhorn Uhornacute uhornacute Uhorndotbelow
+	uhorndotbelow Uhorngrave uhorngrave Uhornhookabove uhornhookabove
+	Uhorntilde uhorntilde Uhungarumlaut uhungarumlaut Umacron umacron
+	uni203F uni2054 uni2010 uni2011 uni2423 Uogonek uogonek Upsilon Uring
+	uring Utilde utilde Wacute wacute Wcircumflex wcircumflex Wdieresis
+	wdieresis Wgrave wgrave won Xi Yacute yacute Ycircumflex ycircumflex
+	Ydieresis ydieresis Ydotbelow ydotbelow yen Ygrave ygrave Yhookabove
+	yhookabove Ytilde ytilde Zacute zacute Zcaron zcaron Zdotaccent
+	zdotaccent Zdotbelow zdotbelow Zeta acute.cap uni0301.cap breve.cap
+	space_uni0306_uni0301.cap space_uni0306_uni0301 space_uni032E
+	space_uni032F uni0306.cap space_uni0306_uni0300.cap
+	space_uni0306_uni0300 space_uni0306_uni0309.cap space_uni0306_uni0309
+	space_uni0311.cap space_uni0311 uni0311.cap space_uni0306_uni0303.cap
+	space_uni0306_uni0303 caron.cap uni030C.cap circumflex.cap
+	space_uni0302_uni0301.cap space_uni0302_uni0301 uni0302.cap
+	space_uni0302_uni0300.cap space_uni0302_uni0300
+	space_uni0302_uni0309.cap space_uni0302_uni0309
+	space_uni0302_uni0303.cap space_uni0302_uni0303 space_uni0326
+	space_uni030F.cap space_uni030F uni030F.cap dieresis.cap
+	space_uni0308_uni0301.cap space_uni0308_uni0301
+	space_uni0308_uni030C.cap space_uni0308_uni030C uni0308.cap
+	space_uni0308_uni0300.cap space_uni0308_uni0300 dotaccent.cap
+	uni0307.cap grave.cap uni0300.cap space_uni0309.cap space_uni0309
+	uni0309.cap hungarumlaut.cap uni030B.cap space_uni0332 macron.cap
+	macron.cap.alt macron.alt space_uni0331 uni0304.cap ring.cap
+	space_uni030A_uni0301.cap space_uni030A_uni0301 uni030A.cap tilde.cap
+	space_uni0330 uni0303.cap acute.ts1 Aogonekacute aogonekacute bigcircle
+	star.alt breve.ts1 caron.ts1 copyleft cwm cwmascender cwmcapital
+	dblgrave.ts1 died dieresis.ts1 space_uni0323 Eogonekacute eogonekacute
+	gnaborretni grave.ts1 guarani hungarumlaut.ts1 hyphen.alt hyphendbl
+	hyphendbl.alt Iogonekacute iogonekacute J_uni030C.cap Jacute jacute
+	leaf macron.ts1 Oogonekacute oogonekacute paragraph.alt perthousandzero
+	quotedblbase.cm quotedblbase.cs quotedblbase.ts1 quotedblleft.cm
+	quotedblright.cm quotedblright.cs quotesinglbase.ts1 quotesingle.ts1
+	registered.alt tieaccentcapital tieaccentcapital.new tieaccentlowercase
+	tieaccentlowercase.new asciitilde.low emdash.alt U_uni032F u_uni032F
+	H_uni0303 h_uni0303 Imacron.alt imacron.alt L_uni0303 l_uni0303 Orogate
+	orogate T_uni0308 T_uni0303 t_uni0303 dotaccent.alt cent.oldstyle
+	dollar.oldstyle dotlessj eight.taboldstyle five.taboldstyle
+	four.taboldstyle nine.taboldstyle one.taboldstyle seven.taboldstyle
+	six.taboldstyle threequartersemdash three.taboldstyle two.taboldstyle
+	zero.slash zero.taboldstyle uni0621 uni06FD uni0640 uni0622 uni0623
+	uni0625 uni0627 uni0671 uni0672 uni0673 uni0675 uni0628 uni062A uni062B
+	uni066E uni0679 uni067A uni067B uni067C uni067D uni067E uni067F uni0680
+	uni08A0 uni062C uni062D uni062E uni0681 uni0682 uni0683 uni0684 uni0685
+	uni0686 uni0687 uni06BF uni08A2 uni062F uni0630 uni0688 uni0689 uni068A
+	uni068B uni068C uni068D uni068E uni068F uni0690 uni06EE uni0631 uni0632
+	uni0691 uni0692 uni0693 uni0694 uni0695 uni0696 uni0697 uni0698 uni0699
+	uni06EF uni0633 uni0634 uni069A uni069B uni069C uni06FA uni0635 uni0636
+	uni069D uni069E uni06FB uni0637 uni0638 uni069F uni08A3 uni0639 uni063A
+	uni06A0 uni06FC uni0641 uni06A1 uni06A2 uni06A3 uni06A4 uni06A5 uni06A6
+	uni08A4 uni0642 uni066F uni06A7 uni06A8 uni08A5 uni0643 uni06AC uni06AD
+	uni06AE uni0644 uni06B5 uni06B6 uni06B7 uni06B8 uni08A6 uni0645 uni06FE
+	uni08A7 uni0646 uni06B9 uni06BA uni06BB uni06BC uni06BD uni0629 uni06C0
+	uni06D5 uni0647 uni06FF uni06BE uni0624 uni0648 uni0676 uni0677 uni06C4
+	uni06C5 uni06C6 uni06C7 uni06C8 uni06C9 uni06CA uni06CB uni06CF uni08AB
+	uni0620 uni0626 uni063D uni063E uni063F uni0649 uni064A uni0678 uni06CC
+	uni06CE uni06D0 uni06D1 uni08A8 uni08A9 uni06CD uni06A9 uni063B uni063C
+	uni06AB uni06AF uni06B0 uni06B1 uni06B2 uni06B3 uni06B4 uni06AA uni06C1
+	uni06C2 uni06C3 uni06D2 uni06D3 uni08AA uni08AC uniFEFB uni0647.alt
+	uni0629.alt uni0622.fina uni0623.fina uni0625.fina uni0627.fina
+	uni0671.fina uni0672.fina uni0673.fina uni0675.fina uni0628.init
+	uni062A.init uni062B.init uni066E.init uni0679.init uni067A.init
+	uni067B.init uni067C.init uni067D.init uni067E.init uni067F.init
+	uni0680.init uni08A0.init uni0628.medi uni062A.medi uni062B.medi
+	uni066E.medi uni0679.medi uni067A.medi uni067B.medi uni067C.medi
+	uni067D.medi uni067E.medi uni067F.medi uni0680.medi uni08A0.medi
+	uni0628.fina uni062A.fina uni062B.fina uni066E.fina uni0679.fina
+	uni067A.fina uni067B.fina uni067C.fina uni067D.fina uni067E.fina
+	uni067F.fina uni0680.fina uni08A0.fina uni062C.init uni062D.init
+	uni062E.init uni0681.init uni0682.init uni0683.init uni0684.init
+	uni0685.init uni0686.init uni0687.init uni06BF.init uni08A2.init
+	uni062C.medi uni062D.medi uni062E.medi uni0681.medi uni0682.medi
+	uni0683.medi uni0684.medi uni0685.medi uni0686.medi uni0687.medi
+	uni06BF.medi uni08A2.medi uni062C.fina uni062D.fina uni062E.fina
+	uni0681.fina uni0682.fina uni0683.fina uni0684.fina uni0685.fina
+	uni0686.fina uni0687.fina uni06BF.fina uni08A2.fina uni062F.fina
+	uni0630.fina uni0688.fina uni0689.fina uni068A.fina uni068B.fina
+	uni068C.fina uni068D.fina uni068E.fina uni068F.fina uni0690.fina
+	uni06EE.fina uni0631.fina uni0632.fina uni0691.fina uni0692.fina
+	uni0693.fina uni0694.fina uni0695.fina uni0696.fina uni0697.fina
+	uni0698.fina uni0699.fina uni06EF.fina uni0633.init uni0634.init
+	uni069A.init uni069B.init uni069C.init uni06FA.init uni0633.medi
+	uni0634.medi uni069A.medi uni069B.medi uni069C.medi uni06FA.medi
+	uni0633.fina uni0634.fina uni069A.fina uni069B.fina uni069C.fina
+	uni06FA.fina uni0635.init uni0636.init uni069D.init uni069E.init
+	uni06FB.init uni0635.medi uni0636.medi uni069D.medi uni069E.medi
+	uni06FB.medi uni0635.fina uni0636.fina uni069D.fina uni069E.fina
+	uni06FB.fina uni0637.init uni0638.init uni069F.init uni08A3.init
+	uni0637.medi uni0638.medi uni069F.medi uni08A3.medi uni0637.fina
+	uni0638.fina uni069F.fina uni08A3.fina uni0639.init uni063A.init
+	uni06A0.init uni06FC.init uni0639.medi uni063A.medi uni06A0.medi
+	uni06FC.medi uni0639.fina uni063A.fina uni06A0.fina uni06FC.fina
+	uni0641.init uni06A1.init uni06A2.init uni06A3.init uni06A4.init
+	uni06A5.init uni06A6.init uni08A4.init uni0641.medi uni06A1.medi
+	uni06A2.medi uni06A3.medi uni06A4.medi uni06A5.medi uni06A6.medi
+	uni08A4.medi uni0641.fina uni06A1.fina uni06A2.fina uni06A3.fina
+	uni06A4.fina uni06A5.fina uni06A6.fina uni08A4.fina uni0642.init
+	uni066F.init uni06A7.init uni06A8.init uni08A5.init uni0642.medi
+	uni066F.medi uni06A7.medi uni06A8.medi uni08A5.medi uni0642.fina
+	uni066F.fina uni06A7.fina uni06A8.fina uni08A5.fina uni0643.init
+	uni06AC.init uni06AD.init uni06AE.init uni0643.medi uni06AC.medi
+	uni06AD.medi uni06AE.medi uni0643.fina uni06AC.fina uni06AD.fina
+	uni06AE.fina uni0644.init uni06B5.init uni06B6.init uni06B7.init
+	uni06B8.init uni08A6.init uni0644.medi uni06B5.medi uni06B6.medi
+	uni06B7.medi uni06B8.medi uni08A6.medi uni0644.fina uni06B5.fina
+	uni06B6.fina uni06B7.fina uni06B8.fina uni08A6.fina uni0645.init
+	uni06FE.init uni08A7.init uni0645.medi uni06FE.medi uni08A7.medi
+	uni0645.fina uni06FE.fina uni08A7.fina uni0646.init uni06B9.init
+	uni06BA.init uni06BB.init uni06BC.init uni06BD.init uni0646.medi
+	uni06B9.medi uni06BA.medi uni06BB.medi uni06BC.medi uni06BD.medi
+	uni0646.fina uni06B9.fina uni06BA.fina uni06BB.fina uni06BC.fina
+	uni06BD.fina uni0629.fina uni06C0.fina uni06D5.fina uni0647.init
+	uni06FF.init uni0647.medi uni06FF.medi uni0647.fina uni06FF.fina
+	uni06BE.init uni06BE.medi uni06BE.fina uni0624.fina uni0648.fina
+	uni0676.fina uni0677.fina uni06C4.fina uni06C5.fina uni06C6.fina
+	uni06C7.fina uni06C8.fina uni06C9.fina uni06CA.fina uni06CB.fina
+	uni06CF.fina uni08AB.fina uni0620.init uni0626.init uni063D.init
+	uni063E.init uni063F.init uni0649.init uni064A.init uni0678.init
+	uni06CC.init uni06CE.init uni06D0.init uni06D1.init uni08A8.init
+	uni08A9.init uni0620.medi uni0626.medi uni063D.medi uni063E.medi
+	uni063F.medi uni0649.medi uni064A.medi uni0678.medi uni06CC.medi
+	uni06CE.medi uni06D0.medi uni06D1.medi uni08A8.medi uni08A9.medi
+	uni0620.fina uni0626.fina uni063D.fina uni063E.fina uni063F.fina
+	uni0649.fina uni064A.fina uni0678.fina uni06CC.fina uni06CE.fina
+	uni06D0.fina uni06D1.fina uni08A8.fina uni08A9.fina uni06CD.fina
+	uni06A9.init uni063B.init uni063C.init uni06AB.init uni06A9.medi
+	uni063B.medi uni063C.medi uni06AB.medi uni06A9.fina uni063B.fina
+	uni063C.fina uni06AB.fina uni06AF.init uni06B0.init uni06B1.init
+	uni06B2.init uni06B3.init uni06B4.init uni06AF.medi uni06B0.medi
+	uni06B1.medi uni06B2.medi uni06B3.medi uni06B4.medi uni06AF.fina
+	uni06B0.fina uni06B1.fina uni06B2.fina uni06B3.fina uni06B4.fina
+	uni06AA.init uni06AA.medi uni06AA.fina uni06C1.fina uni06C2.fina
+	uni06C3.fina uni06D2.fina uni06D3.fina uni08AA.fina uni08AC.fina
+	uniFEFC uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667
+	uni0668 uni0669 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6
+	uni06F7 uni06F8 uni06F9 uni0609 uni060A uni066A uni0606 uni0607 uni0600
+	uni0601 uni0602 uni0603 uni0604 uni0608 uni060B uni060C uni060D uni060E
+	uni060F uni0610 uni0611 uni0612 uni0613 uni0614 uni0616 uni061B uni061E
+	uni061F exclam.arabic colon.arabic uni066B uni066C uni066D uni06D4
+	uni0615 uni0617 uni06D6 uni06D7 uni06D8 uni06D9 uni06DA uni06DB uni06DD
+	uni06DE uni06E5 uni06E6 uni06E9 uniFD3E uniFD3F uni0618 uni0619 uni061A
+	uni064B uni064C uni064D uni064E uni064F uni0650 uni0651 uni0652 uni0653
+	uni0654 uni0655 uni0656 uni0657 uni0658 uni0659 uni065A uni065B uni065C
+	uni065D uni065E uni065F uni0670 uni0674 uni06DC uni06DF uni06E0 uni06E4
+	uni06E1 uni06E7 uni06E2 uni06E3 uni06EA uni06E8 uni06EB uni06EC uni06ED
+	uni08E4 uni08E5 uni08E6 uni08E7 uni08E8 uni08E9 uni08EA uni08EB uni08EC
+	uni08ED uni08EE uni08EF uni08F0 uni08F1 uni08F2 uni08F3 uni08F4 uni08F5
+	uni08F6 uni08F7 uni08F8 uni08F9 uni08FA uni08FB uni08FC uni08FD uni08FE
+	uniFBB2 uniFBB3 uniFBB4 uniFBB5 uniFBB6 uniFBB7 uniFBB8 uniFBB9 uniFBBA
+	uniFBBB uniFBBC uniFBBD uniFBBE uniFBBF uniFBC0 uniFBC1 uniFDF2 uniFDF4
+	uniFDFA uniFDFB uniFDFC uniFDFD uni061C uni200C uni200D uni202A uni202B
+	uni202C uni202D uni202E uni202F uniFEFF uniFE73 uniFDFA.batraa uni25CC
+	uniFB50 uniFB51 uniFB52 uniFB53 uniFB54 uniFB55 uniFB56 uniFB57 uniFB58
+	uniFB59 uniFB5A uniFB5B uniFB5C uniFB5D uniFB5E uniFB5F uniFB60 uniFB61
+	uniFB62 uniFB63 uniFB64 uniFB65 uniFB66 uniFB67 uniFB68 uniFB69 uniFB6A
+	uniFB6B uniFB6C uniFB6D uniFB6E uniFB6F uniFB70 uniFB71 uniFB72 uniFB73
+	uniFB74 uniFB75 uniFB76 uniFB77 uniFB78 uniFB79 uniFB7A uniFB7B uniFB7C
+	uniFB7D uniFB7E uniFB7F uniFB80 uniFB81 uniFB82 uniFB83 uniFB84 uniFB85
+	uniFB86 uniFB87 uniFB88 uniFB89 uniFB8A uniFB8B uniFB8C uniFB8D uniFB8E
+	uniFB8F uniFB90 uniFB91 uniFB92 uniFB93 uniFB94 uniFB95 uniFB96 uniFB97
+	uniFB98 uniFB99 uniFB9A uniFB9B uniFB9C uniFB9D uniFB9E uniFB9F uniFBA0
+	uniFBA1 uniFBA2 uniFBA3 uniFBA4 uniFBA5 uniFBA6 uniFBA7 uniFBA8 uniFBA9
+	uniFBAA uniFBAB uniFBAC uniFBAD uniFBAE uniFBAF uniFBB0 uniFBB1 uniFBD3
+	uniFBD4 uniFBD5 uniFBD6 uniFBD7 uniFBD8 uniFBD9 uniFBDA uniFBDB uniFBDC
+	uniFBDD uniFBDE uniFBDF uniFBE0 uniFBE1 uniFBE2 uniFBE3 uniFBE4 uniFBE5
+	uniFBE6 uniFBE7 uniFBE8 uniFBE9 uniFBFC uniFBFD uniFBFE uniFBFF uniFE70
+	uniFE71 uniFE72 uniFE74 uniFE76 uniFE77 uniFE78 uniFE79 uniFE7A uniFE7B
+	uniFE7C uniFE7D uniFE7E uniFE7F uniFE80 uniFE81 uniFE82 uniFE83 uniFE84
+	uniFE85 uniFE86 uniFE87 uniFE88 uniFE89 uniFE8A uniFE8B uniFE8C uniFE8D
+	uniFE8E uniFE8F uniFE90 uniFE91 uniFE92 uniFE93 uniFE94 uniFE95 uniFE96
+	uniFE97 uniFE98 uniFE99 uniFE9A uniFE9B uniFE9C uniFE9D uniFE9E uniFE9F
+	uniFEA0 uniFEA1 uniFEA2 uniFEA3 uniFEA4 uniFEA5 uniFEA6 uniFEA7 uniFEA8
+	uniFEA9 uniFEAA uniFEAB uniFEAC uniFEAD uniFEAE uniFEAF uniFEB0 uniFEB1
+	uniFEB2 uniFEB3 uniFEB4 uniFEB5 uniFEB6 uniFEB7 uniFEB8 uniFEB9 uniFEBA
+	uniFEBB uniFEBC uniFEBD uniFEBE uniFEBF uniFEC0 uniFEC1 uniFEC2 uniFEC3
+	uniFEC4 uniFEC5 uniFEC6 uniFEC7 uniFEC8 uniFEC9 uniFECA uniFECB uniFECC
+	uniFECD uniFECE uniFECF uniFED0 uniFED1 uniFED2 uniFED3 uniFED4 uniFED5
+	uniFED6 uniFED7 uniFED8 uniFED9 uniFEDA uniFEDB uniFEDC uniFEDD uniFEDE
+	uniFEDF uniFEE0 uniFEE1 uniFEE2 uniFEE3 uniFEE4 uniFEE5 uniFEE6 uniFEE7
+	uniFEE8 uniFEE9 uniFEEA uniFEEB uniFEEC uniFEED uniFEEE uniFEEF uniFEF0
+	uniFEF1 uniFEF2 uniFEF3 uniFEF4 uniFEF5 uniFEF6 uniFEF7 uniFEF8 uniFEF9
+	uniFEFA uni0618.base uni0619.base uni061A.base uni064B.base
+	uni064C.base uni064D.base uni064E.base uni064F.base uni0650.base
+	uni0651.base uni0652.base uni0653.base uni0654.base uni0655.base
+	uni0656.base uni0657.base uni0658.base uni0659.base uni065A.base
+	uni065B.base uni065C.base uni065D.base uni065E.base uni065F.base
+	uni0670.base uni0674.base uni06DC.base uni06DF.base uni06E0.base
+	uni06E4.base uni06E1.base uni06E7.base uni06E2.base uni06E3.base
+	uni06EA.base uni06E8.base uni06EB.base uni06EC.base uni06ED.base
+	uni08E4.base uni08E5.base uni08E6.base uni08E7.base uni08E8.base
+	uni08E9.base uni08EA.base uni08EB.base uni08EC.base uni08ED.base
+	uni08EE.base uni08EF.base uni08F0.base uni08F1.base uni08F2.base
+	uni08F3.base uni08F4.base uni08F5.base uni08F6.base uni08F7.base
+	uni08F8.base uni08F9.base uni08FA.base uni08FB.base uni08FC.base
+	uni08FD.base uni08FE.base uni06F4.indo uni0773 uni0774 uni0750 uni0751
+	uni0752 uni0753 uni0754 uni0755 uni0756 uni0757 uni0758 uni076E uni076F
+	uni0772 uni077C uni0759 uni075A uni075B uni076B uni076C uni0771 uni075C
+	uni076D uni0770 uni077D uni077E uni075D uni075E uni075F uni0760 uni0761
+	uni077F uni0762 uni0763 uni0764 uni076A uni0765 uni0766 uni0767 uni0768
+	uni0769 uni0778 uni0779 uni0775 uni0776 uni0777 uni077A uni077B
+	uni0773.fina uni0774.fina uni0750.init uni0751.init uni0752.init
+	uni0753.init uni0754.init uni0755.init uni0756.init uni0750.medi
+	uni0751.medi uni0752.medi uni0753.medi uni0754.medi uni0755.medi
+	uni0756.medi uni0750.fina uni0751.fina uni0752.fina uni0753.fina
+	uni0754.fina uni0755.fina uni0756.fina uni0757.init uni0758.init
+	uni076E.init uni076F.init uni0772.init uni077C.init uni0757.medi
+	uni0758.medi uni076E.medi uni076F.medi uni0772.medi uni077C.medi
+	uni0757.fina uni0758.fina uni076E.fina uni076F.fina uni0772.fina
+	uni077C.fina uni0759.fina uni075A.fina uni075B.fina uni076B.fina
+	uni076C.fina uni0771.fina uni075C.init uni076D.init uni0770.init
+	uni077D.init uni077E.init uni075C.medi uni076D.medi uni0770.medi
+	uni077D.medi uni077E.medi uni075C.fina uni076D.fina uni0770.fina
+	uni077D.fina uni077E.fina uni075D.init uni075E.init uni075F.init
+	uni075D.medi uni075E.medi uni075F.medi uni075D.fina uni075E.fina
+	uni075F.fina uni0760.init uni0761.init uni0760.medi uni0761.medi
+	uni0760.fina uni0761.fina uni077F.init uni077F.medi uni077F.fina
+	uni0762.init uni0763.init uni0764.init uni0762.medi uni0763.medi
+	uni0764.medi uni0762.fina uni0763.fina uni0764.fina uni076A.init
+	uni076A.medi uni076A.fina uni0765.init uni0766.init uni0765.medi
+	uni0766.medi uni0765.fina uni0766.fina uni0767.init uni0768.init
+	uni0769.init uni0767.medi uni0768.medi uni0769.medi uni0767.fina
+	uni0768.fina uni0769.fina uni0778.fina uni0779.fina uni0775.init
+	uni0776.init uni0777.init uni0775.medi uni0776.medi uni0777.medi
+	uni0775.fina uni0776.fina uni0777.fina uni077A.fina uni077B.fina
+	uni200E uni200F uni06C1.init uni06C1.medi uni06F7.indo period.arabic
+	uni0605 uni08AD uni08A1 uni08AE uni08B2 uni08AF uni08B0 uni08B1
+	uni08FF.base uni08A1.init uni08A1.medi uni08A1.fina uni08AE.fina
+	uni08B2.fina uni08AF.init uni08AF.medi uni08AF.fina uni08B0.init
+	uni08B0.medi uni08B0.fina uni08B1.fina ittisal.comp Tatwiil.comp
+	Hamzah.comp Alif.short.comp Alif.short.shorter.comp
+	Alif.short.shortest.comp Laam_m.short.comp Onedotarabic.comp
+	Twodotsarabic.comp Threedotsarabic.comp Threedotsarabicinverse.comp
+	Fourdotsarabic.comp Twodotsarabic.vertical.comp
+	Threedotsinverted.alt.comp Waslah.comp Hamzahwavy.comp Ttaa_minor.comp
+	Yaa_minor.comp ring.arabic.comp Gaaf.swsh.comp kyrgyz_oe.comp
+	Jiim_minor.comp decimals.arabic.comp uni08A6.comp sindhi_equals.comp
+	Haa.tip.comp Haa.alt.tip.comp Onedotarabic.minor.comp Alif.comp
+	Baa.comp Jiim.comp Daal.comp Raa.comp Siin.comp Ssaad.comp Ttaa.comp
+	Ayn.comp Faa.comp Qaaf.comp Kaaf.comp Kaaf.ess.comp Laam.comp Miim.comp
+	Nuun.comp Haa.comp uni06BE.comp Waaw.comp Yaa.comp Yaawide_f.comp
+	percent.arabic.comp arabic_root.comp charbox.comp ayah_dot.comp
+	Baa_i.comp Jiim_i.comp Siin_i.comp Ssaad_i.comp Ttaa_i.comp Ayn_i.comp
+	Faa_i.comp Kaaf_i.comp Laam_i.comp Miim_i.comp Haa_i.comp
+	uni06BE.init.comp Baa_m.comp Jiim_m.comp Siin_m.comp Ssaad_m.comp
+	Ttaa_m.comp Ayn_m.comp Faa_m.comp Kaaf_m.comp Laam_m.comp Miim_m.comp
+	Haa_m.comp Alif_f.comp Alif.short_f.comp Alif.short.shorter_f.comp
+	Alif.short.shortest_f.comp Baa_f.comp Jiim_f.comp Daal_f.comp
+	Raa_f.comp Siin_f.comp Ssaad_f.comp Ttaa_f.comp Ayn_f.comp Faa_f.comp
+	Qaaf_f.comp Kaaf_f.comp Laam_f.comp Miim_f.comp Nuun_f.comp Haa_f.comp
+	Waaw_f.comp Yaa_f.comp Keheh.comp Keheh.fina.comp Kaaf.swsh.comp
+	Kaaf.swsh.init.comp Haagoal.comp Haagoal.comp.fina.comp Yaawide.comp
+	Yaawide.fina.comp uni08AA.comp uni08AC.comp zero.arabic.comp
+	one.arabic.comp two.arabic.comp three.arabic.comp seven.arabic.comp
+	nine.arabic.comp percent.arabic.bar uni0602.comp Fathahvertical.comp
+	Ddammah.comp uni06E5.comp uni06E6.comp uniFD3E.comp Fathah.minor.comp
+	Fathah.comp Fathahdouble.comp uni08F0.comp uni08EE.comp Maaddah.comp
+	Hamzahabove.comp Nuunghunnah.comp arabicv.comp arabicvinverted.comp
+	Siin_minor.comp Miim_minor.comp uni08E4.comp emptystop.comp
+	uni08E5.comp uni08EC.comp uni08F7.comp tail.comp Zaa_minor.comp
+	uni061A.comp uni0651.comp uni0652.comp uni0659.comp uni06DF.comp
+	uni06EC.comp uni06E4.comp uni06E1.comp Threedotsarabic_flat.comp
+	Twoarabic_minor.comp Threearabic_minor.comp Fourarabic_minor.comp
+	Fourarabic_minor.indo.comp Haa_m.alt.comp nbsp.comp
+	Nuunghunnah.comp.001 uni0622.fina.alt uni0623.fina.alt uni0625.fina.alt
+	uni0627.fina.alt uni0671.fina.alt uni0672.fina.alt uni0673.fina.alt
+	uni0773.fina.alt uni0774.fina.alt uni0374 uni0375 uni037A uni037E tonos
+	dieresistonos Alphatonos anoteleia Epsilontonos Etatonos Iotatonos
+	Omicrontonos Upsilontonos Omegatonos iotadieresistonos Iotadieresis
+	Upsilondieresis alphatonos epsilontonos etatonos iotatonos
+	upsilondieresistonos alpha beta gamma delta epsilon zeta eta theta iota
+	kappa lambda mu nu xi omicron pi rho sigma1 sigma tau upsilon phi chi
+	psi omega iotadieresis upsilondieresis omicrontonos upsilontonos
+	omegatonos uni03D8 uni03D9 uni03DA uni03DC uni03DD uni03DF uni03E0
+	uni03E1 uni0400 afii10023 afii10051 afii10052 afii10053 afii10054
+	afii10055 afii10056 afii10057 afii10058 afii10059 afii10060 afii10061
+	uni040D afii10062 afii10145 afii10017 afii10018 afii10019 afii10020
+	afii10021 afii10022 afii10024 afii10025 afii10026 afii10027 afii10028
+	afii10029 afii10030 afii10031 afii10032 afii10033 afii10034 afii10035
+	afii10036 afii10037 afii10038 afii10039 afii10040 afii10041 afii10042
+	afii10043 afii10044 afii10045 afii10046 afii10047 afii10048 afii10049
+	afii10065 afii10066 afii10067 afii10068 afii10069 afii10070 afii10072
+	afii10073 afii10074 afii10075 afii10076 afii10077 afii10078 afii10079
+	afii10080 afii10081 afii10082 afii10083 afii10084 afii10085 afii10086
+	afii10087 afii10088 afii10089 afii10090 afii10091 afii10092 afii10093
+	afii10094 afii10095 afii10096 afii10097 uni0450 afii10071 afii10099
+	afii10100 afii10101 afii10102 afii10103 afii10104 afii10105 afii10106
+	afii10107 afii10108 afii10109 uni045D afii10110 afii10193 uni0460
+	uni0461 afii10146 afii10194 uni0464 uni0465 uni0466 uni0467 uni0468
+	uni0469 uni046A uni046B uni046C uni046D uni046E uni046F uni0470 uni0471
+	afii10147 afii10195 afii10148 afii10196 uni0476 uni0477 uni0478 uni0479
+	uni047A uni047B uni047C uni047D uni047E uni047F uni0480 uni0481 uni0482
+	uni0483 uni0484 uni0485 uni0486 uni0488 uni0489 uni048A uni048B uni048C
+	uni048D uni048E uni048F afii10050 afii10098 uni0492 uni0493 uni0494
+	uni0495 uni0496 uni0497 uni0498 uni0499 uni049A uni049B uni049C uni049D
+	uni049E uni049F uni04A0 uni04A1 uni04A2 uni04A3 uni04A4 uni04A5 uni04A6
+	uni04A7 uni04A8 uni04A9 uni04AA uni04AB uni04AC uni04AD uni04AE uni04AF
+	uni04B0 uni04B1 uni04B2 uni04B3 uni04B4 uni04B5 uni04B6 uni04B7 uni04B8
+	uni04B9 uni04BA uni04BB uni04BC uni04BD uni04BE uni04BF uni04C0 uni04C1
+	uni04C2 uni04C3 uni04C4 uni04C5 uni04C6 uni04C7 uni04C8 uni04C9 uni04CA
+	uni04CB uni04CC uni04CD uni04CE uni04D0 uni04D1 uni04D2 uni04D3 uni04D4
+	uni04D5 uni04D6 uni04D7 uni04D8 afii10846 uni04DA uni04DB uni04DC
+	uni04DD uni04DE uni04DF uni04E0 uni04E1 uni04E2 uni04E3 uni04E4 uni04E5
+	uni04E6 uni04E7 uni04E8 uni04E9 uni04EA uni04EB uni04EC uni04ED uni04EE
+	uni04EF uni04F0 uni04F1 uni04F2 uni04F3 uni04F4 uni04F5 uni04F6 uni04F7
+	uni04F8 uni04F9 uni04FC uni04FD uni04FE uni04FF uni0512 uni0513 uni1F00
+	uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F06 uni1F07 uni1F08 uni1F09
+	uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1F10 uni1F11 uni1F12
+	uni1F13 uni1F14 uni1F15 uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D
+	uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F26 uni1F27 uni1F28
+	uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1F30 uni1F31
+	uni1F32 uni1F33 uni1F34 uni1F35 uni1F36 uni1F37 uni1F38 uni1F39 uni1F3A
+	uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1F40 uni1F41 uni1F42 uni1F43
+	uni1F44 uni1F45 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1F50
+	uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F56 uni1F57 uni1F59 uni1F5B
+	uni1F5D uni1F5F uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F66
+	uni1F67 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F
+	uni1F70 uni1F71 uni1F72 uni1F73 uni1F74 uni1F75 uni1F76 uni1F77 uni1F78
+	uni1F79 uni1F7A uni1F7B uni1F7C uni1F7D uni1F80 uni1F81 uni1F82 uni1F83
+	uni1F84 uni1F85 uni1F86 uni1F87 uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C
+	uni1F8D uni1F8E uni1F8F uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95
+	uni1F96 uni1F97 uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E
+	uni1F9F uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA4 uni1FA5 uni1FA6 uni1FA7
+	uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1FB0
+	uni1FB1 uni1FB2 uni1FB3 uni1FB4 uni1FB6 uni1FB7 uni1FB8 uni1FB9 uni1FBA
+	uni1FBB uni1FBC uni1FBD uni1FBE uni1FBF uni1FC0 uni1FC1 uni1FC2 uni1FC3
+	uni1FC4 uni1FC6 uni1FC7 uni1FC8 uni1FC9 uni1FCA uni1FCB uni1FCC uni1FCD
+	uni1FCE uni1FCF uni1FD0 uni1FD1 uni1FD2 uni1FD3 uni1FD6 uni1FD7 uni1FD8
+	uni1FD9 uni1FDA uni1FDB uni1FDD uni1FDE uni1FDF uni1FE0 uni1FE1 uni1FE2
+	uni1FE3 uni1FE4 uni1FE5 uni1FE6 uni1FE7 uni1FE8 uni1FE9 uni1FEA uni1FEB
+	uni1FEC uni1FED uni1FEE uni1FEF uni1FF2 uni1FF3 uni1FF4 uni1FF6 uni1FF7
+	uni1FF8 uni1FF9 uni1FFA uni1FFB uni1FFC uni1FFD uni1FFE uni1E9E];
+@GDEF_Mark = [uni08FF];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
