@@ -16087,7 +16087,7 @@ EndChar
 
 StartChar: uni0610
 Encoding: 1552 1552 437
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -16115,7 +16115,7 @@ EndChar
 
 StartChar: uni0611
 Encoding: 1553 1553 438
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -16147,7 +16147,7 @@ EndChar
 
 StartChar: uni0612
 Encoding: 1554 1554 439
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -16183,7 +16183,7 @@ EndChar
 
 StartChar: uni0613
 Encoding: 1555 1555 440
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -16221,7 +16221,7 @@ EndChar
 
 StartChar: uni0614
 Encoding: 1556 1556 441
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -16251,7 +16251,7 @@ EndChar
 
 StartChar: uni0615
 Encoding: 1557 1557 442
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -16278,7 +16278,7 @@ EndChar
 
 StartChar: uni0616
 Encoding: 1558 1558 443
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -16312,7 +16312,7 @@ EndChar
 
 StartChar: uni0617
 Encoding: 1559 1559 444
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -16338,7 +16338,7 @@ EndChar
 
 StartChar: uni0618
 Encoding: 1560 1560 445
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -16358,7 +16358,7 @@ EndChar
 
 StartChar: uni0619
 Encoding: 1561 1561 446
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -16379,7 +16379,7 @@ EndChar
 
 StartChar: uni061A
 Encoding: 1562 1562 447
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18108,7 +18108,7 @@ EndChar
 
 StartChar: uni064B
 Encoding: 1611 1611 495
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18137,7 +18137,7 @@ EndChar
 
 StartChar: uni064C
 Encoding: 1612 1612 496
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18168,7 +18168,7 @@ EndChar
 
 StartChar: uni064D
 Encoding: 1613 1613 497
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18197,7 +18197,7 @@ EndChar
 
 StartChar: uni064E
 Encoding: 1614 1614 498
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18217,7 +18217,7 @@ EndChar
 
 StartChar: uni064F
 Encoding: 1615 1615 499
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18238,7 +18238,7 @@ EndChar
 
 StartChar: uni0650
 Encoding: 1616 1616 500
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18258,7 +18258,7 @@ EndChar
 
 StartChar: uni0651
 Encoding: 1617 1617 501
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18286,7 +18286,7 @@ EndChar
 
 StartChar: uni0652
 Encoding: 1618 1618 502
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18308,7 +18308,7 @@ EndChar
 
 StartChar: uni0653
 Encoding: 1619 1619 503
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18334,7 +18334,7 @@ EndChar
 
 StartChar: uni0654
 Encoding: 1620 1620 504
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18359,7 +18359,7 @@ EndChar
 
 StartChar: uni0655
 Encoding: 1621 1621 505
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18384,7 +18384,7 @@ EndChar
 
 StartChar: uni0656
 Encoding: 1622 1622 506
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18402,7 +18402,7 @@ EndChar
 
 StartChar: uni0657
 Encoding: 1623 1623 507
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18423,7 +18423,7 @@ EndChar
 
 StartChar: uni0658
 Encoding: 1624 1624 508
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18447,7 +18447,7 @@ EndChar
 
 StartChar: uni0659
 Encoding: 1625 1625 509
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18465,7 +18465,7 @@ EndChar
 
 StartChar: uni065A
 Encoding: 1626 1626 510
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18489,7 +18489,7 @@ EndChar
 
 StartChar: uni065B
 Encoding: 1627 1627 511
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18513,7 +18513,7 @@ EndChar
 
 StartChar: uni065C
 Encoding: 1628 1628 512
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18529,7 +18529,7 @@ EndChar
 
 StartChar: uni065D
 Encoding: 1629 1629 513
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18550,7 +18550,7 @@ EndChar
 
 StartChar: uni065E
 Encoding: 1630 1630 514
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -18580,7 +18580,7 @@ EndChar
 
 StartChar: uni065F
 Encoding: 1631 1631 515
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23043,7 +23043,7 @@ EndChar
 
 StartChar: uni06D6
 Encoding: 1750 1750 634
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23089,7 +23089,7 @@ EndChar
 
 StartChar: uni06D7
 Encoding: 1751 1751 635
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23132,7 +23132,7 @@ EndChar
 
 StartChar: uni06D8
 Encoding: 1752 1752 636
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23158,7 +23158,7 @@ EndChar
 
 StartChar: uni06D9
 Encoding: 1753 1753 637
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23194,7 +23194,7 @@ EndChar
 
 StartChar: uni06DA
 Encoding: 1754 1754 638
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23228,7 +23228,7 @@ EndChar
 
 StartChar: uni06DB
 Encoding: 1755 1755 639
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23254,7 +23254,7 @@ EndChar
 
 StartChar: uni06DC
 Encoding: 1756 1756 640
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23439,7 +23439,7 @@ EndChar
 
 StartChar: uni06DF
 Encoding: 1759 1759 643
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23455,7 +23455,7 @@ EndChar
 
 StartChar: uni06E0
 Encoding: 1760 1760 644
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23476,7 +23476,7 @@ EndChar
 
 StartChar: uni06E1
 Encoding: 1761 1761 645
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23499,7 +23499,7 @@ EndChar
 
 StartChar: uni06E2
 Encoding: 1762 1762 646
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23527,7 +23527,7 @@ EndChar
 
 StartChar: uni06E3
 Encoding: 1763 1763 647
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23568,7 +23568,7 @@ EndChar
 
 StartChar: uni06E4
 Encoding: 1764 1764 648
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23643,7 +23643,7 @@ EndChar
 
 StartChar: uni06E7
 Encoding: 1767 1767 651
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23667,7 +23667,7 @@ EndChar
 
 StartChar: uni06E8
 Encoding: 1768 1768 652
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23761,7 +23761,7 @@ EndChar
 
 StartChar: uni06EA
 Encoding: 1770 1770 654
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23782,7 +23782,7 @@ EndChar
 
 StartChar: uni06EB
 Encoding: 1771 1771 655
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23803,7 +23803,7 @@ EndChar
 
 StartChar: uni06EC
 Encoding: 1772 1772 656
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -23819,7 +23819,7 @@ EndChar
 
 StartChar: uni06ED
 Encoding: 1773 1773 657
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27279,7 +27279,7 @@ EndChar
 
 StartChar: uni08E4
 Encoding: 2276 2276 743
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27303,7 +27303,7 @@ EndChar
 
 StartChar: uni08E5
 Encoding: 2277 2277 744
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27325,7 +27325,7 @@ EndChar
 
 StartChar: uni08E6
 Encoding: 2278 2278 745
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27349,7 +27349,7 @@ EndChar
 
 StartChar: uni08E7
 Encoding: 2279 2279 746
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27386,7 +27386,7 @@ EndChar
 
 StartChar: uni08E8
 Encoding: 2280 2280 747
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27419,7 +27419,7 @@ EndChar
 
 StartChar: uni08E9
 Encoding: 2281 2281 748
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27456,7 +27456,7 @@ EndChar
 
 StartChar: uni08EA
 Encoding: 2282 2282 749
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27472,7 +27472,7 @@ EndChar
 
 StartChar: uni08EB
 Encoding: 2283 2283 750
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27493,7 +27493,7 @@ EndChar
 
 StartChar: uni08EC
 Encoding: 2284 2284 751
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27523,7 +27523,7 @@ EndChar
 
 StartChar: uni08ED
 Encoding: 2285 2285 752
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27539,7 +27539,7 @@ EndChar
 
 StartChar: uni08EE
 Encoding: 2286 2286 753
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27560,7 +27560,7 @@ EndChar
 
 StartChar: uni08EF
 Encoding: 2287 2287 754
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27590,7 +27590,7 @@ EndChar
 
 StartChar: uni08F0
 Encoding: 2288 2288 755
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27619,7 +27619,7 @@ EndChar
 
 StartChar: uni08F1
 Encoding: 2289 2289 756
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27650,7 +27650,7 @@ EndChar
 
 StartChar: uni08F2
 Encoding: 2290 2290 757
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27679,7 +27679,7 @@ EndChar
 
 StartChar: uni08F3
 Encoding: 2291 2291 758
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27709,7 +27709,7 @@ EndChar
 
 StartChar: uni08F4
 Encoding: 2292 2292 759
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27739,7 +27739,7 @@ EndChar
 
 StartChar: uni08F5
 Encoding: 2293 2293 760
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27764,7 +27764,7 @@ EndChar
 
 StartChar: uni08F6
 Encoding: 2294 2294 761
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27789,7 +27789,7 @@ EndChar
 
 StartChar: uni08F7
 Encoding: 2295 2295 762
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27813,7 +27813,7 @@ EndChar
 
 StartChar: uni08F8
 Encoding: 2296 2296 763
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27837,7 +27837,7 @@ EndChar
 
 StartChar: uni08F9
 Encoding: 2297 2297 764
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27861,7 +27861,7 @@ EndChar
 
 StartChar: uni08FA
 Encoding: 2298 2298 765
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27885,7 +27885,7 @@ EndChar
 
 StartChar: uni08FB
 Encoding: 2299 2299 766
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27922,7 +27922,7 @@ EndChar
 
 StartChar: uni08FC
 Encoding: 2300 2300 767
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27964,7 +27964,7 @@ EndChar
 
 StartChar: uni08FD
 Encoding: 2301 2301 768
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -27998,7 +27998,7 @@ EndChar
 
 StartChar: uni08FE
 Encoding: 2302 2302 769
-Width: 525
+Width: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
@@ -28024,7 +28024,7 @@ EndChar
 
 StartChar: uni08FF
 Encoding: 2303 2303 770
-Width: 525
+Width: 0
 GlyphClass: 4
 Flags: HMW
 LayerCount: 2
