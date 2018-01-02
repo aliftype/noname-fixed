@@ -888,13 +888,6 @@ feature rlig {
 	uni08FE.base uni08FF.base]'lookup rlig_0_0 ;
 } rlig;
 
-feature rlig {
-  lookupflag RightToLeft;
-  script arab;
-     language ARA  exclude_dflt;
-      sub uni25CC by uni0640;
-} rlig;
-
 lookup frac_0 {
   lookupflag 0;
     sub one fraction two  by onehalf;
