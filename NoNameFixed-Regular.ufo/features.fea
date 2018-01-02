@@ -1,8 +1,12 @@
+languagesystem arab dflt;
+languagesystem arab ARA;
+languagesystem arab FAR;
+languagesystem arab URD;
 
 # GSUB
 
 
-lookup ccmp_0 {
+feature ccmp {
   lookupflag RightToLeft;
     sub uni0618 by uni0618.base;
     sub uni0619 by uni0619.base;
@@ -71,14 +75,14 @@ lookup ccmp_0 {
     sub uni08FD by uni08FD.base;
     sub uni08FE by uni08FE.base;
     sub uni08FF by uni08FF.base;
-} ccmp_0;
+} ccmp;
 
-lookup dlig_0 {
+feature dlig {
   lookupflag RightToLeft IgnoreMarks;
     sub colon by colon.arabic;
     sub exclam by exclam.arabic;
     sub period by period.arabic;
-} dlig_0;
+} dlig;
 
 lookup locl_0 {
   lookupflag IgnoreMarks;
@@ -86,7 +90,7 @@ lookup locl_0 {
     sub uni06F7 by uni06F7.indo;
 } locl_0;
 
-lookup fina_0 {
+feature fina {
   lookupflag RightToLeft IgnoreMarks;
     sub uni0640 by uni0640;
     sub uni0622 by uni0622.fina;
@@ -306,9 +310,9 @@ lookup fina_0 {
     sub uni08AF by uni08AF.fina;
     sub uni08B0 by uni08B0.fina;
     sub uni08B1 by uni08B1.fina;
-} fina_0;
+} fina;
 
-lookup medi_0 {
+feature medi {
   lookupflag RightToLeft IgnoreMarks;
     sub uni0640 by uni0640;
     sub uni0628 by uni0628.medi;
@@ -456,9 +460,9 @@ lookup medi_0 {
     sub uni08A1 by uni08A1.medi;
     sub uni08AF by uni08AF.medi;
     sub uni08B0 by uni08B0.medi;
-} medi_0;
+} medi;
 
-lookup init_0 {
+feature init {
   lookupflag RightToLeft IgnoreMarks;
     sub uni0640 by uni0640;
     sub uni0628 by uni0628.init;
@@ -606,7 +610,7 @@ lookup init_0 {
     sub uni08A1 by uni08A1.init;
     sub uni08AF by uni08AF.init;
     sub uni08B0 by uni08B0.init;
-} init_0;
+} init;
 
 lookup rlig_0_0 {
   lookupflag RightToLeft;
@@ -679,7 +683,7 @@ lookup rlig_0_0 {
     sub uni08FF.base by uni0640 uni08FF.base;
 } rlig_0_0;
 
-lookup rlig_0 {
+feature rlig {
   lookupflag RightToLeft;
     sub [uni0640 uni0628.init uni062A.init uni062B.init uni066E.init
 	uni0679.init uni067A.init uni067B.init uni067C.init
@@ -882,12 +886,14 @@ lookup rlig_0 {
 	uni08F6.base uni08F7.base uni08F8.base uni08F9.base
 	uni08FA.base uni08FB.base uni08FC.base uni08FD.base
 	uni08FE.base uni08FF.base]'lookup rlig_0_0 ;
-} rlig_0;
+} rlig;
 
-lookup rlig_1 {
+feature rlig {
   lookupflag RightToLeft;
-    sub uni25CC by uni0640;
-} rlig_1;
+  script arab;
+     language ARA  exclude_dflt;
+      sub uni25CC by uni0640;
+} rlig;
 
 lookup frac_0 {
   lookupflag 0;
@@ -948,85 +954,11 @@ lookup liga_0 {
 	uni0673.fina.alt uni0773.fina.alt uni0774.fina.alt];
 } liga_0;
 
-feature ccmp {
-
-  script arab;
-     language dflt;
-      lookup ccmp_0;
-     language ARA  exclude_dflt;
-      lookup ccmp_0;
-     language FAR  exclude_dflt;
-      lookup ccmp_0;
-     language URD  exclude_dflt;
-      lookup ccmp_0;
-} ccmp;
-
-feature dlig {
-  script arab;
-     language dflt;
-      lookup dlig_0;
-     language ARA  exclude_dflt;
-      lookup dlig_0;
-     language FAR  exclude_dflt;
-      lookup dlig_0;
-     language URD  exclude_dflt;
-      lookup dlig_0;
-} dlig;
-
 feature locl {
   script arab;
      language URD  exclude_dflt;
       lookup locl_0;
 } locl;
-
-feature fina {
-  script arab;
-     language dflt;
-      lookup fina_0;
-     language ARA  exclude_dflt;
-      lookup fina_0;
-     language FAR  exclude_dflt;
-      lookup fina_0;
-     language URD  exclude_dflt;
-      lookup fina_0;
-} fina;
-
-feature medi {
-  script arab;
-     language dflt;
-      lookup medi_0;
-     language ARA  exclude_dflt;
-      lookup medi_0;
-     language FAR  exclude_dflt;
-      lookup medi_0;
-     language URD  exclude_dflt;
-      lookup medi_0;
-} medi;
-
-feature init {
-  script arab;
-     language dflt;
-      lookup init_0;
-     language ARA  exclude_dflt;
-      lookup init_0;
-     language FAR  exclude_dflt;
-      lookup init_0;
-     language URD  exclude_dflt;
-      lookup init_0;
-} init;
-
-feature rlig {
-  script arab;
-     language dflt;
-      lookup rlig_0;
-     language ARA  exclude_dflt;
-      lookup rlig_0;
-      lookup rlig_1;
-     language FAR  exclude_dflt;
-      lookup rlig_0;
-     language URD  exclude_dflt;
-      lookup rlig_0;
-} rlig;
 
 feature frac {
   script latn;
@@ -1093,14 +1025,6 @@ feature zero {
 } zero;
 
 feature liga {
-  script arab;
-     language dflt;
-      lookup liga_0;
-     language ARA  exclude_dflt;
-      lookup liga_0;
-     language FAR  exclude_dflt;
-      lookup liga_0;
-     language URD  exclude_dflt;
       lookup liga_0;
 } liga;
 
@@ -1247,13 +1171,6 @@ lookup mark_0 {
 
 feature mark {
   script arab;
-     language dflt;
-      lookup mark_0;
-     language ARA  exclude_dflt;
-      lookup mark_0;
-     language FAR  exclude_dflt;
-      lookup mark_0;
-     language URD  exclude_dflt;
       lookup mark_0;
 } mark;
 
