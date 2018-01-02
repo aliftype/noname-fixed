@@ -78,7 +78,6 @@ lookup dlig_0 {
     sub colon by colon.arabic;
     sub exclam by exclam.arabic;
     sub period by period.arabic;
-    sub question by uni061F;
 } dlig_0;
 
 lookup locl_0 {
@@ -934,14 +933,6 @@ lookup lnum_0 {
     sub zero.taboldstyle by zero;
 } lnum_0;
 
-lookup dlig_1 {
-  lookupflag 0;
-    sub exclam quoteleft  by exclamdown;
-    sub exclam grave  by exclamdown;
-    sub question quoteleft  by questiondown;
-    sub question grave  by questiondown;
-} dlig_1;
-
 lookup zero_0 {
   lookupflag 0;
     sub zero by zero.slash;
@@ -980,20 +971,6 @@ feature dlig {
       lookup dlig_0;
      language URD  exclude_dflt;
       lookup dlig_0;
-
-  script latn;
-     language dflt;
-      lookup dlig_1;
-     language AZE  exclude_dflt;
-      lookup dlig_1;
-     language CRT  exclude_dflt;
-      lookup dlig_1;
-     language MOL  exclude_dflt;
-      lookup dlig_1;
-     language ROM  exclude_dflt;
-      lookup dlig_1;
-     language TRK  exclude_dflt;
-      lookup dlig_1;
 } dlig;
 
 feature locl {
