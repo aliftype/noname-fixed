@@ -1,0 +1,38 @@
+Typeface Family: Arabic-Latin Modern 
+Font: Arabic-Latin Modern Fixed 
+Style: Regular
+Version: 0.92
+Author: Idris Samawi Hamid
+Date: August 15, 2014
+
+License:
+
+Arabic-Latin Modern Fixed is licensed under the GUST Font License with one important adjustment: It is requested, as well as legally *required*, that derived works be distributed only after changing the names of the fonts comprising this work.
+
+http://www.gust.org.pl/projects/e-foundry/licenses/GUST-FONT-LICENSE.txt/view
+
+Contains:
+
+/alm/doc/almfixed-dtk.pdf
+/alm/otf/almfixed.otf 
+/alm/ttf/almfixed.ttf 
+ 
+Some notes, in no particular order:
+
+1. For more extensive documentation, examples, and background; see almfixed-dtk.pdf.
+ 
+2. The final version number (per any future fixes, maintenance etc.) is intended to be Version 1.10.
+
+3. Arabic-Latin Modern Fixed is an extension of TeX-Gyre Latin Modern Mono 10 Regular. Every glyph and opentype feature of the Latin Modern Mono has been retained, with minor improvements. On the other hand, we have changed the vertical metrics of the font. Although the Arabic script is designed to use the same x-size as Latin Modern Mono, the former script needs greater ascender and descender space. And there are cases (such as certain kinds of academic assignment and definitely mixed Latin and Arabic text) where Latin can use the extra vertical space as well. Otherwise, only the vertical metrics prevents this from being a drop-in replacement for Latin Modern Mono. Of course one can always set the vertical metrics in TeX to match LM Mono.
+
+4. Every Arabic glyph in each Arabic-script Unicode-code block is supported (up to Unicode 7.0): Arabic, Arabic Supplement, Arabic Extended, Arabic Presentation-Forms A, and Arabic Presentation-Forms B.
+ 
+5. This is a totally original design, using the Knuthian letters as inspiration. Indeed, virtually all Arabic characters were developed on the foundation of a study of the Latin Modern Mono letters 'l', 'r', and 'c'. In other words, this is a genuine extension of the original Knuthian design to an authentic and culturally authentic Arabic typing font.
+ 
+6. There are two versions of the font: otf and ttf. The otf version (cff-flavored with PostScript curves) is for print applications (and usually the default for TeX). The ttf version is for on-screen applications such as text editors. Hinting in the ttf version is much better for on-screen, at least on Microsoft Windows. 
+ 
+7. The most distinctive feature of Arabic-Latin Modern lies in its treatment of vowels and diacritics. Each vowel and diacritic (ALM Fixed contains a total of 68 such glyphs) can now be edited horizontally within any text editor or processor. I believe this is the very first opentype Arabic font ever to have this capability. Editing complex Arabic texts will now be much easier to input and to proofread.
+ 
+8. At least 12 additional format characters are included; see almfixed-dtk.pdf for details. Also designed a glyph representation for U+00A0 (no-break space), as well as U+25CC (dotted circle).
+
+9. Arabic-Latin Modern Mono will be a boon to scholars, academics, code editors, and anyone who wants to manage the entry of the wide array of Unicode Arabic text for editing, verbatim, or other purposes. 
