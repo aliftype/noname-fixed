@@ -7,7 +7,7 @@ languagesystem arab URD;
 
 
 feature ccmp {
-  lookupflag RightToLeft;
+  lookupflag 0;
     sub uni0618 by uni0618.base;
     sub uni0619 by uni0619.base;
     sub uni061A by uni061A.base;
@@ -78,14 +78,14 @@ feature ccmp {
 } ccmp;
 
 feature dlig {
-  lookupflag RightToLeft IgnoreMarks;
+  lookupflag IgnoreMarks;
     sub colon by colon.arabic;
     sub exclam by exclam.arabic;
     sub period by period.arabic;
 } dlig;
 
 feature fina {
-  lookupflag RightToLeft IgnoreMarks;
+  lookupflag IgnoreMarks;
     sub uni0640 by uni0640;
     sub uni0622 by uni0622.fina;
     sub uni0623 by uni0623.fina;
@@ -307,7 +307,7 @@ feature fina {
 } fina;
 
 feature medi {
-  lookupflag RightToLeft IgnoreMarks;
+  lookupflag IgnoreMarks;
     sub uni0640 by uni0640;
     sub uni0628 by uni0628.medi;
     sub uni062A by uni062A.medi;
@@ -457,7 +457,7 @@ feature medi {
 } medi;
 
 feature init {
-  lookupflag RightToLeft IgnoreMarks;
+  lookupflag IgnoreMarks;
     sub uni0640 by uni0640;
     sub uni0628 by uni0628.init;
     sub uni062A by uni062A.init;
@@ -607,7 +607,7 @@ feature init {
 } init;
 
 lookup rlig_0_0 {
-  lookupflag RightToLeft;
+  lookupflag 0;
     sub uni0618.base by uni0640 uni0618.base;
     sub uni0619.base by uni0640 uni0619.base;
     sub uni061A.base by uni0640 uni061A.base;
@@ -678,7 +678,7 @@ lookup rlig_0_0 {
 } rlig_0_0;
 
 feature rlig {
-  lookupflag RightToLeft;
+  lookupflag 0;
     sub [uni0640 uni0628.init uni062A.init uni062B.init uni066E.init
 	uni0679.init uni067A.init uni067B.init uni067C.init
 	uni067D.init uni067E.init uni067F.init uni0680.init
