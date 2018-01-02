@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0778" format="2">
+  <advance width="525"/>
+  <unicode hex="0778"/>
+  <outline>
+    <component base="Twoarabic_minor.comp" xOffset="-103.0" yOffset="-311.0"/>
+    <component base="uni0648" xOffset="-10.0"/>
+  </outline>
+</glyph>

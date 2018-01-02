@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hamzah.comp" format="2">
+  <advance width="525"/>
+  <outline>
+    <component base="uni0621" xOffset="-11.0" yOffset="64.0"/>
+  </outline>
+</glyph>

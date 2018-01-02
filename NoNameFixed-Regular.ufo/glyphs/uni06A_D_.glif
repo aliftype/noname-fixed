@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06AD" format="2">
+  <advance width="525"/>
+  <unicode hex="06AD"/>
+  <outline>
+    <component base="Kaaf.ess.comp" xOffset="32.0" yOffset="-126.0"/>
+    <component base="Kaaf.comp"/>
+    <component base="uni061E" xOffset="-8.0" yOffset="424.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni08AF.medi" format="2">
+  <advance width="525"/>
+  <outline>
+    <component base="Ssaad_m.comp"/>
+    <component base="uniFBB8" xOffset="78.0" yOffset="-621.0"/>
+  </outline>
+</glyph>

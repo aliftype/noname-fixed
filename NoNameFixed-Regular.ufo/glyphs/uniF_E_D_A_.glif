@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEDA" format="2">
+  <advance width="525"/>
+  <unicode hex="FEDA"/>
+  <outline>
+    <component base="Kaaf_f.comp"/>
+    <component base="Kaaf.ess.comp" xOffset="-39.0"/>
+  </outline>
+</glyph>

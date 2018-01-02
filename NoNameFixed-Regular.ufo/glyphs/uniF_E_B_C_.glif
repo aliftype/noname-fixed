@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEBC" format="2">
+  <advance width="525"/>
+  <unicode hex="FEBC"/>
+  <outline>
+    <component base="Ssaad_m.comp"/>
+    <component base="ittisal.comp"/>
+  </outline>
+</glyph>

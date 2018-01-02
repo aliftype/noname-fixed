@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space_uni0306_uni0303.cap" format="2">
+  <advance width="525"/>
+  <unicode hex="EA0F"/>
+  <outline>
+    <component base="breve" yOffset="-7.0"/>
+    <component base="asciitilde" yOffset="399.0"/>
+  </outline>
+</glyph>

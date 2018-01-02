@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Haa.tip.comp" format="2">
+  <advance width="525"/>
+  <outline>
+    <contour>
+      <point x="115.0" y="505.0" type="curve" smooth="yes"/>
+      <point x="115.0" y="543.0"/>
+      <point x="151.0" y="561.0"/>
+      <point x="196.0" y="561.0" type="curve" smooth="yes"/>
+      <point x="256.0" y="561.0"/>
+      <point x="294.0" y="528.0"/>
+      <point x="335.0" y="494.0" type="curve"/>
+      <point x="261.0" y="460.0" type="line"/>
+      <point x="246.0" y="470.0"/>
+      <point x="235.0" y="477.0"/>
+      <point x="205.0" y="477.0" type="curve" smooth="yes"/>
+      <point x="187.0" y="477.0"/>
+      <point x="179.0" y="462.0"/>
+      <point x="157.0" y="462.0" type="curve" smooth="yes"/>
+      <point x="135.0" y="462.0"/>
+      <point x="115.0" y="478.0"/>
+    </contour>
+  </outline>
+</glyph>

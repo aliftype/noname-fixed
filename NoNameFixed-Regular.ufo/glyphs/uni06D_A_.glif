@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06DA" format="2">
+  <advance width="525"/>
+  <unicode hex="06DA"/>
+  <outline>
+    <component base="Jiim_minor.comp" xOffset="-4.0"/>
+    <component base="uni08EA" yOffset="-206.0"/>
+  </outline>
+</glyph>

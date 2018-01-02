@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB51" format="2">
+  <advance width="525"/>
+  <unicode hex="FB51"/>
+  <outline>
+    <component base="Alif.short.shorter_f.comp"/>
+    <component base="Waslah.comp" yOffset="67.0"/>
+  </outline>
+</glyph>

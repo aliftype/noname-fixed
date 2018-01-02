@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBE1" format="2">
+  <advance width="525"/>
+  <unicode hex="FBE1"/>
+  <outline>
+    <component base="kyrgyz_oe.comp" xOffset="-106.0" yOffset="-726.0"/>
+    <component base="uniFEEE"/>
+  </outline>
+</glyph>

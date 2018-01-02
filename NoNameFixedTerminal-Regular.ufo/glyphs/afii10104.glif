@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10104" format="2">
+  <advance width="525"/>
+  <unicode hex="0457"/>
+  <outline>
+    <contour>
+      <point x="123.0" y="561.0" type="curve" smooth="yes"/>
+      <point x="123.0" y="588.0"/>
+      <point x="146.0" y="611.0"/>
+      <point x="172.0" y="611.0" type="curve" smooth="yes"/>
+      <point x="198.0" y="611.0"/>
+      <point x="222.0" y="590.0"/>
+      <point x="222.0" y="561.0" type="curve" smooth="yes"/>
+      <point x="222.0" y="532.0"/>
+      <point x="199.0" y="511.0"/>
+      <point x="173.0" y="511.0" type="curve" smooth="yes"/>
+      <point x="143.0" y="511.0"/>
+      <point x="123.0" y="534.0"/>
+    </contour>
+    <contour>
+      <point x="327.0" y="561.0" type="curve" smooth="yes"/>
+      <point x="327.0" y="590.0"/>
+      <point x="349.0" y="611.0"/>
+      <point x="376.0" y="611.0" type="curve" smooth="yes"/>
+      <point x="402.0" y="611.0"/>
+      <point x="426.0" y="590.0"/>
+      <point x="426.0" y="561.0" type="curve" smooth="yes"/>
+      <point x="426.0" y="532.0"/>
+      <point x="402.0" y="511.0"/>
+      <point x="377.0" y="511.0" type="curve" smooth="yes"/>
+      <point x="348.0" y="511.0"/>
+      <point x="327.0" y="534.0"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+</glyph>

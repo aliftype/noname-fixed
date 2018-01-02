@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBD4" format="2">
+  <advance width="525"/>
+  <unicode hex="FBD4"/>
+  <outline>
+    <component base="Kaaf_f.comp"/>
+    <component base="Kaaf.ess.comp" xOffset="32.0" yOffset="-126.0"/>
+    <component base="uni061E" xOffset="-8.0" yOffset="424.0"/>
+  </outline>
+</glyph>

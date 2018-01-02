@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space_uni0302_uni0300.cap" format="2">
+  <advance width="525"/>
+  <unicode hex="EA19"/>
+  <outline>
+    <component base="circumflex.cap"/>
+    <component base="grave" xOffset="1.0" yOffset="116.0"/>
+  </outline>
+</glyph>

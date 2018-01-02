@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Twodotsarabic.vertical.comp" format="2">
+  <advance width="525"/>
+  <outline>
+    <component base="uniFBBD" xOffset="6.0" yOffset="-99.0"/>
+  </outline>
+</glyph>

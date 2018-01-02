@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space_uni030A_uni0301.cap" format="2">
+  <advance width="525"/>
+  <unicode hex="EA41"/>
+  <outline>
+    <component base="ring" yOffset="-50.0"/>
+    <component base="acute" yOffset="118.0"/>
+  </outline>
+</glyph>

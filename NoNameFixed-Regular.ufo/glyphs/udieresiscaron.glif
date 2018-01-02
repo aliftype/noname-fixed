@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresiscaron" format="2">
+  <advance width="525"/>
+  <unicode hex="01DA"/>
+  <outline>
+    <component base="caron.cap" yOffset="181.0"/>
+    <component base="udieresis"/>
+  </outline>
+</glyph>

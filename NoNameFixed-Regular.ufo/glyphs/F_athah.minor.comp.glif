@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fathah.minor.comp" format="2">
+  <advance width="525"/>
+  <outline>
+    <component base="uni0618" xOffset="-25.0" yOffset="-69.0"/>
+  </outline>
+</glyph>

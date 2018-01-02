@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030B.cap" format="2">
+  <unicode hex="EA39"/>
+  <outline>
+    <component base="hungarumlaut" xOffset="-525.0" yOffset="181.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB9D" format="2">
+  <advance width="525"/>
+  <unicode hex="FB9D"/>
+  <outline>
+    <component base="Gaaf.swsh.comp" xOffset="-123.0" yOffset="42.0"/>
+    <component base="uniFBB4" xOffset="118.0" yOffset="-19.0"/>
+    <component base="uniFB91"/>
+  </outline>
+</glyph>

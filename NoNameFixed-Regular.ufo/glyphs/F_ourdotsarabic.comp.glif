@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fourdotsarabic.comp" format="2">
+  <advance width="525"/>
+  <outline>
+    <component base="uniFBBA" xOffset="-3.0" yOffset="-97.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Onedotarabic.comp" format="2">
+  <advance width="525"/>
+  <outline>
+    <component base="uni065C" xOffset="-1.0" yOffset="861.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent.arabic.bar" format="2">
+  <advance width="525"/>
+  <outline>
+    <component base="percent.arabic.comp"/>
+  </outline>
+</glyph>

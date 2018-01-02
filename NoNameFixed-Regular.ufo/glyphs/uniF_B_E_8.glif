@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBE8" format="2">
+  <advance width="525"/>
+  <unicode hex="FBE8"/>
+  <outline>
+    <component base="Baa_i.comp"/>
+    <component base="ittisal.comp"/>
+  </outline>
+</glyph>

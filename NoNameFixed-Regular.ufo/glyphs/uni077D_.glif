@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni077D" format="2">
+  <advance width="525"/>
+  <unicode hex="077D"/>
+  <outline>
+    <component base="Fourarabic_minor.indo.comp" xOffset="93.0" yOffset="30.0"/>
+    <component base="uni0633"/>
+  </outline>
+</glyph>
