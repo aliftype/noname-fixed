@@ -308,7 +308,7 @@ lookup fina_0 {
     sub uni08B1 by uni08B1.fina;
 } fina_0;
 
-lookup media_0 {
+lookup medi_0 {
   lookupflag RightToLeft IgnoreMarks;
     sub uni0640 by uni0640;
     sub uni0628 by uni0628.medi;
@@ -456,7 +456,7 @@ lookup media_0 {
     sub uni08A1 by uni08A1.medi;
     sub uni08AF by uni08AF.medi;
     sub uni08B0 by uni08B0.medi;
-} media_0;
+} medi_0;
 
 lookup init_0 {
   lookupflag RightToLeft IgnoreMarks;
@@ -994,13 +994,13 @@ feature fina {
 feature medi {
   script arab;
      language dflt;
-      lookup media_0;
+      lookup medi_0;
      language ARA  exclude_dflt;
-      lookup media_0;
+      lookup medi_0;
      language FAR  exclude_dflt;
-      lookup media_0;
+      lookup medi_0;
      language URD  exclude_dflt;
-      lookup media_0;
+      lookup medi_0;
 } medi;
 
 feature init {
