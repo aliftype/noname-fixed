@@ -937,7 +937,7 @@ lookup zero_0 {
     sub zero by zero.slash;
 } zero_0;
 
-lookup liga_0 {
+feature liga {
   lookupflag IgnoreMarks;
     sub [uni0644.init uni0644.medi uni06B5.init uni06B5.medi uni06B6.init
 	uni06B6.medi uni06B7.init uni06B7.medi uni06B8.init
@@ -945,7 +945,7 @@ lookup liga_0 {
 	uni0672.fina uni0673.fina uni0773.fina uni0774.fina]'  by [uni0622.fina.alt uni0623.fina.alt
 	uni0625.fina.alt uni0627.fina.alt uni0671.fina.alt uni0672.fina.alt
 	uni0673.fina.alt uni0773.fina.alt uni0774.fina.alt];
-} liga_0;
+} liga;
 
 feature locl {
   script arab;
@@ -1016,7 +1016,3 @@ feature zero {
      language TRK  exclude_dflt;
       lookup zero_0;
 } zero;
-
-feature liga {
-      lookup liga_0;
-} liga;
