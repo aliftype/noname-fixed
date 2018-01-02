@@ -84,12 +84,6 @@ feature dlig {
     sub period by period.arabic;
 } dlig;
 
-lookup locl_0 {
-  lookupflag IgnoreMarks;
-    sub uni06F4 by uni06F4.indo;
-    sub uni06F7 by uni06F7.indo;
-} locl_0;
-
 feature fina {
   lookupflag RightToLeft IgnoreMarks;
     sub uni0640 by uni0640;
@@ -888,6 +882,28 @@ feature rlig {
 	uni08FE.base uni08FF.base]'lookup rlig_0_0 ;
 } rlig;
 
+feature liga {
+  lookupflag IgnoreMarks;
+    sub [uni0644.init uni0644.medi uni06B5.init uni06B5.medi uni06B6.init
+	uni06B6.medi uni06B7.init uni06B7.medi uni06B8.init
+	uni06B8.medi uni076A.init uni076A.medi] [uni0622.fina uni0623.fina uni0625.fina uni0627.fina uni0671.fina
+	uni0672.fina uni0673.fina uni0773.fina uni0774.fina]'  by [uni0622.fina.alt uni0623.fina.alt
+	uni0625.fina.alt uni0627.fina.alt uni0671.fina.alt uni0672.fina.alt
+	uni0673.fina.alt uni0773.fina.alt uni0774.fina.alt];
+} liga;
+
+lookup locl_0 {
+  lookupflag IgnoreMarks;
+    sub uni06F4 by uni06F4.indo;
+    sub uni06F7 by uni06F7.indo;
+} locl_0;
+
+feature locl {
+  script arab;
+     language URD  exclude_dflt;
+      lookup locl_0;
+} locl;
+
 lookup frac_0 {
   lookupflag 0;
     sub one fraction two  by onehalf;
@@ -897,6 +913,22 @@ lookup frac_0 {
     sub three fraction four  by threequarters;
     sub three slash four  by threequarters;
 } frac_0;
+
+feature frac {
+  script latn;
+     language dflt;
+      lookup frac_0;
+     language AZE  exclude_dflt;
+      lookup frac_0;
+     language CRT  exclude_dflt;
+      lookup frac_0;
+     language MOL  exclude_dflt;
+      lookup frac_0;
+     language ROM  exclude_dflt;
+      lookup frac_0;
+     language TRK  exclude_dflt;
+      lookup frac_0;
+} frac;
 
 lookup onum_0 {
   lookupflag 0;
@@ -915,6 +947,22 @@ lookup onum_0 {
     sub cent by cent.oldstyle;
 } onum_0;
 
+feature onum {
+  script latn;
+     language dflt;
+      lookup onum_0;
+     language AZE  exclude_dflt;
+      lookup onum_0;
+     language CRT  exclude_dflt;
+      lookup onum_0;
+     language MOL  exclude_dflt;
+      lookup onum_0;
+     language ROM  exclude_dflt;
+      lookup onum_0;
+     language TRK  exclude_dflt;
+      lookup onum_0;
+} onum;
+
 lookup lnum_0 {
   lookupflag 0;
     sub ampersand by ampersand;
@@ -932,59 +980,6 @@ lookup lnum_0 {
     sub zero.taboldstyle by zero;
 } lnum_0;
 
-lookup zero_0 {
-  lookupflag 0;
-    sub zero by zero.slash;
-} zero_0;
-
-feature liga {
-  lookupflag IgnoreMarks;
-    sub [uni0644.init uni0644.medi uni06B5.init uni06B5.medi uni06B6.init
-	uni06B6.medi uni06B7.init uni06B7.medi uni06B8.init
-	uni06B8.medi uni076A.init uni076A.medi] [uni0622.fina uni0623.fina uni0625.fina uni0627.fina uni0671.fina
-	uni0672.fina uni0673.fina uni0773.fina uni0774.fina]'  by [uni0622.fina.alt uni0623.fina.alt
-	uni0625.fina.alt uni0627.fina.alt uni0671.fina.alt uni0672.fina.alt
-	uni0673.fina.alt uni0773.fina.alt uni0774.fina.alt];
-} liga;
-
-feature locl {
-  script arab;
-     language URD  exclude_dflt;
-      lookup locl_0;
-} locl;
-
-feature frac {
-  script latn;
-     language dflt;
-      lookup frac_0;
-     language AZE  exclude_dflt;
-      lookup frac_0;
-     language CRT  exclude_dflt;
-      lookup frac_0;
-     language MOL  exclude_dflt;
-      lookup frac_0;
-     language ROM  exclude_dflt;
-      lookup frac_0;
-     language TRK  exclude_dflt;
-      lookup frac_0;
-} frac;
-
-feature onum {
-  script latn;
-     language dflt;
-      lookup onum_0;
-     language AZE  exclude_dflt;
-      lookup onum_0;
-     language CRT  exclude_dflt;
-      lookup onum_0;
-     language MOL  exclude_dflt;
-      lookup onum_0;
-     language ROM  exclude_dflt;
-      lookup onum_0;
-     language TRK  exclude_dflt;
-      lookup onum_0;
-} onum;
-
 feature lnum {
   script latn;
      language dflt;
@@ -1000,6 +995,11 @@ feature lnum {
      language TRK  exclude_dflt;
       lookup lnum_0;
 } lnum;
+
+lookup zero_0 {
+  lookupflag 0;
+    sub zero by zero.slash;
+} zero_0;
 
 feature zero {
   script latn;
