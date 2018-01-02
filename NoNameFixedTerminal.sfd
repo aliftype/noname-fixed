@@ -51,7 +51,6 @@ Lookup: 1 0 0 "ALMFixed-'lnum' Lining Figures in Latin lookup 18"  {"ALMFixed-'l
 Lookup: 2 1 0 "ALMFixed-Multiple Substitution lookup 21"  {"ALMFixed-Multiple Substitution lookup 21 subtable"  } []
 Lookup: 6 8 0 "ALMFixed-'liga' Standard Ligatures lookup 22"  {"ALMFixed-'liga' Standard Ligatures lookup 22 subtable"  } ['liga' ('arab' <'ARA ' 'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 0 0 "ALMFixed-Single Substitution lookup 23"  {"ALMFixed-Single Substitution lookup 23 subtable"  } []
-Lookup: 257 1 0 "ALMFixed-'kern' Horizontal Kerning in Latin lookup 0"  {"ALMFixed-'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'AZE ' 'CRT ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "ALMFixed-'liga' Standard Ligatures lookup 22 subtable"  0 0 0 1
