@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: ALMFixedTerminal-Regular
-FullName: ALM Fixed Terminal
-FamilyName: ALM Fixed Terminal
+FontName: NoNameFixedTerminal-Regular
+FullName: NoName Fixed Terminal
+FamilyName: NoName Fixed Terminal
 Weight: Regular
-Copyright: Copyright 2014 Idris Samawi Hamid (Arabic-Latin Modern Fixed Regular). Derived from Copyright 2003, 2009 B. Jackowski and J. M. Nowacki (Latin Modern Mono Regular 10). Derived from Copyright Donald Knuth 1990 (Computer Modern Mono 10).
+Copyright: Copyright 2015-2018 Khaled Hosny.\nCopyright 2014 Idris Samawi Hamid (Arabic-Latin Modern Fixed Regular). Derived from Copyright 2003, 2009 B. Jackowski and J. M. Nowacki (Latin Modern Mono Regular 10). Derived from Copyright Donald Knuth 1990 (Computer Modern Mono 10).
 Version: 001.001
-DefaultBaseFilename: ALMFixedTerminal
+DefaultBaseFilename: NoNameFixedTerminal
 ItalicAngle: 0
 UnderlinePosition: -99
 UnderlineWidth: 69
@@ -76,7 +76,7 @@ ChainSub2: coverage "ALMFixed-'rlig' Required Ligatures in Arabic lookup 11 cont
  1
   SeqLookup: 0 "ALMFixed-Multiple Substitution lookup 21" 
 EndFPST
-LangName: 1033 "" "" "" "" "" "" "" "Please refer to the Copyright section for the font trademark attribution notices." "Idris Samawi Hamid" "Idris Samawi Hamid" "'ALM' stands for 'Arabic-Latin Modern'. " "" "http://walayah.org/project/typography" "Arabic-Latin Modern Fixed is licensed under the GUST Font License with one important adjustment: It is requested, AS WELL AS LEGALLY REQUIRED, that derived works be distributed only after changing the names of the fonts comprising this work." "http://www.gust.org.pl/projects/e-foundry/licenses/GUST-FONT-LICENSE.txt/view" 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Idris Samawi Hamid" "" "" "http://walayah.org/project/typography" "Arabic-Latin Modern Fixed is licensed under the GUST Font License with one important adjustment: It is requested, AS WELL AS LEGALLY REQUIRED, that derived works be distributed only after changing the names of the fonts comprising this work." "http://www.gust.org.pl/projects/e-foundry/licenses/GUST-FONT-LICENSE.txt/view" 
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none

@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: ALMFixed-Regular
-FullName: ALM Fixed
-FamilyName: ALM Fixed
+FontName: NoNameFixed-Regular
+FullName: NoName Fixed
+FamilyName: NoName Fixed
 Weight: Regular
-Copyright: Copyright 2014 Idris Samawi Hamid (Arabic-Latin Modern Fixed Regular). Derived from Copyright 2003, 2009 B. Jackowski and J. M. Nowacki (Latin Modern Mono Regular 10). Derived from Copyright Donald Knuth 1990 (Computer Modern Mono 10).
+Copyright: Copyright 2015-2018 Khaled Hosny.\nCopyright 2014 Idris Samawi Hamid (Arabic-Latin Modern Fixed Regular). Derived from Copyright 2003, 2009 B. Jackowski and J. M. Nowacki (Latin Modern Mono Regular 10). Derived from Copyright Donald Knuth 1990 (Computer Modern Mono 10).
 Version: 001.001
-DefaultBaseFilename: ALMFixed
+DefaultBaseFilename: NoNameFixed
 ItalicAngle: 0
 UnderlinePosition: -99
 UnderlineWidth: 69
@@ -84,7 +84,7 @@ ChainSub2: coverage "'rlig' Required Ligatures in Arabic lookup 11 contextual 0"
  1
   SeqLookup: 0 "Multiple Substitution lookup 21" 
 EndFPST
-LangName: 1033 "" "" "" "" "" "" "" "Please refer to the Copyright section for the font trademark attribution notices." "Idris Samawi Hamid" "Idris Samawi Hamid" "'ALM' stands for 'Arabic-Latin Modern'. " "" "http://walayah.org/project/typography" "Arabic-Latin Modern Fixed is licensed under the GUST Font License with one important adjustment: It is requested, AS WELL AS LEGALLY REQUIRED, that derived works be distributed only after changing the names of the fonts comprising this work." "http://www.gust.org.pl/projects/e-foundry/licenses/GUST-FONT-LICENSE.txt/view" "" "" "" "ALM Fixed Regular" 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Idris Samawi Hamid" "" "" "http://walayah.org/project/typography" "Arabic-Latin Modern Fixed is licensed under the GUST Font License with one important adjustment: It is requested, AS WELL AS LEGALLY REQUIRED, that derived works be distributed only after changing the names of the fonts comprising this work." "http://www.gust.org.pl/projects/e-foundry/licenses/GUST-FONT-LICENSE.txt/view" 
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -35538,7 +35538,7 @@ SplineSet
  291 280 295 245 371 245 c 0
  469 245 506 218 506 136 c 0
 EndSplineSet
-Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "'kern' Horizontal Kerning in Latin lookup 0 subtable" dx=0 dy=-110 dh=0 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06CC.fina
 Substitution2: "'medi' Medial Forms in Arabic lookup 6 subtable" uni06CC.medi
 Substitution2: "'init' Initial Forms in Arabic lookup 7 subtable" uni06CC.init
