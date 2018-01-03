@@ -762,6 +762,10 @@ feature rlig {
     sub @init_medi [@marks @marks.base] @marks.base' lookup mark_over_kashida;
 } rlig;
 
+feature rlig {
+  sub uni25CC by uni0640;
+} rlig;
+
 @lam.init_medi = [
   uni0644.init uni0644.medi uni06B5.init uni06B5.medi uni06B6.init uni06B6.medi
   uni06B7.init uni06B7.medi uni06B8.init uni06B8.medi uni076A.init uni076A.medi
