@@ -915,15 +915,10 @@ feature zero {
 # GPOS
 
 
-lookup mark_0 {
+feature mark {
   lookupflag 0;
     pos uni0640 <0 0 0 0> @marks.base  <0 0 -525 0>;
     pos uni25CC <0 0 0 0> @marks.base  <0 0 -525 0>;
-} mark_0;
-
-feature mark {
-  script arab;
-      lookup mark_0;
 } mark;
 
 # GDEF
