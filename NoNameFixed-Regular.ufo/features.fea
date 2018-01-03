@@ -5,76 +5,35 @@ languagesystem arab URD;
 
 # GSUB
 
+@marks = [
+  uni0618 uni0619 uni061A uni064B uni064C uni064D uni064E uni064F uni0650
+  uni0651 uni0652 uni0653 uni0654 uni0655 uni0656 uni0657 uni0658 uni0659
+  uni065A uni065B uni065C uni065D uni065E uni065F uni0670 uni0674 uni06DC
+  uni06DF uni06E0 uni06E4 uni06E1 uni06E7 uni06E2 uni06E3 uni06EA uni06E8
+  uni06EB uni06EC uni06ED uni08E4 uni08E5 uni08E6 uni08E7 uni08E8 uni08E9
+  uni08EA uni08EB uni08EC uni08ED uni08EE uni08EF uni08F0 uni08F1 uni08F2
+  uni08F3 uni08F4 uni08F5 uni08F6 uni08F7 uni08F8 uni08F9 uni08FA uni08FB
+  uni08FC uni08FD uni08FE uni08FF
+];
+
+@marks.base = [
+  uni0618.base uni0619.base uni061A.base uni064B.base uni064C.base uni064D.base
+  uni064E.base uni064F.base uni0650.base uni0651.base uni0652.base uni0653.base
+  uni0654.base uni0655.base uni0656.base uni0657.base uni0658.base uni0659.base
+  uni065A.base uni065B.base uni065C.base uni065D.base uni065E.base uni065F.base
+  uni0670.base uni0674.base uni06DC.base uni06DF.base uni06E0.base uni06E4.base
+  uni06E1.base uni06E7.base uni06E2.base uni06E3.base uni06EA.base uni06E8.base
+  uni06EB.base uni06EC.base uni06ED.base uni08E4.base uni08E5.base uni08E6.base
+  uni08E7.base uni08E8.base uni08E9.base uni08EA.base uni08EB.base uni08EC.base
+  uni08ED.base uni08EE.base uni08EF.base uni08F0.base uni08F1.base uni08F2.base
+  uni08F3.base uni08F4.base uni08F5.base uni08F6.base uni08F7.base uni08F8.base
+  uni08F9.base uni08FA.base uni08FB.base uni08FC.base uni08FD.base uni08FE.base
+  uni08FF.base
+];
 
 feature ccmp {
   lookupflag 0;
-    sub uni0618 by uni0618.base;
-    sub uni0619 by uni0619.base;
-    sub uni061A by uni061A.base;
-    sub uni064B by uni064B.base;
-    sub uni064C by uni064C.base;
-    sub uni064D by uni064D.base;
-    sub uni064E by uni064E.base;
-    sub uni064F by uni064F.base;
-    sub uni0650 by uni0650.base;
-    sub uni0651 by uni0651.base;
-    sub uni0652 by uni0652.base;
-    sub uni0653 by uni0653.base;
-    sub uni0654 by uni0654.base;
-    sub uni0655 by uni0655.base;
-    sub uni0656 by uni0656.base;
-    sub uni0657 by uni0657.base;
-    sub uni0658 by uni0658.base;
-    sub uni0659 by uni0659.base;
-    sub uni065A by uni065A.base;
-    sub uni065B by uni065B.base;
-    sub uni065C by uni065C.base;
-    sub uni065D by uni065D.base;
-    sub uni065E by uni065E.base;
-    sub uni065F by uni065F.base;
-    sub uni0670 by uni0670.base;
-    sub uni0674 by uni0674.base;
-    sub uni06DC by uni06DC.base;
-    sub uni06DF by uni06DF.base;
-    sub uni06E0 by uni06E0.base;
-    sub uni06E4 by uni06E4.base;
-    sub uni06E1 by uni06E1.base;
-    sub uni06E7 by uni06E7.base;
-    sub uni06E2 by uni06E2.base;
-    sub uni06E3 by uni06E3.base;
-    sub uni06EA by uni06EA.base;
-    sub uni06E8 by uni06E8.base;
-    sub uni06EB by uni06EB.base;
-    sub uni06EC by uni06EC.base;
-    sub uni06ED by uni06ED.base;
-    sub uni08E4 by uni08E4.base;
-    sub uni08E5 by uni08E5.base;
-    sub uni08E6 by uni08E6.base;
-    sub uni08E7 by uni08E7.base;
-    sub uni08E8 by uni08E8.base;
-    sub uni08E9 by uni08E9.base;
-    sub uni08EA by uni08EA.base;
-    sub uni08EB by uni08EB.base;
-    sub uni08EC by uni08EC.base;
-    sub uni08ED by uni08ED.base;
-    sub uni08EE by uni08EE.base;
-    sub uni08EF by uni08EF.base;
-    sub uni08F0 by uni08F0.base;
-    sub uni08F1 by uni08F1.base;
-    sub uni08F2 by uni08F2.base;
-    sub uni08F3 by uni08F3.base;
-    sub uni08F4 by uni08F4.base;
-    sub uni08F5 by uni08F5.base;
-    sub uni08F6 by uni08F6.base;
-    sub uni08F7 by uni08F7.base;
-    sub uni08F8 by uni08F8.base;
-    sub uni08F9 by uni08F9.base;
-    sub uni08FA by uni08FA.base;
-    sub uni08FB by uni08FB.base;
-    sub uni08FC by uni08FC.base;
-    sub uni08FD by uni08FD.base;
-    sub uni08FE by uni08FE.base;
-    sub uni08FF by uni08FF.base;
+    sub @marks by @marks.base;
 } ccmp;
 
 feature dlig {
@@ -729,32 +688,6 @@ lookup mark_over_kashida {
   uni08A1.init uni08A1.medi uni08AF.init uni08AF.medi uni08B0.init uni08B0.medi
 ];
 
-@marks.base = [
-  uni0618.base uni0619.base uni061A.base uni064B.base uni064C.base uni064D.base
-  uni064E.base uni064F.base uni0650.base uni0651.base uni0652.base uni0653.base
-  uni0654.base uni0655.base uni0656.base uni0657.base uni0658.base uni0659.base
-  uni065A.base uni065B.base uni065C.base uni065D.base uni065E.base uni065F.base
-  uni0670.base uni0674.base uni06DC.base uni06DF.base uni06E0.base uni06E4.base
-  uni06E1.base uni06E7.base uni06E2.base uni06E3.base uni06EA.base uni06E8.base
-  uni06EB.base uni06EC.base uni06ED.base uni08E4.base uni08E5.base uni08E6.base
-  uni08E7.base uni08E8.base uni08E9.base uni08EA.base uni08EB.base uni08EC.base
-  uni08ED.base uni08EE.base uni08EF.base uni08F0.base uni08F1.base uni08F2.base
-  uni08F3.base uni08F4.base uni08F5.base uni08F6.base uni08F7.base uni08F8.base
-  uni08F9.base uni08FA.base uni08FB.base uni08FC.base uni08FD.base uni08FE.base
-  uni08FF.base
-];
-
-@marks = [
-  uni0618 uni0619 uni061A uni064B uni064C uni064D uni064E uni064F uni0650
-  uni0651 uni0652 uni0653 uni0654 uni0655 uni0656 uni0657 uni0658 uni0659
-  uni065A uni065B uni065C uni065D uni065E uni065F uni0670 uni0674 uni06DC
-  uni06DF uni06E0 uni06E4 uni06E1 uni06E7 uni06E2 uni06E3 uni06EA uni06E8
-  uni06EB uni06EC uni06ED uni08E4 uni08E5 uni08E6 uni08E7 uni08E8 uni08E9
-  uni08EA uni08EB uni08EC uni08ED uni08EE uni08EF uni08F0 uni08F1 uni08F2
-  uni08F3 uni08F4 uni08F5 uni08F6 uni08F7 uni08F8 uni08F9 uni08FA uni08FB
-  uni08FC uni08FD uni08FE uni08FF
-];
-
 feature rlig {
   lookupflag 0;
     sub @init_medi @marks.base' lookup mark_over_kashida;
@@ -913,7 +846,6 @@ feature zero {
 } zero;
 
 # GPOS
-
 
 feature mark {
   lookupflag 0;
