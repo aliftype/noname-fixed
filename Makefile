@@ -13,6 +13,6 @@ all: NoNameFixed-Regular.otf NoNameFixedTerminal-Regular.otf
 	           -u ~-/$<                                                    \
 	           &&                                                          \
 	  cp master_otf/$@ ~-/$@ &&                                            \
-	 cd - &&                                                               \
+	 cd - &>/dev/null &&                                                   \
 	 rm -rf ~-
 
