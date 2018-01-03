@@ -1,3 +1,5 @@
+SHELL=/usr/bin/env bash
+
 all: NoNameFixed-Regular.otf NoNameFixedTerminal-Regular.otf
 
 %.otf: %.ufo
