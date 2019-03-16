@@ -519,26 +519,6 @@ feature lnum {
       lookup lnum_0;
 } lnum;
 
-lookup zero_0 {
-  sub zero by zero.slash;
-} zero_0;
-
-feature zero {
-  script latn;
-     language dflt;
-      lookup zero_0;
-     language AZE  exclude_dflt;
-      lookup zero_0;
-     language CRT  exclude_dflt;
-      lookup zero_0;
-     language MOL  exclude_dflt;
-      lookup zero_0;
-     language ROM  exclude_dflt;
-      lookup zero_0;
-     language TRK  exclude_dflt;
-      lookup zero_0;
-} zero;
-
 # GPOS
 
 # Dummy mark feature so that HarfBuzz does not apply its mark positioning
