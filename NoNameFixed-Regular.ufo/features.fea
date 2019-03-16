@@ -463,31 +463,6 @@ feature locl {
       sub uni06F7 by uni06F7.indo;
 } locl;
 
-lookup frac_0 {
-  sub one fraction two  by onehalf;
-  sub one slash two  by onehalf;
-  sub one fraction four  by onequarter;
-  sub one slash four  by onequarter;
-  sub three fraction four  by threequarters;
-  sub three slash four  by threequarters;
-} frac_0;
-
-feature frac {
-  script latn;
-     language dflt;
-      lookup frac_0;
-     language AZE  exclude_dflt;
-      lookup frac_0;
-     language CRT  exclude_dflt;
-      lookup frac_0;
-     language MOL  exclude_dflt;
-      lookup frac_0;
-     language ROM  exclude_dflt;
-      lookup frac_0;
-     language TRK  exclude_dflt;
-      lookup frac_0;
-} frac;
-
 lookup onum_0 {
   sub ampersand by ampersand;
   sub dollar by dollar.oldstyle;
