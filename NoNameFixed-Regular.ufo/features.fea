@@ -447,10 +447,10 @@ feature rlig {
   uni0774.fina.alt
 ];
 
-feature liga {
+feature rlig {
   lookupflag IgnoreMarks;
     sub @lam.init_medi @alef.fina' by @alef.fina.alt;
-} liga;
+} rlig;
 
 feature locl {
   script arab;
