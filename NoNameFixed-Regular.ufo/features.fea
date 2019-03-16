@@ -31,10 +31,6 @@ languagesystem arab URD;
   uni08FF.base
 ];
 
-feature ccmp {
-  sub @marks by @marks.base;
-} ccmp;
-
 feature dlig {
   lookupflag IgnoreMarks;
     sub colon by colon.arabic;
@@ -354,81 +350,81 @@ feature init {
 } init;
 
 lookup mark_over_kashida {
-  sub uni0618.base by uni0640 uni0618.base;
-  sub uni0619.base by uni0640 uni0619.base;
-  sub uni061A.base by uni0640 uni061A.base;
-  sub uni064B.base by uni0640 uni064B.base;
-  sub uni064C.base by uni0640 uni064C.base;
-  sub uni064D.base by uni0640 uni064D.base;
-  sub uni064E.base by uni0640 uni064E.base;
-  sub uni064F.base by uni0640 uni064F.base;
-  sub uni0650.base by uni0640 uni0650.base;
-  sub uni0651.base by uni0640 uni0651.base;
-  sub uni0652.base by uni0640 uni0652.base;
-  sub uni0653.base by uni0640 uni0653.base;
-  sub uni0654.base by uni0640 uni0654.base;
-  sub uni0655.base by uni0640 uni0655.base;
-  sub uni0656.base by uni0640 uni0656.base;
-  sub uni0657.base by uni0640 uni0657.base;
-  sub uni0658.base by uni0640 uni0658.base;
-  sub uni0659.base by uni0640 uni0659.base;
-  sub uni065A.base by uni0640 uni065A.base;
-  sub uni065B.base by uni0640 uni065B.base;
-  sub uni065C.base by uni0640 uni065C.base;
-  sub uni065D.base by uni0640 uni065D.base;
-  sub uni065E.base by uni0640 uni065E.base;
-  sub uni065F.base by uni0640 uni065F.base;
-  sub uni0670.base by uni0640 uni0670.base;
-  sub uni0674.base by uni0640 uni0674.base;
-  sub uni06DC.base by uni0640 uni06DC.base;
-  sub uni06DF.base by uni0640 uni06DF.base;
-  sub uni06E0.base by uni0640 uni06E0.base;
-  sub uni06E4.base by uni0640 uni06E4.base;
-  sub uni06E1.base by uni0640 uni06E1.base;
-  sub uni06E7.base by uni0640 uni06E7.base;
-  sub uni06E2.base by uni0640 uni06E2.base;
-  sub uni06E3.base by uni0640 uni06E3.base;
-  sub uni06EA.base by uni0640 uni06EA.base;
-  sub uni06E8.base by uni0640 uni06E8.base;
-  sub uni06EB.base by uni0640 uni06EB.base;
-  sub uni06EC.base by uni0640 uni06EC.base;
-  sub uni06ED.base by uni0640 uni06ED.base;
-  sub uni08E4.base by uni0640 uni08E4.base;
-  sub uni08E5.base by uni0640 uni08E5.base;
-  sub uni08E6.base by uni0640 uni08E6.base;
-  sub uni08E7.base by uni0640 uni08E7.base;
-  sub uni08E8.base by uni0640 uni08E8.base;
-  sub uni08E9.base by uni0640 uni08E9.base;
-  sub uni08EA.base by uni0640 uni08EA.base;
-  sub uni08EB.base by uni0640 uni08EB.base;
-  sub uni08EC.base by uni0640 uni08EC.base;
-  sub uni08ED.base by uni0640 uni08ED.base;
-  sub uni08EE.base by uni0640 uni08EE.base;
-  sub uni08EF.base by uni0640 uni08EF.base;
-  sub uni08F0.base by uni0640 uni08F0.base;
-  sub uni08F1.base by uni0640 uni08F1.base;
-  sub uni08F2.base by uni0640 uni08F2.base;
-  sub uni08F3.base by uni0640 uni08F3.base;
-  sub uni08F4.base by uni0640 uni08F4.base;
-  sub uni08F5.base by uni0640 uni08F5.base;
-  sub uni08F6.base by uni0640 uni08F6.base;
-  sub uni08F7.base by uni0640 uni08F7.base;
-  sub uni08F8.base by uni0640 uni08F8.base;
-  sub uni08F9.base by uni0640 uni08F9.base;
-  sub uni08FA.base by uni0640 uni08FA.base;
-  sub uni08FB.base by uni0640 uni08FB.base;
-  sub uni08FC.base by uni0640 uni08FC.base;
-  sub uni08FD.base by uni0640 uni08FD.base;
-  sub uni08FE.base by uni0640 uni08FE.base;
-  sub uni08FF.base by uni0640 uni08FF.base;
+  sub uni0618 by uni0640 uni0618;
+  sub uni0619 by uni0640 uni0619;
+  sub uni061A by uni0640 uni061A;
+  sub uni064B by uni0640 uni064B;
+  sub uni064C by uni0640 uni064C;
+  sub uni064D by uni0640 uni064D;
+  sub uni064E by uni0640 uni064E;
+  sub uni064F by uni0640 uni064F;
+  sub uni0650 by uni0640 uni0650;
+  sub uni0651 by uni0640 uni0651;
+  sub uni0652 by uni0640 uni0652;
+  sub uni0653 by uni0640 uni0653;
+  sub uni0654 by uni0640 uni0654;
+  sub uni0655 by uni0640 uni0655;
+  sub uni0656 by uni0640 uni0656;
+  sub uni0657 by uni0640 uni0657;
+  sub uni0658 by uni0640 uni0658;
+  sub uni0659 by uni0640 uni0659;
+  sub uni065A by uni0640 uni065A;
+  sub uni065B by uni0640 uni065B;
+  sub uni065C by uni0640 uni065C;
+  sub uni065D by uni0640 uni065D;
+  sub uni065E by uni0640 uni065E;
+  sub uni065F by uni0640 uni065F;
+  sub uni0670 by uni0640 uni0670;
+  sub uni0674 by uni0640 uni0674;
+  sub uni06DC by uni0640 uni06DC;
+  sub uni06DF by uni0640 uni06DF;
+  sub uni06E0 by uni0640 uni06E0;
+  sub uni06E4 by uni0640 uni06E4;
+  sub uni06E1 by uni0640 uni06E1;
+  sub uni06E7 by uni0640 uni06E7;
+  sub uni06E2 by uni0640 uni06E2;
+  sub uni06E3 by uni0640 uni06E3;
+  sub uni06EA by uni0640 uni06EA;
+  sub uni06E8 by uni0640 uni06E8;
+  sub uni06EB by uni0640 uni06EB;
+  sub uni06EC by uni0640 uni06EC;
+  sub uni06ED by uni0640 uni06ED;
+  sub uni08E4 by uni0640 uni08E4;
+  sub uni08E5 by uni0640 uni08E5;
+  sub uni08E6 by uni0640 uni08E6;
+  sub uni08E7 by uni0640 uni08E7;
+  sub uni08E8 by uni0640 uni08E8;
+  sub uni08E9 by uni0640 uni08E9;
+  sub uni08EA by uni0640 uni08EA;
+  sub uni08EB by uni0640 uni08EB;
+  sub uni08EC by uni0640 uni08EC;
+  sub uni08ED by uni0640 uni08ED;
+  sub uni08EE by uni0640 uni08EE;
+  sub uni08EF by uni0640 uni08EF;
+  sub uni08F0 by uni0640 uni08F0;
+  sub uni08F1 by uni0640 uni08F1;
+  sub uni08F2 by uni0640 uni08F2;
+  sub uni08F3 by uni0640 uni08F3;
+  sub uni08F4 by uni0640 uni08F4;
+  sub uni08F5 by uni0640 uni08F5;
+  sub uni08F6 by uni0640 uni08F6;
+  sub uni08F7 by uni0640 uni08F7;
+  sub uni08F8 by uni0640 uni08F8;
+  sub uni08F9 by uni0640 uni08F9;
+  sub uni08FA by uni0640 uni08FA;
+  sub uni08FB by uni0640 uni08FB;
+  sub uni08FC by uni0640 uni08FC;
+  sub uni08FD by uni0640 uni08FD;
+  sub uni08FE by uni0640 uni08FE;
+  sub uni08FF by uni0640 uni08FF;
 } mark_over_kashida;
 
 @init_medi = [uni0640 uni200D @init @medi];
 
 feature rlig {
-  sub @init_medi @marks.base' lookup mark_over_kashida;
- #subtable;
-  sub @init_medi [@marks @marks.base] @marks.base' lookup mark_over_kashida;
+  sub @init_medi @marks' lookup mark_over_kashida;
+  sub @init_medi @marks @marks' lookup mark_over_kashida;
+  sub @marks' by @marks.base;
 } rlig;
 
 @lam.init_medi = [
@@ -545,14 +541,16 @@ feature zero {
 
 # GPOS
 
+# Dummy mark feature so that HarfBuzz does not apply its mark positioning
+# fallback.
 feature mark {
-  pos uni0640 <0 0 0 0> @marks.base  <0 0 -525 0>;
-  pos uni25CC <0 0 0 0> @marks.base  <0 0 -525 0>;
+  pos uni0640 0;
 } mark;
 
 # GDEF
 
-@GDEF_Simple = [@marks @marks.base];
+@GDEF_Simple = [@marks.base];
+@GDEF_Mark   = [@marks];
 table GDEF {
-  GlyphClassDef @GDEF_Simple, , , ;
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
 } GDEF;
