@@ -44,8 +44,6 @@ feature dlig {
 
 feature fina {
   lookupflag IgnoreMarks;
-    sub uni0640 by uni0640;
-    sub uni200D by uni200D;
     sub uni0622 by uni0622.fina;
     sub uni0623 by uni0623.fina;
     sub uni0625 by uni0625.fina;
@@ -347,15 +345,11 @@ feature fina {
 
 feature medi {
   lookupflag IgnoreMarks;
-    sub uni0640 by uni0640;
-    sub uni200D by uni200D;
     sub @isol by @medi;
 } medi;
 
 feature init {
   lookupflag IgnoreMarks;
-    sub uni0640 by uni0640;
-    sub uni200D by uni200D;
     sub @isol by @init;
 } init;
 
