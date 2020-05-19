@@ -25,7 +25,7 @@
 	<key>openTypeHheaDescender</key>
 	<integer>-500</integer>
 	<key>openTypeHheaLineGap</key>
-	<integer>139</integer>
+	<integer>500</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Idris Samawi Hamid</string>
 	<key>openTypeNameDesignerURL</key>
@@ -54,7 +54,7 @@
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-500</integer>
 	<key>openTypeOS2TypoLineGap</key>
-	<integer>139</integer>
+	<integer>500</integer>
 	<key>openTypeOS2VendorID</key>
 	<string>UKWN</string>
 	<key>openTypeOS2WeightClass</key>
