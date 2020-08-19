@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFCCA" format="2">
+  <advance width="525.0"/>
+  <unicode hex="FCCA"/>
+  <outline>
+    <component base="uni062D.init" xOffset="0.3653663177925637" yOffset="-0.10941960038059051"/>
+    <component base="Alif.short.shortest.comp" xOffset="-59.063748810656534" yOffset="280.88487155090394"/>
+  </outline>
+</glyph>
