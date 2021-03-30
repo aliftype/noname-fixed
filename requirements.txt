@@ -4,8 +4,6 @@
 #
 #    pip-compile requirements.in
 #
-afdko==3.6.2
-    # via -r requirements.in
 appdirs==1.4.4
     # via fs
 attrs==20.3.0
@@ -14,12 +12,8 @@ attrs==20.3.0
     #   ufolib2
 booleanoperations==0.9.0
     # via
-    #   afdko
     #   fontmake
-    #   fontparts
     #   ufo2ft
-brotli==1.0.9
-    # via fonttools
 cffsubr==0.2.8
     # via ufo2ft
 compreffor==0.5.1
@@ -28,75 +22,39 @@ cu2qu==1.6.7
     # via
     #   fontmake
     #   ufo2ft
-defcon[lxml,pens]==0.8.1
-    # via
-    #   afdko
-    #   fontparts
-    #   mutatormath
-    #   ufoprocessor
 fontmake==2.4.0
     # via -r requirements.in
 fontmath==0.6.0
+    # via fontmake
+fonttools[lxml,ufo,unicode]==4.21.1
     # via
-    #   afdko
-    #   fontmake
-    #   fontparts
-    #   mutatormath
-    #   ufoprocessor
-fontparts==0.9.10
-    # via ufoprocessor
-fontpens==0.2.4
-    # via defcon
-fonttools[lxml,ufo,unicode,woff]==4.21.1
-    # via
-    #   afdko
     #   booleanoperations
     #   cffsubr
     #   compreffor
     #   cu2qu
-    #   defcon
     #   fontmake
     #   fontmath
-    #   fontparts
-    #   fontpens
     #   glyphslib
-    #   mutatormath
-    #   psautohint
     #   ufo2ft
     #   ufolib2
-    #   ufoprocessor
 fs==2.4.13
     # via fonttools
 glyphslib==5.3.2
     # via fontmake
 lxml==4.6.3
-    # via
-    #   afdko
-    #   fonttools
-mutatormath==3.0.1
-    # via ufoprocessor
-psautohint==2.3.0
-    # via afdko
+    # via fonttools
 pyclipper==1.2.1
     # via booleanoperations
 pytz==2021.1
     # via fs
 six==1.15.0
     # via fs
-tqdm==4.59.0
-    # via afdko
 ufo2ft[compreffor]==2.20.0
     # via fontmake
 ufolib2==0.11.1
     # via
     #   fontmake
     #   glyphslib
-ufonormalizer==0.5.3
-    # via afdko
-ufoprocessor==1.9.0
-    # via afdko
-zopfli==0.1.8
-    # via fonttools
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
