@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFB57" format="2">
-  <advance width="525"/>
-  <unicode hex="FB57"/>
-  <outline>
-    <component base="uni066E.fina"/>
-    <component base="uniFBB8" xOffset="24.0" yOffset="-590.0"/>
-  </outline>
-</glyph>

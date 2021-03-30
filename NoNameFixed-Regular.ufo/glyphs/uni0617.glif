@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0617" format="2">
-  <advance width="525"/>
-  <unicode hex="0617"/>
-  <outline>
-    <component base="Zaa_minor.comp" yOffset="-157.0"/>
-    <component base="uni08EA" xOffset="-40.0" yOffset="-69.0"/>
-  </outline>
-</glyph>

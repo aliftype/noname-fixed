@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFEEC" format="2">
-  <advance width="525"/>
-  <unicode hex="FEEC"/>
-  <outline>
-    <component base="Haa_m.comp"/>
-    <component base="ittisal.comp"/>
-  </outline>
-</glyph>

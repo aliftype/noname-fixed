@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ring.cap" format="2">
-  <advance width="525"/>
-  <unicode hex="EA40"/>
-  <outline>
-    <component base="ring" yOffset="-50.0"/>
-  </outline>
-</glyph>

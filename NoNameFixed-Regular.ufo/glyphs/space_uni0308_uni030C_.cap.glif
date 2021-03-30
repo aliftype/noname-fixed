@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="space_uni0308_uni030C.cap" format="2">
-  <advance width="525"/>
-  <unicode hex="EA2B"/>
-  <outline>
-    <component base="dieresis.cap"/>
-    <component base="caron.cap" yOffset="141.0"/>
-  </outline>
-</glyph>

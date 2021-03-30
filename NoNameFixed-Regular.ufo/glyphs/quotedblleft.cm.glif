@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotedblleft.cm" format="2">
-  <advance width="525"/>
-  <unicode hex="EB53"/>
-  <outline>
-    <component base="quotedbl"/>
-  </outline>
-</glyph>

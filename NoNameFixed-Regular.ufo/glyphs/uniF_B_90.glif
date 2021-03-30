@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFB90" format="2">
-  <advance width="525"/>
-  <unicode hex="FB90"/>
-  <outline>
-    <component base="Kaaf_i.comp"/>
-    <component base="ittisal.comp"/>
-  </outline>
-</glyph>

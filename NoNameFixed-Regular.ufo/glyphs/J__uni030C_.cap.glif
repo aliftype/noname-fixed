@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="J_uni030C.cap" format="2">
-  <advance width="525"/>
-  <unicode hex="EB7E"/>
-  <outline>
-    <component base="uni0326" xOffset="842.0" yOffset="644.0"/>
-    <component base="J"/>
-  </outline>
-</glyph>

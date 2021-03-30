@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0777.init" format="2">
-  <advance width="525"/>
-  <outline>
-    <component base="Fourarabic_minor.indo.comp" yOffset="-780.0"/>
-    <component base="uniFBE8"/>
-  </outline>
-</glyph>

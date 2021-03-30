@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0671" format="2">
-  <advance width="525"/>
-  <unicode hex="0671"/>
-  <outline>
-    <component base="Waslah.comp" xOffset="42.0" yOffset="67.0"/>
-    <component base="Alif.short.shorter.comp" xOffset="42.0"/>
-  </outline>
-</glyph>

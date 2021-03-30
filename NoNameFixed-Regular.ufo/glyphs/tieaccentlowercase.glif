@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tieaccentlowercase" format="2">
-  <advance width="525"/>
-  <unicode hex="EB65"/>
-  <outline>
-    <component base="uni2040"/>
-  </outline>
-</glyph>

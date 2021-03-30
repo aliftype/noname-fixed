@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0304.cap" format="2">
-  <unicode hex="EA3F"/>
-  <outline>
-    <component base="macron" xOffset="-525.0" yOffset="181.0"/>
-  </outline>
-</glyph>

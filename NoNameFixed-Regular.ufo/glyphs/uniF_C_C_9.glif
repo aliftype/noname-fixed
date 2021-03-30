@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uniFCC9" format="2">
-  <advance width="525.0"/>
-  <unicode hex="FCC9"/>
-  <outline>
-    <component base="uni062C.init"/>
-    <component base="Alif.short.shortest.comp" xOffset="-59.063748810656534" yOffset="280.88487155090394"/>
-  </outline>
-</glyph>

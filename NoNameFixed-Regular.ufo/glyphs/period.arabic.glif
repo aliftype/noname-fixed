@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="period.arabic" format="2">
-  <advance width="525"/>
-  <outline>
-    <component base="uni065C" xOffset="-1.0" yOffset="652.0"/>
-  </outline>
-</glyph>

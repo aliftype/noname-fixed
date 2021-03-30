@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0774.fina.alt" format="2">
-  <advance width="525"/>
-  <outline>
-    <component base="uni0627.fina.alt"/>
-    <component base="Threearabic_minor.comp" xOffset="4.0" yOffset="-99.0"/>
-  </outline>
-</glyph>

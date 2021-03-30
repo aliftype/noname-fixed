@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="T_uni0308" format="2">
-  <advance width="525"/>
-  <unicode hex="EC0E"/>
-  <outline>
-    <component base="dieresis.cap" yOffset="181.0"/>
-    <component base="T"/>
-  </outline>
-</glyph>

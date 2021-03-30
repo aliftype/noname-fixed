@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seven.arabic.comp" format="2">
-  <advance width="525"/>
-  <outline>
-    <component base="uni0667"/>
-  </outline>
-</glyph>

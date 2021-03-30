@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFBDB" format="2">
-  <advance width="525"/>
-  <unicode hex="FBDB"/>
-  <outline>
-    <component base="uni06C8"/>
-  </outline>
-</glyph>

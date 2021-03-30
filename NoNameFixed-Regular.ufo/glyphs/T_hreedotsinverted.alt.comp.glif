@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Threedotsinverted.alt.comp" format="2">
-  <advance width="525"/>
-  <outline>
-    <component base="uni065C" xOffset="73.0" yOffset="147.0"/>
-    <component base="uni065C" xOffset="-51.0" yOffset="74.0"/>
-    <component base="uni065C" xOffset="-75.0" yOffset="228.0"/>
-  </outline>
-</glyph>
