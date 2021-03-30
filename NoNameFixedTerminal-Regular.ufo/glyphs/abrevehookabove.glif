@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="abrevehookabove" format="2">
-  <advance width="525"/>
-  <unicode hex="1EB3"/>
-  <outline>
-    <component base="uni0309" xOffset="1.0" yOffset="172.0"/>
-    <component base="abreve"/>
-  </outline>
-</glyph>
