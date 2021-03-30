@@ -6,4 +6,4 @@ all: NoNameFixed-Regular.otf NoNameFixedTerminal-Regular.otf
 	@echo "  MAKE   $@"
 	@export SOURCE_DATE_EPOCH=`stat -c "%Y" $<` &&                         \
 	 fontmake --verbose WARNING -o otf -u $< --output-path $@              \
-	 --keep-overlaps
+	 --overlaps-backend=pathops
