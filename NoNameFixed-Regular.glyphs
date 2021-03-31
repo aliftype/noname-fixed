@@ -34,6 +34,14 @@ value = 1;
 {
 name = "Don't use Production Names";
 value = 1;
+},
+{
+name = "Disable Last Change";
+value = 1;
+},
+{
+name = "Use Line Breaks";
+value = 1;
 }
 );
 date = "2014-08-26 10:08:41 +0000";
@@ -43,7 +51,543 @@ disablesAutomaticAlignment = 1;
 familyName = "NoName Fixed";
 featurePrefixes = (
 {
-code = "languagesystem arab dflt;\012languagesystem arab ARA;\012languagesystem arab FAR;\012languagesystem arab URD;\012\012# GSUB\012\012@marks = [\012  uni0618 uni0619 uni061A uni064B uni064C uni064D uni064E uni064F uni0650\012  uni0651 uni0652 uni0653 uni0654 uni0655 uni0656 uni0657 uni0658 uni0659\012  uni065A uni065B uni065C uni065D uni065E uni065F uni0670 uni0674 uni06DC\012  uni06DF uni06E0 uni06E4 uni06E1 uni06E7 uni06E2 uni06E3 uni06EA uni06E8\012  uni06EB uni06EC uni06ED uni08E4 uni08E5 uni08E6 uni08E7 uni08E8 uni08E9\012  uni08EA uni08EB uni08EC uni08ED uni08EE uni08EF uni08F0 uni08F1 uni08F2\012  uni08F3 uni08F4 uni08F5 uni08F6 uni08F7 uni08F8 uni08F9 uni08FA uni08FB\012  uni08FC uni08FD uni08FE uni08FF\012];\012\012@marks.base = [\012  uni0618.base uni0619.base uni061A.base uni064B.base uni064C.base uni064D.base\012  uni064E.base uni064F.base uni0650.base uni0651.base uni0652.base uni0653.base\012  uni0654.base uni0655.base uni0656.base uni0657.base uni0658.base uni0659.base\012  uni065A.base uni065B.base uni065C.base uni065D.base uni065E.base uni065F.base\012  uni0670.base uni0674.base uni06DC.base uni06DF.base uni06E0.base uni06E4.base\012  uni06E1.base uni06E7.base uni06E2.base uni06E3.base uni06EA.base uni06E8.base\012  uni06EB.base uni06EC.base uni06ED.base uni08E4.base uni08E5.base uni08E6.base\012  uni08E7.base uni08E8.base uni08E9.base uni08EA.base uni08EB.base uni08EC.base\012  uni08ED.base uni08EE.base uni08EF.base uni08F0.base uni08F1.base uni08F2.base\012  uni08F3.base uni08F4.base uni08F5.base uni08F6.base uni08F7.base uni08F8.base\012  uni08F9.base uni08FA.base uni08FB.base uni08FC.base uni08FD.base uni08FE.base\012  uni08FF.base\012];\012\012feature dlig {\012  lookupflag IgnoreMarks;\012    sub colon by colon.arabic;\012    sub exclam by exclam.arabic;\012    sub period by period.arabic;\012} dlig;\012\012feature fina {\012  lookupflag IgnoreMarks;\012    sub uni0622 by uni0622.fina;\012    sub uni0623 by uni0623.fina;\012    sub uni0625 by uni0625.fina;\012    sub uni0627 by uni0627.fina;\012    sub uni0671 by uni0671.fina;\012    sub uni0672 by uni0672.fina;\012    sub uni0673 by uni0673.fina;\012    sub uni0675 by uni0675.fina;\012    sub uni0628 by uni0628.fina;\012    sub uni062A by uni062A.fina;\012    sub uni062B by uni062B.fina;\012    sub uni066E by uni066E.fina;\012    sub uni0679 by uni0679.fina;\012    sub uni067A by uni067A.fina;\012    sub uni067B by uni067B.fina;\012    sub uni067C by uni067C.fina;\012    sub uni067D by uni067D.fina;\012    sub uni067E by uni067E.fina;\012    sub uni067F by uni067F.fina;\012    sub uni0680 by uni0680.fina;\012    sub uni08A0 by uni08A0.fina;\012    sub uni062C by uni062C.fina;\012    sub uni062D by uni062D.fina;\012    sub uni062E by uni062E.fina;\012    sub uni0681 by uni0681.fina;\012    sub uni0682 by uni0682.fina;\012    sub uni0683 by uni0683.fina;\012    sub uni0684 by uni0684.fina;\012    sub uni0685 by uni0685.fina;\012    sub uni0686 by uni0686.fina;\012    sub uni0687 by uni0687.fina;\012    sub uni06BF by uni06BF.fina;\012    sub uni08A2 by uni08A2.fina;\012    sub uni062F by uni062F.fina;\012    sub uni0630 by uni0630.fina;\012    sub uni0688 by uni0688.fina;\012    sub uni0689 by uni0689.fina;\012    sub uni068A by uni068A.fina;\012    sub uni068B by uni068B.fina;\012    sub uni068C by uni068C.fina;\012    sub uni068D by uni068D.fina;\012    sub uni068E by uni068E.fina;\012    sub uni068F by uni068F.fina;\012    sub uni0690 by uni0690.fina;\012    sub uni06EE by uni06EE.fina;\012    sub uni0631 by uni0631.fina;\012    sub uni0632 by uni0632.fina;\012    sub uni0691 by uni0691.fina;\012    sub uni0692 by uni0692.fina;\012    sub uni0693 by uni0693.fina;\012    sub uni0694 by uni0694.fina;\012    sub uni0695 by uni0695.fina;\012    sub uni0696 by uni0696.fina;\012    sub uni0697 by uni0697.fina;\012    sub uni0698 by uni0698.fina;\012    sub uni0699 by uni0699.fina;\012    sub uni06EF by uni06EF.fina;\012    sub uni0633 by uni0633.fina;\012    sub uni0634 by uni0634.fina;\012    sub uni069A by uni069A.fina;\012    sub uni069B by uni069B.fina;\012    sub uni069C by uni069C.fina;\012    sub uni06FA by uni06FA.fina;\012    sub uni0635 by uni0635.fina;\012    sub uni0636 by uni0636.fina;\012    sub uni069D by uni069D.fina;\012    sub uni069E by uni069E.fina;\012    sub uni06FB by uni06FB.fina;\012    sub uni0637 by uni0637.fina;\012    sub uni0638 by uni0638.fina;\012    sub uni069F by uni069F.fina;\012    sub uni08A3 by uni08A3.fina;\012    sub uni0639 by uni0639.fina;\012    sub uni063A by uni063A.fina;\012    sub uni06A0 by uni06A0.fina;\012    sub uni06FC by uni06FC.fina;\012    sub uni0641 by uni0641.fina;\012    sub uni06A1 by uni06A1.fina;\012    sub uni06A2 by uni06A2.fina;\012    sub uni06A3 by uni06A3.fina;\012    sub uni06A4 by uni06A4.fina;\012    sub uni06A5 by uni06A5.fina;\012    sub uni06A6 by uni06A6.fina;\012    sub uni08A4 by uni08A4.fina;\012    sub uni0642 by uni0642.fina;\012    sub uni066F by uni066F.fina;\012    sub uni06A7 by uni06A7.fina;\012    sub uni06A8 by uni06A8.fina;\012    sub uni08A5 by uni08A5.fina;\012    sub uni0643 by uni0643.fina;\012    sub uni06AC by uni06AC.fina;\012    sub uni06AD by uni06AD.fina;\012    sub uni06AE by uni06AE.fina;\012    sub uni0644 by uni0644.fina;\012    sub uni06B5 by uni06B5.fina;\012    sub uni06B6 by uni06B6.fina;\012    sub uni06B7 by uni06B7.fina;\012    sub uni06B8 by uni06B8.fina;\012    sub uni08A6 by uni08A6.fina;\012    sub uni0645 by uni0645.fina;\012    sub uni06FE by uni06FE.fina;\012    sub uni08A7 by uni08A7.fina;\012    sub uni0646 by uni0646.fina;\012    sub uni06B9 by uni06B9.fina;\012    sub uni06BA by uni06BA.fina;\012    sub uni06BB by uni06BB.fina;\012    sub uni06BC by uni06BC.fina;\012    sub uni06BD by uni06BD.fina;\012    sub uni0629 by uni0629.fina;\012    sub uni06C0 by uni06C0.fina;\012    sub uni06D5 by uni06D5.fina;\012    sub uni0647 by uni0647.fina;\012    sub uni06FF by uni06FF.fina;\012    sub uni06BE by uni06BE.fina;\012    sub uni0624 by uni0624.fina;\012    sub uni0648 by uni0648.fina;\012    sub uni0676 by uni0676.fina;\012    sub uni0677 by uni0677.fina;\012    sub uni06C4 by uni06C4.fina;\012    sub uni06C5 by uni06C5.fina;\012    sub uni06C6 by uni06C6.fina;\012    sub uni06C7 by uni06C7.fina;\012    sub uni06C8 by uni06C8.fina;\012    sub uni06C9 by uni06C9.fina;\012    sub uni06CA by uni06CA.fina;\012    sub uni06CB by uni06CB.fina;\012    sub uni06CF by uni06CF.fina;\012    sub uni08AB by uni08AB.fina;\012    sub uni0620 by uni0620.fina;\012    sub uni0626 by uni0626.fina;\012    sub uni063D by uni063D.fina;\012    sub uni063E by uni063E.fina;\012    sub uni063F by uni063F.fina;\012    sub uni0649 by uni0649.fina;\012    sub uni064A by uni064A.fina;\012    sub uni0678 by uni0678.fina;\012    sub uni06CC by uni06CC.fina;\012    sub uni06CE by uni06CE.fina;\012    sub uni06D0 by uni06D0.fina;\012    sub uni06D1 by uni06D1.fina;\012    sub uni08A8 by uni08A8.fina;\012    sub uni08A9 by uni08A9.fina;\012    sub uni06CD by uni06CD.fina;\012    sub uni06A9 by uni06A9.fina;\012    sub uni063B by uni063B.fina;\012    sub uni063C by uni063C.fina;\012    sub uni06AB by uni06AB.fina;\012    sub uni06AF by uni06AF.fina;\012    sub uni06B0 by uni06B0.fina;\012    sub uni06B1 by uni06B1.fina;\012    sub uni06B2 by uni06B2.fina;\012    sub uni06B3 by uni06B3.fina;\012    sub uni06B4 by uni06B4.fina;\012    sub uni06AA by uni06AA.fina;\012    sub uni06C1 by uni06C1.fina;\012    sub uni06C2 by uni06C2.fina;\012    sub uni06C3 by uni06C3.fina;\012    sub uni06D2 by uni06D2.fina;\012    sub uni06D3 by uni06D3.fina;\012    sub uni08AA by uni08AA.fina;\012    sub uni08AC by uni08AC.fina;\012    sub uniFEFB by uniFEFC;\012    sub uni0773 by uni0773.fina;\012    sub uni0774 by uni0774.fina;\012    sub uni0750 by uni0750.fina;\012    sub uni0751 by uni0751.fina;\012    sub uni0752 by uni0752.fina;\012    sub uni0753 by uni0753.fina;\012    sub uni0754 by uni0754.fina;\012    sub uni0755 by uni0755.fina;\012    sub uni0756 by uni0756.fina;\012    sub uni0757 by uni0757.fina;\012    sub uni0758 by uni0758.fina;\012    sub uni076E by uni076E.fina;\012    sub uni076F by uni076F.fina;\012    sub uni0772 by uni0772.fina;\012    sub uni077C by uni077C.fina;\012    sub uni0759 by uni0759.fina;\012    sub uni075A by uni075A.fina;\012    sub uni075B by uni075B.fina;\012    sub uni076B by uni076B.fina;\012    sub uni076C by uni076C.fina;\012    sub uni0771 by uni0771.fina;\012    sub uni075C by uni075C.fina;\012    sub uni076D by uni076D.fina;\012    sub uni0770 by uni0770.fina;\012    sub uni077D by uni077D.fina;\012    sub uni077E by uni077E.fina;\012    sub uni075D by uni075D.fina;\012    sub uni075E by uni075E.fina;\012    sub uni075F by uni075F.fina;\012    sub uni0760 by uni0760.fina;\012    sub uni0761 by uni0761.fina;\012    sub uni077F by uni077F.fina;\012    sub uni0762 by uni0762.fina;\012    sub uni0763 by uni0763.fina;\012    sub uni0764 by uni0764.fina;\012    sub uni076A by uni076A.fina;\012    sub uni0765 by uni0765.fina;\012    sub uni0766 by uni0766.fina;\012    sub uni0767 by uni0767.fina;\012    sub uni0768 by uni0768.fina;\012    sub uni0769 by uni0769.fina;\012    sub uni0778 by uni0778.fina;\012    sub uni0779 by uni0779.fina;\012    sub uni0775 by uni0775.fina;\012    sub uni0776 by uni0776.fina;\012    sub uni0777 by uni0777.fina;\012    sub uni077A by uni077A.fina;\012    sub uni077B by uni077B.fina;\012    sub uni08A1 by uni08A1.fina;\012    sub uni08AE by uni08AE.fina;\012    sub uni08B2 by uni08B2.fina;\012    sub uni08AF by uni08AF.fina;\012    sub uni08B0 by uni08B0.fina;\012    sub uni08B1 by uni08B1.fina;\012} fina;\012\012@isol = [\012  uni0620 uni0626 uni0628 uni062A uni062B uni062C\012  uni062D uni062E uni0633 uni0634 uni0635 uni0636\012  uni0637 uni0638 uni0639 uni063A uni063B uni063C\012  uni063D uni063E uni063F uni0641 uni0642 uni0643\012  uni0644 uni0645 uni0646 uni0647 uni0649 uni064A\012  uni066E uni066F uni0678 uni0679 uni067A uni067B\012  uni067C uni067D uni067E uni067F uni0680 uni0681\012  uni0682 uni0683 uni0684 uni0685 uni0686 uni0687\012  uni069A uni069B uni069C uni069D uni069E uni069F\012  uni06A0 uni06A1 uni06A2 uni06A3 uni06A4 uni06A5\012  uni06A6 uni06A7 uni06A8 uni06A9 uni06AA uni06AB\012  uni06AC uni06AD uni06AE uni06AF uni06B0 uni06B1\012  uni06B2 uni06B3 uni06B4 uni06B5 uni06B6 uni06B7\012  uni06B8 uni06B9 uni06BA uni06BB uni06BC uni06BD\012  uni06BE uni06BF uni06C1 uni06CC uni06CE uni06D0\012  uni06D1 uni06FA uni06FB uni06FC uni06FE uni06FF\012  uni0750 uni0751 uni0752 uni0753 uni0754 uni0755\012  uni0756 uni0757 uni0758 uni075C uni075D uni075E\012  uni075F uni0760 uni0761 uni0762 uni0763 uni0764\012  uni0765 uni0766 uni0767 uni0768 uni0769 uni076A\012  uni076D uni076E uni076F uni0770 uni0772 uni0775\012  uni0776 uni0777 uni077C uni077D uni077E uni077F\012  uni08A0 uni08A1 uni08A2 uni08A3 uni08A4 uni08A5\012  uni08A6 uni08A7 uni08A8 uni08A9 uni08AF uni08B0\012];\012\012@init = [\012  uni0620.init uni0626.init uni0628.init uni062A.init uni062B.init uni062C.init\012  uni062D.init uni062E.init uni0633.init uni0634.init uni0635.init uni0636.init\012  uni0637.init uni0638.init uni0639.init uni063A.init uni063B.init uni063C.init\012  uni063D.init uni063E.init uni063F.init uni0641.init uni0642.init uni0643.init\012  uni0644.init uni0645.init uni0646.init uni0647.init uni0649.init uni064A.init\012  uni066E.init uni066F.init uni0678.init uni0679.init uni067A.init uni067B.init\012  uni067C.init uni067D.init uni067E.init uni067F.init uni0680.init uni0681.init\012  uni0682.init uni0683.init uni0684.init uni0685.init uni0686.init uni0687.init\012  uni069A.init uni069B.init uni069C.init uni069D.init uni069E.init uni069F.init\012  uni06A0.init uni06A1.init uni06A2.init uni06A3.init uni06A4.init uni06A5.init\012  uni06A6.init uni06A7.init uni06A8.init uni06A9.init uni06AA.init uni06AB.init\012  uni06AC.init uni06AD.init uni06AE.init uni06AF.init uni06B0.init uni06B1.init\012  uni06B2.init uni06B3.init uni06B4.init uni06B5.init uni06B6.init uni06B7.init\012  uni06B8.init uni06B9.init uni06BA.init uni06BB.init uni06BC.init uni06BD.init\012  uni06BE.init uni06BF.init uni06C1.init uni06CC.init uni06CE.init uni06D0.init\012  uni06D1.init uni06FA.init uni06FB.init uni06FC.init uni06FE.init uni06FF.init\012  uni0750.init uni0751.init uni0752.init uni0753.init uni0754.init uni0755.init\012  uni0756.init uni0757.init uni0758.init uni075C.init uni075D.init uni075E.init\012  uni075F.init uni0760.init uni0761.init uni0762.init uni0763.init uni0764.init\012  uni0765.init uni0766.init uni0767.init uni0768.init uni0769.init uni076A.init\012  uni076D.init uni076E.init uni076F.init uni0770.init uni0772.init uni0775.init\012  uni0776.init uni0777.init uni077C.init uni077D.init uni077E.init uni077F.init\012  uni08A0.init uni08A1.init uni08A2.init uni08A3.init uni08A4.init uni08A5.init\012  uni08A6.init uni08A7.init uni08A8.init uni08A9.init uni08AF.init uni08B0.init\012];\012\012@medi = [\012  uni0620.medi uni0626.medi uni0628.medi uni062A.medi uni062B.medi uni062C.medi\012  uni062D.medi uni062E.medi uni0633.medi uni0634.medi uni0635.medi uni0636.medi\012  uni0637.medi uni0638.medi uni0639.medi uni063A.medi uni063B.medi uni063C.medi\012  uni063D.medi uni063E.medi uni063F.medi uni0641.medi uni0642.medi uni0643.medi\012  uni0644.medi uni0645.medi uni0646.medi uni0647.medi uni0649.medi uni064A.medi\012  uni066E.medi uni066F.medi uni0678.medi uni0679.medi uni067A.medi uni067B.medi\012  uni067C.medi uni067D.medi uni067E.medi uni067F.medi uni0680.medi uni0681.medi\012  uni0682.medi uni0683.medi uni0684.medi uni0685.medi uni0686.medi uni0687.medi\012  uni069A.medi uni069B.medi uni069C.medi uni069D.medi uni069E.medi uni069F.medi\012  uni06A0.medi uni06A1.medi uni06A2.medi uni06A3.medi uni06A4.medi uni06A5.medi\012  uni06A6.medi uni06A7.medi uni06A8.medi uni06A9.medi uni06AA.medi uni06AB.medi\012  uni06AC.medi uni06AD.medi uni06AE.medi uni06AF.medi uni06B0.medi uni06B1.medi\012  uni06B2.medi uni06B3.medi uni06B4.medi uni06B5.medi uni06B6.medi uni06B7.medi\012  uni06B8.medi uni06B9.medi uni06BA.medi uni06BB.medi uni06BC.medi uni06BD.medi\012  uni06BE.medi uni06BF.medi uni06C1.medi uni06CC.medi uni06CE.medi uni06D0.medi\012  uni06D1.medi uni06FA.medi uni06FB.medi uni06FC.medi uni06FE.medi uni06FF.medi\012  uni0750.medi uni0751.medi uni0752.medi uni0753.medi uni0754.medi uni0755.medi\012  uni0756.medi uni0757.medi uni0758.medi uni075C.medi uni075D.medi uni075E.medi\012  uni075F.medi uni0760.medi uni0761.medi uni0762.medi uni0763.medi uni0764.medi\012  uni0765.medi uni0766.medi uni0767.medi uni0768.medi uni0769.medi uni076A.medi\012  uni076D.medi uni076E.medi uni076F.medi uni0770.medi uni0772.medi uni0775.medi\012  uni0776.medi uni0777.medi uni077C.medi uni077D.medi uni077E.medi uni077F.medi\012  uni08A0.medi uni08A1.medi uni08A2.medi uni08A3.medi uni08A4.medi uni08A5.medi\012  uni08A6.medi uni08A7.medi uni08A8.medi uni08A9.medi uni08AF.medi uni08B0.medi\012];\012\012feature medi {\012  lookupflag IgnoreMarks;\012    sub @isol by @medi;\012} medi;\012\012feature init {\012  lookupflag IgnoreMarks;\012    sub @isol by @init;\012} init;\012\012lookup mark_over_kashida {\012  sub uni0618 by uni0640 uni0618;\012  sub uni0619 by uni0640 uni0619;\012  sub uni061A by uni0640 uni061A;\012  sub uni064B by uni0640 uni064B;\012  sub uni064C by uni0640 uni064C;\012  sub uni064D by uni0640 uni064D;\012  sub uni064E by uni0640 uni064E;\012  sub uni064F by uni0640 uni064F;\012  sub uni0650 by uni0640 uni0650;\012  sub uni0651 by uni0640 uni0651;\012  sub uni0652 by uni0640 uni0652;\012  sub uni0653 by uni0640 uni0653;\012  sub uni0654 by uni0640 uni0654;\012  sub uni0655 by uni0640 uni0655;\012  sub uni0656 by uni0640 uni0656;\012  sub uni0657 by uni0640 uni0657;\012  sub uni0658 by uni0640 uni0658;\012  sub uni0659 by uni0640 uni0659;\012  sub uni065A by uni0640 uni065A;\012  sub uni065B by uni0640 uni065B;\012  sub uni065C by uni0640 uni065C;\012  sub uni065D by uni0640 uni065D;\012  sub uni065E by uni0640 uni065E;\012  sub uni065F by uni0640 uni065F;\012  sub uni0670 by uni0640 uni0670;\012  sub uni0674 by uni0640 uni0674;\012  sub uni06DC by uni0640 uni06DC;\012  sub uni06DF by uni0640 uni06DF;\012  sub uni06E0 by uni0640 uni06E0;\012  sub uni06E4 by uni0640 uni06E4;\012  sub uni06E1 by uni0640 uni06E1;\012  sub uni06E7 by uni0640 uni06E7;\012  sub uni06E2 by uni0640 uni06E2;\012  sub uni06E3 by uni0640 uni06E3;\012  sub uni06EA by uni0640 uni06EA;\012  sub uni06E8 by uni0640 uni06E8;\012  sub uni06EB by uni0640 uni06EB;\012  sub uni06EC by uni0640 uni06EC;\012  sub uni06ED by uni0640 uni06ED;\012  sub uni08E4 by uni0640 uni08E4;\012  sub uni08E5 by uni0640 uni08E5;\012  sub uni08E6 by uni0640 uni08E6;\012  sub uni08E7 by uni0640 uni08E7;\012  sub uni08E8 by uni0640 uni08E8;\012  sub uni08E9 by uni0640 uni08E9;\012  sub uni08EA by uni0640 uni08EA;\012  sub uni08EB by uni0640 uni08EB;\012  sub uni08EC by uni0640 uni08EC;\012  sub uni08ED by uni0640 uni08ED;\012  sub uni08EE by uni0640 uni08EE;\012  sub uni08EF by uni0640 uni08EF;\012  sub uni08F0 by uni0640 uni08F0;\012  sub uni08F1 by uni0640 uni08F1;\012  sub uni08F2 by uni0640 uni08F2;\012  sub uni08F3 by uni0640 uni08F3;\012  sub uni08F4 by uni0640 uni08F4;\012  sub uni08F5 by uni0640 uni08F5;\012  sub uni08F6 by uni0640 uni08F6;\012  sub uni08F7 by uni0640 uni08F7;\012  sub uni08F8 by uni0640 uni08F8;\012  sub uni08F9 by uni0640 uni08F9;\012  sub uni08FA by uni0640 uni08FA;\012  sub uni08FB by uni0640 uni08FB;\012  sub uni08FC by uni0640 uni08FC;\012  sub uni08FD by uni0640 uni08FD;\012  sub uni08FE by uni0640 uni08FE;\012  sub uni08FF by uni0640 uni08FF;\012} mark_over_kashida;\012\012@init_medi = [uni0640 uni200D @init @medi];\012\012feature rlig {\012  sub @init_medi @marks' lookup mark_over_kashida;\012  sub @init_medi @marks @marks' lookup mark_over_kashida;\012  sub @marks' by @marks.base;\012} rlig;\012\012@lam.init_medi = [\012  uni0644.init uni0644.medi uni06B5.init uni06B5.medi uni06B6.init uni06B6.medi\012  uni06B7.init uni06B7.medi uni06B8.init uni06B8.medi uni076A.init uni076A.medi\012];\012\012@alef.fina = [\012  uni0622.fina uni0623.fina uni0625.fina uni0627.fina uni0671.fina uni0672.fina\012  uni0673.fina uni0773.fina uni0774.fina\012];\012\012@alef.fina.alt = [\012  uni0622.fina.alt uni0623.fina.alt uni0625.fina.alt uni0627.fina.alt\012  uni0671.fina.alt uni0672.fina.alt uni0673.fina.alt uni0773.fina.alt\012  uni0774.fina.alt\012];\012\012feature rlig {\012  lookupflag IgnoreMarks;\012    sub @lam.init_medi @alef.fina' by @alef.fina.alt;\012} rlig;\012\012feature locl {\012  script arab;\012    language URD exclude_dflt;\012      sub uni06F4 by uni06F4.indo;\012      sub uni06F7 by uni06F7.indo;\012} locl;\012\012lookup onum_0 {\012  sub ampersand by ampersand;\012  sub dollar by dollar.oldstyle;\012  sub eight by eight.taboldstyle;\012  sub five by five.taboldstyle;\012  sub four by four.taboldstyle;\012  sub nine by nine.taboldstyle;\012  sub one by one.taboldstyle;\012  sub seven by seven.taboldstyle;\012  sub six by six.taboldstyle;\012  sub three by three.taboldstyle;\012  sub two by two.taboldstyle;\012  sub zero by zero.taboldstyle;\012  sub cent by cent.oldstyle;\012} onum_0;\012\012feature onum {\012  script latn;\012     language dflt;\012      lookup onum_0;\012     language AZE  exclude_dflt;\012      lookup onum_0;\012     language CRT  exclude_dflt;\012      lookup onum_0;\012     language MOL  exclude_dflt;\012      lookup onum_0;\012     language ROM  exclude_dflt;\012      lookup onum_0;\012     language TRK  exclude_dflt;\012      lookup onum_0;\012} onum;\012\012lookup lnum_0 {\012  sub ampersand by ampersand;\012  sub cent.oldstyle by cent;\012  sub dollar.oldstyle by dollar;\012  sub eight.taboldstyle by eight;\012  sub five.taboldstyle by five;\012  sub four.taboldstyle by four;\012  sub nine.taboldstyle by nine;\012  sub one.taboldstyle by one;\012  sub seven.taboldstyle by seven;\012  sub six.taboldstyle by six;\012  sub three.taboldstyle by three;\012  sub two.taboldstyle by two;\012  sub zero.taboldstyle by zero;\012} lnum_0;\012\012feature lnum {\012  script latn;\012     language dflt;\012      lookup lnum_0;\012     language AZE  exclude_dflt;\012      lookup lnum_0;\012     language CRT  exclude_dflt;\012      lookup lnum_0;\012     language MOL  exclude_dflt;\012      lookup lnum_0;\012     language ROM  exclude_dflt;\012      lookup lnum_0;\012     language TRK  exclude_dflt;\012      lookup lnum_0;\012} lnum;\012\012# GPOS\012\012# Dummy mark feature so that HarfBuzz does not apply its mark positioning\012# fallback.\012feature mark {\012  pos uni0640 0;\012} mark;\012\012# GDEF\012\012@GDEF_Simple = [@marks.base];\012@GDEF_Mark   = [@marks];\012table GDEF {\012  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;\012} GDEF;\012";
+code = "languagesystem arab dflt;
+languagesystem arab ARA;
+languagesystem arab FAR;
+languagesystem arab URD;
+
+# GSUB
+
+@marks = [
+  uni0618 uni0619 uni061A uni064B uni064C uni064D uni064E uni064F uni0650
+  uni0651 uni0652 uni0653 uni0654 uni0655 uni0656 uni0657 uni0658 uni0659
+  uni065A uni065B uni065C uni065D uni065E uni065F uni0670 uni0674 uni06DC
+  uni06DF uni06E0 uni06E4 uni06E1 uni06E7 uni06E2 uni06E3 uni06EA uni06E8
+  uni06EB uni06EC uni06ED uni08E4 uni08E5 uni08E6 uni08E7 uni08E8 uni08E9
+  uni08EA uni08EB uni08EC uni08ED uni08EE uni08EF uni08F0 uni08F1 uni08F2
+  uni08F3 uni08F4 uni08F5 uni08F6 uni08F7 uni08F8 uni08F9 uni08FA uni08FB
+  uni08FC uni08FD uni08FE uni08FF
+];
+
+@marks.base = [
+  uni0618.base uni0619.base uni061A.base uni064B.base uni064C.base uni064D.base
+  uni064E.base uni064F.base uni0650.base uni0651.base uni0652.base uni0653.base
+  uni0654.base uni0655.base uni0656.base uni0657.base uni0658.base uni0659.base
+  uni065A.base uni065B.base uni065C.base uni065D.base uni065E.base uni065F.base
+  uni0670.base uni0674.base uni06DC.base uni06DF.base uni06E0.base uni06E4.base
+  uni06E1.base uni06E7.base uni06E2.base uni06E3.base uni06EA.base uni06E8.base
+  uni06EB.base uni06EC.base uni06ED.base uni08E4.base uni08E5.base uni08E6.base
+  uni08E7.base uni08E8.base uni08E9.base uni08EA.base uni08EB.base uni08EC.base
+  uni08ED.base uni08EE.base uni08EF.base uni08F0.base uni08F1.base uni08F2.base
+  uni08F3.base uni08F4.base uni08F5.base uni08F6.base uni08F7.base uni08F8.base
+  uni08F9.base uni08FA.base uni08FB.base uni08FC.base uni08FD.base uni08FE.base
+  uni08FF.base
+];
+
+feature dlig {
+  lookupflag IgnoreMarks;
+    sub colon by colon.arabic;
+    sub exclam by exclam.arabic;
+    sub period by period.arabic;
+} dlig;
+
+feature fina {
+  lookupflag IgnoreMarks;
+    sub uni0622 by uni0622.fina;
+    sub uni0623 by uni0623.fina;
+    sub uni0625 by uni0625.fina;
+    sub uni0627 by uni0627.fina;
+    sub uni0671 by uni0671.fina;
+    sub uni0672 by uni0672.fina;
+    sub uni0673 by uni0673.fina;
+    sub uni0675 by uni0675.fina;
+    sub uni0628 by uni0628.fina;
+    sub uni062A by uni062A.fina;
+    sub uni062B by uni062B.fina;
+    sub uni066E by uni066E.fina;
+    sub uni0679 by uni0679.fina;
+    sub uni067A by uni067A.fina;
+    sub uni067B by uni067B.fina;
+    sub uni067C by uni067C.fina;
+    sub uni067D by uni067D.fina;
+    sub uni067E by uni067E.fina;
+    sub uni067F by uni067F.fina;
+    sub uni0680 by uni0680.fina;
+    sub uni08A0 by uni08A0.fina;
+    sub uni062C by uni062C.fina;
+    sub uni062D by uni062D.fina;
+    sub uni062E by uni062E.fina;
+    sub uni0681 by uni0681.fina;
+    sub uni0682 by uni0682.fina;
+    sub uni0683 by uni0683.fina;
+    sub uni0684 by uni0684.fina;
+    sub uni0685 by uni0685.fina;
+    sub uni0686 by uni0686.fina;
+    sub uni0687 by uni0687.fina;
+    sub uni06BF by uni06BF.fina;
+    sub uni08A2 by uni08A2.fina;
+    sub uni062F by uni062F.fina;
+    sub uni0630 by uni0630.fina;
+    sub uni0688 by uni0688.fina;
+    sub uni0689 by uni0689.fina;
+    sub uni068A by uni068A.fina;
+    sub uni068B by uni068B.fina;
+    sub uni068C by uni068C.fina;
+    sub uni068D by uni068D.fina;
+    sub uni068E by uni068E.fina;
+    sub uni068F by uni068F.fina;
+    sub uni0690 by uni0690.fina;
+    sub uni06EE by uni06EE.fina;
+    sub uni0631 by uni0631.fina;
+    sub uni0632 by uni0632.fina;
+    sub uni0691 by uni0691.fina;
+    sub uni0692 by uni0692.fina;
+    sub uni0693 by uni0693.fina;
+    sub uni0694 by uni0694.fina;
+    sub uni0695 by uni0695.fina;
+    sub uni0696 by uni0696.fina;
+    sub uni0697 by uni0697.fina;
+    sub uni0698 by uni0698.fina;
+    sub uni0699 by uni0699.fina;
+    sub uni06EF by uni06EF.fina;
+    sub uni0633 by uni0633.fina;
+    sub uni0634 by uni0634.fina;
+    sub uni069A by uni069A.fina;
+    sub uni069B by uni069B.fina;
+    sub uni069C by uni069C.fina;
+    sub uni06FA by uni06FA.fina;
+    sub uni0635 by uni0635.fina;
+    sub uni0636 by uni0636.fina;
+    sub uni069D by uni069D.fina;
+    sub uni069E by uni069E.fina;
+    sub uni06FB by uni06FB.fina;
+    sub uni0637 by uni0637.fina;
+    sub uni0638 by uni0638.fina;
+    sub uni069F by uni069F.fina;
+    sub uni08A3 by uni08A3.fina;
+    sub uni0639 by uni0639.fina;
+    sub uni063A by uni063A.fina;
+    sub uni06A0 by uni06A0.fina;
+    sub uni06FC by uni06FC.fina;
+    sub uni0641 by uni0641.fina;
+    sub uni06A1 by uni06A1.fina;
+    sub uni06A2 by uni06A2.fina;
+    sub uni06A3 by uni06A3.fina;
+    sub uni06A4 by uni06A4.fina;
+    sub uni06A5 by uni06A5.fina;
+    sub uni06A6 by uni06A6.fina;
+    sub uni08A4 by uni08A4.fina;
+    sub uni0642 by uni0642.fina;
+    sub uni066F by uni066F.fina;
+    sub uni06A7 by uni06A7.fina;
+    sub uni06A8 by uni06A8.fina;
+    sub uni08A5 by uni08A5.fina;
+    sub uni0643 by uni0643.fina;
+    sub uni06AC by uni06AC.fina;
+    sub uni06AD by uni06AD.fina;
+    sub uni06AE by uni06AE.fina;
+    sub uni0644 by uni0644.fina;
+    sub uni06B5 by uni06B5.fina;
+    sub uni06B6 by uni06B6.fina;
+    sub uni06B7 by uni06B7.fina;
+    sub uni06B8 by uni06B8.fina;
+    sub uni08A6 by uni08A6.fina;
+    sub uni0645 by uni0645.fina;
+    sub uni06FE by uni06FE.fina;
+    sub uni08A7 by uni08A7.fina;
+    sub uni0646 by uni0646.fina;
+    sub uni06B9 by uni06B9.fina;
+    sub uni06BA by uni06BA.fina;
+    sub uni06BB by uni06BB.fina;
+    sub uni06BC by uni06BC.fina;
+    sub uni06BD by uni06BD.fina;
+    sub uni0629 by uni0629.fina;
+    sub uni06C0 by uni06C0.fina;
+    sub uni06D5 by uni06D5.fina;
+    sub uni0647 by uni0647.fina;
+    sub uni06FF by uni06FF.fina;
+    sub uni06BE by uni06BE.fina;
+    sub uni0624 by uni0624.fina;
+    sub uni0648 by uni0648.fina;
+    sub uni0676 by uni0676.fina;
+    sub uni0677 by uni0677.fina;
+    sub uni06C4 by uni06C4.fina;
+    sub uni06C5 by uni06C5.fina;
+    sub uni06C6 by uni06C6.fina;
+    sub uni06C7 by uni06C7.fina;
+    sub uni06C8 by uni06C8.fina;
+    sub uni06C9 by uni06C9.fina;
+    sub uni06CA by uni06CA.fina;
+    sub uni06CB by uni06CB.fina;
+    sub uni06CF by uni06CF.fina;
+    sub uni08AB by uni08AB.fina;
+    sub uni0620 by uni0620.fina;
+    sub uni0626 by uni0626.fina;
+    sub uni063D by uni063D.fina;
+    sub uni063E by uni063E.fina;
+    sub uni063F by uni063F.fina;
+    sub uni0649 by uni0649.fina;
+    sub uni064A by uni064A.fina;
+    sub uni0678 by uni0678.fina;
+    sub uni06CC by uni06CC.fina;
+    sub uni06CE by uni06CE.fina;
+    sub uni06D0 by uni06D0.fina;
+    sub uni06D1 by uni06D1.fina;
+    sub uni08A8 by uni08A8.fina;
+    sub uni08A9 by uni08A9.fina;
+    sub uni06CD by uni06CD.fina;
+    sub uni06A9 by uni06A9.fina;
+    sub uni063B by uni063B.fina;
+    sub uni063C by uni063C.fina;
+    sub uni06AB by uni06AB.fina;
+    sub uni06AF by uni06AF.fina;
+    sub uni06B0 by uni06B0.fina;
+    sub uni06B1 by uni06B1.fina;
+    sub uni06B2 by uni06B2.fina;
+    sub uni06B3 by uni06B3.fina;
+    sub uni06B4 by uni06B4.fina;
+    sub uni06AA by uni06AA.fina;
+    sub uni06C1 by uni06C1.fina;
+    sub uni06C2 by uni06C2.fina;
+    sub uni06C3 by uni06C3.fina;
+    sub uni06D2 by uni06D2.fina;
+    sub uni06D3 by uni06D3.fina;
+    sub uni08AA by uni08AA.fina;
+    sub uni08AC by uni08AC.fina;
+    sub uniFEFB by uniFEFC;
+    sub uni0773 by uni0773.fina;
+    sub uni0774 by uni0774.fina;
+    sub uni0750 by uni0750.fina;
+    sub uni0751 by uni0751.fina;
+    sub uni0752 by uni0752.fina;
+    sub uni0753 by uni0753.fina;
+    sub uni0754 by uni0754.fina;
+    sub uni0755 by uni0755.fina;
+    sub uni0756 by uni0756.fina;
+    sub uni0757 by uni0757.fina;
+    sub uni0758 by uni0758.fina;
+    sub uni076E by uni076E.fina;
+    sub uni076F by uni076F.fina;
+    sub uni0772 by uni0772.fina;
+    sub uni077C by uni077C.fina;
+    sub uni0759 by uni0759.fina;
+    sub uni075A by uni075A.fina;
+    sub uni075B by uni075B.fina;
+    sub uni076B by uni076B.fina;
+    sub uni076C by uni076C.fina;
+    sub uni0771 by uni0771.fina;
+    sub uni075C by uni075C.fina;
+    sub uni076D by uni076D.fina;
+    sub uni0770 by uni0770.fina;
+    sub uni077D by uni077D.fina;
+    sub uni077E by uni077E.fina;
+    sub uni075D by uni075D.fina;
+    sub uni075E by uni075E.fina;
+    sub uni075F by uni075F.fina;
+    sub uni0760 by uni0760.fina;
+    sub uni0761 by uni0761.fina;
+    sub uni077F by uni077F.fina;
+    sub uni0762 by uni0762.fina;
+    sub uni0763 by uni0763.fina;
+    sub uni0764 by uni0764.fina;
+    sub uni076A by uni076A.fina;
+    sub uni0765 by uni0765.fina;
+    sub uni0766 by uni0766.fina;
+    sub uni0767 by uni0767.fina;
+    sub uni0768 by uni0768.fina;
+    sub uni0769 by uni0769.fina;
+    sub uni0778 by uni0778.fina;
+    sub uni0779 by uni0779.fina;
+    sub uni0775 by uni0775.fina;
+    sub uni0776 by uni0776.fina;
+    sub uni0777 by uni0777.fina;
+    sub uni077A by uni077A.fina;
+    sub uni077B by uni077B.fina;
+    sub uni08A1 by uni08A1.fina;
+    sub uni08AE by uni08AE.fina;
+    sub uni08B2 by uni08B2.fina;
+    sub uni08AF by uni08AF.fina;
+    sub uni08B0 by uni08B0.fina;
+    sub uni08B1 by uni08B1.fina;
+} fina;
+
+@isol = [
+  uni0620 uni0626 uni0628 uni062A uni062B uni062C
+  uni062D uni062E uni0633 uni0634 uni0635 uni0636
+  uni0637 uni0638 uni0639 uni063A uni063B uni063C
+  uni063D uni063E uni063F uni0641 uni0642 uni0643
+  uni0644 uni0645 uni0646 uni0647 uni0649 uni064A
+  uni066E uni066F uni0678 uni0679 uni067A uni067B
+  uni067C uni067D uni067E uni067F uni0680 uni0681
+  uni0682 uni0683 uni0684 uni0685 uni0686 uni0687
+  uni069A uni069B uni069C uni069D uni069E uni069F
+  uni06A0 uni06A1 uni06A2 uni06A3 uni06A4 uni06A5
+  uni06A6 uni06A7 uni06A8 uni06A9 uni06AA uni06AB
+  uni06AC uni06AD uni06AE uni06AF uni06B0 uni06B1
+  uni06B2 uni06B3 uni06B4 uni06B5 uni06B6 uni06B7
+  uni06B8 uni06B9 uni06BA uni06BB uni06BC uni06BD
+  uni06BE uni06BF uni06C1 uni06CC uni06CE uni06D0
+  uni06D1 uni06FA uni06FB uni06FC uni06FE uni06FF
+  uni0750 uni0751 uni0752 uni0753 uni0754 uni0755
+  uni0756 uni0757 uni0758 uni075C uni075D uni075E
+  uni075F uni0760 uni0761 uni0762 uni0763 uni0764
+  uni0765 uni0766 uni0767 uni0768 uni0769 uni076A
+  uni076D uni076E uni076F uni0770 uni0772 uni0775
+  uni0776 uni0777 uni077C uni077D uni077E uni077F
+  uni08A0 uni08A1 uni08A2 uni08A3 uni08A4 uni08A5
+  uni08A6 uni08A7 uni08A8 uni08A9 uni08AF uni08B0
+];
+
+@init = [
+  uni0620.init uni0626.init uni0628.init uni062A.init uni062B.init uni062C.init
+  uni062D.init uni062E.init uni0633.init uni0634.init uni0635.init uni0636.init
+  uni0637.init uni0638.init uni0639.init uni063A.init uni063B.init uni063C.init
+  uni063D.init uni063E.init uni063F.init uni0641.init uni0642.init uni0643.init
+  uni0644.init uni0645.init uni0646.init uni0647.init uni0649.init uni064A.init
+  uni066E.init uni066F.init uni0678.init uni0679.init uni067A.init uni067B.init
+  uni067C.init uni067D.init uni067E.init uni067F.init uni0680.init uni0681.init
+  uni0682.init uni0683.init uni0684.init uni0685.init uni0686.init uni0687.init
+  uni069A.init uni069B.init uni069C.init uni069D.init uni069E.init uni069F.init
+  uni06A0.init uni06A1.init uni06A2.init uni06A3.init uni06A4.init uni06A5.init
+  uni06A6.init uni06A7.init uni06A8.init uni06A9.init uni06AA.init uni06AB.init
+  uni06AC.init uni06AD.init uni06AE.init uni06AF.init uni06B0.init uni06B1.init
+  uni06B2.init uni06B3.init uni06B4.init uni06B5.init uni06B6.init uni06B7.init
+  uni06B8.init uni06B9.init uni06BA.init uni06BB.init uni06BC.init uni06BD.init
+  uni06BE.init uni06BF.init uni06C1.init uni06CC.init uni06CE.init uni06D0.init
+  uni06D1.init uni06FA.init uni06FB.init uni06FC.init uni06FE.init uni06FF.init
+  uni0750.init uni0751.init uni0752.init uni0753.init uni0754.init uni0755.init
+  uni0756.init uni0757.init uni0758.init uni075C.init uni075D.init uni075E.init
+  uni075F.init uni0760.init uni0761.init uni0762.init uni0763.init uni0764.init
+  uni0765.init uni0766.init uni0767.init uni0768.init uni0769.init uni076A.init
+  uni076D.init uni076E.init uni076F.init uni0770.init uni0772.init uni0775.init
+  uni0776.init uni0777.init uni077C.init uni077D.init uni077E.init uni077F.init
+  uni08A0.init uni08A1.init uni08A2.init uni08A3.init uni08A4.init uni08A5.init
+  uni08A6.init uni08A7.init uni08A8.init uni08A9.init uni08AF.init uni08B0.init
+];
+
+@medi = [
+  uni0620.medi uni0626.medi uni0628.medi uni062A.medi uni062B.medi uni062C.medi
+  uni062D.medi uni062E.medi uni0633.medi uni0634.medi uni0635.medi uni0636.medi
+  uni0637.medi uni0638.medi uni0639.medi uni063A.medi uni063B.medi uni063C.medi
+  uni063D.medi uni063E.medi uni063F.medi uni0641.medi uni0642.medi uni0643.medi
+  uni0644.medi uni0645.medi uni0646.medi uni0647.medi uni0649.medi uni064A.medi
+  uni066E.medi uni066F.medi uni0678.medi uni0679.medi uni067A.medi uni067B.medi
+  uni067C.medi uni067D.medi uni067E.medi uni067F.medi uni0680.medi uni0681.medi
+  uni0682.medi uni0683.medi uni0684.medi uni0685.medi uni0686.medi uni0687.medi
+  uni069A.medi uni069B.medi uni069C.medi uni069D.medi uni069E.medi uni069F.medi
+  uni06A0.medi uni06A1.medi uni06A2.medi uni06A3.medi uni06A4.medi uni06A5.medi
+  uni06A6.medi uni06A7.medi uni06A8.medi uni06A9.medi uni06AA.medi uni06AB.medi
+  uni06AC.medi uni06AD.medi uni06AE.medi uni06AF.medi uni06B0.medi uni06B1.medi
+  uni06B2.medi uni06B3.medi uni06B4.medi uni06B5.medi uni06B6.medi uni06B7.medi
+  uni06B8.medi uni06B9.medi uni06BA.medi uni06BB.medi uni06BC.medi uni06BD.medi
+  uni06BE.medi uni06BF.medi uni06C1.medi uni06CC.medi uni06CE.medi uni06D0.medi
+  uni06D1.medi uni06FA.medi uni06FB.medi uni06FC.medi uni06FE.medi uni06FF.medi
+  uni0750.medi uni0751.medi uni0752.medi uni0753.medi uni0754.medi uni0755.medi
+  uni0756.medi uni0757.medi uni0758.medi uni075C.medi uni075D.medi uni075E.medi
+  uni075F.medi uni0760.medi uni0761.medi uni0762.medi uni0763.medi uni0764.medi
+  uni0765.medi uni0766.medi uni0767.medi uni0768.medi uni0769.medi uni076A.medi
+  uni076D.medi uni076E.medi uni076F.medi uni0770.medi uni0772.medi uni0775.medi
+  uni0776.medi uni0777.medi uni077C.medi uni077D.medi uni077E.medi uni077F.medi
+  uni08A0.medi uni08A1.medi uni08A2.medi uni08A3.medi uni08A4.medi uni08A5.medi
+  uni08A6.medi uni08A7.medi uni08A8.medi uni08A9.medi uni08AF.medi uni08B0.medi
+];
+
+feature medi {
+  lookupflag IgnoreMarks;
+    sub @isol by @medi;
+} medi;
+
+feature init {
+  lookupflag IgnoreMarks;
+    sub @isol by @init;
+} init;
+
+lookup mark_over_kashida {
+  sub uni0618 by uni0640 uni0618;
+  sub uni0619 by uni0640 uni0619;
+  sub uni061A by uni0640 uni061A;
+  sub uni064B by uni0640 uni064B;
+  sub uni064C by uni0640 uni064C;
+  sub uni064D by uni0640 uni064D;
+  sub uni064E by uni0640 uni064E;
+  sub uni064F by uni0640 uni064F;
+  sub uni0650 by uni0640 uni0650;
+  sub uni0651 by uni0640 uni0651;
+  sub uni0652 by uni0640 uni0652;
+  sub uni0653 by uni0640 uni0653;
+  sub uni0654 by uni0640 uni0654;
+  sub uni0655 by uni0640 uni0655;
+  sub uni0656 by uni0640 uni0656;
+  sub uni0657 by uni0640 uni0657;
+  sub uni0658 by uni0640 uni0658;
+  sub uni0659 by uni0640 uni0659;
+  sub uni065A by uni0640 uni065A;
+  sub uni065B by uni0640 uni065B;
+  sub uni065C by uni0640 uni065C;
+  sub uni065D by uni0640 uni065D;
+  sub uni065E by uni0640 uni065E;
+  sub uni065F by uni0640 uni065F;
+  sub uni0670 by uni0640 uni0670;
+  sub uni0674 by uni0640 uni0674;
+  sub uni06DC by uni0640 uni06DC;
+  sub uni06DF by uni0640 uni06DF;
+  sub uni06E0 by uni0640 uni06E0;
+  sub uni06E4 by uni0640 uni06E4;
+  sub uni06E1 by uni0640 uni06E1;
+  sub uni06E7 by uni0640 uni06E7;
+  sub uni06E2 by uni0640 uni06E2;
+  sub uni06E3 by uni0640 uni06E3;
+  sub uni06EA by uni0640 uni06EA;
+  sub uni06E8 by uni0640 uni06E8;
+  sub uni06EB by uni0640 uni06EB;
+  sub uni06EC by uni0640 uni06EC;
+  sub uni06ED by uni0640 uni06ED;
+  sub uni08E4 by uni0640 uni08E4;
+  sub uni08E5 by uni0640 uni08E5;
+  sub uni08E6 by uni0640 uni08E6;
+  sub uni08E7 by uni0640 uni08E7;
+  sub uni08E8 by uni0640 uni08E8;
+  sub uni08E9 by uni0640 uni08E9;
+  sub uni08EA by uni0640 uni08EA;
+  sub uni08EB by uni0640 uni08EB;
+  sub uni08EC by uni0640 uni08EC;
+  sub uni08ED by uni0640 uni08ED;
+  sub uni08EE by uni0640 uni08EE;
+  sub uni08EF by uni0640 uni08EF;
+  sub uni08F0 by uni0640 uni08F0;
+  sub uni08F1 by uni0640 uni08F1;
+  sub uni08F2 by uni0640 uni08F2;
+  sub uni08F3 by uni0640 uni08F3;
+  sub uni08F4 by uni0640 uni08F4;
+  sub uni08F5 by uni0640 uni08F5;
+  sub uni08F6 by uni0640 uni08F6;
+  sub uni08F7 by uni0640 uni08F7;
+  sub uni08F8 by uni0640 uni08F8;
+  sub uni08F9 by uni0640 uni08F9;
+  sub uni08FA by uni0640 uni08FA;
+  sub uni08FB by uni0640 uni08FB;
+  sub uni08FC by uni0640 uni08FC;
+  sub uni08FD by uni0640 uni08FD;
+  sub uni08FE by uni0640 uni08FE;
+  sub uni08FF by uni0640 uni08FF;
+} mark_over_kashida;
+
+@init_medi = [uni0640 uni200D @init @medi];
+
+feature rlig {
+  sub @init_medi @marks' lookup mark_over_kashida;
+  sub @init_medi @marks @marks' lookup mark_over_kashida;
+  sub @marks' by @marks.base;
+} rlig;
+
+@lam.init_medi = [
+  uni0644.init uni0644.medi uni06B5.init uni06B5.medi uni06B6.init uni06B6.medi
+  uni06B7.init uni06B7.medi uni06B8.init uni06B8.medi uni076A.init uni076A.medi
+];
+
+@alef.fina = [
+  uni0622.fina uni0623.fina uni0625.fina uni0627.fina uni0671.fina uni0672.fina
+  uni0673.fina uni0773.fina uni0774.fina
+];
+
+@alef.fina.alt = [
+  uni0622.fina.alt uni0623.fina.alt uni0625.fina.alt uni0627.fina.alt
+  uni0671.fina.alt uni0672.fina.alt uni0673.fina.alt uni0773.fina.alt
+  uni0774.fina.alt
+];
+
+feature rlig {
+  lookupflag IgnoreMarks;
+    sub @lam.init_medi @alef.fina' by @alef.fina.alt;
+} rlig;
+
+feature locl {
+  script arab;
+    language URD exclude_dflt;
+      sub uni06F4 by uni06F4.indo;
+      sub uni06F7 by uni06F7.indo;
+} locl;
+
+lookup onum_0 {
+  sub ampersand by ampersand;
+  sub dollar by dollar.oldstyle;
+  sub eight by eight.taboldstyle;
+  sub five by five.taboldstyle;
+  sub four by four.taboldstyle;
+  sub nine by nine.taboldstyle;
+  sub one by one.taboldstyle;
+  sub seven by seven.taboldstyle;
+  sub six by six.taboldstyle;
+  sub three by three.taboldstyle;
+  sub two by two.taboldstyle;
+  sub zero by zero.taboldstyle;
+  sub cent by cent.oldstyle;
+} onum_0;
+
+feature onum {
+  script latn;
+     language dflt;
+      lookup onum_0;
+     language AZE  exclude_dflt;
+      lookup onum_0;
+     language CRT  exclude_dflt;
+      lookup onum_0;
+     language MOL  exclude_dflt;
+      lookup onum_0;
+     language ROM  exclude_dflt;
+      lookup onum_0;
+     language TRK  exclude_dflt;
+      lookup onum_0;
+} onum;
+
+lookup lnum_0 {
+  sub ampersand by ampersand;
+  sub cent.oldstyle by cent;
+  sub dollar.oldstyle by dollar;
+  sub eight.taboldstyle by eight;
+  sub five.taboldstyle by five;
+  sub four.taboldstyle by four;
+  sub nine.taboldstyle by nine;
+  sub one.taboldstyle by one;
+  sub seven.taboldstyle by seven;
+  sub six.taboldstyle by six;
+  sub three.taboldstyle by three;
+  sub two.taboldstyle by two;
+  sub zero.taboldstyle by zero;
+} lnum_0;
+
+feature lnum {
+  script latn;
+     language dflt;
+      lookup lnum_0;
+     language AZE  exclude_dflt;
+      lookup lnum_0;
+     language CRT  exclude_dflt;
+      lookup lnum_0;
+     language MOL  exclude_dflt;
+      lookup lnum_0;
+     language ROM  exclude_dflt;
+      lookup lnum_0;
+     language TRK  exclude_dflt;
+      lookup lnum_0;
+} lnum;
+
+# GPOS
+
+# Dummy mark feature so that HarfBuzz does not apply its mark positioning
+# fallback.
+feature mark {
+  pos uni0640 0;
+} mark;
+
+# GDEF
+
+@GDEF_Simple = [@marks.base];
+@GDEF_Mark   = [@marks];
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
+} GDEF;
+";
 name = Prefix;
 }
 );
@@ -2268,7 +2812,6 @@ unicode = 0048;
 },
 {
 glyphname = H_tildecomb;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -3109,7 +3652,6 @@ unicode = 004C;
 },
 {
 glyphname = L_tildecomb;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -5294,7 +5836,6 @@ unicode = 015C;
 },
 {
 glyphname = Scommaaccent;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -5333,7 +5874,6 @@ unicode = 1E62;
 },
 {
 glyphname = Germandbls;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 layerId = master01;
@@ -5467,7 +6007,6 @@ unicode = 0054;
 },
 {
 glyphname = T_dieresiscomb;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -5486,7 +6025,6 @@ width = 525;
 },
 {
 glyphname = T_tildecomb;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -5607,7 +6145,6 @@ unicode = 0162;
 },
 {
 glyphname = Tcommaaccent;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -5728,7 +6265,6 @@ unicode = 0055;
 },
 {
 glyphname = U_breveinvertedbelowcomb;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -6981,7 +7517,6 @@ unicode = EC07;
 },
 {
 glyphname = J_caroncomb.cap;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -9358,7 +9893,6 @@ unicode = 0068;
 },
 {
 glyphname = h_tildecomb;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -9925,7 +10459,6 @@ unicode = 006A;
 },
 {
 glyphname = jdotless;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 layerId = master01;
@@ -10210,7 +10743,6 @@ unicode = 006C;
 },
 {
 glyphname = l_tildecomb;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -12278,7 +12810,6 @@ unicode = 015D;
 },
 {
 glyphname = scommaaccent;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -12529,7 +13060,6 @@ unicode = 0074;
 },
 {
 glyphname = t_tildecomb;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -12651,7 +13181,6 @@ unicode = 0163;
 },
 {
 glyphname = tcommaaccent;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -12794,7 +13323,6 @@ unicode = 0075;
 },
 {
 glyphname = u_breveinvertedbelowcomb;
-lastChange = "2021-03-30 19:54:09 +0000";
 layers = (
 {
 components = (
@@ -14252,7 +14780,6 @@ unicode = 00BA;
 },
 {
 glyphname = "A-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -14268,7 +14795,6 @@ unicode = 0410;
 },
 {
 glyphname = "Be-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -14337,7 +14863,6 @@ unicode = 0411;
 },
 {
 glyphname = "Ve-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -14353,7 +14878,6 @@ unicode = 0412;
 },
 {
 glyphname = "Ge-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -14409,7 +14933,6 @@ unicode = 0413;
 },
 {
 glyphname = "Gje-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -14450,7 +14973,6 @@ unicode = 0403;
 },
 {
 glyphname = "Gheupturn-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -14509,7 +15031,6 @@ unicode = 0490;
 },
 {
 glyphname = "De-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -14586,7 +15107,6 @@ unicode = 0414;
 },
 {
 glyphname = "Ie-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -14602,7 +15122,6 @@ unicode = 0415;
 },
 {
 glyphname = "Iegrave-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -14643,7 +15162,6 @@ unicode = 0400;
 },
 {
 glyphname = "Io-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -14695,7 +15213,6 @@ unicode = 0401;
 },
 {
 glyphname = "Zhe-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -14817,7 +15334,6 @@ unicode = 0416;
 },
 {
 glyphname = "Ze-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -14900,7 +15416,6 @@ unicode = 0417;
 },
 {
 glyphname = "Ii-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -14996,7 +15511,6 @@ unicode = 0418;
 },
 {
 glyphname = "Iishort-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15065,7 +15579,6 @@ unicode = 0419;
 },
 {
 glyphname = "Iigrave-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15106,7 +15619,6 @@ unicode = 040D;
 },
 {
 glyphname = "Iishorttail-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -15258,7 +15770,6 @@ unicode = 048A;
 },
 {
 glyphname = "Ka-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15274,7 +15785,6 @@ unicode = 041A;
 },
 {
 glyphname = "Kje-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15315,7 +15825,6 @@ unicode = 040C;
 },
 {
 glyphname = "El-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -15399,7 +15908,6 @@ unicode = 041B;
 },
 {
 glyphname = "Em-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15415,7 +15923,6 @@ unicode = 041C;
 },
 {
 glyphname = "En-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -15501,7 +16008,6 @@ unicode = 041D;
 },
 {
 glyphname = "O-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15517,7 +16023,6 @@ unicode = 041E;
 },
 {
 glyphname = "Pe-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -15585,7 +16090,6 @@ unicode = 041F;
 },
 {
 glyphname = "Er-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15601,7 +16105,6 @@ unicode = 0420;
 },
 {
 glyphname = "Es-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15617,7 +16120,6 @@ unicode = 0421;
 },
 {
 glyphname = "Te-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15633,7 +16135,6 @@ unicode = 0422;
 },
 {
 glyphname = "U-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -15715,7 +16216,6 @@ unicode = 0423;
 },
 {
 glyphname = "Ushort-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15785,7 +16285,6 @@ unicode = 040E;
 },
 {
 glyphname = "Ef-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -15873,7 +16372,6 @@ unicode = 0424;
 },
 {
 glyphname = "Ha-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -15889,7 +16387,6 @@ unicode = 0425;
 },
 {
 glyphname = "Che-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -15968,7 +16465,6 @@ unicode = 0427;
 },
 {
 glyphname = "Tse-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16041,7 +16537,6 @@ unicode = 0426;
 },
 {
 glyphname = "Sha-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16129,7 +16624,6 @@ unicode = 0428;
 },
 {
 glyphname = "Shcha-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16220,7 +16714,6 @@ unicode = 0429;
 },
 {
 glyphname = "Dzhe-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16297,7 +16790,6 @@ unicode = 040F;
 },
 {
 glyphname = "Softsign-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16361,7 +16853,6 @@ unicode = 042C;
 },
 {
 glyphname = "Hardsign-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16429,7 +16920,6 @@ unicode = 042A;
 },
 {
 glyphname = "Yeru-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16530,7 +17020,6 @@ unicode = 042B;
 },
 {
 glyphname = "Lje-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16629,7 +17118,6 @@ unicode = 0409;
 },
 {
 glyphname = "Nje-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16729,7 +17217,6 @@ unicode = 040A;
 },
 {
 glyphname = "Dze-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16819,7 +17306,6 @@ unicode = 0405;
 },
 {
 glyphname = "E-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16901,7 +17387,6 @@ unicode = 0404;
 },
 {
 glyphname = "Ereversed-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -16974,7 +17459,6 @@ unicode = 042D;
 },
 {
 glyphname = "I-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -16990,7 +17474,6 @@ unicode = 0406;
 },
 {
 glyphname = "Yi-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -17042,7 +17525,6 @@ unicode = 0407;
 },
 {
 glyphname = "Je-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -17058,7 +17540,6 @@ unicode = 0408;
 },
 {
 glyphname = "Tshe-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -17152,7 +17633,6 @@ unicode = 040B;
 },
 {
 glyphname = "Iu-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -17254,7 +17734,6 @@ unicode = 042E;
 },
 {
 glyphname = "Ia-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -17334,7 +17813,6 @@ unicode = 042F;
 },
 {
 glyphname = "Dje-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -17431,7 +17909,6 @@ unicode = 0402;
 },
 {
 glyphname = "Omega-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -17536,7 +18013,6 @@ unicode = 0460;
 },
 {
 glyphname = "Yat-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -17629,7 +18105,6 @@ unicode = 0462;
 },
 {
 glyphname = "Eiotified-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -17734,7 +18209,6 @@ unicode = 0464;
 },
 {
 glyphname = "Yuslittle-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -17826,7 +18300,6 @@ unicode = 0466;
 },
 {
 glyphname = "Yuslittleiotified-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -17952,7 +18425,6 @@ unicode = 0468;
 },
 {
 glyphname = "Yusbig-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -18062,7 +18534,6 @@ unicode = 046A;
 },
 {
 glyphname = "Yusbigiotified-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -18195,7 +18666,6 @@ unicode = 046C;
 },
 {
 glyphname = "Ksi-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -18306,7 +18776,6 @@ unicode = 046E;
 },
 {
 glyphname = "Psi-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -18396,7 +18865,6 @@ unicode = 0470;
 },
 {
 glyphname = "Fita-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -18481,7 +18949,6 @@ unicode = 0472;
 },
 {
 glyphname = "Izhitsa-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -18550,7 +19017,6 @@ unicode = 0474;
 },
 {
 glyphname = "Izhitsadblgrave-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -18651,7 +19117,6 @@ unicode = 0476;
 },
 {
 glyphname = "Uk-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -18752,7 +19217,6 @@ unicode = 0478;
 },
 {
 glyphname = "Ghestroke-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -18826,7 +19290,6 @@ unicode = 0492;
 },
 {
 glyphname = "Ghemiddlehook-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -18911,7 +19374,6 @@ unicode = 0494;
 },
 {
 glyphname = "Zhedescender-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -19035,7 +19497,6 @@ unicode = 0496;
 },
 {
 glyphname = "Zedescender-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -19147,7 +19608,6 @@ unicode = 0498;
 },
 {
 glyphname = "Kadescender-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -19247,7 +19707,6 @@ unicode = 049A;
 },
 {
 glyphname = "Kaverticalstroke-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -19350,7 +19809,6 @@ unicode = 049C;
 },
 {
 glyphname = "Kastroke-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -19463,7 +19921,6 @@ unicode = 049E;
 },
 {
 glyphname = "Kabashkir-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -19563,7 +20020,6 @@ unicode = 04A0;
 },
 {
 glyphname = "Endescender-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -19654,7 +20110,6 @@ unicode = 04A2;
 },
 {
 glyphname = "Enghe-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -19748,7 +20203,6 @@ unicode = 04A4;
 },
 {
 glyphname = "Pemiddlehook-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -19846,7 +20300,6 @@ unicode = 04A6;
 },
 {
 glyphname = "Haabkhasian-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -19945,7 +20398,6 @@ unicode = 04A8;
 },
 {
 glyphname = "Esdescender-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -20032,7 +20484,6 @@ unicode = 04AA;
 },
 {
 glyphname = "Tedescender-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 layerId = master01;
@@ -20099,7 +20550,6 @@ unicode = 04AC;
 },
 {
 glyphname = "Ustraight-cy";
-lastChange = "2021-03-30 19:47:42 +0000";
 layers = (
 {
 components = (
@@ -20115,7 +20565,6 @@ unicode = 04AE;
 },
 {
 glyphname = "Ustraightstroke-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -20204,7 +20653,6 @@ unicode = 04B0;
 },
 {
 glyphname = "Hadescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -20304,7 +20752,6 @@ unicode = 04B2;
 },
 {
 glyphname = "Tetse-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -20389,7 +20836,6 @@ unicode = 04B4;
 },
 {
 glyphname = "Chedescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -20473,7 +20919,6 @@ unicode = 04B6;
 },
 {
 glyphname = "Cheverticalstroke-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -20570,7 +21015,6 @@ unicode = 04B8;
 },
 {
 glyphname = "Shha-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -20653,7 +21097,6 @@ unicode = 04BA;
 },
 {
 glyphname = "Cheabkhasian-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -20732,7 +21175,6 @@ unicode = 04BC;
 },
 {
 glyphname = "Chedescenderabkhasian-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -20826,7 +21268,6 @@ unicode = 04BE;
 },
 {
 glyphname = "Palochka-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -20842,7 +21283,6 @@ unicode = "04C0,04CF";
 },
 {
 glyphname = "Zhebreve-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -20889,7 +21329,6 @@ unicode = 04C1;
 },
 {
 glyphname = "Kahook-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -20993,7 +21432,6 @@ unicode = 04C3;
 },
 {
 glyphname = "Eltail-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -21086,7 +21524,6 @@ unicode = 04C5;
 },
 {
 glyphname = "Enhook-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -21178,7 +21615,6 @@ unicode = 04C7;
 },
 {
 glyphname = "Entail-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -21273,7 +21709,6 @@ unicode = 04C9;
 },
 {
 glyphname = "Chekhakassian-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -21357,7 +21792,6 @@ unicode = 04CB;
 },
 {
 glyphname = "Emtail-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -21459,7 +21893,6 @@ unicode = 04CD;
 },
 {
 glyphname = "Abreve-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -21506,7 +21939,6 @@ unicode = 04D0;
 },
 {
 glyphname = "Adieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -21558,7 +21990,6 @@ unicode = 04D2;
 },
 {
 glyphname = "Aie-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -21653,7 +22084,6 @@ unicode = 04D4;
 },
 {
 glyphname = "Iebreve-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -21700,7 +22130,6 @@ unicode = 04D6;
 },
 {
 glyphname = "Schwa-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -21766,7 +22195,6 @@ unicode = 04D8;
 },
 {
 glyphname = "Schwadieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -21865,7 +22293,6 @@ unicode = 04DA;
 },
 {
 glyphname = "Zhedieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -21917,7 +22344,6 @@ unicode = 04DC;
 },
 {
 glyphname = "Zedieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -21969,7 +22395,6 @@ unicode = 04DE;
 },
 {
 glyphname = "Dzeabkhasian-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -22046,7 +22471,6 @@ unicode = 04E0;
 },
 {
 glyphname = "Imacron-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22083,7 +22507,6 @@ unicode = 04E2;
 },
 {
 glyphname = "Idieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22135,7 +22558,6 @@ unicode = 04E4;
 },
 {
 glyphname = "Odieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22187,7 +22609,6 @@ unicode = 04E6;
 },
 {
 glyphname = "Obarred-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22203,7 +22624,6 @@ unicode = 04E8;
 },
 {
 glyphname = "Obarreddieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22255,7 +22675,6 @@ unicode = 04EA;
 },
 {
 glyphname = "Edieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22307,7 +22726,6 @@ unicode = 04EC;
 },
 {
 glyphname = "Umacron-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22344,7 +22762,6 @@ unicode = 04EE;
 },
 {
 glyphname = "Udieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22396,7 +22813,6 @@ unicode = 04F0;
 },
 {
 glyphname = "Uhungarumlaut-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22460,7 +22876,6 @@ unicode = 04F2;
 },
 {
 glyphname = "Chedieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22512,7 +22927,6 @@ unicode = 04F4;
 },
 {
 glyphname = "Gedescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -22573,7 +22987,6 @@ unicode = 04F6;
 },
 {
 glyphname = "Yerudieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -22625,7 +23038,6 @@ unicode = 04F8;
 },
 {
 glyphname = "Hahook-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -22734,7 +23146,6 @@ unicode = 04FC;
 },
 {
 glyphname = "Hastroke-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -22841,7 +23252,6 @@ unicode = 04FE;
 },
 {
 glyphname = "Elhook-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -22931,7 +23341,6 @@ unicode = 0512;
 },
 {
 glyphname = "Koppa-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -22995,7 +23404,6 @@ unicode = 0480;
 },
 {
 glyphname = "Semisoftsign-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -23080,7 +23488,6 @@ unicode = 048C;
 },
 {
 glyphname = "Ertick-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -23167,7 +23574,6 @@ unicode = 048E;
 },
 {
 glyphname = "a-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -23184,7 +23590,6 @@ unicode = 0430;
 },
 {
 glyphname = "be-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -23249,7 +23654,6 @@ unicode = 0431;
 },
 {
 glyphname = "ve-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -23327,7 +23731,6 @@ unicode = 0432;
 },
 {
 glyphname = "ge-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -23382,7 +23785,6 @@ unicode = 0433;
 },
 {
 glyphname = "gje-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -23460,7 +23862,6 @@ unicode = 0453;
 },
 {
 glyphname = "gheupturn-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -23516,7 +23917,6 @@ unicode = 0491;
 },
 {
 glyphname = "de-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -23595,7 +23995,6 @@ unicode = 0434;
 },
 {
 glyphname = "ie-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -23611,7 +24010,6 @@ unicode = 0435;
 },
 {
 glyphname = "iegrave-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -23652,7 +24050,6 @@ unicode = 0450;
 },
 {
 glyphname = "io-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -23704,7 +24101,6 @@ unicode = 0451;
 },
 {
 glyphname = "zhe-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -23841,7 +24237,6 @@ unicode = 0436;
 },
 {
 glyphname = "ze-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -23927,7 +24322,6 @@ unicode = 0437;
 },
 {
 glyphname = "ii-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -24023,7 +24417,6 @@ unicode = 0438;
 },
 {
 glyphname = "iishort-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -24092,7 +24485,6 @@ unicode = 0439;
 },
 {
 glyphname = "iigrave-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -24133,7 +24525,6 @@ unicode = 045D;
 },
 {
 glyphname = "iishorttail-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -24285,7 +24676,6 @@ unicode = 048B;
 },
 {
 glyphname = "ka-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -24379,7 +24769,6 @@ unicode = 043A;
 },
 {
 glyphname = "kje-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -24420,7 +24809,6 @@ unicode = 045C;
 },
 {
 glyphname = "el-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -24492,7 +24880,6 @@ unicode = 043B;
 },
 {
 glyphname = "em-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -24582,7 +24969,6 @@ unicode = 043C;
 },
 {
 glyphname = "en-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -24668,7 +25054,6 @@ unicode = 043D;
 },
 {
 glyphname = "o-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -24684,7 +25069,6 @@ unicode = 043E;
 },
 {
 glyphname = "pe-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -24752,7 +25136,6 @@ unicode = 043F;
 },
 {
 glyphname = "er-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -24768,7 +25151,6 @@ unicode = 0440;
 },
 {
 glyphname = "es-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -24784,7 +25166,6 @@ unicode = 0441;
 },
 {
 glyphname = "te-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -24845,7 +25226,6 @@ unicode = 0442;
 },
 {
 glyphname = "u-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -24928,7 +25308,6 @@ unicode = 0443;
 },
 {
 glyphname = "ushort-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -24992,7 +25371,6 @@ unicode = 045E;
 },
 {
 glyphname = "ef-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25104,7 +25482,6 @@ unicode = 0444;
 },
 {
 glyphname = "ha-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25201,7 +25578,6 @@ unicode = 0445;
 },
 {
 glyphname = "che-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25280,7 +25656,6 @@ unicode = 0447;
 },
 {
 glyphname = "tse-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25353,7 +25728,6 @@ unicode = 0446;
 },
 {
 glyphname = "sha-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25439,7 +25813,6 @@ unicode = 0448;
 },
 {
 glyphname = "shcha-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25530,7 +25903,6 @@ unicode = 0449;
 },
 {
 glyphname = "dzhe-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25610,7 +25982,6 @@ unicode = 045F;
 },
 {
 glyphname = "softsign-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25674,7 +26045,6 @@ unicode = 044C;
 },
 {
 glyphname = "hardsign-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25743,7 +26113,6 @@ unicode = 044A;
 },
 {
 glyphname = "yeru-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25850,7 +26219,6 @@ unicode = 044B;
 },
 {
 glyphname = "lje-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -25936,7 +26304,6 @@ unicode = 0459;
 },
 {
 glyphname = "nje-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26036,7 +26403,6 @@ unicode = 045A;
 },
 {
 glyphname = "dze-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26119,7 +26485,6 @@ unicode = 0455;
 },
 {
 glyphname = "e-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26188,7 +26553,6 @@ unicode = 0454;
 },
 {
 glyphname = "ereversed-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26257,7 +26621,6 @@ unicode = 044D;
 },
 {
 glyphname = "i-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -26277,7 +26640,6 @@ unicode = 0456;
 },
 {
 glyphname = "yi-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -26329,7 +26691,6 @@ unicode = 0457;
 },
 {
 glyphname = "je-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -26349,7 +26710,6 @@ unicode = 0458;
 },
 {
 glyphname = "tshe-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26446,7 +26806,6 @@ unicode = 045B;
 },
 {
 glyphname = "iu-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26528,7 +26887,6 @@ unicode = 044E;
 },
 {
 glyphname = "ia-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26612,7 +26970,6 @@ unicode = 044F;
 },
 {
 glyphname = "dje-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26709,7 +27066,6 @@ unicode = 0452;
 },
 {
 glyphname = "omega-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26801,7 +27157,6 @@ unicode = 0461;
 },
 {
 glyphname = "yat-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26883,7 +27238,6 @@ unicode = 0463;
 },
 {
 glyphname = "eiotified-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -26988,7 +27342,6 @@ unicode = 0465;
 },
 {
 glyphname = "yuslittle-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -27072,7 +27425,6 @@ unicode = 0467;
 },
 {
 glyphname = "yuslittleiotified-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -27214,7 +27566,6 @@ unicode = 0469;
 },
 {
 glyphname = "yusbig-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -27324,7 +27675,6 @@ unicode = 046B;
 },
 {
 glyphname = "yusbigiotified-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -27456,7 +27806,6 @@ unicode = 046D;
 },
 {
 glyphname = "ksi-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -27560,7 +27909,6 @@ unicode = 046F;
 },
 {
 glyphname = "psi-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -27664,7 +28012,6 @@ unicode = 0471;
 },
 {
 glyphname = "fita-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -27718,7 +28065,6 @@ unicode = 0473;
 },
 {
 glyphname = "izhitsa-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -27781,7 +28127,6 @@ unicode = 0475;
 },
 {
 glyphname = "izhitsadblgrave-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -27890,7 +28235,6 @@ unicode = 0477;
 },
 {
 glyphname = "uk-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -27975,7 +28319,6 @@ unicode = 0479;
 },
 {
 glyphname = "ghestroke-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -28048,7 +28391,6 @@ unicode = 0493;
 },
 {
 glyphname = "ghemiddlehook-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -28137,7 +28479,6 @@ unicode = 0495;
 },
 {
 glyphname = "zhedescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -28282,7 +28623,6 @@ unicode = 0497;
 },
 {
 glyphname = "zedescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -28393,7 +28733,6 @@ unicode = 0499;
 },
 {
 glyphname = "kadescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -28492,7 +28831,6 @@ unicode = 049B;
 },
 {
 glyphname = "kaverticalstroke-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -28603,7 +28941,6 @@ unicode = 049D;
 },
 {
 glyphname = "kastroke-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -28714,7 +29051,6 @@ unicode = 049F;
 },
 {
 glyphname = "kabashkir-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -28817,7 +29153,6 @@ unicode = 04A1;
 },
 {
 glyphname = "endescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -28908,7 +29243,6 @@ unicode = 04A3;
 },
 {
 glyphname = "enghe-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29003,7 +29337,6 @@ unicode = 04A5;
 },
 {
 glyphname = "pemiddlehook-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29101,7 +29434,6 @@ unicode = 04A7;
 },
 {
 glyphname = "haabkhasian-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29181,7 +29513,6 @@ unicode = 04A9;
 },
 {
 glyphname = "esdescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29259,7 +29590,6 @@ unicode = 04AB;
 },
 {
 glyphname = "tedescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29325,7 +29655,6 @@ unicode = 04AD;
 },
 {
 glyphname = "ustraight-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29402,7 +29731,6 @@ unicode = 04AF;
 },
 {
 glyphname = "ustraightstroke-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29493,7 +29821,6 @@ unicode = 04B1;
 },
 {
 glyphname = "hadescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29591,7 +29918,6 @@ unicode = 04B3;
 },
 {
 glyphname = "tetse-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29679,7 +30005,6 @@ unicode = 04B5;
 },
 {
 glyphname = "chedescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29763,7 +30088,6 @@ unicode = 04B7;
 },
 {
 glyphname = "cheverticalstroke-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29863,7 +30187,6 @@ unicode = 04B9;
 },
 {
 glyphname = "shha-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -29879,7 +30202,6 @@ unicode = 04BB;
 },
 {
 glyphname = "cheabkhasian-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -29953,7 +30275,6 @@ unicode = 04BD;
 },
 {
 glyphname = "chedescenderabkhasian-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -30051,7 +30372,6 @@ unicode = 04BF;
 },
 {
 glyphname = "zhebreve-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -30098,7 +30418,6 @@ unicode = 04C2;
 },
 {
 glyphname = "kahook-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -30200,7 +30519,6 @@ unicode = 04C4;
 },
 {
 glyphname = "eltail-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -30282,7 +30600,6 @@ unicode = 04C6;
 },
 {
 glyphname = "enhook-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -30374,7 +30691,6 @@ unicode = 04C8;
 },
 {
 glyphname = "entail-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -30470,7 +30786,6 @@ unicode = 04CA;
 },
 {
 glyphname = "chekhakassian-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -30557,7 +30872,6 @@ unicode = 04CC;
 },
 {
 glyphname = "emtail-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -30654,7 +30968,6 @@ unicode = 04CE;
 },
 {
 glyphname = "abreve-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -30702,7 +31015,6 @@ unicode = 04D1;
 },
 {
 glyphname = "adieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -30755,7 +31067,6 @@ unicode = 04D3;
 },
 {
 glyphname = "aie-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -30868,7 +31179,6 @@ unicode = 04D5;
 },
 {
 glyphname = "iebreve-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -30915,7 +31225,6 @@ unicode = 04D7;
 },
 {
 glyphname = "schwa-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -30978,7 +31287,6 @@ unicode = 04D9;
 },
 {
 glyphname = "schwadieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31030,7 +31338,6 @@ unicode = 04DB;
 },
 {
 glyphname = "zhedieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31082,7 +31389,6 @@ unicode = 04DD;
 },
 {
 glyphname = "zedieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31134,7 +31440,6 @@ unicode = 04DF;
 },
 {
 glyphname = "dzeabkhasian-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -31209,7 +31514,6 @@ unicode = 04E1;
 },
 {
 glyphname = "imacron-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31246,7 +31550,6 @@ unicode = 04E3;
 },
 {
 glyphname = "idieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31298,7 +31601,6 @@ unicode = 04E5;
 },
 {
 glyphname = "odieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31350,7 +31652,6 @@ unicode = 04E7;
 },
 {
 glyphname = "obarred-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -31404,7 +31705,6 @@ unicode = 04E9;
 },
 {
 glyphname = "obarreddieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31456,7 +31756,6 @@ unicode = 04EB;
 },
 {
 glyphname = "edieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -31560,7 +31859,6 @@ unicode = 04ED;
 },
 {
 glyphname = "umacron-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31597,7 +31895,6 @@ unicode = 04EF;
 },
 {
 glyphname = "udieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31649,7 +31946,6 @@ unicode = 04F1;
 },
 {
 glyphname = "uhungarumlaut-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31713,7 +32009,6 @@ unicode = 04F3;
 },
 {
 glyphname = "chedieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31765,7 +32060,6 @@ unicode = 04F5;
 },
 {
 glyphname = "gedescender-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -31825,7 +32119,6 @@ unicode = 04F7;
 },
 {
 glyphname = "yerudieresis-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 components = (
@@ -31877,7 +32170,6 @@ unicode = 04F9;
 },
 {
 glyphname = "hahook-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -31981,7 +32273,6 @@ unicode = 04FD;
 },
 {
 glyphname = "hastroke-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -32090,7 +32381,6 @@ unicode = 04FF;
 },
 {
 glyphname = "elhook-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -32168,7 +32458,6 @@ unicode = 0513;
 },
 {
 glyphname = "koppa-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -32232,7 +32521,6 @@ unicode = 0481;
 },
 {
 glyphname = "semisoftsign-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -32313,7 +32601,6 @@ unicode = 048D;
 },
 {
 glyphname = "ertick-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -34541,7 +34828,6 @@ unicode = 03AB;
 },
 {
 glyphname = KoppaArchaic;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -34608,7 +34894,6 @@ unicode = 03D8;
 },
 {
 glyphname = Stigma;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -34667,7 +34952,6 @@ unicode = "03DA,03DB";
 },
 {
 glyphname = Digamma;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -34738,7 +35022,6 @@ unicode = 03DC;
 },
 {
 glyphname = Sampi;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -34825,7 +35108,6 @@ unicode = 03E0;
 },
 {
 glyphname = Alphapsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -34897,7 +35179,6 @@ unicode = 1F08;
 },
 {
 glyphname = Alphadasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -34969,7 +35250,6 @@ unicode = 1F09;
 },
 {
 glyphname = Alphapsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -35088,7 +35368,6 @@ unicode = 1F0A;
 },
 {
 glyphname = Alphadasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -35207,7 +35486,6 @@ unicode = 1F0B;
 },
 {
 glyphname = Alphapsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -35326,7 +35604,6 @@ unicode = 1F0C;
 },
 {
 glyphname = Alphadasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -35445,7 +35722,6 @@ unicode = 1F0D;
 },
 {
 glyphname = Alphapsiliperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -35570,7 +35846,6 @@ unicode = 1F0E;
 },
 {
 glyphname = Alphadasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -35695,7 +35970,6 @@ unicode = 1F0F;
 },
 {
 glyphname = Alphavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -35784,7 +36058,6 @@ unicode = 1FBA;
 },
 {
 glyphname = Alphaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -35800,7 +36073,6 @@ unicode = 1FBB;
 },
 {
 glyphname = Alphavrachy;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -35889,7 +36161,6 @@ unicode = 1FB8;
 },
 {
 glyphname = Alphamacron;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -35974,7 +36245,6 @@ unicode = 1FB9;
 },
 {
 glyphname = Alphaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -36046,7 +36316,6 @@ unicode = 1FBC;
 },
 {
 glyphname = Alphapsiliprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -36145,7 +36414,6 @@ unicode = 1F88;
 },
 {
 glyphname = Alphadasiaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -36244,7 +36512,6 @@ unicode = 1F89;
 },
 {
 glyphname = Alphapsilivariaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -36396,7 +36663,6 @@ unicode = 1F8A;
 },
 {
 glyphname = Alphadasiavariaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -36548,7 +36814,6 @@ unicode = 1F8B;
 },
 {
 glyphname = Alphapsilioxiaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -36700,7 +36965,6 @@ unicode = 1F8C;
 },
 {
 glyphname = Alphadasiaoxiaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -36852,7 +37116,6 @@ unicode = 1F8D;
 },
 {
 glyphname = Alphapsiliperispomeniprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -37010,7 +37273,6 @@ unicode = 1F8E;
 },
 {
 glyphname = Alphadasiaperispomeniprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -37168,7 +37430,6 @@ unicode = 1F8F;
 },
 {
 glyphname = Epsilonpsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -37271,7 +37532,6 @@ unicode = 1F18;
 },
 {
 glyphname = Epsilondasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -37374,7 +37634,6 @@ unicode = 1F19;
 },
 {
 glyphname = Epsilonpsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -37502,7 +37761,6 @@ unicode = 1F1A;
 },
 {
 glyphname = Epsilondasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -37630,7 +37888,6 @@ unicode = 1F1B;
 },
 {
 glyphname = Epsilonpsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -37758,7 +38015,6 @@ unicode = 1F1C;
 },
 {
 glyphname = Epsilondasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -37886,7 +38142,6 @@ unicode = 1F1D;
 },
 {
 glyphname = Epsilonvaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -37985,7 +38240,6 @@ unicode = 1FC8;
 },
 {
 glyphname = Epsilonoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -38001,7 +38255,6 @@ unicode = 1FC9;
 },
 {
 glyphname = Etapsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -38114,7 +38367,6 @@ unicode = 1F28;
 },
 {
 glyphname = Etadasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -38227,7 +38479,6 @@ unicode = 1F29;
 },
 {
 glyphname = Etapsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -38365,7 +38616,6 @@ unicode = 1F2A;
 },
 {
 glyphname = Etadasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -38503,7 +38753,6 @@ unicode = 1F2B;
 },
 {
 glyphname = Etapsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -38641,7 +38890,6 @@ unicode = 1F2C;
 },
 {
 glyphname = Etadasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -38779,7 +39027,6 @@ unicode = 1F2D;
 },
 {
 glyphname = Etapsiliperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -38924,7 +39171,6 @@ unicode = 1F2E;
 },
 {
 glyphname = Etadasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -39069,7 +39315,6 @@ unicode = 1F2F;
 },
 {
 glyphname = Etavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -39178,7 +39423,6 @@ unicode = 1FCA;
 },
 {
 glyphname = Etaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -39194,7 +39438,6 @@ unicode = 1FCB;
 },
 {
 glyphname = Etaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -39286,7 +39529,6 @@ unicode = 1FCC;
 },
 {
 glyphname = Etapsiliprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -39405,7 +39647,6 @@ unicode = 1F98;
 },
 {
 glyphname = Etadasiaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -39524,7 +39765,6 @@ unicode = 1F99;
 },
 {
 glyphname = Etapsilivariaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -39668,7 +39908,6 @@ unicode = 1F9A;
 },
 {
 glyphname = Etadasiavariaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -39812,7 +40051,6 @@ unicode = 1F9B;
 },
 {
 glyphname = Etapsilioxiaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -39956,7 +40194,6 @@ unicode = 1F9C;
 },
 {
 glyphname = Etadasiaoxiaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -40100,7 +40337,6 @@ unicode = 1F9D;
 },
 {
 glyphname = Etapsiliperispomeniprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -40251,7 +40487,6 @@ unicode = 1F9E;
 },
 {
 glyphname = Etadasiaperispomeniprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -40402,7 +40637,6 @@ unicode = 1F9F;
 },
 {
 glyphname = Iotapsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -40479,7 +40713,6 @@ unicode = 1F38;
 },
 {
 glyphname = Iotadasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -40556,7 +40789,6 @@ unicode = 1F39;
 },
 {
 glyphname = Iotapsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -40658,7 +40890,6 @@ unicode = 1F3A;
 },
 {
 glyphname = Iotadasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -40760,7 +40991,6 @@ unicode = 1F3B;
 },
 {
 glyphname = Iotapsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -40862,7 +41092,6 @@ unicode = 1F3C;
 },
 {
 glyphname = Iotadasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -40964,7 +41193,6 @@ unicode = 1F3D;
 },
 {
 glyphname = Iotapsiliperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -41073,7 +41301,6 @@ unicode = 1F3E;
 },
 {
 glyphname = Iotadasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -41182,7 +41409,6 @@ unicode = 1F3F;
 },
 {
 glyphname = Iotavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -41255,7 +41481,6 @@ unicode = 1FDA;
 },
 {
 glyphname = Iotaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -41271,7 +41496,6 @@ unicode = 1FDB;
 },
 {
 glyphname = Iotavrachy;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -41312,7 +41536,6 @@ unicode = 1FD8;
 },
 {
 glyphname = Iotamacron;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -41349,7 +41572,6 @@ unicode = 1FD9;
 },
 {
 glyphname = Omicronpsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -41429,7 +41651,6 @@ unicode = 1F48;
 },
 {
 glyphname = Omicrondasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -41509,7 +41730,6 @@ unicode = 1F49;
 },
 {
 glyphname = Omicronpsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -41612,7 +41832,6 @@ unicode = 1F4A;
 },
 {
 glyphname = Omicrondasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -41715,7 +41934,6 @@ unicode = 1F4B;
 },
 {
 glyphname = Omicronpsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -41820,7 +42038,6 @@ unicode = 1F4C;
 },
 {
 glyphname = Omicrondasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -41923,7 +42140,6 @@ unicode = 1F4D;
 },
 {
 glyphname = Omicronvaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -41999,7 +42215,6 @@ unicode = 1FF8;
 },
 {
 glyphname = Omicronoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -42015,7 +42230,6 @@ unicode = 1FF9;
 },
 {
 glyphname = Rhodasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -42106,7 +42320,6 @@ unicode = 1FEC;
 },
 {
 glyphname = Upsilondasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -42204,7 +42417,6 @@ unicode = 1F59;
 },
 {
 glyphname = Upsilondasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -42327,7 +42539,6 @@ unicode = 1F5B;
 },
 {
 glyphname = Upsilondasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -42450,7 +42661,6 @@ unicode = 1F5D;
 },
 {
 glyphname = Upsilondasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -42580,7 +42790,6 @@ unicode = 1F5F;
 },
 {
 glyphname = Upsilonvaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -42674,7 +42883,6 @@ unicode = 1FEA;
 },
 {
 glyphname = Upsilonoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -42690,7 +42898,6 @@ unicode = 1FEB;
 },
 {
 glyphname = Upsilonvrachy;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -42731,7 +42938,6 @@ unicode = 1FE8;
 },
 {
 glyphname = Upsilonmacron;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -42768,7 +42974,6 @@ unicode = 1FE9;
 },
 {
 glyphname = Omegapsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -42879,7 +43084,6 @@ unicode = 1F68;
 },
 {
 glyphname = Omegadasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -42990,7 +43194,6 @@ unicode = 1F69;
 },
 {
 glyphname = Omegapsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -43124,7 +43327,6 @@ unicode = 1F6A;
 },
 {
 glyphname = Omegadasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -43258,7 +43460,6 @@ unicode = 1F6B;
 },
 {
 glyphname = Omegapsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -43392,7 +43593,6 @@ unicode = 1F6C;
 },
 {
 glyphname = Omegadasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -43526,7 +43726,6 @@ unicode = 1F6D;
 },
 {
 glyphname = Omegapsiliperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -43669,7 +43868,6 @@ unicode = 1F6E;
 },
 {
 glyphname = Omegadasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -43812,7 +44010,6 @@ unicode = 1F6F;
 },
 {
 glyphname = Omegavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -43919,7 +44116,6 @@ unicode = 1FFA;
 },
 {
 glyphname = Omegaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -43935,7 +44131,6 @@ unicode = 1FFB;
 },
 {
 glyphname = Omegaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -44025,7 +44220,6 @@ unicode = 1FFC;
 },
 {
 glyphname = Omegapsiliprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -44142,7 +44336,6 @@ unicode = 1FA8;
 },
 {
 glyphname = Omegadasiaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -44259,7 +44452,6 @@ unicode = 1FA9;
 },
 {
 glyphname = Omegapsilivariaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -44399,7 +44591,6 @@ unicode = 1FAA;
 },
 {
 glyphname = Omegadasiavariaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -44539,7 +44730,6 @@ unicode = 1FAB;
 },
 {
 glyphname = Omegapsilioxiaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -44681,7 +44871,6 @@ unicode = 1FAC;
 },
 {
 glyphname = Omegadasiaoxiaprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -44823,7 +45012,6 @@ unicode = 1FAD;
 },
 {
 glyphname = Omegapsiliperispomeniprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -44972,7 +45160,6 @@ unicode = 1FAE;
 },
 {
 glyphname = Omegadasiaperispomeniprosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -46245,7 +46432,6 @@ unicode = 03C1;
 },
 {
 glyphname = sigmafinal;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -47392,7 +47578,6 @@ unicode = 03AE;
 },
 {
 glyphname = koppaArchaic;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -47451,7 +47636,6 @@ unicode = 03D9;
 },
 {
 glyphname = digamma;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -47506,7 +47690,6 @@ unicode = 03DD;
 },
 {
 glyphname = koppa;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -47552,7 +47735,6 @@ unicode = 03DF;
 },
 {
 glyphname = sampi;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -47627,7 +47809,6 @@ unicode = 03E1;
 },
 {
 glyphname = alphapsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -47708,7 +47889,6 @@ unicode = 1F00;
 },
 {
 glyphname = alphadasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -47810,7 +47990,6 @@ unicode = 1F01;
 },
 {
 glyphname = alphapsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -47891,7 +48070,6 @@ unicode = 1F02;
 },
 {
 glyphname = alphadasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -47972,7 +48150,6 @@ unicode = 1F03;
 },
 {
 glyphname = alphapsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -48053,7 +48230,6 @@ unicode = 1F04;
 },
 {
 glyphname = alphadasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -48134,7 +48310,6 @@ unicode = 1F05;
 },
 {
 glyphname = alphapsiliperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -48242,7 +48417,6 @@ unicode = 1F06;
 },
 {
 glyphname = alphadasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -48350,7 +48524,6 @@ unicode = 1F07;
 },
 {
 glyphname = alphavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -48431,7 +48604,6 @@ unicode = 1F70;
 },
 {
 glyphname = alphaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -48523,7 +48695,6 @@ unicode = 1F71;
 },
 {
 glyphname = alphaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -48604,7 +48775,6 @@ unicode = 1FB6;
 },
 {
 glyphname = alphavrachy;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -48702,7 +48872,6 @@ unicode = 1FB0;
 },
 {
 glyphname = alphamacron;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -48796,7 +48965,6 @@ unicode = 1FB1;
 },
 {
 glyphname = alphaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -48890,7 +49058,6 @@ unicode = 1FB3;
 },
 {
 glyphname = alphavariaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -48927,7 +49094,6 @@ unicode = 1FB2;
 },
 {
 glyphname = alphaoxiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -48964,7 +49130,6 @@ unicode = 1FB4;
 },
 {
 glyphname = alphapsiliypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49001,7 +49166,6 @@ unicode = 1F80;
 },
 {
 glyphname = alphadasiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49038,7 +49202,6 @@ unicode = 1F81;
 },
 {
 glyphname = alphapsilivariaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49075,7 +49238,6 @@ unicode = 1F82;
 },
 {
 glyphname = alphadasiavariaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49112,7 +49274,6 @@ unicode = 1F83;
 },
 {
 glyphname = alphapsilioxiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49149,7 +49310,6 @@ unicode = 1F84;
 },
 {
 glyphname = alphadasiaoxiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49186,7 +49346,6 @@ unicode = 1F85;
 },
 {
 glyphname = alphapsiliperispomeniypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49223,7 +49382,6 @@ unicode = 1F86;
 },
 {
 glyphname = alphadasiaperispomeniypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49260,7 +49418,6 @@ unicode = 1F87;
 },
 {
 glyphname = alphaperispomeniypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49297,7 +49454,6 @@ unicode = 1FB7;
 },
 {
 glyphname = epsilonpsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49380,7 +49536,6 @@ unicode = 1F10;
 },
 {
 glyphname = epsilondasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -49484,7 +49639,6 @@ unicode = 1F11;
 },
 {
 glyphname = epsilonpsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49567,7 +49721,6 @@ unicode = 1F12;
 },
 {
 glyphname = epsilondasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49650,7 +49803,6 @@ unicode = 1F13;
 },
 {
 glyphname = epsilonpsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49733,7 +49885,6 @@ unicode = 1F14;
 },
 {
 glyphname = epsilondasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49816,7 +49967,6 @@ unicode = 1F15;
 },
 {
 glyphname = epsilonvaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -49906,7 +50056,6 @@ unicode = 1F72;
 },
 {
 glyphname = epsilonoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49922,7 +50071,6 @@ unicode = 1F73;
 },
 {
 glyphname = etapsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -49990,7 +50138,6 @@ unicode = 1F20;
 },
 {
 glyphname = etadasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50058,7 +50205,6 @@ unicode = 1F21;
 },
 {
 glyphname = etapsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50126,7 +50272,6 @@ unicode = 1F22;
 },
 {
 glyphname = etadasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50194,7 +50339,6 @@ unicode = 1F23;
 },
 {
 glyphname = etapsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50262,7 +50406,6 @@ unicode = 1F24;
 },
 {
 glyphname = etadasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50330,7 +50473,6 @@ unicode = 1F25;
 },
 {
 glyphname = etapsiliperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -50451,7 +50593,6 @@ unicode = 1F26;
 },
 {
 glyphname = etadasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50519,7 +50660,6 @@ unicode = 1F27;
 },
 {
 glyphname = etavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50587,7 +50727,6 @@ unicode = 1F74;
 },
 {
 glyphname = etaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50655,7 +50794,6 @@ unicode = 1F75;
 },
 {
 glyphname = etaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -50749,7 +50887,6 @@ unicode = 1FC6;
 },
 {
 glyphname = etaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -50830,7 +50967,6 @@ unicode = 1FC3;
 },
 {
 glyphname = etavariaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50867,7 +51003,6 @@ unicode = 1FC2;
 },
 {
 glyphname = etaoxiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50904,7 +51039,6 @@ unicode = 1FC4;
 },
 {
 glyphname = etapsiliypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50924,7 +51058,6 @@ unicode = 1F90;
 },
 {
 glyphname = etadasiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50961,7 +51094,6 @@ unicode = 1F91;
 },
 {
 glyphname = etapsilivariaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -50998,7 +51130,6 @@ unicode = 1F92;
 },
 {
 glyphname = etadasiavariaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51035,7 +51166,6 @@ unicode = 1F93;
 },
 {
 glyphname = etapsilioxiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51072,7 +51202,6 @@ unicode = 1F94;
 },
 {
 glyphname = etadasiaoxiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51109,7 +51238,6 @@ unicode = 1F95;
 },
 {
 glyphname = etapsiliperispomeniypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51146,7 +51274,6 @@ unicode = 1F96;
 },
 {
 glyphname = etadasiaperispomeniypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51233,7 +51360,6 @@ unicode = 1F97;
 },
 {
 glyphname = etaperispomeniypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51270,7 +51396,6 @@ unicode = 1FC7;
 },
 {
 glyphname = iotapsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51290,7 +51415,6 @@ unicode = 1F30;
 },
 {
 glyphname = iotadasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51310,7 +51434,6 @@ unicode = 1F31;
 },
 {
 glyphname = iotapsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51331,7 +51454,6 @@ unicode = 1F32;
 },
 {
 glyphname = iotadasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51352,7 +51474,6 @@ unicode = 1F33;
 },
 {
 glyphname = iotapsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51373,7 +51494,6 @@ unicode = 1F34;
 },
 {
 glyphname = iotadasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51394,7 +51514,6 @@ unicode = 1F35;
 },
 {
 glyphname = iotapsiliperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51414,7 +51533,6 @@ unicode = 1F36;
 },
 {
 glyphname = iotadasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51492,7 +51610,6 @@ unicode = 1F37;
 },
 {
 glyphname = iotavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51512,7 +51629,6 @@ unicode = 1F76;
 },
 {
 glyphname = iotaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51547,7 +51663,6 @@ unicode = 1F77;
 },
 {
 glyphname = iotaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51598,7 +51713,6 @@ unicode = 1FD6;
 },
 {
 glyphname = iotavrachy;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51640,7 +51754,6 @@ unicode = 1FD0;
 },
 {
 glyphname = iotamacron;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51678,7 +51791,6 @@ unicode = 1FD1;
 },
 {
 glyphname = iotadialytikavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51698,7 +51810,6 @@ unicode = 1FD2;
 },
 {
 glyphname = iotadialytikaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51774,7 +51885,6 @@ unicode = 1FD3;
 },
 {
 glyphname = iotadialytikaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51859,7 +51969,6 @@ unicode = 1FD7;
 },
 {
 glyphname = omicronpsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51879,7 +51988,6 @@ unicode = 1F40;
 },
 {
 glyphname = omicrondasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51899,7 +52007,6 @@ unicode = 1F41;
 },
 {
 glyphname = omicronpsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51919,7 +52026,6 @@ unicode = 1F42;
 },
 {
 glyphname = omicrondasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51939,7 +52045,6 @@ unicode = 1F43;
 },
 {
 glyphname = omicronpsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51959,7 +52064,6 @@ unicode = 1F44;
 },
 {
 glyphname = omicrondasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -51979,7 +52083,6 @@ unicode = 1F45;
 },
 {
 glyphname = omicronvaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52014,7 +52117,6 @@ unicode = 1F78;
 },
 {
 glyphname = omicronoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52030,7 +52132,6 @@ unicode = 1F79;
 },
 {
 glyphname = rhopsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52050,7 +52151,6 @@ unicode = 1FE4;
 },
 {
 glyphname = rhodasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52070,7 +52170,6 @@ unicode = 1FE5;
 },
 {
 glyphname = upsilonpsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52090,7 +52189,6 @@ unicode = 1F50;
 },
 {
 glyphname = upsilondasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52110,7 +52208,6 @@ unicode = 1F51;
 },
 {
 glyphname = upsilonpsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52130,7 +52227,6 @@ unicode = 1F52;
 },
 {
 glyphname = upsilondasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52150,7 +52246,6 @@ unicode = 1F53;
 },
 {
 glyphname = upsilonpsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52170,7 +52265,6 @@ unicode = 1F54;
 },
 {
 glyphname = upsilondasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52190,7 +52284,6 @@ unicode = 1F55;
 },
 {
 glyphname = upsilonpsiliperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52210,7 +52303,6 @@ unicode = 1F56;
 },
 {
 glyphname = upsilondasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52287,7 +52379,6 @@ unicode = 1F57;
 },
 {
 glyphname = upsilonvaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52322,7 +52413,6 @@ unicode = 1F7A;
 },
 {
 glyphname = upsilonoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52338,7 +52428,6 @@ unicode = 1F7B;
 },
 {
 glyphname = upsilonperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52388,7 +52477,6 @@ unicode = 1FE6;
 },
 {
 glyphname = upsilonvrachy;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52429,7 +52517,6 @@ unicode = 1FE0;
 },
 {
 glyphname = upsilonmacron;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52466,7 +52553,6 @@ unicode = 1FE1;
 },
 {
 glyphname = upsilondialytikavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -52571,7 +52657,6 @@ unicode = 1FE2;
 },
 {
 glyphname = upsilondialytikaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52625,7 +52710,6 @@ unicode = 1FE3;
 },
 {
 glyphname = upsilondialytikaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -52739,7 +52823,6 @@ unicode = 1FE7;
 },
 {
 glyphname = omegapsili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52759,7 +52842,6 @@ unicode = 1F60;
 },
 {
 glyphname = omegadasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52779,7 +52861,6 @@ unicode = 1F61;
 },
 {
 glyphname = omegapsilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52849,7 +52930,6 @@ unicode = 1F62;
 },
 {
 glyphname = omegadasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52919,7 +52999,6 @@ unicode = 1F63;
 },
 {
 glyphname = omegapsilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -52989,7 +53068,6 @@ unicode = 1F64;
 },
 {
 glyphname = omegadasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53009,7 +53087,6 @@ unicode = 1F65;
 },
 {
 glyphname = omegapsiliperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53029,7 +53106,6 @@ unicode = 1F66;
 },
 {
 glyphname = omegadasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53106,7 +53182,6 @@ unicode = 1F67;
 },
 {
 glyphname = omegavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53126,7 +53201,6 @@ unicode = 1F7C;
 },
 {
 glyphname = omegaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53142,7 +53216,6 @@ unicode = 1F7D;
 },
 {
 glyphname = omegaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53192,7 +53265,6 @@ unicode = 1FF6;
 },
 {
 glyphname = omegaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53229,7 +53301,6 @@ unicode = 1FF3;
 },
 {
 glyphname = omegavariaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53266,7 +53337,6 @@ unicode = 1FF2;
 },
 {
 glyphname = omegaoxiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53303,7 +53373,6 @@ unicode = 1FF4;
 },
 {
 glyphname = omegapsiliypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53340,7 +53409,6 @@ unicode = 1FA0;
 },
 {
 glyphname = omegadasiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53377,7 +53445,6 @@ unicode = 1FA1;
 },
 {
 glyphname = omegapsilivariaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53414,7 +53481,6 @@ unicode = 1FA2;
 },
 {
 glyphname = omegadasiavariaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53451,7 +53517,6 @@ unicode = 1FA3;
 },
 {
 glyphname = omegapsilioxiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53488,7 +53553,6 @@ unicode = 1FA4;
 },
 {
 glyphname = omegadasiaoxiaypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53525,7 +53589,6 @@ unicode = 1FA5;
 },
 {
 glyphname = omegapsiliperispomeniypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53562,7 +53625,6 @@ unicode = 1FA6;
 },
 {
 glyphname = omegadasiaperispomeniypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53599,7 +53661,6 @@ unicode = 1FA7;
 },
 {
 glyphname = omegaperispomeniypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -53649,7 +53710,6 @@ unicode = 1FF7;
 },
 {
 glyphname = prosgegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -53695,7 +53755,6 @@ unicode = 1FBE;
 },
 {
 glyphname = ypogegrammeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -85104,7 +85163,6 @@ unicode = 0387;
 },
 {
 glyphname = questiongreek;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -95666,7 +95724,6 @@ unicode = 061C;
 },
 {
 glyphname = "numeral-greek";
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -95702,7 +95759,6 @@ unicode = 0374;
 },
 {
 glyphname = "lowernumeral-greek";
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -95744,7 +95800,6 @@ unicode = 0375;
 },
 {
 glyphname = "thousand-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -97856,7 +97911,6 @@ unicode = EB43;
 },
 {
 glyphname = uni0612;
-lastChange = "2021-03-30 19:29:12 +0000";
 layers = (
 {
 components = (
@@ -97915,7 +97969,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0613;
-lastChange = "2021-03-30 19:29:12 +0000";
 layers = (
 {
 components = (
@@ -97952,7 +98005,6 @@ unicode = FE7A;
 },
 {
 glyphname = uni0610;
-lastChange = "2021-03-30 19:29:12 +0000";
 layers = (
 {
 layerId = master01;
@@ -98019,7 +98071,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0611;
-lastChange = "2021-03-30 19:29:12 +0000";
 layers = (
 {
 layerId = master01;
@@ -98090,7 +98141,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0614;
-lastChange = "2021-03-30 19:29:12 +0000";
 layers = (
 {
 layerId = master01;
@@ -98155,7 +98205,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0615;
-lastChange = "2021-03-30 19:29:57 +0000";
 layers = (
 {
 layerId = master01;
@@ -98215,7 +98264,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0616;
-lastChange = "2021-03-30 19:29:12 +0000";
 layers = (
 {
 layerId = master01;
@@ -98290,7 +98338,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0617;
-lastChange = "2021-03-30 19:29:57 +0000";
 layers = (
 {
 components = (
@@ -98312,7 +98359,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0618;
-lastChange = "2021-03-30 19:30:40 +0000";
 layers = (
 {
 layerId = master01;
@@ -98351,7 +98397,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0618.base;
-lastChange = "2021-03-30 19:30:40 +0000";
 layers = (
 {
 components = (
@@ -98367,7 +98412,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0619;
-lastChange = "2021-03-30 19:30:50 +0000";
 layers = (
 {
 layerId = master01;
@@ -98413,7 +98457,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0619.base;
-lastChange = "2021-03-30 19:30:50 +0000";
 layers = (
 {
 components = (
@@ -98429,7 +98472,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni061A;
-lastChange = "2021-03-30 19:31:06 +0000";
 layers = (
 {
 components = (
@@ -98447,7 +98489,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni061A.base;
-lastChange = "2021-03-30 19:31:06 +0000";
 layers = (
 {
 components = (
@@ -98464,7 +98505,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni061A.comp;
-lastChange = "2021-03-30 19:31:06 +0000";
 layers = (
 {
 components = (
@@ -98481,7 +98521,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065F;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -98560,7 +98599,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065F.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -98576,7 +98614,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0670;
-lastChange = "2021-03-30 19:33:51 +0000";
 layers = (
 {
 components = (
@@ -98594,7 +98631,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0670.base;
-lastChange = "2021-03-30 19:33:51 +0000";
 layers = (
 {
 components = (
@@ -98611,7 +98647,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0656;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -98644,7 +98679,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0656.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -98660,7 +98694,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0654;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -98718,7 +98751,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0654.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -98734,7 +98766,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0655;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -98752,7 +98783,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0655.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -98769,7 +98799,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni064B;
-lastChange = "2021-03-30 19:31:38 +0000";
 layers = (
 {
 components = (
@@ -98790,7 +98819,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni064B.base;
-lastChange = "2021-03-30 19:31:38 +0000";
 layers = (
 {
 components = (
@@ -98821,7 +98849,6 @@ unicode = FE70;
 },
 {
 glyphname = uni064C;
-lastChange = "2021-03-30 19:31:38 +0000";
 layers = (
 {
 components = (
@@ -98843,7 +98870,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni064C.base;
-lastChange = "2021-03-30 19:31:38 +0000";
 layers = (
 {
 components = (
@@ -98874,7 +98900,6 @@ unicode = FE72;
 },
 {
 glyphname = uni064D;
-lastChange = "2021-03-30 19:31:38 +0000";
 layers = (
 {
 components = (
@@ -98892,7 +98917,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni064D.base;
-lastChange = "2021-03-30 19:31:38 +0000";
 layers = (
 {
 components = (
@@ -98924,7 +98948,6 @@ unicode = FE74;
 },
 {
 glyphname = uni064E;
-lastChange = "2021-03-30 19:31:38 +0000";
 layers = (
 {
 layerId = master01;
@@ -98963,7 +98986,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni064E.base;
-lastChange = "2021-03-30 19:31:38 +0000";
 layers = (
 {
 components = (
@@ -98994,7 +99016,6 @@ unicode = FE76;
 },
 {
 glyphname = uni064F;
-lastChange = "2021-03-30 19:31:38 +0000";
 layers = (
 {
 layerId = master01;
@@ -99040,7 +99061,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni064F.base;
-lastChange = "2021-03-30 19:31:38 +0000";
 layers = (
 {
 components = (
@@ -99071,7 +99091,6 @@ unicode = FE78;
 },
 {
 glyphname = uni0650;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99089,7 +99108,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0650.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99106,7 +99124,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0651;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -99173,7 +99190,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0651.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99189,7 +99205,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0651.comp;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99221,7 +99236,6 @@ unicode = FE7C;
 },
 {
 glyphname = uni0652;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -99272,7 +99286,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0652.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99288,7 +99301,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0652.comp;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99320,7 +99332,6 @@ unicode = FE7E;
 },
 {
 glyphname = uni0653;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99338,7 +99349,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0653.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99355,7 +99365,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0658;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -99406,7 +99415,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0658.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99422,7 +99430,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0657;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99440,7 +99447,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0657.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99457,7 +99463,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0659;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -99490,7 +99495,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0659.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99506,7 +99510,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni0659.comp;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99523,7 +99526,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065A;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -99570,7 +99572,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065A.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99586,7 +99587,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065B;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -99633,7 +99633,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065B.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99649,7 +99648,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065C;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -99680,7 +99678,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065C.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99696,7 +99693,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065D;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 layerId = master01;
@@ -99742,7 +99738,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065D.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99758,7 +99753,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065E;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99784,7 +99778,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni065E.base;
-lastChange = "2021-03-30 19:31:59 +0000";
 layers = (
 {
 components = (
@@ -99800,7 +99793,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06D6;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 layerId = master01;
@@ -99911,7 +99903,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06D7;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 layerId = master01;
@@ -100007,7 +99998,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06D8;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 layerId = master01;
@@ -100070,7 +100060,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E2;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 layerId = master01;
@@ -100131,7 +100120,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E2.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100147,7 +100135,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06D9;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 layerId = master01;
@@ -100232,7 +100219,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06DA;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 components = (
@@ -100254,7 +100240,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06DB;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 components = (
@@ -100272,7 +100257,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06DC;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 layerId = master01;
@@ -100364,7 +100348,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06DC.base;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 components = (
@@ -100380,7 +100363,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06DF;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 layerId = master01;
@@ -100411,7 +100393,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06DF.base;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 components = (
@@ -100427,7 +100408,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06DF.comp;
-lastChange = "2021-03-30 19:34:27 +0000";
 layers = (
 {
 components = (
@@ -100444,7 +100424,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E0;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 layerId = master01;
@@ -100492,7 +100471,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E0.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100508,7 +100486,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E1;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 layerId = master01;
@@ -100560,7 +100537,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E1.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100576,7 +100552,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E1.comp;
-lastChange = "2021-03-30 19:37:41 +0000";
 layers = (
 {
 components = (
@@ -100593,7 +100568,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E3;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100611,7 +100585,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E3.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100628,7 +100601,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E4;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 layerId = master01;
@@ -100674,7 +100646,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E4.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100690,7 +100661,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E4.comp;
-lastChange = "2021-03-30 19:38:20 +0000";
 layers = (
 {
 components = (
@@ -100707,7 +100677,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E7;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100725,7 +100694,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E7.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100742,7 +100710,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E8;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100763,7 +100730,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06E8.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100779,7 +100745,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06EA;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 layerId = master01;
@@ -100811,7 +100776,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06EA.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100827,7 +100791,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06EB;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100845,7 +100808,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06EB.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100862,7 +100824,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06EC;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 layerId = master01;
@@ -100893,7 +100854,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06EC.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100909,7 +100869,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06EC.comp;
-lastChange = "2021-03-30 19:38:20 +0000";
 layers = (
 {
 components = (
@@ -100926,7 +100885,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06ED;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100944,7 +100902,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni06ED.base;
-lastChange = "2021-03-30 19:36:02 +0000";
 layers = (
 {
 components = (
@@ -100961,7 +100918,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E4;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 layerId = master01;
@@ -101012,7 +100968,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E4.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101028,7 +100983,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E4.comp;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101045,7 +100999,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E5;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 layerId = master01;
@@ -101094,7 +101047,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E5.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101110,7 +101062,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E5.comp;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101127,7 +101078,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E6;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101145,7 +101095,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E6.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101162,7 +101111,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E7;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101183,7 +101131,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E7.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101199,7 +101146,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E8;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101254,7 +101200,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E8.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101270,7 +101215,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E9;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101288,7 +101232,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08E9.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101305,7 +101248,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EA;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 layerId = master01;
@@ -101336,7 +101278,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EA.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101352,7 +101293,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EB;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101374,7 +101314,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EB.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101390,7 +101329,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EC;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 layerId = master01;
@@ -101463,7 +101401,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EC.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101479,7 +101416,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EC.comp;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101496,7 +101432,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08ED;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101514,7 +101449,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08ED.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101531,7 +101465,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EE;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101549,7 +101482,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EE.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101566,7 +101498,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EE.comp;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 layerId = master01;
@@ -101613,7 +101544,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EF;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101631,7 +101561,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08EF.base;
-lastChange = "2021-03-30 19:39:48 +0000";
 layers = (
 {
 components = (
@@ -101648,7 +101577,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F0;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101670,7 +101598,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F0.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101686,7 +101613,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F0.comp;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101702,7 +101628,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F1;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101724,7 +101649,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F1.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101740,7 +101664,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F2;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101758,7 +101681,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F2.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101775,7 +101697,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F3;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101793,7 +101714,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F3.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101810,7 +101730,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F4;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101832,7 +101751,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F4.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101848,7 +101766,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F5;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101870,7 +101787,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F5.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101886,7 +101802,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F6;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101908,7 +101823,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F6.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101924,7 +101838,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F7;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 layerId = master01;
@@ -101971,7 +101884,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F7.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -101987,7 +101899,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F7.comp;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102004,7 +101915,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F8;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 layerId = master01;
@@ -102051,7 +101961,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F8.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102067,7 +101976,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F9;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102085,7 +101993,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08F9.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102102,7 +102009,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FA;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102120,7 +102026,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FA.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102137,7 +102042,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FB;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102159,7 +102063,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FB.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102175,7 +102078,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FC;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102197,7 +102099,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FC.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102213,7 +102114,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FD;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102239,7 +102139,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FD.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102255,7 +102154,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FE;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102277,7 +102175,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FE.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102293,7 +102190,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FF.base;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 components = (
@@ -102309,7 +102205,6 @@ subCategory = Spacing;
 },
 {
 glyphname = uni08FF;
-lastChange = "2021-03-30 19:40:25 +0000";
 layers = (
 {
 layerId = master01;
@@ -102459,7 +102354,6 @@ unicode = 0385;
 },
 {
 glyphname = psili;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -102475,7 +102369,6 @@ unicode = 1FBF;
 },
 {
 glyphname = koronis;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -102515,7 +102408,6 @@ unicode = 1FBD;
 },
 {
 glyphname = dasia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -102555,7 +102447,6 @@ unicode = 1FFE;
 },
 {
 glyphname = psilivaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -102620,7 +102511,6 @@ unicode = 1FCD;
 },
 {
 glyphname = dasiavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -102685,7 +102575,6 @@ unicode = 1FDD;
 },
 {
 glyphname = psilioxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -102750,7 +102639,6 @@ unicode = 1FCE;
 },
 {
 glyphname = dasiaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -102815,7 +102703,6 @@ unicode = 1FDE;
 },
 {
 glyphname = psiliperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -102887,7 +102774,6 @@ unicode = 1FCF;
 },
 {
 glyphname = dasiaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -102959,7 +102845,6 @@ unicode = 1FDF;
 },
 {
 glyphname = dialytikavaria;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -103029,7 +102914,6 @@ unicode = 1FED;
 },
 {
 glyphname = dialytikaoxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -103099,7 +102983,6 @@ unicode = 1FEE;
 },
 {
 glyphname = dialytikaperispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 components = (
@@ -103152,7 +103035,6 @@ unicode = 1FC1;
 },
 {
 glyphname = varia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -103182,7 +103064,6 @@ unicode = 1FEF;
 },
 {
 glyphname = oxia;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -103212,7 +103093,6 @@ unicode = 1FFD;
 },
 {
 glyphname = perispomeni;
-lastChange = "2021-03-30 19:52:32 +0000";
 layers = (
 {
 layerId = master01;
@@ -103257,7 +103137,6 @@ unicode = 1FC0;
 },
 {
 glyphname = "titlocomb-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -103307,7 +103186,6 @@ subCategory = Spacing;
 },
 {
 glyphname = "palatalizationcomb-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -103354,7 +103232,6 @@ subCategory = Spacing;
 },
 {
 glyphname = "dasiapneumatacomb-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -103403,7 +103280,6 @@ subCategory = Spacing;
 },
 {
 glyphname = "psilipneumatacomb-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -103452,7 +103328,6 @@ subCategory = Spacing;
 },
 {
 glyphname = "hundredthousandssigncomb-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -103601,7 +103476,6 @@ unicode = 0488;
 },
 {
 glyphname = "millionssigncomb-cy";
-lastChange = "2021-03-30 19:47:43 +0000";
 layers = (
 {
 layerId = master01;
@@ -104141,7 +104015,6 @@ unicode = 047C;
 },
 {
 glyphname = uni047D;
-lastChange = "2021-03-30 19:50:03 +0000";
 layers = (
 {
 components = (
@@ -104226,7 +104099,6 @@ unicode = 047D;
 },
 {
 glyphname = uni047E;
-lastChange = "2021-03-30 19:51:12 +0000";
 layers = (
 {
 components = (
@@ -104284,7 +104156,6 @@ unicode = 047E;
 },
 {
 glyphname = uni047F;
-lastChange = "2021-03-30 19:50:30 +0000";
 layers = (
 {
 components = (
