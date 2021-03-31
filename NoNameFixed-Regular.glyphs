@@ -223,13 +223,13 @@ feature fina {
     sub wawDotcenter-ar by wawDotcenter-ar.fina;
     sub yehKashmiri-ar by yehKashmiri-ar.fina;
     sub yehHamzaabove-ar by yehHamzaabove-ar.fina;
-    sub uni063D by uni063D.fina;
-    sub uni063E by uni063E.fina;
-    sub uni063F by uni063F.fina;
+    sub yehVinverted-farsi by yehVinverted-farsi.fina;
+    sub yehTwodotsabove-farsi by yehTwodotsabove-farsi.fina;
+    sub yehThreedotsabove-farsi by yehThreedotsabove-farsi.fina;
     sub alefMaksura-ar by alefMaksura-ar.fina;
     sub yeh-ar by yeh-ar.fina;
     sub highhamzaYeh-ar by highhamzaYeh-ar.fina;
-    sub uni06CC by uni06CC.fina;
+    sub yeh-farsi by yeh-farsi.fina;
     sub yehVabove-ar by yehVabove-ar.fina;
     sub e-ar by e-ar.fina;
     sub yehThreedotsbelow-ar by yehThreedotsbelow-ar.fina;
@@ -298,9 +298,9 @@ feature fina {
     sub noonVabove-ar by noonVabove-ar.fina;
     sub wawTwoabove-ar by wawTwoabove-ar.fina;
     sub wawThreeAbove-ar by wawThreeAbove-ar.fina;
-    sub uni0775 by uni0775.fina;
-    sub uni0776 by uni0776.fina;
-    sub uni0777 by uni0777.fina;
+    sub yehTwoabove-farsi by yehTwoabove-farsi.fina;
+    sub yehThreeabove-farsi by yehThreeabove-farsi.fina;
+    sub yehFourbelow-farsi by yehFourbelow-farsi.fina;
     sub yehbarreeTwoabove-ar by yehbarreeTwoabove-ar.fina;
     sub yehbarreeThreeabove-ar by yehbarreeThreeabove-ar.fina;
     sub behhamzaabove-ar by behhamzaabove-ar.fina;
@@ -315,7 +315,7 @@ feature fina {
   yehKashmiri-ar yehHamzaabove-ar beh-ar teh-ar theh-ar jeem-ar
   hah-ar khah-ar seen-ar sheen-ar sad-ar dad-ar
   tah-ar zah-ar ain-ar ghain-ar kehehTwodotshorizontalabove-ar kehehThreedotsbelow-ar
-  uni063D uni063E uni063F feh-ar qaf-ar kaf-ar
+  yehVinverted-farsi yehTwodotsabove-farsi yehThreedotsabove-farsi feh-ar qaf-ar kaf-ar
   lam-ar meem-ar noon-ar heh-ar alefMaksura-ar yeh-ar
   behDotless-ar qafDotless-ar highhamzaYeh-ar tteh-ar tteheh-ar beeh-ar
   tehRing-ar tehThreedotsdown-ar peh-ar teheh-ar beheh-ar hahHamzaabove-ar
@@ -326,14 +326,14 @@ feature fina {
   kafDotabove-ar ng-ar kafThreedotsbelow-ar gaf-ar gafRing-ar ngoeh-ar
   gafTwodotsbelow-ar gueh-ar gafThreedots-ar lamVabove-ar lamDotabove-ar lamThreedotsabove-ar
   lamThreedotsbelow-ar noonDotbelow-ar noonghunna-ar rnoon-ar noonRing-ar noonThreedotsabove-ar
-  hehDoachashmee-ar tchehDotabove-ar hehgoal-ar uni06CC yehVabove-ar e-ar
+  hehDoachashmee-ar tchehDotabove-ar hehgoal-ar yeh-farsi yehVabove-ar e-ar
   yehThreedotsbelow-ar sheenDotbelow-ar dadDotbelow-ar ghainDotbelow-ar sindhipostpositionmen-ar hehVinvertedabove-ar
   behThreedotshorizontalbelow-ar behThreedotsupabove-ar behThreedotsupbelow-ar tehThreedotsupbelow-ar behTwodotsbelowDotabove-ar behVinvertedbelow-ar
   behVabove-ar hahTwodotshorizontalabove-ar hahThreedotsupbelow-ar seenFourdotsabove-ar ainTwodotshorizontalabove-ar ainThreedotsdownabove-ar
   ainTwodotsverticalabove-ar fehTwodotsbelow-ar fehThreedotsupbelow-ar kehehDotabove-ar kehehThreedotsabove-ar kehehThreedotsupbelow-ar
   meemDotabove-ar meemDotbelow-ar noonTwodotsbelow-ar noonTahabove-ar noonVabove-ar lamBar-ar
-  seenTwodotsverticalabove-ar hahTahbelow-ar hahTahTwodotshorizontalbelow-ar seenTahTwodotshorizontalabove-ar hahTahabove-ar uni0775
-  uni0776 uni0777 hahFourbelow-ar seenFourabove-ar seenVinvertedabove-ar kafTwodotshorizontalabove-ar
+  seenTwodotsverticalabove-ar hahTahbelow-ar hahTahTwodotshorizontalbelow-ar seenTahTwodotshorizontalabove-ar hahTahabove-ar yehTwoabove-farsi
+  yehThreeabove-farsi yehFourbelow-farsi hahFourbelow-ar seenFourabove-ar seenVinvertedabove-ar kafTwodotshorizontalabove-ar
   behVbelow-ar behhamzaabove-ar jeemTwodotsabove-ar tahTwodotsabove-ar fehDotbelowThreedotsabove-ar qafDotbelow-ar
   lamDoublebar-ar meemThreedotsabove-ar yehTwodotsbelowHamzaabove-ar yehTwodotsbelowDotabove-ar sadThreedotsbelow-ar gafInvertedstroke-ar
 ];
@@ -342,7 +342,7 @@ feature fina {
   yehKashmiri-ar.init yehHamzaabove-ar.init beh-ar.init teh-ar.init theh-ar.init jeem-ar.init
   hah-ar.init khah-ar.init seen-ar.init sheen-ar.init sad-ar.init dad-ar.init
   tah-ar.init zah-ar.init ain-ar.init ghain-ar.init kehehTwodotshorizontalabove-ar.init kehehThreedotsbelow-ar.init
-  uni063D.init uni063E.init uni063F.init feh-ar.init qaf-ar.init kaf-ar.init
+  yehVinverted-farsi.init yehTwodotsabove-farsi.init yehThreedotsabove-farsi.init feh-ar.init qaf-ar.init kaf-ar.init
   lam-ar.init meem-ar.init noon-ar.init heh-ar.init alefMaksura-ar.init yeh-ar.init
   behDotless-ar.init qafDotless-ar.init highhamzaYeh-ar.init tteh-ar.init tteheh-ar.init beeh-ar.init
   tehRing-ar.init tehThreedotsdown-ar.init peh-ar.init teheh-ar.init beheh-ar.init hahHamzaabove-ar.init
@@ -353,14 +353,14 @@ feature fina {
   kafDotabove-ar.init ng-ar.init kafThreedotsbelow-ar.init gaf-ar.init gafRing-ar.init ngoeh-ar.init
   gafTwodotsbelow-ar.init gueh-ar.init gafThreedots-ar.init lamVabove-ar.init lamDotabove-ar.init lamThreedotsabove-ar.init
   lamThreedotsbelow-ar.init noonDotbelow-ar.init noonghunna-ar.init rnoon-ar.init noonRing-ar.init noonThreedotsabove-ar.init
-  hehDoachashmee-ar.init tchehDotabove-ar.init hehgoal-ar.init uni06CC.init yehVabove-ar.init e-ar.init
+  hehDoachashmee-ar.init tchehDotabove-ar.init hehgoal-ar.init yeh-farsi.init yehVabove-ar.init e-ar.init
   yehThreedotsbelow-ar.init sheenDotbelow-ar.init dadDotbelow-ar.init ghainDotbelow-ar.init sindhipostpositionmen-ar.init hehVinvertedabove-ar.init
   behThreedotshorizontalbelow-ar.init behThreedotsupabove-ar.init behThreedotsupbelow-ar.init tehThreedotsupbelow-ar.init behTwodotsbelowDotabove-ar.init behVinvertedbelow-ar.init
   behVabove-ar.init hahTwodotshorizontalabove-ar.init hahThreedotsupbelow-ar.init seenFourdotsabove-ar.init ainTwodotshorizontalabove-ar.init ainThreedotsdownabove-ar.init
   ainTwodotsverticalabove-ar.init fehTwodotsbelow-ar.init fehThreedotsupbelow-ar.init kehehDotabove-ar.init kehehThreedotsabove-ar.init kehehThreedotsupbelow-ar.init
   meemDotabove-ar.init meemDotbelow-ar.init noonTwodotsbelow-ar.init noonTahabove-ar.init noonVabove-ar.init lamBar-ar.init
-  seenTwodotsverticalabove-ar.init hahTahbelow-ar.init hahTahTwodotshorizontalbelow-ar.init seenTahTwodotshorizontalabove-ar.init hahTahabove-ar.init uni0775.init
-  uni0776.init uni0777.init hahFourbelow-ar.init seenFourabove-ar.init seenVinvertedabove-ar.init kafTwodotshorizontalabove-ar.init
+  seenTwodotsverticalabove-ar.init hahTahbelow-ar.init hahTahTwodotshorizontalbelow-ar.init seenTahTwodotshorizontalabove-ar.init hahTahabove-ar.init yehTwoabove-farsi.init
+  yehThreeabove-farsi.init yehFourbelow-farsi.init hahFourbelow-ar.init seenFourabove-ar.init seenVinvertedabove-ar.init kafTwodotshorizontalabove-ar.init
   behVbelow-ar.init behhamzaabove-ar.init jeemTwodotsabove-ar.init tahTwodotsabove-ar.init fehDotbelowThreedotsabove-ar.init qafDotbelow-ar.init
   lamDoublebar-ar.init meemThreedotsabove-ar.init yehTwodotsbelowHamzaabove-ar.init yehTwodotsbelowDotabove-ar.init sadThreedotsbelow-ar.init gafInvertedstroke-ar.init
 ];
@@ -369,7 +369,7 @@ feature fina {
   yehKashmiri-ar.medi yehHamzaabove-ar.medi beh-ar.medi teh-ar.medi theh-ar.medi jeem-ar.medi
   hah-ar.medi khah-ar.medi seen-ar.medi sheen-ar.medi sad-ar.medi dad-ar.medi
   tah-ar.medi zah-ar.medi ain-ar.medi ghain-ar.medi kehehTwodotshorizontalabove-ar.medi kehehThreedotsbelow-ar.medi
-  uni063D.medi uni063E.medi uni063F.medi feh-ar.medi qaf-ar.medi kaf-ar.medi
+  yehVinverted-farsi.medi yehTwodotsabove-farsi.medi yehThreedotsabove-farsi.medi feh-ar.medi qaf-ar.medi kaf-ar.medi
   lam-ar.medi meem-ar.medi noon-ar.medi heh-ar.medi alefMaksura-ar.medi yeh-ar.medi
   behDotless-ar.medi qafDotless-ar.medi highhamzaYeh-ar.medi tteh-ar.medi tteheh-ar.medi beeh-ar.medi
   tehRing-ar.medi tehThreedotsdown-ar.medi peh-ar.medi teheh-ar.medi beheh-ar.medi hahHamzaabove-ar.medi
@@ -380,14 +380,14 @@ feature fina {
   kafDotabove-ar.medi ng-ar.medi kafThreedotsbelow-ar.medi gaf-ar.medi gafRing-ar.medi ngoeh-ar.medi
   gafTwodotsbelow-ar.medi gueh-ar.medi gafThreedots-ar.medi lamVabove-ar.medi lamDotabove-ar.medi lamThreedotsabove-ar.medi
   lamThreedotsbelow-ar.medi noonDotbelow-ar.medi noonghunna-ar.medi rnoon-ar.medi noonRing-ar.medi noonThreedotsabove-ar.medi
-  hehDoachashmee-ar.medi tchehDotabove-ar.medi hehgoal-ar.medi uni06CC.medi yehVabove-ar.medi e-ar.medi
+  hehDoachashmee-ar.medi tchehDotabove-ar.medi hehgoal-ar.medi yeh-farsi.medi yehVabove-ar.medi e-ar.medi
   yehThreedotsbelow-ar.medi sheenDotbelow-ar.medi dadDotbelow-ar.medi ghainDotbelow-ar.medi sindhipostpositionmen-ar.medi hehVinvertedabove-ar.medi
   behThreedotshorizontalbelow-ar.medi behThreedotsupabove-ar.medi behThreedotsupbelow-ar.medi tehThreedotsupbelow-ar.medi behTwodotsbelowDotabove-ar.medi behVinvertedbelow-ar.medi
   behVabove-ar.medi hahTwodotshorizontalabove-ar.medi hahThreedotsupbelow-ar.medi seenFourdotsabove-ar.medi ainTwodotshorizontalabove-ar.medi ainThreedotsdownabove-ar.medi
   ainTwodotsverticalabove-ar.medi fehTwodotsbelow-ar.medi fehThreedotsupbelow-ar.medi kehehDotabove-ar.medi kehehThreedotsabove-ar.medi kehehThreedotsupbelow-ar.medi
   meemDotabove-ar.medi meemDotbelow-ar.medi noonTwodotsbelow-ar.medi noonTahabove-ar.medi noonVabove-ar.medi lamBar-ar.medi
-  seenTwodotsverticalabove-ar.medi hahTahbelow-ar.medi hahTahTwodotshorizontalbelow-ar.medi seenTahTwodotshorizontalabove-ar.medi hahTahabove-ar.medi uni0775.medi
-  uni0776.medi uni0777.medi hahFourbelow-ar.medi seenFourabove-ar.medi seenVinvertedabove-ar.medi kafTwodotshorizontalabove-ar.medi
+  seenTwodotsverticalabove-ar.medi hahTahbelow-ar.medi hahTahTwodotshorizontalbelow-ar.medi seenTahTwodotshorizontalabove-ar.medi hahTahabove-ar.medi yehTwoabove-farsi.medi
+  yehThreeabove-farsi.medi yehFourbelow-farsi.medi hahFourbelow-ar.medi seenFourabove-ar.medi seenVinvertedabove-ar.medi kafTwodotshorizontalabove-ar.medi
   behVbelow-ar.medi behhamzaabove-ar.medi jeemTwodotsabove-ar.medi tahTwodotsabove-ar.medi fehDotbelowThreedotsabove-ar.medi qafDotbelow-ar.medi
   lamDoublebar-ar.medi meemThreedotsabove-ar.medi yehTwodotsbelowHamzaabove-ar.medi yehTwodotsbelowDotabove-ar.medi sadThreedotsbelow-ar.medi gafInvertedstroke-ar.medi
 ];
@@ -504,8 +504,8 @@ feature rlig {
 feature locl {
   script arab;
     language URD exclude_dflt;
-      sub uni06F4 by uni06F4.indo;
-      sub uni06F7 by uni06F7.indo;
+      sub four-persian by four-persian.indo;
+      sub seven-persian by seven-persian.indo;
 } locl;
 
 lookup onum_0 {
@@ -53844,7 +53844,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0621;
+unicode = "0621,FE80";
 },
 {
 glyphname = "highhamza-ar";
@@ -53878,22 +53878,6 @@ width = 525;
 );
 },
 {
-glyphname = "hamza-ar.isol";
-layers = (
-{
-components = (
-{
-name = "hamza-ar";
-transform = "{1, 0, 0, 1, -11, 64}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE80;
-},
-{
 glyphname = "alef-ar";
 layers = (
 {
@@ -53922,40 +53906,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0627;
-},
-{
-glyphname = "alef-ar.isol";
-layers = (
-{
-components = (
-{
-name = "alef-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE8D;
+unicode = "0627,FE8D";
 },
 {
 glyphname = "alef-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFE8E;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE8E;
-},
-{
-glyphname = uniFE8E;
 layers = (
 {
 layerId = master01;
@@ -54076,40 +54030,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0623;
-},
-{
-glyphname = "alefHamzaabove-ar.isol";
-layers = (
-{
-components = (
-{
-name = "alefHamzaabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE83;
+unicode = "0623,FE83";
 },
 {
 glyphname = "alefHamzaabove-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFE84;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE84;
-},
-{
-glyphname = uniFE84;
 layers = (
 {
 components = (
@@ -54190,22 +54114,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0625;
-},
-{
-glyphname = "alefHamzabelow-ar.isol";
-layers = (
-{
-components = (
-{
-name = "alefHamzabelow-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE87;
+unicode = "0625,FE87";
 },
 {
 glyphname = "alefHamzabelow-ar.fina";
@@ -54213,22 +54122,7 @@ layers = (
 {
 components = (
 {
-name = uniFE88;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE88;
-},
-{
-glyphname = uniFE88;
-layers = (
-{
-components = (
-{
-name = uniFE8E;
+name = "alef-ar.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -54368,7 +54262,7 @@ layers = (
 {
 components = (
 {
-name = uniFE8E;
+name = "alef-ar.fina";
 },
 {
 name = "wavyhamzabelow-ar";
@@ -54415,22 +54309,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0622;
-},
-{
-glyphname = "alefMadda-ar.isol";
-layers = (
-{
-components = (
-{
-name = "alefMadda-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE81;
+unicode = "0622,FE81";
 },
 {
 glyphname = "alefMadda-ar.fina";
@@ -54438,22 +54317,7 @@ layers = (
 {
 components = (
 {
-name = uniFE82;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE82;
-},
-{
-glyphname = uniFE82;
-layers = (
-{
-components = (
-{
-name = uniFE8E;
+name = "alef-ar.fina";
 },
 {
 name = asciitilde;
@@ -54502,40 +54366,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0671;
-},
-{
-glyphname = "alefWasla-ar.isol";
-layers = (
-{
-components = (
-{
-name = "alefWasla-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB50;
+unicode = "0671,FB50";
 },
 {
 glyphname = "alefWasla-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFB51;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB51;
-},
-{
-glyphname = uniFB51;
 layers = (
 {
 components = (
@@ -54733,7 +54567,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 }
 );
 layerId = master01;
@@ -54747,7 +54581,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 }
 );
 layerId = master01;
@@ -54772,40 +54606,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0628;
-},
-{
-glyphname = "beh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "beh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE8F;
+unicode = "0628,FE8F";
 },
 {
 glyphname = "beh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFE90;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE90;
-},
-{
-glyphname = uniFE90;
 layers = (
 {
 components = (
@@ -54829,22 +54633,7 @@ layers = (
 {
 components = (
 {
-name = uniFE92;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE92;
-},
-{
-glyphname = uniFE92;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -54863,22 +54652,7 @@ layers = (
 {
 components = (
 {
-name = uniFE91;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE91;
-},
-{
-glyphname = uniFE91;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -54908,48 +54682,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 067E;
-},
-{
-glyphname = "peh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "threedotsdownaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 24, -590}";
-},
-{
-name = "behDotless-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB56;
+unicode = "067E,FB56";
 },
 {
 glyphname = "peh-ar.fina";
-layers = (
-{
-components = (
-{
-name = "behDotless-ar.fina";
-},
-{
-name = "threedotsdownaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 24, -621}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB57;
-},
-{
-glyphname = uniFB57;
 layers = (
 {
 components = (
@@ -54973,26 +54709,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
-},
-{
-name = "threedotsdownaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 17, -621}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB59;
-},
-{
-glyphname = uniFB59;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -55011,26 +54728,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
-},
-{
-name = "threedotsdownaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 28, -621}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB58;
-},
-{
-glyphname = uniFB58;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -55060,48 +54758,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 067B;
-},
-{
-glyphname = "beeh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "twodotsverticalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 33, -735}";
-},
-{
-name = "behDotless-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB52;
+unicode = "067B,FB52";
 },
 {
 glyphname = "beeh-ar.fina";
-layers = (
-{
-components = (
-{
-name = "behDotless-ar.fina";
-},
-{
-name = "twodotsverticalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 33, -775}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB53;
-},
-{
-glyphname = uniFB53;
 layers = (
 {
 components = (
@@ -55125,26 +54785,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
-},
-{
-name = "twodotsverticalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 33, -775}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB55;
-},
-{
-glyphname = uniFB55;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -55163,26 +54804,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
-},
-{
-name = "twodotsverticalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 33, -775}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB54;
-},
-{
-glyphname = uniFB54;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -55212,40 +54834,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0680;
-},
-{
-glyphname = "beheh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "beheh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB5A;
+unicode = "0680,FB5A";
 },
 {
 glyphname = "beheh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFB5B;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB5B;
-},
-{
-glyphname = uniFB5B;
 layers = (
 {
 components = (
@@ -55269,22 +54861,7 @@ layers = (
 {
 components = (
 {
-name = uniFB5D;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB5D;
-},
-{
-glyphname = uniFB5D;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -55303,22 +54880,7 @@ layers = (
 {
 components = (
 {
-name = uniFB5C;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB5C;
-},
-{
-glyphname = uniFB5C;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -55337,21 +54899,6 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBE9;
-},
-{
-glyphname = uniFBE9;
-layers = (
-{
-components = (
-{
 name = Baa_m.comp;
 },
 {
@@ -55366,21 +54913,6 @@ unicode = FBE9;
 },
 {
 glyphname = "alefMaksura-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFBE8;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBE8;
-},
-{
-glyphname = uniFBE8;
 layers = (
 {
 components = (
@@ -55414,40 +54946,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 062A;
-},
-{
-glyphname = "teh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "teh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE95;
+unicode = "062A,FE95";
 },
 {
 glyphname = "teh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFE96;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE96;
-},
-{
-glyphname = uniFE96;
 layers = (
 {
 components = (
@@ -55471,26 +54973,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
-},
-{
-name = "twodotshorizontalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 15, 82}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE98;
-},
-{
-glyphname = uniFE98;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -55509,22 +54992,7 @@ layers = (
 {
 components = (
 {
-name = uniFE97;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE97;
-},
-{
-glyphname = uniFE97;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -55562,7 +55030,7 @@ layers = (
 {
 components = (
 {
-name = uniFE96;
+name = "teh-ar.fina";
 },
 {
 name = "sukunoval-ar";
@@ -55598,7 +55066,7 @@ layers = (
 {
 components = (
 {
-name = uniFE97;
+name = "teh-ar.init";
 },
 {
 name = "sukunoval-ar";
@@ -55653,7 +55121,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -55671,7 +55139,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -55700,40 +55168,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 062B;
-},
-{
-glyphname = "theh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "theh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE99;
+unicode = "062B,FE99";
 },
 {
 glyphname = "theh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFE9A;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE9A;
-},
-{
-glyphname = uniFE9A;
 layers = (
 {
 components = (
@@ -55757,22 +55195,7 @@ layers = (
 {
 components = (
 {
-name = uniFE9C;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE9C;
-},
-{
-glyphname = uniFE9C;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -55791,22 +55214,7 @@ layers = (
 {
 components = (
 {
-name = uniFE9B;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE9B;
-},
-{
-glyphname = uniFE9B;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "threedots-ar";
@@ -55836,40 +55244,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0679;
-},
-{
-glyphname = "tteh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "tteh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB66;
+unicode = "0679,FB66";
 },
 {
 glyphname = "tteh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFB67;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB67;
-},
-{
-glyphname = uniFB67;
 layers = (
 {
 components = (
@@ -55893,22 +55271,7 @@ layers = (
 {
 components = (
 {
-name = uniFB69;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB69;
-},
-{
-glyphname = uniFB69;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "tahabove-ar";
@@ -55927,22 +55290,7 @@ layers = (
 {
 components = (
 {
-name = uniFB68;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB68;
-},
-{
-glyphname = uniFB68;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "tahabove-ar";
@@ -55972,48 +55320,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 067A;
-},
-{
-glyphname = "tteheh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "twodotsverticalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 33, 25}";
-},
-{
-name = "behDotless-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB5E;
+unicode = "067A,FB5E";
 },
 {
 glyphname = "tteheh-ar.fina";
-layers = (
-{
-components = (
-{
-name = "behDotless-ar.fina";
-},
-{
-name = "twodotsverticalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 33, 65}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB5F;
-},
-{
-glyphname = uniFB5F;
 layers = (
 {
 components = (
@@ -56037,26 +55347,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
-},
-{
-name = "twodotsverticalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 21, 65}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB61;
-},
-{
-glyphname = uniFB61;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -56075,26 +55366,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
-},
-{
-name = "twodotsverticalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 104, 65}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB60;
-},
-{
-glyphname = uniFB60;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -56124,48 +55396,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 067F;
-},
-{
-glyphname = "teheh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "fourdotsaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 26, 29}";
-},
-{
-name = "behDotless-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB62;
+unicode = "067F,FB62";
 },
 {
 glyphname = "teheh-ar.fina";
-layers = (
-{
-components = (
-{
-name = "behDotless-ar.fina";
-},
-{
-name = "fourdotsaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 13, 82}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB63;
-},
-{
-glyphname = uniFB63;
 layers = (
 {
 components = (
@@ -56189,26 +55423,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
-},
-{
-name = "fourdotsaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 17, 82}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB65;
-},
-{
-glyphname = uniFB65;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -56227,26 +55442,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
-},
-{
-name = "fourdotsaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 13, 82}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB64;
-},
-{
-glyphname = uniFB64;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -56306,7 +55502,7 @@ name = Threedotsarabic_flat.comp;
 transform = "{1, 0, 0, 1, 17, 270}";
 },
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 }
 );
 layerId = master01;
@@ -56324,7 +55520,7 @@ name = Threedotsarabic_flat.comp;
 transform = "{1, 0, 0, 1, -42, 270}";
 },
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 }
 );
 layerId = master01;
@@ -56357,7 +55553,7 @@ layers = (
 {
 components = (
 {
-name = uniFE90;
+name = "beh-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -56375,7 +55571,7 @@ layers = (
 {
 components = (
 {
-name = uniFE92;
+name = "beh-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -56393,7 +55589,7 @@ layers = (
 {
 components = (
 {
-name = uniFE91;
+name = "beh-ar.init";
 },
 {
 name = "threedots-ar";
@@ -56448,7 +55644,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -56466,7 +55662,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "threedots-ar";
@@ -56503,7 +55699,7 @@ layers = (
 {
 components = (
 {
-name = uniFE96;
+name = "teh-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -56521,7 +55717,7 @@ layers = (
 {
 components = (
 {
-name = uniFE98;
+name = "teh-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -56539,7 +55735,7 @@ layers = (
 {
 components = (
 {
-name = uniFE97;
+name = "teh-ar.init";
 },
 {
 name = "threedots-ar";
@@ -56602,7 +55798,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFF;
+name = "yeh-farsi.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -56620,7 +55816,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -56984,7 +56180,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "vabove-ar";
@@ -57002,7 +56198,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "vabove-ar";
@@ -57057,7 +56253,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "vabove-ar";
@@ -57075,7 +56271,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "vabove-ar";
@@ -57112,7 +56308,7 @@ layers = (
 {
 components = (
 {
-name = uniFE90;
+name = "beh-ar.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -57130,7 +56326,7 @@ layers = (
 {
 components = (
 {
-name = uniFE92;
+name = "beh-ar.medi";
 },
 {
 name = "hamzaabove-ar";
@@ -57148,7 +56344,7 @@ layers = (
 {
 components = (
 {
-name = uniFE91;
+name = "beh-ar.init";
 },
 {
 name = "hamzaabove-ar";
@@ -57177,22 +56373,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 062C;
-},
-{
-glyphname = "jeem-ar.isol";
-layers = (
-{
-components = (
-{
-name = "jeem-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE9D;
+unicode = "062C,FE9D";
 },
 {
 glyphname = "jeem-ar.fina";
@@ -57200,22 +56381,7 @@ layers = (
 {
 components = (
 {
-name = uniFE9E;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE9E;
-},
-{
-glyphname = uniFE9E;
-layers = (
-{
-components = (
-{
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -57234,22 +56400,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA0;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEA0;
-},
-{
-glyphname = uniFEA0;
-layers = (
-{
-components = (
-{
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -57268,22 +56419,7 @@ layers = (
 {
 components = (
 {
-name = uniFE9F;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE9F;
-},
-{
-glyphname = uniFE9F;
-layers = (
-{
-components = (
-{
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -57313,22 +56449,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0686;
-},
-{
-glyphname = "tcheh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "tcheh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB7A;
+unicode = "0686,FB7A";
 },
 {
 glyphname = "tcheh-ar.fina";
@@ -57336,22 +56457,7 @@ layers = (
 {
 components = (
 {
-name = uniFB7B;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB7B;
-},
-{
-glyphname = uniFB7B;
-layers = (
-{
-components = (
-{
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -57370,22 +56476,7 @@ layers = (
 {
 components = (
 {
-name = uniFB7D;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB7D;
-},
-{
-glyphname = uniFB7D;
-layers = (
-{
-components = (
-{
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -57404,22 +56495,7 @@ layers = (
 {
 components = (
 {
-name = uniFB7C;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB7C;
-},
-{
-glyphname = uniFB7C;
-layers = (
-{
-components = (
-{
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -57449,22 +56525,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0687;
-},
-{
-glyphname = "tcheheh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "tcheheh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB7E;
+unicode = "0687,FB7E";
 },
 {
 glyphname = "tcheheh-ar.fina";
@@ -57472,22 +56533,7 @@ layers = (
 {
 components = (
 {
-name = uniFB7F;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB7F;
-},
-{
-glyphname = uniFB7F;
-layers = (
-{
-components = (
-{
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -57506,22 +56552,7 @@ layers = (
 {
 components = (
 {
-name = uniFB81;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB81;
-},
-{
-glyphname = uniFB81;
-layers = (
-{
-components = (
-{
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -57540,22 +56571,7 @@ layers = (
 {
 components = (
 {
-name = uniFB80;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB80;
-},
-{
-glyphname = uniFB80;
-layers = (
-{
-components = (
-{
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -57593,7 +56609,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA6;
+name = "khah-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -57619,7 +56635,7 @@ layers = (
 {
 components = (
 {
-name = uniFB7D;
+name = "tcheh-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -57637,7 +56653,7 @@ layers = (
 {
 components = (
 {
-name = uniFB7C;
+name = "tcheh-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -57666,22 +56682,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0683;
-},
-{
-glyphname = "nyeh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "nyeh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB76;
+unicode = "0683,FB76";
 },
 {
 glyphname = "nyeh-ar.fina";
@@ -57689,22 +56690,7 @@ layers = (
 {
 components = (
 {
-name = uniFB77;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB77;
-},
-{
-glyphname = uniFB77;
-layers = (
-{
-components = (
-{
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -57723,22 +56709,7 @@ layers = (
 {
 components = (
 {
-name = uniFB79;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB79;
-},
-{
-glyphname = uniFB79;
-layers = (
-{
-components = (
-{
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -57757,22 +56728,7 @@ layers = (
 {
 components = (
 {
-name = uniFB78;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB78;
-},
-{
-glyphname = uniFB78;
-layers = (
-{
-components = (
-{
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -57802,22 +56758,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0684;
-},
-{
-glyphname = "dyeh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "dyeh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB72;
+unicode = "0684,FB72";
 },
 {
 glyphname = "dyeh-ar.fina";
@@ -57825,22 +56766,7 @@ layers = (
 {
 components = (
 {
-name = uniFB73;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB73;
-},
-{
-glyphname = uniFB73;
-layers = (
-{
-components = (
-{
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -57859,22 +56785,7 @@ layers = (
 {
 components = (
 {
-name = uniFB75;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB75;
-},
-{
-glyphname = uniFB75;
-layers = (
-{
-components = (
-{
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -57893,22 +56804,7 @@ layers = (
 {
 components = (
 {
-name = uniFB74;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB74;
-},
-{
-glyphname = uniFB74;
-layers = (
-{
-components = (
-{
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -57981,40 +56877,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 062D;
-},
-{
-glyphname = "hah-ar.isol";
-layers = (
-{
-components = (
-{
-name = "hah-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEA1;
+unicode = "062D,FEA1";
 },
 {
 glyphname = "hah-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEA2;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEA2;
-},
-{
-glyphname = uniFEA2;
 layers = (
 {
 layerId = master01;
@@ -58090,21 +56956,6 @@ layers = (
 {
 components = (
 {
-name = uniFEA4;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEA4;
-},
-{
-glyphname = uniFEA4;
-layers = (
-{
-components = (
-{
 name = Jiim_m.comp;
 },
 {
@@ -58119,21 +56970,6 @@ unicode = FEA4;
 },
 {
 glyphname = "hah-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFEA3;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEA3;
-},
-{
-glyphname = uniFEA3;
 layers = (
 {
 components = (
@@ -58175,7 +57011,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -58193,7 +57029,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "hamzaabove-ar";
@@ -58211,7 +57047,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "hamzaabove-ar";
@@ -58248,7 +57084,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -58266,7 +57102,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -58284,7 +57120,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -58321,7 +57157,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -58339,7 +57175,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -58357,7 +57193,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "threedots-ar";
@@ -58394,7 +57230,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -58412,7 +57248,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -58430,7 +57266,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "threedots-ar";
@@ -58467,7 +57303,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -58485,7 +57321,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -58503,7 +57339,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -58532,22 +57368,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 062E;
-},
-{
-glyphname = "khah-ar.isol";
-layers = (
-{
-components = (
-{
-name = "khah-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEA5;
+unicode = "062E,FEA5";
 },
 {
 glyphname = "khah-ar.fina";
@@ -58555,22 +57376,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA6;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEA6;
-},
-{
-glyphname = uniFEA6;
-layers = (
-{
-components = (
-{
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -58589,22 +57395,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA8;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEA8;
-},
-{
-glyphname = uniFEA8;
-layers = (
-{
-components = (
-{
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -58623,22 +57414,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA7;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEA7;
-},
-{
-glyphname = uniFEA7;
-layers = (
-{
-components = (
-{
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -58676,7 +57452,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "tahabove-ar";
@@ -58694,7 +57470,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "tahabove-ar";
@@ -58712,7 +57488,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "tahabove-ar";
@@ -58754,7 +57530,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -58776,7 +57552,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -58798,7 +57574,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -58843,7 +57619,7 @@ name = Fourarabic_minor.indo.comp;
 transform = "{1, 0, 0, 1, 2, -692}";
 },
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 }
 );
 layerId = master01;
@@ -58861,7 +57637,7 @@ name = Fourarabic_minor.indo.comp;
 transform = "{1, 0, 0, 1, 16, -820}";
 },
 {
-name = uniFEA4;
+name = "hah-ar.medi";
 }
 );
 layerId = master01;
@@ -58879,7 +57655,7 @@ name = Fourarabic_minor.indo.comp;
 transform = "{1, 0, 0, 1, 16, -820}";
 },
 {
-name = uniFEA3;
+name = "hah-ar.init";
 }
 );
 layerId = master01;
@@ -58916,7 +57692,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -58938,7 +57714,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA0;
+name = "jeem-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -58960,7 +57736,7 @@ layers = (
 {
 components = (
 {
-name = uniFE9F;
+name = "jeem-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -59023,40 +57799,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 062F;
-},
-{
-glyphname = "dal-ar.isol";
-layers = (
-{
-components = (
-{
-name = "dal-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEA9;
+unicode = "062F,FEA9";
 },
 {
 glyphname = "dal-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEAA;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEAA;
-},
-{
-glyphname = uniFEAA;
 layers = (
 {
 layerId = master01;
@@ -59134,26 +57880,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0630;
-},
-{
-glyphname = "thal-ar.isol";
-layers = (
-{
-components = (
-{
-name = "dotvowelbelow-ar";
-transform = "{1, 0, 0, 1, -28, 1132}";
-},
-{
-name = "dal-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEAB;
+unicode = "0630,FEAB";
 },
 {
 glyphname = "thal-ar.fina";
@@ -59161,22 +57888,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAC;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEAC;
-},
-{
-glyphname = uniFEAC;
-layers = (
-{
-components = (
-{
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -59206,22 +57918,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0688;
-},
-{
-glyphname = "ddal-ar.isol";
-layers = (
-{
-components = (
-{
-name = "ddal-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB88;
+unicode = "0688,FB88";
 },
 {
 glyphname = "ddal-ar.fina";
@@ -59229,22 +57926,7 @@ layers = (
 {
 components = (
 {
-name = uniFB89;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB89;
-},
-{
-glyphname = uniFB89;
-layers = (
-{
-components = (
-{
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "tahabove-ar";
@@ -59274,22 +57956,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 068C;
-},
-{
-glyphname = "dahal-ar.isol";
-layers = (
-{
-components = (
-{
-name = "dahal-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB84;
+unicode = "068C,FB84";
 },
 {
 glyphname = "dahal-ar.fina";
@@ -59297,22 +57964,7 @@ layers = (
 {
 components = (
 {
-name = uniFB85;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB85;
-},
-{
-glyphname = uniFB85;
-layers = (
-{
-components = (
-{
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -59342,22 +57994,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 068D;
-},
-{
-glyphname = "ddahal-ar.isol";
-layers = (
-{
-components = (
-{
-name = "ddahal-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB82;
+unicode = "068D,FB82";
 },
 {
 glyphname = "ddahal-ar.fina";
@@ -59365,22 +58002,7 @@ layers = (
 {
 components = (
 {
-name = uniFB83;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB83;
-},
-{
-glyphname = uniFB83;
-layers = (
-{
-components = (
-{
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -59418,7 +58040,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "sukunoval-ar";
@@ -59455,7 +58077,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -59492,7 +58114,7 @@ layers = (
 {
 components = (
 {
-name = uniFB89;
+name = "ddal-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -59521,22 +58143,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 068E;
-},
-{
-glyphname = "dul-ar.isol";
-layers = (
-{
-components = (
-{
-name = "dul-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB86;
+unicode = "068E,FB86";
 },
 {
 glyphname = "dul-ar.fina";
@@ -59544,22 +58151,7 @@ layers = (
 {
 components = (
 {
-name = uniFB87;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB87;
-},
-{
-glyphname = uniFB87;
-layers = (
-{
-components = (
-{
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -59597,7 +58189,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -59634,7 +58226,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -59671,7 +58263,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
@@ -59712,7 +58304,7 @@ name = "twodotsverticalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, -28, -797}";
 },
 {
-name = uniFB89;
+name = "ddal-ar.fina";
 }
 );
 layerId = master01;
@@ -59937,7 +58529,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAA;
+name = "dal-ar.fina";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -59988,40 +58580,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0631;
-},
-{
-glyphname = "reh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "reh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEAD;
+unicode = "0631,FEAD";
 },
 {
 glyphname = "reh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEAE;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEAE;
-},
-{
-glyphname = uniFEAE;
 layers = (
 {
 layerId = master01;
@@ -60081,22 +58643,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0632;
-},
-{
-glyphname = "zain-ar.isol";
-layers = (
-{
-components = (
-{
-name = "zain-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEAF;
+unicode = "0632,FEAF";
 },
 {
 glyphname = "zain-ar.fina";
@@ -60104,22 +58651,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB0;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEB0;
-},
-{
-glyphname = uniFEB0;
-layers = (
-{
-components = (
-{
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -60157,7 +58689,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -60190,26 +58722,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0691;
-},
-{
-glyphname = "rreh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "reh-ar";
-},
-{
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 0, -39}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB8C;
+unicode = "0691,FB8C";
 },
 {
 glyphname = "rreh-ar.fina";
@@ -60217,26 +58730,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
-},
-{
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 0, -37}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB8D;
-},
-{
-glyphname = uniFB8D;
-layers = (
-{
-components = (
-{
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "tahabove-ar";
@@ -60274,7 +58768,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "vabove-ar";
@@ -60311,7 +58805,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "sukunoval-ar";
@@ -60348,7 +58842,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -60385,7 +58879,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "vabove-ar";
@@ -60422,7 +58916,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB0;
+name = "zain-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -60459,7 +58953,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -60488,26 +58982,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0698;
-},
-{
-glyphname = "jeh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "reh-ar";
-},
-{
-name = "threedots-ar";
-transform = "{1, 0, 0, 1, 15, 265}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB8A;
+unicode = "0698,FB8A";
 },
 {
 glyphname = "jeh-ar.fina";
@@ -60515,26 +58990,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
-},
-{
-name = "threedots-ar";
-transform = "{1, 0, 0, 1, 15, 277}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB8B;
-},
-{
-glyphname = uniFB8B;
-layers = (
-{
-components = (
-{
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -60572,7 +59028,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -60609,7 +59065,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
@@ -60646,7 +59102,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "fathaHorizont-ar";
@@ -60683,7 +59139,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -60720,7 +59176,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -60761,7 +59217,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -60975,40 +59431,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0633;
-},
-{
-glyphname = "seen-ar.isol";
-layers = (
-{
-components = (
-{
-name = "seen-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEB1;
+unicode = "0633,FEB1";
 },
 {
 glyphname = "seen-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEB2;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEB2;
-},
-{
-glyphname = uniFEB2;
 layers = (
 {
 layerId = master01;
@@ -61104,21 +59530,6 @@ layers = (
 {
 components = (
 {
-name = uniFEB4;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEB4;
-},
-{
-glyphname = uniFEB4;
-layers = (
-{
-components = (
-{
 name = Siin_m.comp;
 },
 {
@@ -61133,21 +59544,6 @@ unicode = FEB4;
 },
 {
 glyphname = "seen-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFEB3;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEB3;
-},
-{
-glyphname = uniFEB3;
 layers = (
 {
 components = (
@@ -61193,7 +59589,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB2;
+name = "seen-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -61215,7 +59611,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB4;
+name = "seen-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -61237,7 +59633,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB3;
+name = "seen-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -61278,7 +59674,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB2;
+name = "seen-ar.fina";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -61296,7 +59692,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB4;
+name = "seen-ar.medi";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -61314,7 +59710,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB3;
+name = "seen-ar.init";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -61343,22 +59739,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0634;
-},
-{
-glyphname = "sheen-ar.isol";
-layers = (
-{
-components = (
-{
-name = "sheen-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEB5;
+unicode = "0634,FEB5";
 },
 {
 glyphname = "sheen-ar.fina";
@@ -61366,22 +59747,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB6;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEB6;
-},
-{
-glyphname = uniFEB6;
-layers = (
-{
-components = (
-{
-name = uniFEB2;
+name = "seen-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -61400,22 +59766,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB8;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEB8;
-},
-{
-glyphname = uniFEB8;
-layers = (
-{
-components = (
-{
-name = uniFEB4;
+name = "seen-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -61434,22 +59785,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB7;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEB7;
-},
-{
-glyphname = uniFEB7;
-layers = (
-{
-components = (
-{
-name = uniFEB3;
+name = "seen-ar.init";
 },
 {
 name = "threedots-ar";
@@ -61487,7 +59823,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB6;
+name = "sheen-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -61505,7 +59841,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB8;
+name = "sheen-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -61523,7 +59859,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB7;
+name = "sheen-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -61560,7 +59896,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB6;
+name = "sheen-ar.fina";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -61578,7 +59914,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB8;
+name = "sheen-ar.medi";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -61596,7 +59932,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB7;
+name = "sheen-ar.init";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -61677,40 +60013,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0635;
-},
-{
-glyphname = "sad-ar.isol";
-layers = (
-{
-components = (
-{
-name = "sad-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEB9;
+unicode = "0635,FEB9";
 },
 {
 glyphname = "sad-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEBA;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEBA;
-},
-{
-glyphname = uniFEBA;
 layers = (
 {
 layerId = master01;
@@ -61789,21 +60095,6 @@ layers = (
 {
 components = (
 {
-name = uniFEBC;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEBC;
-},
-{
-glyphname = uniFEBC;
-layers = (
-{
-components = (
-{
 name = Ssaad_m.comp;
 },
 {
@@ -61818,21 +60109,6 @@ unicode = FEBC;
 },
 {
 glyphname = "sad-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFEBB;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEBB;
-},
-{
-glyphname = uniFEBB;
 layers = (
 {
 components = (
@@ -61874,7 +60150,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBA;
+name = "sad-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -61892,7 +60168,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBC;
+name = "sad-ar.medi";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -61910,7 +60186,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBB;
+name = "sad-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -61947,7 +60223,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBA;
+name = "sad-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -61965,7 +60241,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBC;
+name = "sad-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -61983,7 +60259,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBB;
+name = "sad-ar.init";
 },
 {
 name = "threedots-ar";
@@ -62020,7 +60296,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBA;
+name = "sad-ar.fina";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -62056,7 +60332,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBB;
+name = "sad-ar.init";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -62085,26 +60361,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0636;
-},
-{
-glyphname = "dad-ar.isol";
-layers = (
-{
-components = (
-{
-name = "dotvowelbelow-ar";
-transform = "{1, 0, 0, 1, 127, 1068}";
-},
-{
-name = "sad-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEBD;
+unicode = "0636,FEBD";
 },
 {
 glyphname = "dad-ar.fina";
@@ -62112,26 +60369,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBA;
-},
-{
-name = "dotvowelbelow-ar";
-transform = "{1, 0, 0, 1, 127, 1067}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEBE;
-},
-{
-glyphname = uniFEBE;
-layers = (
-{
-components = (
-{
-name = uniFEBA;
+name = "sad-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -62150,22 +60388,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC0;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEC0;
-},
-{
-glyphname = uniFEC0;
-layers = (
-{
-components = (
-{
-name = uniFEBC;
+name = "sad-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -62184,22 +60407,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBF;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEBF;
-},
-{
-glyphname = uniFEBF;
-layers = (
-{
-components = (
-{
-name = uniFEBB;
+name = "sad-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -62255,7 +60463,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC0;
+name = "dad-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -62273,7 +60481,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBF;
+name = "dad-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -62341,40 +60549,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0637;
-},
-{
-glyphname = "tah-ar.isol";
-layers = (
-{
-components = (
-{
-name = "tah-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEC1;
+unicode = "0637,FEC1";
 },
 {
 glyphname = "tah-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEC2;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEC2;
-},
-{
-glyphname = uniFEC2;
 layers = (
 {
 layerId = master01;
@@ -62439,21 +60617,6 @@ layers = (
 {
 components = (
 {
-name = uniFEC4;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEC4;
-},
-{
-glyphname = uniFEC4;
-layers = (
-{
-components = (
-{
 name = Ttaa_m.comp;
 },
 {
@@ -62468,21 +60631,6 @@ unicode = FEC4;
 },
 {
 glyphname = "tah-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFEC3;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEC3;
-},
-{
-glyphname = uniFEC3;
 layers = (
 {
 components = (
@@ -62524,7 +60672,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC2;
+name = "tah-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -62542,7 +60690,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC4;
+name = "tah-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -62560,7 +60708,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC3;
+name = "tah-ar.init";
 },
 {
 name = "threedots-ar";
@@ -62589,26 +60737,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0638;
-},
-{
-glyphname = "zah-ar.isol";
-layers = (
-{
-components = (
-{
-name = "dotvowelbelow-ar";
-transform = "{1, 0, 0, 1, 129, 1068}";
-},
-{
-name = "tah-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEC5;
+unicode = "0638,FEC5";
 },
 {
 glyphname = "zah-ar.fina";
@@ -62616,22 +60745,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC6;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEC6;
-},
-{
-glyphname = uniFEC6;
-layers = (
-{
-components = (
-{
-name = uniFEC2;
+name = "tah-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -62650,26 +60764,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC4;
-},
-{
-name = "dotvowelbelow-ar";
-transform = "{1, 0, 0, 1, 129, 1067}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEC8;
-},
-{
-glyphname = uniFEC8;
-layers = (
-{
-components = (
-{
-name = uniFEC4;
+name = "tah-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -62688,26 +60783,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC3;
-},
-{
-name = "dotvowelbelow-ar";
-transform = "{1, 0, 0, 1, 129, 1067}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEC7;
-},
-{
-glyphname = uniFEC7;
-layers = (
-{
-components = (
-{
-name = uniFEC3;
+name = "tah-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -62745,7 +60821,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC2;
+name = "tah-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -62763,7 +60839,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC4;
+name = "tah-ar.medi";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -62781,7 +60857,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC3;
+name = "tah-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -62868,40 +60944,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0639;
-},
-{
-glyphname = "ain-ar.isol";
-layers = (
-{
-components = (
-{
-name = "ain-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEC9;
+unicode = "0639,FEC9";
 },
 {
 glyphname = "ain-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFECA;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FECA;
-},
-{
-glyphname = uniFECA;
 layers = (
 {
 layerId = master01;
@@ -63002,37 +61048,7 @@ width = 525;
 unicode = FECC;
 },
 {
-glyphname = uniFECC;
-layers = (
-{
-components = (
-{
-name = "ain-ar.medi";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FECC;
-},
-{
 glyphname = "ain-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFECB;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FECB;
-},
-{
-glyphname = uniFECB;
 layers = (
 {
 components = (
@@ -63074,7 +61090,7 @@ layers = (
 {
 components = (
 {
-name = uniFECA;
+name = "ain-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -63110,7 +61126,7 @@ layers = (
 {
 components = (
 {
-name = uniFECB;
+name = "ain-ar.init";
 },
 {
 name = "threedots-ar";
@@ -63139,22 +61155,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 063A;
-},
-{
-glyphname = "ghain-ar.isol";
-layers = (
-{
-components = (
-{
-name = "ghain-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FECD;
+unicode = "063A,FECD";
 },
 {
 glyphname = "ghain-ar.fina";
@@ -63162,22 +61163,7 @@ layers = (
 {
 components = (
 {
-name = uniFECE;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FECE;
-},
-{
-glyphname = uniFECE;
-layers = (
-{
-components = (
-{
-name = uniFECA;
+name = "ain-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -63192,21 +61178,6 @@ unicode = FECE;
 },
 {
 glyphname = "ghain-ar.medi";
-layers = (
-{
-components = (
-{
-name = uniFED0;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FED0;
-},
-{
-glyphname = uniFED0;
 layers = (
 {
 components = (
@@ -63230,22 +61201,7 @@ layers = (
 {
 components = (
 {
-name = uniFECF;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FECF;
-},
-{
-glyphname = uniFECF;
-layers = (
-{
-components = (
-{
-name = uniFECB;
+name = "ain-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -63287,7 +61243,7 @@ layers = (
 {
 components = (
 {
-name = uniFECE;
+name = "ghain-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -63305,7 +61261,7 @@ layers = (
 {
 components = (
 {
-name = uniFED0;
+name = "ghain-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -63323,7 +61279,7 @@ layers = (
 {
 components = (
 {
-name = uniFECF;
+name = "ghain-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -63352,40 +61308,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0641;
-},
-{
-glyphname = "feh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "feh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FED1;
+unicode = "0641,FED1";
 },
 {
 glyphname = "feh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFED2;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FED2;
-},
-{
-glyphname = uniFED2;
 layers = (
 {
 components = (
@@ -63409,21 +61335,6 @@ layers = (
 {
 components = (
 {
-name = uniFED4;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FED4;
-},
-{
-glyphname = uniFED4;
-layers = (
-{
-components = (
-{
 name = "fehDotless-ar.medi";
 },
 {
@@ -63439,21 +61350,6 @@ unicode = FED4;
 },
 {
 glyphname = "feh-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFED3;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FED3;
-},
-{
-glyphname = uniFED3;
 layers = (
 {
 components = (
@@ -63488,40 +61384,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06A4;
-},
-{
-glyphname = "veh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "veh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB6A;
+unicode = "06A4,FB6A";
 },
 {
 glyphname = "veh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFB6B;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB6B;
-},
-{
-glyphname = uniFB6B;
 layers = (
 {
 components = (
@@ -63545,21 +61411,6 @@ layers = (
 {
 components = (
 {
-name = uniFB6D;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB6D;
-},
-{
-glyphname = uniFB6D;
-layers = (
-{
-components = (
-{
 name = "fehDotless-ar.medi";
 },
 {
@@ -63575,21 +61426,6 @@ unicode = FB6D;
 },
 {
 glyphname = "veh-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFB6C;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB6C;
-},
-{
-glyphname = uniFB6C;
 layers = (
 {
 components = (
@@ -63903,7 +61739,7 @@ layers = (
 {
 components = (
 {
-name = uniFED4;
+name = "feh-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -63921,7 +61757,7 @@ layers = (
 {
 components = (
 {
-name = uniFED3;
+name = "feh-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -64031,7 +61867,7 @@ layers = (
 {
 components = (
 {
-name = uniFB6B;
+name = "veh-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -64049,7 +61885,7 @@ layers = (
 {
 components = (
 {
-name = uniFB6D;
+name = "veh-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -64096,40 +61932,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06A6;
-},
-{
-glyphname = "peheh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "peheh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB6E;
+unicode = "06A6,FB6E";
 },
 {
 glyphname = "peheh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFB6F;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB6F;
-},
-{
-glyphname = uniFB6F;
 layers = (
 {
 components = (
@@ -64153,21 +61959,6 @@ layers = (
 {
 components = (
 {
-name = uniFB71;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB71;
-},
-{
-glyphname = uniFB71;
-layers = (
-{
-components = (
-{
 name = "fehDotless-ar.medi";
 },
 {
@@ -64183,21 +61974,6 @@ unicode = FB71;
 },
 {
 glyphname = "peheh-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFB70;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB70;
-},
-{
-glyphname = uniFB70;
 layers = (
 {
 components = (
@@ -64409,40 +62185,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0642;
-},
-{
-glyphname = "qaf-ar.isol";
-layers = (
-{
-components = (
-{
-name = "qaf-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FED5;
+unicode = "0642,FED5";
 },
 {
 glyphname = "qaf-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFED6;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FED6;
-},
-{
-glyphname = uniFED6;
 layers = (
 {
 components = (
@@ -64466,21 +62212,6 @@ layers = (
 {
 components = (
 {
-name = uniFED8;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FED8;
-},
-{
-glyphname = uniFED8;
-layers = (
-{
-components = (
-{
 name = "fehDotless-ar.medi";
 },
 {
@@ -64496,25 +62227,6 @@ unicode = FED8;
 },
 {
 glyphname = "qaf-ar.init";
-layers = (
-{
-components = (
-{
-name = "fehDotless-ar.init";
-},
-{
-name = "twodotshorizontalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 104, 189}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FED7;
-},
-{
-glyphname = uniFED7;
 layers = (
 {
 components = (
@@ -64729,7 +62441,7 @@ layers = (
 {
 components = (
 {
-name = uniFED8;
+name = "qaf-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -64776,40 +62488,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0643;
-},
-{
-glyphname = "kaf-ar.isol";
-layers = (
-{
-components = (
-{
-name = "kaf-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FED9;
+unicode = "0643,FED9";
 },
 {
 glyphname = "kaf-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEDA;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEDA;
-},
-{
-glyphname = uniFEDA;
 layers = (
 {
 components = (
@@ -64833,22 +62515,7 @@ layers = (
 {
 components = (
 {
-name = uniFB91;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEDC;
-},
-{
-glyphname = uniFEDC;
-layers = (
-{
-components = (
-{
-name = uniFB91;
+name = "keheh-ar.medi";
 }
 );
 layerId = master01;
@@ -64863,22 +62530,7 @@ layers = (
 {
 components = (
 {
-name = uniFB90;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEDB;
-},
-{
-glyphname = uniFEDB;
-layers = (
-{
-components = (
-{
-name = uniFB90;
+name = "keheh-ar.init";
 }
 );
 layerId = master01;
@@ -64954,40 +62606,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 06A9;
-},
-{
-glyphname = "keheh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "keheh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB8E;
+unicode = "06A9,FB8E";
 },
 {
 glyphname = "keheh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFB8F;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB8F;
-},
-{
-glyphname = uniFB8F;
 layers = (
 {
 layerId = master01;
@@ -65069,21 +62691,6 @@ layers = (
 {
 components = (
 {
-name = uniFB91;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB91;
-},
-{
-glyphname = uniFB91;
-layers = (
-{
-components = (
-{
 name = Kaaf_m.comp;
 },
 {
@@ -65098,21 +62705,6 @@ unicode = FB91;
 },
 {
 glyphname = "keheh-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFB90;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB90;
-},
-{
-glyphname = uniFB90;
 layers = (
 {
 components = (
@@ -65158,7 +62750,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, -118, 279}";
 },
 {
-name = uniFB8F;
+name = "keheh-ar.fina";
 }
 );
 layerId = master01;
@@ -65176,7 +62768,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, -104, 279}";
 },
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 }
 );
 layerId = master01;
@@ -65194,7 +62786,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, -118, 218}";
 },
 {
-name = uniFB90;
+name = "keheh-ar.init";
 }
 );
 layerId = master01;
@@ -65231,7 +62823,7 @@ name = "threedotsdownaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 4, -621}";
 },
 {
-name = uniFB8F;
+name = "keheh-ar.fina";
 }
 );
 layerId = master01;
@@ -65249,7 +62841,7 @@ name = "threedotsdownaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 18, -621}";
 },
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 }
 );
 layerId = master01;
@@ -65267,7 +62859,7 @@ name = "threedotsdownaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 4, -621}";
 },
 {
-name = uniFB90;
+name = "keheh-ar.init";
 }
 );
 layerId = master01;
@@ -65300,7 +62892,7 @@ layers = (
 {
 components = (
 {
-name = uniFB8F;
+name = "keheh-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -65318,7 +62910,7 @@ layers = (
 {
 components = (
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -65336,7 +62928,7 @@ layers = (
 {
 components = (
 {
-name = uniFB90;
+name = "keheh-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -65373,7 +62965,7 @@ layers = (
 {
 components = (
 {
-name = uniFB8F;
+name = "keheh-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -65391,7 +62983,7 @@ layers = (
 {
 components = (
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -65409,7 +63001,7 @@ layers = (
 {
 components = (
 {
-name = uniFBD5;
+name = "ng-ar.init";
 }
 );
 layerId = master01;
@@ -65442,7 +63034,7 @@ layers = (
 {
 components = (
 {
-name = uniFB8F;
+name = "keheh-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -65460,7 +63052,7 @@ layers = (
 {
 components = (
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -65478,7 +63070,7 @@ layers = (
 {
 components = (
 {
-name = uniFB90;
+name = "keheh-ar.init";
 },
 {
 name = "threedots-ar";
@@ -65507,40 +63099,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06AF;
-},
-{
-glyphname = "gaf-ar.isol";
-layers = (
-{
-components = (
-{
-name = "gaf-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB92;
+unicode = "06AF,FB92";
 },
 {
 glyphname = "gaf-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFB93;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB93;
-},
-{
-glyphname = uniFB93;
 layers = (
 {
 components = (
@@ -65549,7 +63111,7 @@ name = Gaaf.swsh.comp;
 transform = "{1, 0, 0, 1, -138, -28}";
 },
 {
-name = uniFB8F;
+name = "keheh-ar.fina";
 }
 );
 layerId = master01;
@@ -65564,26 +63126,11 @@ layers = (
 {
 components = (
 {
-name = uniFB95;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB95;
-},
-{
-glyphname = uniFB95;
-layers = (
-{
-components = (
-{
 name = Gaaf.swsh.comp;
 transform = "{1, 0, 0, 1, -109, 28}";
 },
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 }
 );
 layerId = master01;
@@ -65598,26 +63145,11 @@ layers = (
 {
 components = (
 {
-name = uniFB94;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB94;
-},
-{
-glyphname = uniFB94;
-layers = (
-{
-components = (
-{
 name = Gaaf.swsh.comp;
 transform = "{1, 0, 0, 1, -54, -42}";
 },
 {
-name = uniFB90;
+name = "keheh-ar.init";
 }
 );
 layerId = master01;
@@ -65651,7 +63183,7 @@ layers = (
 {
 components = (
 {
-name = uniFB93;
+name = "gaf-ar.fina";
 },
 {
 name = "sukunoval-ar";
@@ -65669,7 +63201,7 @@ layers = (
 {
 components = (
 {
-name = uniFB95;
+name = "gaf-ar.medi";
 },
 {
 name = "sukunoval-ar";
@@ -65687,7 +63219,7 @@ layers = (
 {
 components = (
 {
-name = uniFB94;
+name = "gaf-ar.init";
 },
 {
 name = "sukunoval-ar";
@@ -65728,7 +63260,7 @@ layers = (
 {
 components = (
 {
-name = uniFB93;
+name = "gaf-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -65746,7 +63278,7 @@ layers = (
 {
 components = (
 {
-name = uniFB95;
+name = "gaf-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -65764,7 +63296,7 @@ layers = (
 {
 components = (
 {
-name = uniFB94;
+name = "gaf-ar.init";
 },
 {
 name = "threedots-ar";
@@ -65930,7 +63462,7 @@ layers = (
 {
 components = (
 {
-name = uniFB8F;
+name = "keheh-ar.fina";
 },
 {
 name = "sukunoval-ar";
@@ -65948,7 +63480,7 @@ layers = (
 {
 components = (
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 },
 {
 name = "sukunoval-ar";
@@ -65966,7 +63498,7 @@ layers = (
 {
 components = (
 {
-name = uniFB90;
+name = "keheh-ar.init";
 },
 {
 name = "sukunoval-ar";
@@ -66003,7 +63535,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDA;
+name = "kaf-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -66021,7 +63553,7 @@ layers = (
 {
 components = (
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -66039,7 +63571,7 @@ layers = (
 {
 components = (
 {
-name = uniFB90;
+name = "keheh-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -66076,7 +63608,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDA;
+name = "kaf-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -66098,7 +63630,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 110, -39}";
 },
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 }
 );
 layerId = master01;
@@ -66116,7 +63648,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, -118, 217}";
 },
 {
-name = uniFB90;
+name = "keheh-ar.init";
 }
 );
 layerId = master01;
@@ -66149,7 +63681,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDA;
+name = "kaf-ar.fina";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -66171,7 +63703,7 @@ name = "threedotsdownaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 51, -621}";
 },
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 }
 );
 layerId = master01;
@@ -66189,7 +63721,7 @@ name = "threedotsdownaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 51, -621}";
 },
 {
-name = uniFB90;
+name = "keheh-ar.init";
 }
 );
 layerId = master01;
@@ -66226,7 +63758,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 4, -621}";
 },
 {
-name = uniFB93;
+name = "gaf-ar.fina";
 }
 );
 layerId = master01;
@@ -66244,7 +63776,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 18, -621}";
 },
 {
-name = uniFB95;
+name = "gaf-ar.medi";
 }
 );
 layerId = master01;
@@ -66262,7 +63794,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 4, -621}";
 },
 {
-name = uniFB94;
+name = "gaf-ar.init";
 }
 );
 layerId = master01;
@@ -66299,7 +63831,7 @@ name = Gaaf.swsh.comp;
 transform = "{1, 0, 0, 1, 91, -158}";
 },
 {
-name = uniFB8F;
+name = "keheh-ar.fina";
 }
 );
 layerId = master01;
@@ -66317,7 +63849,7 @@ name = Gaaf.swsh.comp;
 transform = "{1, 0, 0, 1, 64, -158}";
 },
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 }
 );
 layerId = master01;
@@ -66335,7 +63867,7 @@ name = Gaaf.swsh.comp;
 transform = "{1, 0, 0, 1, 179, -158}";
 },
 {
-name = uniFB90;
+name = "keheh-ar.init";
 }
 );
 layerId = master01;
@@ -66364,40 +63896,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06AD;
-},
-{
-glyphname = "ng-ar.isol";
-layers = (
-{
-components = (
-{
-name = "ng-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBD3;
+unicode = "06AD,FBD3";
 },
 {
 glyphname = "ng-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFBD4;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBD4;
-},
-{
-glyphname = uniFBD4;
 layers = (
 {
 components = (
@@ -66425,22 +63927,7 @@ layers = (
 {
 components = (
 {
-name = uniFBD6;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBD6;
-},
-{
-glyphname = uniFBD6;
-layers = (
-{
-components = (
-{
-name = uniFB91;
+name = "keheh-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -66459,22 +63946,7 @@ layers = (
 {
 components = (
 {
-name = uniFBD5;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBD5;
-},
-{
-glyphname = uniFBD5;
-layers = (
-{
-components = (
-{
-name = uniFB90;
+name = "keheh-ar.init";
 },
 {
 name = "threedots-ar";
@@ -66508,40 +63980,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06B1;
-},
-{
-glyphname = "ngoeh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "ngoeh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB9A;
+unicode = "06B1,FB9A";
 },
 {
 glyphname = "ngoeh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFB9B;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB9B;
-},
-{
-glyphname = uniFB9B;
 layers = (
 {
 components = (
@@ -66550,7 +63992,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 109, -54}";
 },
 {
-name = uniFB93;
+name = "gaf-ar.fina";
 }
 );
 layerId = master01;
@@ -66565,21 +64007,6 @@ layers = (
 {
 components = (
 {
-name = uniFB9D;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB9D;
-},
-{
-glyphname = uniFB9D;
-layers = (
-{
-components = (
-{
 name = Gaaf.swsh.comp;
 transform = "{1, 0, 0, 1, -123, 42}";
 },
@@ -66588,7 +64015,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 118, -19}";
 },
 {
-name = uniFB91;
+name = "keheh-ar.medi";
 }
 );
 layerId = master01;
@@ -66603,26 +64030,11 @@ layers = (
 {
 components = (
 {
-name = uniFB9C;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB9C;
-},
-{
-glyphname = uniFB9C;
-layers = (
-{
-components = (
-{
 name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, -118, 279}";
 },
 {
-name = uniFB94;
+name = "gaf-ar.init";
 }
 );
 layerId = master01;
@@ -66648,40 +64060,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06B3;
-},
-{
-glyphname = "gueh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "gueh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB96;
+unicode = "06B3,FB96";
 },
 {
 glyphname = "gueh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFB97;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB97;
-},
-{
-glyphname = uniFB97;
 layers = (
 {
 components = (
@@ -66690,7 +64072,7 @@ name = "twodotsverticalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 8, -775}";
 },
 {
-name = uniFB93;
+name = "gaf-ar.fina";
 }
 );
 layerId = master01;
@@ -66705,26 +64087,11 @@ layers = (
 {
 components = (
 {
-name = uniFB99;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB99;
-},
-{
-glyphname = uniFB99;
-layers = (
-{
-components = (
-{
 name = "twodotsverticalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 22, -775}";
 },
 {
-name = uniFB95;
+name = "gaf-ar.medi";
 }
 );
 layerId = master01;
@@ -66739,26 +64106,11 @@ layers = (
 {
 components = (
 {
-name = uniFB98;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB98;
-},
-{
-glyphname = uniFB98;
-layers = (
-{
-components = (
-{
 name = "twodotsverticalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 8, -775}";
 },
 {
-name = uniFB94;
+name = "gaf-ar.init";
 }
 );
 layerId = master01;
@@ -66814,40 +64166,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0644;
-},
-{
-glyphname = "lam-ar.isol";
-layers = (
-{
-components = (
-{
-name = "lam-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEDD;
+unicode = "0644,FEDD";
 },
 {
 glyphname = "lam-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEDE;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEDE;
-},
-{
-glyphname = uniFEDE;
 layers = (
 {
 layerId = master01;
@@ -66906,21 +64228,6 @@ layers = (
 {
 components = (
 {
-name = uniFEE0;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEE0;
-},
-{
-glyphname = uniFEE0;
-layers = (
-{
-components = (
-{
 name = Laam_m.comp;
 },
 {
@@ -66935,21 +64242,6 @@ unicode = FEE0;
 },
 {
 glyphname = "lam-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFEDF;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEDF;
-},
-{
-glyphname = uniFEDF;
 layers = (
 {
 components = (
@@ -66991,7 +64283,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDE;
+name = "lam-ar.fina";
 },
 {
 name = "vabove-ar";
@@ -67030,7 +64322,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDF;
+name = "lam-ar.init";
 },
 {
 name = "vabove-ar";
@@ -67067,7 +64359,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDE;
+name = "lam-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -67085,7 +64377,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE0;
+name = "lam-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -67103,7 +64395,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDF;
+name = "lam-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -67140,7 +64432,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDE;
+name = "lam-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -67228,7 +64520,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDF;
+name = "lam-ar.init";
 },
 {
 name = "threedots-ar";
@@ -67269,7 +64561,7 @@ name = Threedotsinverted.alt.comp;
 transform = "{1, 0, 0, 1, -113, -16}";
 },
 {
-name = uniFEDE;
+name = "lam-ar.fina";
 }
 );
 layerId = master01;
@@ -67283,7 +64575,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE0;
+name = "lam-ar.medi";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -67301,7 +64593,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDF;
+name = "lam-ar.init";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -67342,7 +64634,7 @@ name = "lamDoublebar-ar.comp";
 transform = "{1, 0, 0, 1, 204, 0}";
 },
 {
-name = uniFEDE;
+name = "lam-ar.fina";
 }
 );
 layerId = master01;
@@ -67360,7 +64652,7 @@ name = "lamDoublebar-ar.comp";
 transform = "{1, 0, 0, 1, 17, 110}";
 },
 {
-name = uniFEE0;
+name = "lam-ar.medi";
 }
 );
 layerId = master01;
@@ -67378,7 +64670,7 @@ name = "lamDoublebar-ar.comp";
 transform = "{1, 0, 0, 1, 204, 110}";
 },
 {
-name = uniFEDF;
+name = "lam-ar.init";
 }
 );
 layerId = master01;
@@ -67492,40 +64784,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0645;
-},
-{
-glyphname = "meem-ar.isol";
-layers = (
-{
-components = (
-{
-name = "meem-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEE1;
+unicode = "0645,FEE1";
 },
 {
 glyphname = "meem-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEE2;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEE2;
-},
-{
-glyphname = uniFEE2;
 layers = (
 {
 layerId = master01;
@@ -67598,21 +64860,6 @@ layers = (
 {
 components = (
 {
-name = uniFEE4;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEE4;
-},
-{
-glyphname = uniFEE4;
-layers = (
-{
-components = (
-{
 name = Miim_m.comp;
 },
 {
@@ -67627,21 +64874,6 @@ unicode = FEE4;
 },
 {
 glyphname = "meem-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFEE3;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEE3;
-},
-{
-glyphname = uniFEE3;
 layers = (
 {
 components = (
@@ -67683,7 +64915,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE2;
+name = "meem-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -67701,7 +64933,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE4;
+name = "meem-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -67719,7 +64951,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE3;
+name = "meem-ar.init";
 },
 {
 name = "threedots-ar";
@@ -67748,22 +64980,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0646;
-},
-{
-glyphname = "noon-ar.isol";
-layers = (
-{
-components = (
-{
-name = "noon-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEE5;
+unicode = "0646,FEE5";
 },
 {
 glyphname = "noon-ar.fina";
@@ -67771,22 +64988,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE6;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEE6;
-},
-{
-glyphname = uniFEE6;
-layers = (
-{
-components = (
-{
-name = uniFB9F;
+name = "noonghunna-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -67805,22 +65007,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE8;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEE8;
-},
-{
-glyphname = uniFEE8;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -67839,22 +65026,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE7;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEE7;
-},
-{
-glyphname = uniFEE7;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -67892,7 +65064,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE6;
+name = "noon-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -67910,7 +65082,7 @@ layers = (
 {
 components = (
 {
-name = uniFE92;
+name = "beh-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -67928,7 +65100,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE7;
+name = "noon-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -67987,7 +65159,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 06BA;
+unicode = "06BA,FB9E";
 },
 {
 glyphname = "noonghunna-ar.medi";
@@ -67995,7 +65167,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 }
 );
 layerId = master01;
@@ -68009,46 +65181,16 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 }
 );
 layerId = master01;
 width = 525;
 }
 );
-},
-{
-glyphname = "noonghunna-ar.isol";
-layers = (
-{
-components = (
-{
-name = "noonghunna-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB9E;
 },
 {
 glyphname = "noonghunna-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFB9F;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FB9F;
-},
-{
-glyphname = uniFB9F;
 layers = (
 {
 layerId = master01;
@@ -68118,22 +65260,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06BB;
-},
-{
-glyphname = "rnoon-ar.isol";
-layers = (
-{
-components = (
-{
-name = "rnoon-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBA0;
+unicode = "06BB,FBA0";
 },
 {
 glyphname = "rnoon-ar.fina";
@@ -68141,22 +65268,7 @@ layers = (
 {
 components = (
 {
-name = uniFBA1;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBA1;
-},
-{
-glyphname = uniFBA1;
-layers = (
-{
-components = (
-{
-name = uniFB9F;
+name = "noonghunna-ar.fina";
 },
 {
 name = "tahabove-ar";
@@ -68175,22 +65287,7 @@ layers = (
 {
 components = (
 {
-name = uniFBA3;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBA3;
-},
-{
-glyphname = uniFBA3;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "tahabove-ar";
@@ -68209,22 +65306,7 @@ layers = (
 {
 components = (
 {
-name = uniFBA2;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBA2;
-},
-{
-glyphname = uniFBA2;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "tahabove-ar";
@@ -68262,7 +65344,7 @@ layers = (
 {
 components = (
 {
-name = uniFB9F;
+name = "noonghunna-ar.fina";
 },
 {
 name = "sukunoval-ar";
@@ -68280,7 +65362,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "sukunoval-ar";
@@ -68298,7 +65380,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "sukunoval-ar";
@@ -68335,7 +65417,7 @@ layers = (
 {
 components = (
 {
-name = uniFB9F;
+name = "noonghunna-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -68353,7 +65435,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -68371,7 +65453,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "threedots-ar";
@@ -68399,7 +65481,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0647;
+unicode = "0647,FEE9";
 },
 {
 glyphname = "heh-ar.alt";
@@ -68420,37 +65502,7 @@ width = 525;
 );
 },
 {
-glyphname = "heh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "heh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEE9;
-},
-{
 glyphname = "heh-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEEA;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEEA;
-},
-{
-glyphname = uniFEEA;
 layers = (
 {
 layerId = master01;
@@ -68516,21 +65568,6 @@ layers = (
 {
 components = (
 {
-name = uniFEEC;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEEC;
-},
-{
-glyphname = uniFEEC;
-layers = (
-{
-components = (
-{
 name = Haa_m.comp;
 },
 {
@@ -68545,21 +65582,6 @@ unicode = FEEC;
 },
 {
 glyphname = "heh-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFEEB;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEEB;
-},
-{
-glyphname = uniFEEB;
 layers = (
 {
 components = (
@@ -68593,22 +65615,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06C0;
-},
-{
-glyphname = "hehHamzaabove-ar.isol";
-layers = (
-{
-components = (
-{
-name = "hehHamzaabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBA4;
+unicode = "06C0,FBA4";
 },
 {
 glyphname = "hehHamzaabove-ar.fina";
@@ -68616,26 +65623,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEA;
-},
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, -70, -3}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBA5;
-},
-{
-glyphname = uniFBA5;
-layers = (
-{
-components = (
-{
-name = uniFEEA;
+name = "heh-ar.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -68664,40 +65652,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06C1;
-},
-{
-glyphname = "hehgoal-ar.isol";
-layers = (
-{
-components = (
-{
-name = "hehgoal-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBA6;
+unicode = "06C1,FBA6";
 },
 {
 glyphname = "hehgoal-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFBA7;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBA7;
-},
-{
-glyphname = uniFBA7;
 layers = (
 {
 layerId = master01;
@@ -68760,26 +65718,12 @@ width = 525;
 unicode = FBA9;
 },
 {
-glyphname = uni06C1.medi;
-layers = (
-{
-components = (
-{
-name = "hehgoal-ar.medi";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-},
-{
 glyphname = "hehgoal-ar.init";
 layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "comma-ar";
@@ -68791,20 +65735,6 @@ width = 525;
 }
 );
 unicode = FBA8;
-},
-{
-glyphname = uni06C1.init;
-layers = (
-{
-components = (
-{
-name = "hehgoal-ar.init";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 },
 {
 glyphname = "hehgoalHamzaabove-ar";
@@ -68831,7 +65761,7 @@ layers = (
 {
 components = (
 {
-name = uniFBA7;
+name = "hehgoal-ar.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -68935,7 +65865,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 06BE;
+unicode = "06BE,FBAA";
 },
 {
 glyphname = "hehDoachashmee-ar.comp";
@@ -68953,37 +65883,7 @@ width = 525;
 );
 },
 {
-glyphname = "hehDoachashmee-ar.isol";
-layers = (
-{
-components = (
-{
-name = "hehDoachashmee-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBAA;
-},
-{
 glyphname = "hehDoachashmee-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFBAB;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBAB;
-},
-{
-glyphname = uniFBAB;
 layers = (
 {
 components = (
@@ -69017,34 +65917,6 @@ layers = (
 {
 components = (
 {
-name = uniFBAC;
-}
-);
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"525 110 LINE",
-"345 110 LINE",
-"354 169 LINE",
-"411 162 OFFCURVE",
-"468 177 OFFCURVE",
-"525 180 CURVE"
-);
-}
-);
-width = 525;
-}
-);
-unicode = FBAD;
-},
-{
-glyphname = uniFBAD;
-layers = (
-{
-components = (
-{
 name = "hehDoachashmee-ar.init.comp";
 }
 );
@@ -69069,21 +65941,6 @@ unicode = FBAD;
 },
 {
 glyphname = "hehDoachashmee-ar.init";
-layers = (
-{
-components = (
-{
-name = uniFBAC;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBAC;
-},
-{
-glyphname = uniFBAC;
 layers = (
 {
 components = (
@@ -69211,7 +66068,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEA;
+name = "heh-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
@@ -69229,7 +66086,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEC;
+name = "heh-ar.medi";
 },
 {
 name = "vinvertedabove-ar";
@@ -69247,7 +66104,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEB;
+name = "heh-ar.init";
 },
 {
 name = "vinvertedabove-ar";
@@ -69276,7 +66133,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0629;
+unicode = "0629,FE93";
 },
 {
 glyphname = "tehMarbuta-ar.alt";
@@ -69293,46 +66150,12 @@ width = 525;
 );
 },
 {
-glyphname = "tehMarbuta-ar.isol";
-layers = (
-{
-components = (
-{
-name = "twodotshorizontalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, -27, 172}";
-},
-{
-name = "heh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE93;
-},
-{
 glyphname = "tehMarbuta-ar.fina";
 layers = (
 {
 components = (
 {
-name = uniFE94;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE94;
-},
-{
-glyphname = uniFE94;
-layers = (
-{
-components = (
-{
-name = uniFEEA;
+name = "heh-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -69374,7 +66197,7 @@ name = "twodotshorizontalaboveSymbol-ar";
 transform = "{1, 0, 0, 1, 0, 55}";
 },
 {
-name = uniFBA7;
+name = "hehgoal-ar.fina";
 }
 );
 layerId = master01;
@@ -69449,40 +66272,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0648;
-},
-{
-glyphname = "waw-ar.isol";
-layers = (
-{
-components = (
-{
-name = "waw-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEED;
+unicode = "0648,FEED";
 },
 {
 glyphname = "waw-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFEEE;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEEE;
-},
-{
-glyphname = uniFEEE;
 layers = (
 {
 layerId = master01;
@@ -69566,7 +66359,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "sukunoval-ar";
@@ -69603,7 +66396,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -69640,7 +66433,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -69669,26 +66462,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0624;
-},
-{
-glyphname = "wawHamzaabove-ar.isol";
-layers = (
-{
-components = (
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, -26, -182}";
-},
-{
-name = "waw-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE85;
+unicode = "0624,FE85";
 },
 {
 glyphname = "wawHamzaabove-ar.fina";
@@ -69696,26 +66470,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEE;
-},
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, -46, -154}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE86;
-},
-{
-glyphname = uniFE86;
-layers = (
-{
-components = (
-{
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -69758,7 +66513,7 @@ name = Twoarabic_minor.comp;
 transform = "{1, 0, 0, 1, -95, -293}";
 },
 {
-name = uniFEEE;
+name = "waw-ar.fina";
 }
 );
 layerId = master01;
@@ -69796,7 +66551,7 @@ name = Threearabic_minor.comp;
 transform = "{1, 0, 0, 1, -95, -307}";
 },
 {
-name = uniFEEE;
+name = "waw-ar.fina";
 }
 );
 layerId = master01;
@@ -69829,7 +66584,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -69979,40 +66734,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06C5;
-},
-{
-glyphname = "kirghizoe-ar.isol";
-layers = (
-{
-components = (
-{
-name = "kirghizoe-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBE0;
+unicode = "06C5,FBE0";
 },
 {
 glyphname = "kirghizoe-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFBE1;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBE1;
-},
-{
-glyphname = uniFBE1;
 layers = (
 {
 components = (
@@ -70021,7 +66746,7 @@ name = kyrgyz_oe.comp;
 transform = "{1, 0, 0, 1, -106, -726}";
 },
 {
-name = uniFEEE;
+name = "waw-ar.fina";
 }
 );
 layerId = master01;
@@ -70047,22 +66772,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06C6;
-},
-{
-glyphname = "oe-ar.isol";
-layers = (
-{
-components = (
-{
-name = "oe-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBD9;
+unicode = "06C6,FBD9";
 },
 {
 glyphname = "oe-ar.fina";
@@ -70070,22 +66780,7 @@ layers = (
 {
 components = (
 {
-name = uniFBDA;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBDA;
-},
-{
-glyphname = uniFBDA;
-layers = (
-{
-components = (
-{
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "vabove-ar";
@@ -70115,22 +66810,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06C7;
-},
-{
-glyphname = "u-ar.isol";
-layers = (
-{
-components = (
-{
-name = "u-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBD7;
+unicode = "06C7,FBD7";
 },
 {
 glyphname = "u-ar.fina";
@@ -70138,22 +66818,7 @@ layers = (
 {
 components = (
 {
-name = uniFBD8;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBD8;
-},
-{
-glyphname = uniFBD8;
-layers = (
-{
-components = (
-{
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "damma-ar";
@@ -70183,22 +66848,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06C8;
-},
-{
-glyphname = "yu-ar.isol";
-layers = (
-{
-components = (
-{
-name = "yu-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBDB;
+unicode = "06C8,FBDB";
 },
 {
 glyphname = "yu-ar.fina";
@@ -70206,22 +66856,7 @@ layers = (
 {
 components = (
 {
-name = uniFBDC;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBDC;
-},
-{
-glyphname = uniFBDC;
-layers = (
-{
-components = (
-{
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "alefbelow-ar";
@@ -70251,22 +66886,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06C9;
-},
-{
-glyphname = "kirghizyu-ar.isol";
-layers = (
-{
-components = (
-{
-name = "kirghizyu-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBE2;
+unicode = "06C9,FBE2";
 },
 {
 glyphname = "kirghizyu-ar.fina";
@@ -70274,22 +66894,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE3;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBE3;
-},
-{
-glyphname = uniFBE3;
-layers = (
-{
-components = (
-{
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
@@ -70319,22 +66924,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06CB;
-},
-{
-glyphname = "ve-ar.isol";
-layers = (
-{
-components = (
-{
-name = "ve-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBDE;
+unicode = "06CB,FBDE";
 },
 {
 glyphname = "ve-ar.fina";
@@ -70342,22 +66932,7 @@ layers = (
 {
 components = (
 {
-name = uniFBDF;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBDF;
-},
-{
-glyphname = uniFBDF;
-layers = (
-{
-components = (
-{
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "threedots-ar";
@@ -70436,22 +67011,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0649;
-},
-{
-glyphname = "alefMaksura-ar.isol";
-layers = (
-{
-components = (
-{
-name = "alefMaksura-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEEF;
+unicode = "0649,FEEF";
 },
 {
 glyphname = "alefMaksura-ar.fina";
@@ -70459,22 +67019,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFD;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEF0;
-},
-{
-glyphname = uniFEF0;
-layers = (
-{
-components = (
-{
-name = uniFBFD;
+name = "yeh-farsi.fina";
 }
 );
 layerId = master01;
@@ -70544,7 +67089,7 @@ name = Twoarabic_minor.comp;
 transform = "{1, 0, 0, 1, -152, -99}";
 },
 {
-name = uniFE8E;
+name = "alef-ar.fina";
 }
 );
 layerId = master01;
@@ -70600,7 +67145,7 @@ name = Threearabic_minor.comp;
 transform = "{1, 0, 0, 1, -154, -99}";
 },
 {
-name = uniFE8E;
+name = "alef-ar.fina";
 }
 );
 layerId = master01;
@@ -70643,22 +67188,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 064A;
-},
-{
-glyphname = "yeh-ar.isol";
-layers = (
-{
-components = (
-{
-name = "yeh-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEF1;
+unicode = "064A,FEF1";
 },
 {
 glyphname = "yeh-ar.fina";
@@ -70666,22 +67196,7 @@ layers = (
 {
 components = (
 {
-name = uniFEF2;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEF2;
-},
-{
-glyphname = uniFEF2;
-layers = (
-{
-components = (
-{
-name = uniFBFD;
+name = "yeh-farsi.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -70700,22 +67215,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFF;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEF4;
-},
-{
-glyphname = uniFEF4;
-layers = (
-{
-components = (
-{
-name = uniFBFF;
+name = "yeh-farsi.medi";
 }
 );
 layerId = master01;
@@ -70730,22 +67230,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFE;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FEF3;
-},
-{
-glyphname = uniFEF3;
-layers = (
-{
-components = (
-{
-name = uniFBFE;
+name = "yeh-farsi.init";
 }
 );
 layerId = master01;
@@ -70771,26 +67256,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0626;
-},
-{
-glyphname = "yehHamzaabove-ar.isol";
-layers = (
-{
-components = (
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 0, -53}";
-},
-{
-name = "alefMaksura-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE89;
+unicode = "0626,FE89";
 },
 {
 glyphname = "yehHamzaabove-ar.fina";
@@ -70798,26 +67264,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFD;
-},
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 0, -308}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE8A;
-},
-{
-glyphname = uniFE8A;
-layers = (
-{
-components = (
-{
-name = uniFBFD;
+name = "yeh-farsi.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -70836,26 +67283,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
-},
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, -46, -62}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE8C;
-},
-{
-glyphname = uniFE8C;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "hamzaabove-ar";
@@ -70874,26 +67302,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
-},
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, -42, -62}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE8B;
-},
-{
-glyphname = uniFE8B;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "hamzaabove-ar";
@@ -70931,7 +67340,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 },
 {
 name = "vabove-ar";
@@ -70949,7 +67358,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "vabove-ar";
@@ -70967,7 +67376,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "vabove-ar";
@@ -71004,7 +67413,7 @@ layers = (
 {
 components = (
 {
-name = uniFEF2;
+name = "yeh-ar.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -71022,7 +67431,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFF;
+name = "yeh-farsi.medi";
 },
 {
 name = "hamzaabove-ar";
@@ -71040,7 +67449,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFE;
+name = "yeh-farsi.init";
 },
 {
 name = "hamzaabove-ar";
@@ -71077,7 +67486,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -71103,7 +67512,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFF;
+name = "yeh-farsi.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -71121,7 +67530,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFE;
+name = "yeh-farsi.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -71134,7 +67543,7 @@ width = 525;
 );
 },
 {
-glyphname = uni063D;
+glyphname = "yehVinverted-farsi";
 layers = (
 {
 components = (
@@ -71153,12 +67562,12 @@ width = 525;
 unicode = 063D;
 },
 {
-glyphname = uni063D.fina;
+glyphname = "yehVinverted-farsi.fina";
 layers = (
 {
 components = (
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 },
 {
 name = "vinvertedabove-ar";
@@ -71171,12 +67580,12 @@ width = 525;
 );
 },
 {
-glyphname = uni063D.medi;
+glyphname = "yehVinverted-farsi.medi";
 layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "vinvertedabove-ar";
@@ -71189,12 +67598,12 @@ width = 525;
 );
 },
 {
-glyphname = uni063D.init;
+glyphname = "yehVinverted-farsi.init";
 layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "vinvertedabove-ar";
@@ -71207,7 +67616,7 @@ width = 525;
 );
 },
 {
-glyphname = uni06CC;
+glyphname = "yeh-farsi";
 layers = (
 {
 components = (
@@ -71219,39 +67628,10 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06CC;
+unicode = "06CC,FBFC";
 },
 {
-glyphname = uniFBFC;
-layers = (
-{
-components = (
-{
-name = "alefMaksura-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBFC;
-},
-{
-glyphname = uni06CC.fina;
-layers = (
-{
-components = (
-{
-name = uniFBFD;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-},
-{
-glyphname = uniFBFD;
+glyphname = "yeh-farsi.fina";
 layers = (
 {
 layerId = master01;
@@ -71317,26 +67697,12 @@ width = 525;
 unicode = FBFD;
 },
 {
-glyphname = uni06CC.medi;
+glyphname = "yeh-farsi.medi";
 layers = (
 {
 components = (
 {
-name = uniFBFF;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-},
-{
-glyphname = uniFBFF;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -71350,26 +67716,12 @@ width = 525;
 unicode = FBFF;
 },
 {
-glyphname = uni06CC.init;
+glyphname = "yeh-farsi.init";
 layers = (
 {
 components = (
 {
-name = uniFBFE;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-},
-{
-glyphname = uniFBFE;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -71383,7 +67735,7 @@ width = 525;
 unicode = FBFE;
 },
 {
-glyphname = uni063E;
+glyphname = "yehTwodotsabove-farsi";
 layers = (
 {
 components = (
@@ -71402,12 +67754,12 @@ width = 525;
 unicode = 063E;
 },
 {
-glyphname = uni063E.fina;
+glyphname = "yehTwodotsabove-farsi.fina";
 layers = (
 {
 components = (
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -71420,12 +67772,12 @@ width = 525;
 );
 },
 {
-glyphname = uni063E.medi;
+glyphname = "yehTwodotsabove-farsi.medi";
 layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -71438,12 +67790,12 @@ width = 525;
 );
 },
 {
-glyphname = uni063E.init;
+glyphname = "yehTwodotsabove-farsi.init";
 layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -71456,7 +67808,7 @@ width = 525;
 );
 },
 {
-glyphname = uni063F;
+glyphname = "yehThreedotsabove-farsi";
 layers = (
 {
 components = (
@@ -71475,12 +67827,12 @@ width = 525;
 unicode = 063F;
 },
 {
-glyphname = uni063F.fina;
+glyphname = "yehThreedotsabove-farsi.fina";
 layers = (
 {
 components = (
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 },
 {
 name = "threedots-ar";
@@ -71493,12 +67845,12 @@ width = 525;
 );
 },
 {
-glyphname = uni063F.medi;
+glyphname = "yehThreedotsabove-farsi.medi";
 layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "threedots-ar";
@@ -71511,12 +67863,12 @@ width = 525;
 );
 },
 {
-glyphname = uni063F.init;
+glyphname = "yehThreedotsabove-farsi.init";
 layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "threedots-ar";
@@ -71529,7 +67881,7 @@ width = 525;
 );
 },
 {
-glyphname = uni0775;
+glyphname = "yehTwoabove-farsi";
 layers = (
 {
 components = (
@@ -71548,7 +67900,7 @@ width = 525;
 unicode = 0775;
 },
 {
-glyphname = uni0775.fina;
+glyphname = "yehTwoabove-farsi.fina";
 layers = (
 {
 components = (
@@ -71557,7 +67909,7 @@ name = Twoarabic_minor.comp;
 transform = "{1, 0, 0, 1, -58, -312}";
 },
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 }
 );
 layerId = master01;
@@ -71566,7 +67918,7 @@ width = 525;
 );
 },
 {
-glyphname = uni0775.medi;
+glyphname = "yehTwoabove-farsi.medi";
 layers = (
 {
 components = (
@@ -71575,7 +67927,7 @@ name = Twoarabic_minor.comp;
 transform = "{1, 0, 0, 1, -86, -157}";
 },
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 }
 );
 layerId = master01;
@@ -71584,7 +67936,7 @@ width = 525;
 );
 },
 {
-glyphname = uni0775.init;
+glyphname = "yehTwoabove-farsi.init";
 layers = (
 {
 components = (
@@ -71593,7 +67945,7 @@ name = Twoarabic_minor.comp;
 transform = "{1, 0, 0, 1, -58, -157}";
 },
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 }
 );
 layerId = master01;
@@ -71602,7 +67954,7 @@ width = 525;
 );
 },
 {
-glyphname = uni0776;
+glyphname = "yehThreeabove-farsi";
 layers = (
 {
 components = (
@@ -71621,7 +67973,7 @@ width = 525;
 unicode = 0776;
 },
 {
-glyphname = uni0776.fina;
+glyphname = "yehThreeabove-farsi.fina";
 layers = (
 {
 components = (
@@ -71630,7 +67982,7 @@ name = Threearabic_minor.comp;
 transform = "{1, 0, 0, 1, -58, -312}";
 },
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 }
 );
 layerId = master01;
@@ -71639,7 +67991,7 @@ width = 525;
 );
 },
 {
-glyphname = uni0776.medi;
+glyphname = "yehThreeabove-farsi.medi";
 layers = (
 {
 components = (
@@ -71648,7 +68000,7 @@ name = Threearabic_minor.comp;
 transform = "{1, 0, 0, 1, -86, -157}";
 },
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 }
 );
 layerId = master01;
@@ -71657,7 +68009,7 @@ width = 525;
 );
 },
 {
-glyphname = uni0776.init;
+glyphname = "yehThreeabove-farsi.init";
 layers = (
 {
 components = (
@@ -71666,7 +68018,7 @@ name = Threearabic_minor.comp;
 transform = "{1, 0, 0, 1, -58, -157}";
 },
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 }
 );
 layerId = master01;
@@ -71675,7 +68027,7 @@ width = 525;
 );
 },
 {
-glyphname = uni0777;
+glyphname = "yehFourbelow-farsi";
 layers = (
 {
 components = (
@@ -71694,7 +68046,7 @@ width = 525;
 unicode = 0777;
 },
 {
-glyphname = uni0777.fina;
+glyphname = "yehFourbelow-farsi.fina";
 layers = (
 {
 components = (
@@ -71703,7 +68055,7 @@ name = Fourarabic_minor.indo.comp;
 transform = "{1, 0, 0, 1, 0, -1061}";
 },
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 }
 );
 layerId = master01;
@@ -71712,7 +68064,7 @@ width = 525;
 );
 },
 {
-glyphname = uni0777.medi;
+glyphname = "yehFourbelow-farsi.medi";
 layers = (
 {
 components = (
@@ -71721,7 +68073,7 @@ name = Fourarabic_minor.indo.comp;
 transform = "{1, 0, 0, 1, 15, -780}";
 },
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 }
 );
 layerId = master01;
@@ -71730,7 +68082,7 @@ width = 525;
 );
 },
 {
-glyphname = uni0777.init;
+glyphname = "yehFourbelow-farsi.init";
 layers = (
 {
 components = (
@@ -71739,7 +68091,7 @@ name = Fourarabic_minor.indo.comp;
 transform = "{1, 0, 0, 1, 0, -780}";
 },
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 }
 );
 layerId = master01;
@@ -71776,7 +68128,7 @@ name = tail.comp;
 transform = "{1, 0, 0, 1, 12, -166}";
 },
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 }
 );
 layerId = master01;
@@ -71809,7 +68161,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 }
 );
 layerId = master01;
@@ -71859,7 +68211,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "sukunoval-ar";
@@ -71877,7 +68229,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "sukunoval-ar";
@@ -71906,22 +68258,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06D0;
-},
-{
-glyphname = "e-ar.isol";
-layers = (
-{
-components = (
-{
-name = "e-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBE4;
+unicode = "06D0,FBE4";
 },
 {
 glyphname = "e-ar.fina";
@@ -71929,22 +68266,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE5;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBE5;
-},
-{
-glyphname = uniFBE5;
-layers = (
-{
-components = (
-{
-name = uniFBFD;
+name = "yeh-farsi.fina";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -71963,22 +68285,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE7;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBE7;
-},
-{
-glyphname = uniFBE7;
-layers = (
-{
-components = (
-{
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -71997,22 +68304,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE6;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBE6;
-},
-{
-glyphname = uniFBE6;
-layers = (
-{
-components = (
-{
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -72054,7 +68346,7 @@ name = Threedotsinverted.alt.comp;
 transform = "{1, 0, 0, 1, -122, -74}";
 },
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 }
 );
 layerId = master01;
@@ -72082,7 +68374,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -72144,40 +68436,10 @@ nodes = (
 width = 525;
 }
 );
-unicode = 06D2;
-},
-{
-glyphname = "yehbarree-ar.isol";
-layers = (
-{
-components = (
-{
-name = "yehbarree-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBAE;
+unicode = "06D2,FBAE";
 },
 {
 glyphname = "yehbarree-ar.fina";
-layers = (
-{
-components = (
-{
-name = uniFBAF;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBAF;
-},
-{
-glyphname = uniFBAF;
 layers = (
 {
 layerId = master01;
@@ -72246,22 +68508,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 06D3;
-},
-{
-glyphname = "yehbarreeHamzaabove-ar.isol";
-layers = (
-{
-components = (
-{
-name = "yehbarreeHamzaabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBB0;
+unicode = "06D3,FBB0";
 },
 {
 glyphname = "yehbarreeHamzaabove-ar.fina";
@@ -72269,22 +68516,7 @@ layers = (
 {
 components = (
 {
-name = uniFBB1;
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBB1;
-},
-{
-glyphname = uniFBB1;
-layers = (
-{
-components = (
-{
-name = uniFBAF;
+name = "yehbarree-ar.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -72326,7 +68558,7 @@ name = Twoarabic_minor.comp;
 transform = "{1, 0, 0, 1, -128, -255}";
 },
 {
-name = uniFBAF;
+name = "yehbarree-ar.fina";
 }
 );
 layerId = master01;
@@ -72363,7 +68595,7 @@ name = Threearabic_minor.comp;
 transform = "{1, 0, 0, 1, -128, -255}";
 },
 {
-name = uniFBAF;
+name = "yehbarree-ar.fina";
 }
 );
 layerId = master01;
@@ -72533,7 +68765,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEE;
+name = "waw-ar.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -72562,7 +68794,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0677;
+unicode = "0677,FBDD";
 },
 {
 glyphname = "uHamzaabove-ar.fina";
@@ -72581,21 +68813,6 @@ layerId = master01;
 width = 525;
 }
 );
-},
-{
-glyphname = "uHamzaabove-ar.isol";
-layers = (
-{
-components = (
-{
-name = "uHamzaabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBDD;
 },
 {
 glyphname = "highhamzaYeh-ar";
@@ -72622,7 +68839,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 },
 {
 name = "hamzaabove-ar";
@@ -72640,7 +68857,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "hamzaabove-ar";
@@ -72658,7 +68875,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "hamzaabove-ar";
@@ -72725,7 +68942,7 @@ layers = (
 {
 components = (
 {
-name = uniFBA7;
+name = "hehgoal-ar.fina";
 }
 );
 layerId = master01;
@@ -72758,7 +68975,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB2;
+name = "seen-ar.fina";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -72776,7 +68993,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB4;
+name = "seen-ar.medi";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -72794,7 +69011,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB3;
+name = "seen-ar.init";
 },
 {
 name = "fourdotsaboveSymbol-ar";
@@ -72831,7 +69048,7 @@ layers = (
 {
 components = (
 {
-name = uniFECA;
+name = "ain-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -72867,7 +69084,7 @@ layers = (
 {
 components = (
 {
-name = uniFECB;
+name = "ain-ar.init";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -72904,7 +69121,7 @@ layers = (
 {
 components = (
 {
-name = uniFECA;
+name = "ain-ar.fina";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -72940,7 +69157,7 @@ layers = (
 {
 components = (
 {
-name = uniFECB;
+name = "ain-ar.init";
 },
 {
 name = "threedotsdownaboveSymbol-ar";
@@ -72977,7 +69194,7 @@ layers = (
 {
 components = (
 {
-name = uniFECA;
+name = "ain-ar.fina";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -73013,7 +69230,7 @@ layers = (
 {
 components = (
 {
-name = uniFECB;
+name = "ain-ar.init";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -73196,7 +69413,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE2;
+name = "meem-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73214,7 +69431,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE4;
+name = "meem-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73232,7 +69449,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE3;
+name = "meem-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73269,7 +69486,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE2;
+name = "meem-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73287,7 +69504,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE4;
+name = "meem-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73305,7 +69522,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE3;
+name = "meem-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73342,7 +69559,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE6;
+name = "noon-ar.fina";
 },
 {
 name = "twodotshorizontalaboveSymbol-ar";
@@ -73360,7 +69577,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFF;
+name = "yeh-farsi.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73378,7 +69595,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE7;
+name = "noon-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73423,7 +69640,7 @@ layers = (
 {
 components = (
 {
-name = uniFB9F;
+name = "noonghunna-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73445,7 +69662,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE9;
+name = "alefMaksura-ar.medi";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73467,7 +69684,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73508,7 +69725,7 @@ layers = (
 {
 components = (
 {
-name = uniFB9F;
+name = "noonghunna-ar.fina";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73530,7 +69747,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE8;
+name = "noon-ar.medi";
 },
 {
 name = "vabove-ar";
@@ -73548,7 +69765,7 @@ layers = (
 {
 components = (
 {
-name = uniFBE8;
+name = "alefMaksura-ar.init";
 },
 {
 name = "dotvowelbelow-ar";
@@ -73589,7 +69806,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDE;
+name = "lam-ar.fina";
 },
 {
 name = "fathaHorizont-ar";
@@ -73607,7 +69824,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE0;
+name = "lam-ar.medi";
 },
 {
 name = "fathaHorizont-ar";
@@ -73625,7 +69842,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDF;
+name = "lam-ar.init";
 },
 {
 name = "fathaHorizont-ar";
@@ -73662,7 +69879,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB2;
+name = "seen-ar.fina";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -73680,7 +69897,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB4;
+name = "seen-ar.medi";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -73698,7 +69915,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB3;
+name = "seen-ar.init";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -73739,7 +69956,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB2;
+name = "seen-ar.fina";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -73761,7 +69978,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB4;
+name = "seen-ar.medi";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -73783,7 +70000,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB3;
+name = "seen-ar.init";
 },
 {
 name = "twodotsverticalaboveSymbol-ar";
@@ -73824,7 +70041,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 },
 {
 name = "tahabove-ar";
@@ -73842,7 +70059,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA4;
+name = "hah-ar.medi";
 },
 {
 name = "tahabove-ar";
@@ -73860,7 +70077,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA3;
+name = "hah-ar.init";
 },
 {
 name = "tahabove-ar";
@@ -73901,7 +70118,7 @@ name = Fourarabic_minor.indo.comp;
 transform = "{1, 0, 0, 1, 93, 30}";
 },
 {
-name = uniFEB2;
+name = "seen-ar.fina";
 }
 );
 layerId = master01;
@@ -73919,7 +70136,7 @@ name = Fourarabic_minor.indo.comp;
 transform = "{1, 0, 0, 1, 37, 30}";
 },
 {
-name = uniFEB4;
+name = "seen-ar.medi";
 }
 );
 layerId = master01;
@@ -73937,7 +70154,7 @@ name = Fourarabic_minor.indo.comp;
 transform = "{1, 0, 0, 1, 93, 30}";
 },
 {
-name = uniFEB3;
+name = "seen-ar.init";
 }
 );
 layerId = master01;
@@ -73970,7 +70187,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB2;
+name = "seen-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
@@ -73988,7 +70205,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB4;
+name = "seen-ar.medi";
 },
 {
 name = "vinvertedabove-ar";
@@ -74006,7 +70223,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB3;
+name = "seen-ar.init";
 },
 {
 name = "vinvertedabove-ar";
@@ -74935,15 +71152,11 @@ layers = (
 {
 components = (
 {
-name = "jeem-ar.init";
-transform = "{1, 0, 0, 1, -1.033, 0.768}";
-},
-{
-name = "hah-ar.init";
-},
-{
 name = "tehMarbutagoal-ar";
 transform = "{1, 0, 0, 1, 10.745, 261.986}";
+},
+{
+name = "jeem-ar.init";
 }
 );
 layerId = master01;
@@ -80427,7 +76640,7 @@ width = 525;
 unicode = 0669;
 },
 {
-glyphname = uni06F0;
+glyphname = "zero-persian";
 layers = (
 {
 components = (
@@ -80442,7 +76655,7 @@ width = 525;
 unicode = 06F0;
 },
 {
-glyphname = uni06F1;
+glyphname = "one-persian";
 layers = (
 {
 components = (
@@ -80457,7 +76670,7 @@ width = 525;
 unicode = 06F1;
 },
 {
-glyphname = uni06F2;
+glyphname = "two-persian";
 layers = (
 {
 components = (
@@ -80472,7 +76685,7 @@ width = 525;
 unicode = 06F2;
 },
 {
-glyphname = uni06F3;
+glyphname = "three-persian";
 layers = (
 {
 components = (
@@ -80487,7 +76700,7 @@ width = 525;
 unicode = 06F3;
 },
 {
-glyphname = uni06F4;
+glyphname = "four-persian";
 layers = (
 {
 layerId = master01;
@@ -80564,7 +76777,7 @@ width = 525;
 unicode = 06F4;
 },
 {
-glyphname = uni06F5;
+glyphname = "five-persian";
 layers = (
 {
 layerId = master01;
@@ -80622,7 +76835,7 @@ width = 525;
 unicode = 06F5;
 },
 {
-glyphname = uni06F6;
+glyphname = "six-persian";
 layers = (
 {
 layerId = master01;
@@ -80687,7 +76900,7 @@ width = 525;
 unicode = 06F6;
 },
 {
-glyphname = uni06F7;
+glyphname = "seven-persian";
 layers = (
 {
 components = (
@@ -80702,7 +76915,7 @@ width = 525;
 unicode = 06F7;
 },
 {
-glyphname = uni06F8;
+glyphname = "eight-persian";
 layers = (
 {
 components = (
@@ -80717,7 +76930,7 @@ width = 525;
 unicode = 06F8;
 },
 {
-glyphname = uni06F9;
+glyphname = "nine-persian";
 layers = (
 {
 components = (
@@ -80732,7 +76945,7 @@ width = 525;
 unicode = 06F9;
 },
 {
-glyphname = uni06F4.indo;
+glyphname = "four-persian.indo";
 layers = (
 {
 layerId = master01;
@@ -80802,7 +77015,7 @@ width = 525;
 );
 },
 {
-glyphname = uni06F7.indo;
+glyphname = "seven-persian.indo";
 layers = (
 {
 layerId = master01;
@@ -88480,7 +84693,7 @@ width = 525;
 unicode = 060B;
 },
 {
-glyphname = uniFDFC;
+glyphname = rial;
 layers = (
 {
 layerId = master01;
@@ -94405,7 +90618,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE2;
+name = "meem-ar.fina";
 },
 {
 name = "doubleverticalbarbelowSymbol-ar";
@@ -94423,7 +90636,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE4;
+name = "meem-ar.medi";
 },
 {
 name = "doubleverticalbarbelowSymbol-ar";
@@ -94441,7 +90654,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE3;
+name = "meem-ar.init";
 },
 {
 name = "doubleverticalbarbelowSymbol-ar";
@@ -98150,21 +94363,6 @@ unicode = 0613;
 subCategory = Spacing;
 },
 {
-glyphname = "kasra-ar.isol";
-layers = (
-{
-components = (
-{
-name = "kasra-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE7A;
-},
-{
 glyphname = "sadabove-ar";
 layers = (
 {
@@ -98975,7 +95173,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 064B;
+unicode = "064B,FE70";
 subCategory = Spacing;
 },
 {
@@ -98992,21 +95190,6 @@ width = 525;
 }
 );
 subCategory = Spacing;
-},
-{
-glyphname = "fathatan-ar.isol";
-layers = (
-{
-components = (
-{
-name = "fathatan-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE70;
 },
 {
 glyphname = "dammatan-ar";
@@ -99026,7 +95209,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 064C;
+unicode = "064C,FE72";
 subCategory = Spacing;
 },
 {
@@ -99045,21 +95228,6 @@ width = 525;
 subCategory = Spacing;
 },
 {
-glyphname = "dammatan-ar.isol";
-layers = (
-{
-components = (
-{
-name = "dammatan-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE72;
-},
-{
 glyphname = "kasratan-ar";
 layers = (
 {
@@ -99073,7 +95241,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 064D;
+unicode = "064D,FE74";
 subCategory = Spacing;
 },
 {
@@ -99091,21 +95259,6 @@ width = 525;
 }
 );
 subCategory = Spacing;
-},
-{
-glyphname = "kasratan-ar.isol";
-layers = (
-{
-components = (
-{
-name = "kasratan-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE74;
 },
 {
 glyphname = "fatha-ar";
@@ -99142,7 +95295,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 064E;
+unicode = "064E,FE76";
 subCategory = Spacing;
 },
 {
@@ -99159,21 +95312,6 @@ width = 525;
 }
 );
 subCategory = Spacing;
-},
-{
-glyphname = "fatha-ar.isol";
-layers = (
-{
-components = (
-{
-name = "fatha-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE76;
 },
 {
 glyphname = "damma-ar";
@@ -99217,7 +95355,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 064F;
+unicode = "064F,FE78";
 subCategory = Spacing;
 },
 {
@@ -99236,21 +95374,6 @@ width = 525;
 subCategory = Spacing;
 },
 {
-glyphname = "damma-ar.isol";
-layers = (
-{
-components = (
-{
-name = "damma-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE78;
-},
-{
 glyphname = "kasra-ar";
 layers = (
 {
@@ -99264,7 +95387,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0650;
+unicode = "0650,FE7A";
 subCategory = Spacing;
 },
 {
@@ -99346,7 +95469,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0651;
+unicode = "0651,FE7C";
 subCategory = Spacing;
 },
 {
@@ -99379,21 +95502,6 @@ width = 525;
 }
 );
 subCategory = Spacing;
-},
-{
-glyphname = "shadda-ar.isol";
-layers = (
-{
-components = (
-{
-name = "shadda-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE7C;
 },
 {
 glyphname = "sukun-ar";
@@ -99442,7 +95550,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0652;
+unicode = "0652,FE7E";
 subCategory = Spacing;
 },
 {
@@ -99475,21 +95583,6 @@ width = 525;
 }
 );
 subCategory = Spacing;
-},
-{
-glyphname = "sukun-ar.isol";
-layers = (
-{
-components = (
-{
-name = "sukun-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FE7E;
 },
 {
 glyphname = "madda-ar";
@@ -108101,7 +104194,7 @@ layers = (
 {
 components = (
 {
-name = uniFE8E;
+name = "alef-ar.fina";
 }
 );
 layerId = master01;
@@ -108228,7 +104321,7 @@ layers = (
 {
 components = (
 {
-name = uniFEA2;
+name = "hah-ar.fina";
 }
 );
 layerId = master01;
@@ -108242,7 +104335,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAA;
+name = "dal-ar.fina";
 }
 );
 layerId = master01;
@@ -108256,7 +104349,7 @@ layers = (
 {
 components = (
 {
-name = uniFEAE;
+name = "reh-ar.fina";
 }
 );
 layerId = master01;
@@ -108270,7 +104363,7 @@ layers = (
 {
 components = (
 {
-name = uniFEB2;
+name = "seen-ar.fina";
 }
 );
 layerId = master01;
@@ -108284,7 +104377,7 @@ layers = (
 {
 components = (
 {
-name = uniFEBA;
+name = "sad-ar.fina";
 }
 );
 layerId = master01;
@@ -108298,7 +104391,7 @@ layers = (
 {
 components = (
 {
-name = uniFEC2;
+name = "tah-ar.fina";
 }
 );
 layerId = master01;
@@ -108312,7 +104405,7 @@ layers = (
 {
 components = (
 {
-name = uniFECA;
+name = "ain-ar.fina";
 }
 );
 layerId = master01;
@@ -108399,7 +104492,7 @@ layers = (
 {
 components = (
 {
-name = uniFEDE;
+name = "lam-ar.fina";
 }
 );
 layerId = master01;
@@ -108413,7 +104506,7 @@ layers = (
 {
 components = (
 {
-name = uniFEE2;
+name = "meem-ar.fina";
 }
 );
 layerId = master01;
@@ -108427,7 +104520,7 @@ layers = (
 {
 components = (
 {
-name = uniFB9F;
+name = "noonghunna-ar.fina";
 }
 );
 layerId = master01;
@@ -108441,7 +104534,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEA;
+name = "heh-ar.fina";
 }
 );
 layerId = master01;
@@ -108455,7 +104548,7 @@ layers = (
 {
 components = (
 {
-name = uniFEEE;
+name = "waw-ar.fina";
 }
 );
 layerId = master01;
@@ -108469,7 +104562,7 @@ layers = (
 {
 components = (
 {
-name = uniFBFD;
+name = "yeh-farsi.fina";
 }
 );
 layerId = master01;
@@ -108497,7 +104590,7 @@ layers = (
 {
 components = (
 {
-name = uniFB8F;
+name = "keheh-ar.fina";
 }
 );
 layerId = master01;
@@ -108618,7 +104711,7 @@ layers = (
 {
 components = (
 {
-name = uniFBA7;
+name = "hehgoal-ar.fina";
 }
 );
 layerId = master01;
@@ -108646,7 +104739,7 @@ layers = (
 {
 components = (
 {
-name = uniFBAF;
+name = "yehbarree-ar.fina";
 }
 );
 layerId = master01;
