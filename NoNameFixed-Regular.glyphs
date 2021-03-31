@@ -297,14 +297,12 @@ languagesystem arab URD;
 # GSUB
 
 feature dlig {
-  lookupflag IgnoreMarks;
     sub colon by colon.arabic;
     sub exclam by exclam.arabic;
     sub period by period.arabic;
 } dlig;
 
 feature fina {
-  lookupflag IgnoreMarks;
     sub alefMadda-ar by alefMadda-ar.fina;
     sub alefHamzaabove-ar by alefHamzaabove-ar.fina;
     sub alefHamzabelow-ar by alefHamzabelow-ar.fina;
@@ -520,12 +518,10 @@ feature fina {
 } fina;
 
 feature medi {
-  lookupflag IgnoreMarks;
     sub @isol by @medi;
 } medi;
 
 feature init {
-  lookupflag IgnoreMarks;
     sub @isol by @init;
 } init;
 
@@ -607,7 +603,6 @@ feature rlig {
 } rlig;
 
 feature rlig {
-  lookupflag IgnoreMarks;
     sub @lam.init_medi @alef.fina' by @alef.fina.alt;
 } rlig;
 
