@@ -1,5 +1,9 @@
 {
 .appVersion = "1354";
+DisplayStrings = (
+"/tehMarbutagoal-ar",
+"/teh_jeem-ar.init"
+);
 classes = (
 {
 code = "fathasmall-ar
@@ -54781,6 +54785,49 @@ width = 525;
 unicode = 066E;
 },
 {
+glyphname = "behDotless-ar.hah";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"416 240 OFFCURVE",
+"410 250 OFFCURVE",
+"410 281 CURVE SMOOTH",
+"410 345 OFFCURVE",
+"379 367 OFFCURVE",
+"337 367 CURVE SMOOTH",
+"210 367 OFFCURVE",
+"152 229 OFFCURVE",
+"102 110 CURVE SMOOTH",
+"97 98 OFFCURVE",
+"82 93 OFFCURVE",
+"73 93 CURVE SMOOTH",
+"61 93 OFFCURVE",
+"46 99 OFFCURVE",
+"46 110 CURVE SMOOTH",
+"46 146 OFFCURVE",
+"109 265 OFFCURVE",
+"158 328 CURVE SMOOTH",
+"214 399 OFFCURVE",
+"264 436 OFFCURVE",
+"350 436 CURVE SMOOTH",
+"439 436 OFFCURVE",
+"479 376 OFFCURVE",
+"479 281 CURVE SMOOTH",
+"479 250 OFFCURVE",
+"472 240 OFFCURVE",
+"444 240 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+},
+{
 glyphname = "behDotless-ar.fina";
 layers = (
 {
@@ -66845,24 +66892,6 @@ width = 525;
 unicode = "0647,FEE9";
 },
 {
-glyphname = "heh-ar.alt";
-layers = (
-{
-components = (
-{
-name = "twodotshorizontalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 37, 212}";
-},
-{
-name = "hehgoal-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-},
-{
 glyphname = "heh-ar.fina";
 layers = (
 {
@@ -67319,11 +67348,11 @@ layers = (
 {
 components = (
 {
-name = Haagoal.comp;
+name = "hehgoal-ar";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, -40, -97}";
+transform = "{1, 0, 0, 1, 62, -4}";
 }
 );
 layerId = master01;
@@ -67736,11 +67765,11 @@ layers = (
 {
 components = (
 {
-name = Haagoal.comp;
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 37, 212}";
 },
 {
-name = "twodotshorizontalaboveSymbol-ar";
-transform = "{1, 0, 0, 1, 0, 87}";
+name = "hehgoal-ar";
 }
 );
 layerId = master01;
@@ -72724,8 +72753,12 @@ layers = (
 {
 components = (
 {
-name = "tehMarbutagoal-ar";
+name = "behDotless-ar.hah";
 transform = "{1, 0, 0, 1, 10.745, 261.986}";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 10.745, 348.986}";
 },
 {
 name = "jeem-ar.init";
@@ -72753,8 +72786,12 @@ name = "hah-ar.init";
 transform = "{1, 0, 0, 1, 0.365, -0.109}";
 },
 {
-name = "tehMarbutagoal-ar";
+name = "behDotless-ar.hah";
 transform = "{1, 0, 0, 1, 10.745, 261.986}";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 10.745, 348.986}";
 }
 );
 layerId = master01;
@@ -103680,49 +103717,6 @@ nodes = (
 "50 141 LINE",
 "50 110 LINE",
 "0 110 LINE"
-);
-}
-);
-width = 525;
-}
-);
-},
-{
-glyphname = Haagoal.comp;
-layers = (
-{
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"416 240 OFFCURVE",
-"410 250 OFFCURVE",
-"410 281 CURVE SMOOTH",
-"410 345 OFFCURVE",
-"379 367 OFFCURVE",
-"337 367 CURVE SMOOTH",
-"210 367 OFFCURVE",
-"152 229 OFFCURVE",
-"102 110 CURVE SMOOTH",
-"97 98 OFFCURVE",
-"82 93 OFFCURVE",
-"73 93 CURVE SMOOTH",
-"61 93 OFFCURVE",
-"46 99 OFFCURVE",
-"46 110 CURVE SMOOTH",
-"46 146 OFFCURVE",
-"109 265 OFFCURVE",
-"158 328 CURVE SMOOTH",
-"214 399 OFFCURVE",
-"264 436 OFFCURVE",
-"350 436 CURVE SMOOTH",
-"439 436 OFFCURVE",
-"479 376 OFFCURVE",
-"479 281 CURVE SMOOTH",
-"479 250 OFFCURVE",
-"472 240 OFFCURVE",
-"444 240 CURVE SMOOTH"
 );
 }
 );
