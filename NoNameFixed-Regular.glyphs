@@ -55368,7 +55368,7 @@ layers = (
 components = (
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 28, -779}";
+transform = "{1, 0, 0, 1, 28, -716}";
 },
 {
 name = "teh-ar";
@@ -55390,7 +55390,7 @@ name = "teh-ar.fina";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 28, -779}";
+transform = "{1, 0, 0, 1, 28, -716}";
 }
 );
 layerId = master01;
@@ -55408,7 +55408,7 @@ name = "teh-ar.medi";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 28, -779}";
+transform = "{1, 0, 0, 1, 17, -673}";
 }
 );
 layerId = master01;
@@ -55426,7 +55426,7 @@ name = "teh-ar.init";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 28, -779}";
+transform = "{1, 0, 0, 1, 28, -716}";
 }
 );
 layerId = master01;
@@ -58428,7 +58428,7 @@ layers = (
 components = (
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 0, -801}";
+transform = "{1, 0, 0, 1, 0, -755}";
 },
 {
 name = "dal-ar";
@@ -58450,7 +58450,7 @@ name = "dal-ar.fina";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 0, -792}";
+transform = "{1, 0, 0, 1, 0, -755}";
 }
 );
 layerId = master01;
@@ -59193,7 +59193,7 @@ layers = (
 components = (
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 114, -917}";
+transform = "{1, 0, 0, 1, 114, -847}";
 },
 {
 name = "reh-ar";
@@ -59215,7 +59215,7 @@ name = "reh-ar.fina";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 114, -945}";
+transform = "{1, 0, 0, 1, 114, -875}";
 }
 );
 layerId = master01;
@@ -64338,7 +64338,7 @@ layers = (
 components = (
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 176, -251}";
+transform = "{1, 0, 0, 1, 176, -171}";
 },
 {
 name = "gaf-ar";
@@ -64360,7 +64360,7 @@ name = "gaf-ar.fina";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 88, -252}";
+transform = "{1, 0, 0, 1, 88, -170}";
 }
 );
 layerId = master01;
@@ -64378,7 +64378,7 @@ name = "gaf-ar.medi";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 60, -252}";
+transform = "{1, 0, 0, 1, 60, -170}";
 }
 );
 layerId = master01;
@@ -64396,7 +64396,7 @@ name = "gaf-ar.init";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 176, -252}";
+transform = "{1, 0, 0, 1, 176, -172}";
 }
 );
 layerId = master01;
@@ -64654,7 +64654,7 @@ layers = (
 components = (
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 176, -252}";
+transform = "{1, 0, 0, 1, 176, -170}";
 },
 {
 name = "keheh-ar";
@@ -64676,7 +64676,7 @@ name = "keheh-ar.fina";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 88, -252}";
+transform = "{1, 0, 0, 1, 88, -170}";
 }
 );
 layerId = master01;
@@ -64694,7 +64694,7 @@ name = "keheh-ar.medi";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 60, -252}";
+transform = "{1, 0, 0, 1, 60, -170}";
 }
 );
 layerId = master01;
@@ -64712,7 +64712,7 @@ name = "keheh-ar.init";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 176, -252}";
+transform = "{1, 0, 0, 1, 176, -172}";
 }
 );
 layerId = master01;
@@ -66710,7 +66710,7 @@ layers = (
 components = (
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, -3, -963}";
+transform = "{1, 0, 0, 1, -3, -900}";
 },
 {
 name = "noonghunna-ar";
@@ -66732,7 +66732,7 @@ name = "noonghunna-ar.fina";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, -3, -1111}";
+transform = "{1, 0, 0, 1, -3, -1048}";
 }
 );
 layerId = master01;
@@ -66750,7 +66750,7 @@ name = "alefMaksura-ar.medi";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, -109, -779}";
+transform = "{1, 0, 0, 1, 17, -673}";
 }
 );
 layerId = master01;
@@ -66768,7 +66768,7 @@ name = "alefMaksura-ar.init";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, -88, -779}";
+transform = "{1, 0, 0, 1, 28, -716}";
 }
 );
 layerId = master01;
@@ -67920,7 +67920,7 @@ layers = (
 components = (
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, -155, -622}";
+transform = "{1, 0, 0, 1, -59, -740}";
 },
 {
 name = "waw-ar";
@@ -67942,7 +67942,7 @@ name = "waw-ar.fina";
 },
 {
 name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, -142, -622}";
+transform = "{1, 0, 0, 1, -45, -748}";
 }
 );
 layerId = master01;
