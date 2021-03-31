@@ -27,7 +27,6 @@ dammareversed-ar
 fathatwodots-ar
 wavyhamzabelow-ar
 alefabove-ar
-highhamza-ar
 seenabove-ar
 sukunround-ar
 sukunoval-ar
@@ -98,7 +97,6 @@ dammareversed-ar.base
 fathatwodots-ar.base
 wavyhamzabelow-ar.base
 alefabove-ar.base
-highhamza-ar.base
 seenabove-ar.base
 sukunround-ar.base
 sukunoval-ar.base
@@ -203,7 +201,7 @@ code = "  yehKashmiri-ar.medi yehHamzaabove-ar.medi beh-ar.medi teh-ar.medi theh
   tah-ar.medi zah-ar.medi ain-ar.medi ghain-ar.medi kehehTwodotshorizontalabove-ar.medi kehehThreedotsbelow-ar.medi
   yehVinverted-farsi.medi yehTwodotsabove-farsi.medi yehThreedotsabove-farsi.medi feh-ar.medi qaf-ar.medi kaf-ar.medi
   lam-ar.medi meem-ar.medi noon-ar.medi heh-ar.medi alefMaksura-ar.medi yeh-ar.medi
-  behDotless-ar.medi qafDotless-ar.medi highhamzaYeh-ar.medi tteh-ar.medi tteheh-ar.medi beeh-ar.medi
+  behDotless-ar.medi qafDotless-ar.medi highhamzaYeh-ar tteh-ar.medi tteheh-ar.medi beeh-ar.medi
   tehRing-ar.medi tehThreedotsdown-ar.medi peh-ar.medi teheh-ar.medi beheh-ar.medi hahHamzaabove-ar.medi
   hahTwodotsverticalabove-ar.medi nyeh-ar.medi dyeh-ar.medi hahThreedotsabove-ar.medi tcheh-ar.medi tcheheh-ar.medi
   seenDotbelowDotabove-ar.medi seenThreedotsbelow-ar.medi sheenThreedotsbelow-ar.medi sadTwodotsbelow-ar.medi sadThreedots-ar.medi tahThreedots-ar.medi
@@ -318,7 +316,6 @@ feature fina {
     sub alefWasla-ar by alefWasla-ar.fina;
     sub alefWavyhamzaabove-ar by alefWavyhamzaabove-ar.fina;
     sub alefWavyhamzabelow-ar by alefWavyhamzabelow-ar.fina;
-    sub highhamzaAlef-ar by highhamzaAlef-ar.fina;
     sub beh-ar by beh-ar.fina;
     sub teh-ar by teh-ar.fina;
     sub theh-ar by theh-ar.fina;
@@ -427,8 +424,6 @@ feature fina {
     sub hehDoachashmee-ar by hehDoachashmee-ar.fina;
     sub wawHamzaabove-ar by wawHamzaabove-ar.fina;
     sub waw-ar by waw-ar.fina;
-    sub highhamzaWaw-ar by highhamzaWaw-ar.fina;
-    sub uHamzaabove-ar by uHamzaabove-ar.fina;
     sub wawring-ar by wawring-ar.fina;
     sub kirghizoe-ar by kirghizoe-ar.fina;
     sub oe-ar by oe-ar.fina;
@@ -446,7 +441,6 @@ feature fina {
     sub yehThreedotsabove-farsi by yehThreedotsabove-farsi.fina;
     sub alefMaksura-ar by alefMaksura-ar.fina;
     sub yeh-ar by yeh-ar.fina;
-    sub highhamzaYeh-ar by highhamzaYeh-ar.fina;
     sub yeh-farsi by yeh-farsi.fina;
     sub yehVabove-ar by yehVabove-ar.fina;
     sub e-ar by e-ar.fina;
@@ -565,7 +559,6 @@ lookup mark_over_kashida {
   sub fathatwodots-ar by kashida-ar fathatwodots-ar;
   sub wavyhamzabelow-ar by kashida-ar wavyhamzabelow-ar;
   sub alefabove-ar by kashida-ar alefabove-ar;
-  sub highhamza-ar by kashida-ar highhamza-ar;
   sub seenabove-ar by kashida-ar seenabove-ar;
   sub sukunround-ar by kashida-ar sukunround-ar;
   sub sukunoval-ar by kashida-ar sukunoval-ar;
@@ -53972,8 +53965,8 @@ layers = (
 {
 components = (
 {
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 139, 0}";
+name = "hamza-ar";
+transform = "{1, 0, 0, 1, 0, 250}";
 }
 );
 layerId = master01;
@@ -53983,16 +53976,59 @@ width = 525;
 unicode = 0674;
 },
 {
-glyphname = "highhamza-ar.base";
+glyphname = "highhamza-ar.narrow";
 layers = (
 {
-components = (
+layerId = master01;
+paths = (
 {
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 139, 0}";
+closed = 1;
+nodes = (
+"312 709 OFFCURVE",
+"377 694 OFFCURVE",
+"377 633 CURVE SMOOTH",
+"377 606 OFFCURVE",
+"357 590 OFFCURVE",
+"335 590 CURVE SMOOTH",
+"286 590 OFFCURVE",
+"315 648 OFFCURVE",
+"273 648 CURVE SMOOTH",
+"241 648 OFFCURVE",
+"202 613 OFFCURVE",
+"202 573 CURVE SMOOTH",
+"202 541 OFFCURVE",
+"245 515 OFFCURVE",
+"272 515 CURVE SMOOTH",
+"292 515 OFFCURVE",
+"319 519 OFFCURVE",
+"331 526 CURVE SMOOTH",
+"353 538 OFFCURVE",
+"368 546 OFFCURVE",
+"380 546 CURVE SMOOTH",
+"392 546 OFFCURVE",
+"408 517 OFFCURVE",
+"408 502 CURVE SMOOTH",
+"408 493 OFFCURVE",
+"374 483 OFFCURVE",
+"300 432 CURVE SMOOTH",
+"245 394 OFFCURVE",
+"243 368 OFFCURVE",
+"210 368 CURVE SMOOTH",
+"194 368 OFFCURVE",
+"176 379 OFFCURVE",
+"180 402 CURVE SMOOTH",
+"187 438 OFFCURVE",
+"217 442 OFFCURVE",
+"233 456 CURVE",
+"203 462 OFFCURVE",
+"146 509 OFFCURVE",
+"146 559 CURVE SMOOTH",
+"146 631 OFFCURVE",
+"206 709 OFFCURVE",
+"273 709 CURVE SMOOTH"
+);
 }
 );
-layerId = master01;
 width = 525;
 }
 );
@@ -54685,11 +54721,12 @@ layers = (
 {
 components = (
 {
-name = "alef-ar.shorter";
+name = "alef-ar";
+transform = "{1, 0, 0, 1, -170, 0}";
 },
 {
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 139, -3}";
+name = "highhamza-ar";
+transform = "{1, 0, 0, 1, 117, 0}";
 }
 );
 layerId = master01;
@@ -54697,24 +54734,6 @@ width = 525;
 }
 );
 unicode = 0675;
-},
-{
-glyphname = "highhamzaAlef-ar.fina";
-layers = (
-{
-components = (
-{
-name = "alef-ar.fina.shorter";
-},
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 139, -3}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 },
 {
 glyphname = "behDotless-ar";
@@ -70289,36 +70308,71 @@ layers = (
 {
 components = (
 {
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 145, -82}";
-},
-{
-name = "waw-ar";
+name = "highhamza-ar.narrow";
+transform = "{1, 0, 0, 1, 113, 0}";
 }
 );
 layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"175 132 OFFCURVE",
+"133 130 OFFCURVE",
+"122 130 CURVE SMOOTH",
+"50 130 OFFCURVE",
+"0 147 OFFCURVE",
+"0 244 CURVE SMOOTH",
+"0 309 OFFCURVE",
+"37 420 OFFCURVE",
+"170 420 CURVE SMOOTH",
+"217 420 OFFCURVE",
+"260 394 OFFCURVE",
+"260 307 CURVE SMOOTH",
+"260 229 LINE SMOOTH",
+"260 66 OFFCURVE",
+"260 -104 OFFCURVE",
+"127 -104 CURVE SMOOTH",
+"61 -104 OFFCURVE",
+"0 -62 OFFCURVE",
+"0 -20 CURVE SMOOTH",
+"0 7 OFFCURVE",
+"20 23 OFFCURVE",
+"42 23 CURVE SMOOTH",
+"91 23 OFFCURVE",
+"70 -34 OFFCURVE",
+"127 -34 CURVE SMOOTH",
+"192 -34 OFFCURVE",
+"185 35 OFFCURVE",
+"186 133 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"191 340 OFFCURVE",
+"186 359 OFFCURVE",
+"170 359 CURVE SMOOTH",
+"82 359 OFFCURVE",
+"66 289 OFFCURVE",
+"66 244 CURVE SMOOTH",
+"66 206 OFFCURVE",
+"92 200 OFFCURVE",
+"134 200 CURVE SMOOTH",
+"140 200 OFFCURVE",
+"154 200 OFFCURVE",
+"162 201 CURVE SMOOTH",
+"179 203 OFFCURVE",
+"191 210 OFFCURVE",
+"191 220 CURVE SMOOTH",
+"191 307 LINE SMOOTH"
+);
+}
+);
 width = 525;
 }
 );
 unicode = 0676;
-},
-{
-glyphname = "highhamzaWaw-ar.fina";
-layers = (
-{
-components = (
-{
-name = "waw-ar.fina";
-},
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 145, -82}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 },
 {
 glyphname = "uHamzaabove-ar";
@@ -70330,7 +70384,7 @@ name = "highhamzaWaw-ar";
 },
 {
 name = "damma-ar";
-transform = "{1, 0, 0, 1, -92, -45}";
+transform = "{1, 0, 0, 1, -140, -94}";
 }
 );
 layerId = master01;
@@ -70340,34 +70394,16 @@ width = 525;
 unicode = "0677,FBDD";
 },
 {
-glyphname = "uHamzaabove-ar.fina";
-layers = (
-{
-components = (
-{
-name = "highhamzaWaw-ar.fina";
-},
-{
-name = "damma-ar";
-transform = "{1, 0, 0, 1, -92, -45}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-},
-{
 glyphname = "highhamzaYeh-ar";
 layers = (
 {
 components = (
 {
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 145, 4}";
+name = "alefMaksura-ar";
 },
 {
-name = "alefMaksura-ar";
+name = "highhamza-ar.narrow";
+transform = "{1, 0, 0, 1, 113, 140}";
 }
 );
 layerId = master01;
@@ -70377,55 +70413,40 @@ width = 525;
 unicode = 0678;
 },
 {
-glyphname = "highhamzaYeh-ar.fina";
-layers = (
-{
-components = (
-{
-name = "yeh-farsi.fina";
-},
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 145, -268}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-},
-{
-glyphname = "highhamzaYeh-ar.medi";
-layers = (
-{
-components = (
-{
-name = "alefMaksura-ar.medi";
-},
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 145, -63}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-},
-{
 glyphname = "highhamzaYeh-ar.init";
 layers = (
 {
 components = (
 {
-name = "alefMaksura-ar.init";
+name = ittisal.comp;
 },
 {
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 145, -63}";
+name = "highhamza-ar.narrow";
+transform = "{1, 0, 0, 1, 113, 0}";
 }
 );
 layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"245 431 OFFCURVE",
+"251 421 OFFCURVE",
+"251 390 CURVE SMOOTH",
+"251 151 LINE SMOOTH",
+"251 120 OFFCURVE",
+"244 110 OFFCURVE",
+"216 110 CURVE SMOOTH",
+"0 110 LINE",
+"0 180 LINE",
+"182 180 LINE",
+"182 390 LINE SMOOTH",
+"182 421 OFFCURVE",
+"189 431 OFFCURVE",
+"217 431 CURVE SMOOTH"
+);
+}
+);
 width = 525;
 }
 );
