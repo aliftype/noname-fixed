@@ -72,76 +72,6 @@ marksidewaysnoonghunna-ar
 name = marks;
 },
 {
-code = "fathasmall-ar.base
-dammasmall-ar.base
-kasrasmall-ar.base
-fathatan-ar.base
-dammatan-ar.base
-kasratan-ar.base
-fatha-ar.base
-damma-ar.base
-kasra-ar.base
-shadda-ar.base
-sukun-ar.base
-madda-ar.base
-hamzaabove-ar.base
-hamzabelow-ar.base
-alefbelow-ar.base
-dammainverted-ar.base
-noonghunnaabove-ar.base
-fathaHorizont-ar.base
-vabove-ar.base
-vinvertedabove-ar.base
-dotvowelbelow-ar.base
-dammareversed-ar.base
-fathatwodots-ar.base
-wavyhamzabelow-ar.base
-alefabove-ar.base
-seenabove-ar.base
-sukunround-ar.base
-sukunoval-ar.base
-maddalong-ar.base
-hahabove-ar.base
-yehabove-ar.base
-meemStopabove-ar.base
-seenbelow-ar.base
-rhombusStopbelow-ar.base
-noonabove-ar.base
-rhombusStopabove-ar.base
-dotStopabove-ar.base
-meembelow-ar.base
-fathaCurly-ar.base
-dammaCurly-ar.base
-kasraCurly-ar.base
-fathatanCurly-ar.base
-dammatanCurly-ar.base
-kasratanCurly-ar.base
-toneonedotabove-ar.base
-tonetwodotsabove-ar.base
-toneloopabove-ar.base
-toneonedotbelow-ar.base
-tonetwodotsbelow-ar.base
-toneloopbelow-ar.base
-openfathatan-ar.base
-opendammatan-ar.base
-openkasratan-ar.base
-highwaw-ar.base
-fathaRing-ar.base
-fathaDotabove-ar.base
-kasraDotbelow-ar.base
-leftarrowheadabove-ar.base
-rightarrowheadabove-ar.base
-leftarrowheadbelow-ar.base
-rightarrowheadbelow-ar.base
-doublerightarrowheadabove-ar.base
-doublerightarrowheadDotabove-ar.base
-rightarrowheadDotabove-ar.base
-dammaDot-ar.base
-marksidewaysnoonghunna-ar.base
-";
-name = marks.base;
-},
-{
 code = "  yehKashmiri-ar yehHamzaabove-ar beh-ar teh-ar theh-ar jeem-ar
   hah-ar khah-ar seen-ar sheen-ar sad-ar dad-ar
   tah-ar zah-ar ain-ar ghain-ar kehehTwodotshorizontalabove-ar kehehThreedotsbelow-ar
@@ -599,7 +529,6 @@ lookup mark_over_kashida {
 feature rlig {
   sub @init_medi @marks' lookup mark_over_kashida;
   sub @init_medi @marks @marks' lookup mark_over_kashida;
-  sub @marks' by @marks.base;
 } rlig;
 
 feature rlig {
@@ -679,16 +608,14 @@ feature lnum {
 
 # GPOS
 
-# Dummy mark feature so that HarfBuzz does not apply its mark positioning
-# fallback.
 feature mark {
-  pos kashida-ar 0;
+  pos kashida-ar @marks <-525 0 -525 0>;
 } mark;
 
 # GDEF
 
 table GDEF {
-  GlyphClassDef @marks.base, , @marks, ;
+  GlyphClassDef @marks, , , ;
 } GDEF;
 ";
 name = Prefix;
@@ -96205,21 +96132,6 @@ unicode = 0618;
 subCategory = Spacing;
 },
 {
-glyphname = "fathasmall-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathasmall-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "dammasmall-ar";
 layers = (
 {
@@ -96265,21 +96177,6 @@ unicode = 0619;
 subCategory = Spacing;
 },
 {
-glyphname = "dammasmall-ar.base";
-layers = (
-{
-components = (
-{
-name = "dammasmall-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "kasrasmall-ar";
 layers = (
 {
@@ -96294,22 +96191,6 @@ width = 525;
 }
 );
 unicode = 061A;
-subCategory = Spacing;
-},
-{
-glyphname = "kasrasmall-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathasmall-ar";
-transform = "{1, 0, 0, 1, -25, -1202}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -96921,21 +96802,6 @@ unicode = 065F;
 subCategory = Spacing;
 },
 {
-glyphname = "wavyhamzabelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "wavyhamzabelow-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "alefabove-ar";
 layers = (
 {
@@ -96950,22 +96816,6 @@ width = 525;
 }
 );
 unicode = 0670;
-subCategory = Spacing;
-},
-{
-glyphname = "alefabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "alefbelow-ar";
-transform = "{1, 0, 0, 1, 0, 1108}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -96998,21 +96848,6 @@ width = 525;
 }
 );
 unicode = 0656;
-subCategory = Spacing;
-},
-{
-glyphname = "alefbelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "alefbelow-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -97073,21 +96908,6 @@ unicode = 0654;
 subCategory = Spacing;
 },
 {
-glyphname = "hamzaabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "hamzaabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "hamzabelow-ar";
 layers = (
 {
@@ -97102,22 +96922,6 @@ width = 525;
 }
 );
 unicode = 0655;
-subCategory = Spacing;
-},
-{
-glyphname = "hamzabelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, -6, -1103}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -97138,21 +96942,6 @@ width = 525;
 }
 );
 unicode = 064B;
-subCategory = Spacing;
-},
-{
-glyphname = "fathatan-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathatan-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -97177,21 +96966,6 @@ unicode = 064C;
 subCategory = Spacing;
 },
 {
-glyphname = "dammatan-ar.base";
-layers = (
-{
-components = (
-{
-name = "dammatan-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "kasratan-ar";
 layers = (
 {
@@ -97206,22 +96980,6 @@ width = 525;
 }
 );
 unicode = 064D;
-subCategory = Spacing;
-},
-{
-glyphname = "kasratan-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 0, -897}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -97260,21 +97018,6 @@ width = 525;
 }
 );
 unicode = 064E;
-subCategory = Spacing;
-},
-{
-glyphname = "fatha-ar.base";
-layers = (
-{
-components = (
-{
-name = "fatha-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -97323,21 +97066,6 @@ unicode = 064F;
 subCategory = Spacing;
 },
 {
-glyphname = "damma-ar.base";
-layers = (
-{
-components = (
-{
-name = "damma-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "kasra-ar";
 layers = (
 {
@@ -97352,22 +97080,6 @@ width = 525;
 }
 );
 unicode = 0650;
-subCategory = Spacing;
-},
-{
-glyphname = "kasra-ar.base";
-layers = (
-{
-components = (
-{
-name = "fatha-ar";
-transform = "{1, 0, 0, 1, 0, -1092}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -97437,21 +97149,6 @@ unicode = 0651;
 subCategory = Spacing;
 },
 {
-glyphname = "shadda-ar.base";
-layers = (
-{
-components = (
-{
-name = "shadda-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "sukun-ar";
 layers = (
 {
@@ -97502,21 +97199,6 @@ unicode = 0652;
 subCategory = Spacing;
 },
 {
-glyphname = "sukun-ar.base";
-layers = (
-{
-components = (
-{
-name = "sukun-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "madda-ar";
 layers = (
 {
@@ -97531,22 +97213,6 @@ width = 525;
 }
 );
 unicode = 0653;
-subCategory = Spacing;
-},
-{
-glyphname = "madda-ar.base";
-layers = (
-{
-components = (
-{
-name = asciitilde;
-transform = "{1, 0, 0, 1, 0, 524}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -97600,21 +97266,6 @@ unicode = 0658;
 subCategory = Spacing;
 },
 {
-glyphname = "noonghunnaabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "noonghunnaabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "dammainverted-ar";
 layers = (
 {
@@ -97629,22 +97280,6 @@ width = 525;
 }
 );
 unicode = 0657;
-subCategory = Spacing;
-},
-{
-glyphname = "dammainverted-ar.base";
-layers = (
-{
-components = (
-{
-name = "comma-ar";
-transform = "{1, 0, 0, 1, 10, 413}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -97677,21 +97312,6 @@ width = 525;
 }
 );
 unicode = 0659;
-subCategory = Spacing;
-},
-{
-glyphname = "fathaHorizont-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathaHorizont-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -97741,21 +97361,6 @@ unicode = 065A;
 subCategory = Spacing;
 },
 {
-glyphname = "vabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "vabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "vinvertedabove-ar";
 layers = (
 {
@@ -97802,21 +97407,6 @@ unicode = 065B;
 subCategory = Spacing;
 },
 {
-glyphname = "vinvertedabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "vinvertedabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "dotvowelbelow-ar";
 layers = (
 {
@@ -97844,21 +97434,6 @@ width = 525;
 }
 );
 unicode = 065C;
-subCategory = Spacing;
-},
-{
-glyphname = "dotvowelbelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "dotvowelbelow-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -97907,21 +97482,6 @@ unicode = 065D;
 subCategory = Spacing;
 },
 {
-glyphname = "dammareversed-ar.base";
-layers = (
-{
-components = (
-{
-name = "dammareversed-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "fathatwodots-ar";
 layers = (
 {
@@ -97944,21 +97504,6 @@ width = 525;
 }
 );
 unicode = 065E;
-subCategory = Spacing;
-},
-{
-glyphname = "fathatwodots-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathatwodots-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -98289,21 +97834,6 @@ unicode = 06E2;
 subCategory = Spacing;
 },
 {
-glyphname = "meemStopabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "meemStopabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "lamAlefabove-ar";
 layers = (
 {
@@ -98563,21 +98093,6 @@ unicode = 06DC;
 subCategory = Spacing;
 },
 {
-glyphname = "seenabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "seenabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "sukunround-ar";
 layers = (
 {
@@ -98605,21 +98120,6 @@ width = 525;
 }
 );
 unicode = 06DF;
-subCategory = Spacing;
-},
-{
-glyphname = "sukunround-ar.base";
-layers = (
-{
-components = (
-{
-name = "sukunround-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -98667,21 +98167,6 @@ width = 525;
 }
 );
 unicode = 06E0;
-subCategory = Spacing;
-},
-{
-glyphname = "sukunoval-ar.base";
-layers = (
-{
-components = (
-{
-name = "sukunoval-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -98736,21 +98221,6 @@ unicode = 06E1;
 subCategory = Spacing;
 },
 {
-glyphname = "hahabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "hahabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "seenbelow-ar";
 layers = (
 {
@@ -98765,22 +98235,6 @@ width = 525;
 }
 );
 unicode = 06E3;
-subCategory = Spacing;
-},
-{
-glyphname = "seenbelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "seenabove-ar";
-transform = "{1, 0, 0, 1, 0, -1029}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -98829,21 +98283,6 @@ unicode = 06E4;
 subCategory = Spacing;
 },
 {
-glyphname = "maddalong-ar.base";
-layers = (
-{
-components = (
-{
-name = "maddalong-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "yehabove-ar";
 layers = (
 {
@@ -98858,22 +98297,6 @@ width = 525;
 }
 );
 unicode = 06E7;
-subCategory = Spacing;
-},
-{
-glyphname = "yehabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "yehSmall-ar";
-transform = "{1, 0, 0, 1, 0, 70}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -98894,21 +98317,6 @@ width = 525;
 }
 );
 unicode = 06E8;
-subCategory = Spacing;
-},
-{
-glyphname = "noonabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "noonabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -98943,21 +98351,6 @@ unicode = 06EA;
 subCategory = Spacing;
 },
 {
-glyphname = "rhombusStopbelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "rhombusStopbelow-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "rhombusStopabove-ar";
 layers = (
 {
@@ -98972,22 +98365,6 @@ width = 525;
 }
 );
 unicode = 06EB;
-subCategory = Spacing;
-},
-{
-glyphname = "rhombusStopabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "rhombusStopbelow-ar";
-transform = "{1, 0, 0, 1, 0, 1021}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -99021,21 +98398,6 @@ unicode = 06EC;
 subCategory = Spacing;
 },
 {
-glyphname = "dotStopabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "dotStopabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "meembelow-ar";
 layers = (
 {
@@ -99050,22 +98412,6 @@ width = 525;
 }
 );
 unicode = 06ED;
-subCategory = Spacing;
-},
-{
-glyphname = "meembelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "meemStopabove-ar";
-transform = "{1, 0, 0, 1, 0, -1011}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -99119,21 +98465,6 @@ unicode = 08E4;
 subCategory = Spacing;
 },
 {
-glyphname = "fathaCurly-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathaCurly-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "dammaCurly-ar";
 layers = (
 {
@@ -99182,21 +98513,6 @@ unicode = 08E5;
 subCategory = Spacing;
 },
 {
-glyphname = "dammaCurly-ar.base";
-layers = (
-{
-components = (
-{
-name = "dammaCurly-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "kasraCurly-ar";
 layers = (
 {
@@ -99211,22 +98527,6 @@ width = 525;
 }
 );
 unicode = 08E6;
-subCategory = Spacing;
-},
-{
-glyphname = "kasraCurly-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathaCurly-ar";
-transform = "{1, 0, 0, 1, 0, -1071}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -99247,21 +98547,6 @@ width = 525;
 }
 );
 unicode = 08E7;
-subCategory = Spacing;
-},
-{
-glyphname = "fathatanCurly-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathatanCurly-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -99319,21 +98604,6 @@ unicode = 08E8;
 subCategory = Spacing;
 },
 {
-glyphname = "dammatanCurly-ar.base";
-layers = (
-{
-components = (
-{
-name = "dammatanCurly-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "kasratanCurly-ar";
 layers = (
 {
@@ -99348,22 +98618,6 @@ width = 525;
 }
 );
 unicode = 08E9;
-subCategory = Spacing;
-},
-{
-glyphname = "kasratanCurly-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathatanCurly-ar";
-transform = "{1, 0, 0, 1, 0, -885}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -99397,21 +98651,6 @@ unicode = 08EA;
 subCategory = Spacing;
 },
 {
-glyphname = "toneonedotabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "toneonedotabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "tonetwodotsabove-ar";
 layers = (
 {
@@ -99430,21 +98669,6 @@ width = 525;
 }
 );
 unicode = 08EB;
-subCategory = Spacing;
-},
-{
-glyphname = "tonetwodotsabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "tonetwodotsabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -99520,21 +98744,6 @@ unicode = 08EC;
 subCategory = Spacing;
 },
 {
-glyphname = "toneloopabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "toneloopabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "toneonedotbelow-ar";
 layers = (
 {
@@ -99549,22 +98758,6 @@ width = 525;
 }
 );
 unicode = 08ED;
-subCategory = Spacing;
-},
-{
-glyphname = "toneonedotbelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "toneonedotabove-ar";
-transform = "{1, 0, 0, 1, 0, -1272}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -99585,22 +98778,6 @@ unicode = 08EE;
 subCategory = Spacing;
 },
 {
-glyphname = "tonetwodotsbelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "tonetwodotsabove-ar";
-transform = "{1, 0, 0, 1, 0, -1232}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "toneloopbelow-ar";
 layers = (
 {
@@ -99615,22 +98792,6 @@ width = 525;
 }
 );
 unicode = 08EF;
-subCategory = Spacing;
-},
-{
-glyphname = "toneloopbelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "toneloopabove-ar";
-transform = "{1, 0, 0, 1, 0, -1096}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -99655,21 +98816,6 @@ unicode = 08F0;
 subCategory = Spacing;
 },
 {
-glyphname = "openfathatan-ar.base";
-layers = (
-{
-components = (
-{
-name = "openfathatan-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "opendammatan-ar";
 layers = (
 {
@@ -99691,21 +98837,6 @@ unicode = 08F1;
 subCategory = Spacing;
 },
 {
-glyphname = "opendammatan-ar.base";
-layers = (
-{
-components = (
-{
-name = "opendammatan-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "openkasratan-ar";
 layers = (
 {
@@ -99723,22 +98854,6 @@ unicode = 08F2;
 subCategory = Spacing;
 },
 {
-glyphname = "openkasratan-ar.base";
-layers = (
-{
-components = (
-{
-name = "openfathatan-ar";
-transform = "{1, 0, 0, 1, 0, -836}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "highwaw-ar";
 layers = (
 {
@@ -99753,22 +98868,6 @@ width = 525;
 }
 );
 unicode = 08F3;
-subCategory = Spacing;
-},
-{
-glyphname = "highwaw-ar.base";
-layers = (
-{
-components = (
-{
-name = "wawSmall-ar";
-transform = "{1, 0, 0, 1, 0, 70}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -99793,21 +98892,6 @@ unicode = 08F4;
 subCategory = Spacing;
 },
 {
-glyphname = "fathaRing-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathaRing-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "fathaDotabove-ar";
 layers = (
 {
@@ -99829,21 +98913,6 @@ unicode = 08F5;
 subCategory = Spacing;
 },
 {
-glyphname = "fathaDotabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "fathaDotabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "kasraDotbelow-ar";
 layers = (
 {
@@ -99862,21 +98931,6 @@ width = 525;
 }
 );
 unicode = 08F6;
-subCategory = Spacing;
-},
-{
-glyphname = "kasraDotbelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "kasraDotbelow-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -99926,21 +98980,6 @@ unicode = 08F7;
 subCategory = Spacing;
 },
 {
-glyphname = "leftarrowheadabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "leftarrowheadabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "rightarrowheadabove-ar";
 layers = (
 {
@@ -99987,21 +99026,6 @@ unicode = 08F8;
 subCategory = Spacing;
 },
 {
-glyphname = "rightarrowheadabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "rightarrowheadabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "leftarrowheadbelow-ar";
 layers = (
 {
@@ -100019,22 +99043,6 @@ unicode = 08F9;
 subCategory = Spacing;
 },
 {
-glyphname = "leftarrowheadbelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "leftarrowheadabove-ar";
-transform = "{1, 0, 0, 1, 0, -1043}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "rightarrowheadbelow-ar";
 layers = (
 {
@@ -100049,22 +99057,6 @@ width = 525;
 }
 );
 unicode = 08FA;
-subCategory = Spacing;
-},
-{
-glyphname = "rightarrowheadbelow-ar.base";
-layers = (
-{
-components = (
-{
-name = "rightarrowheadabove-ar";
-transform = "{1, 0, 0, 1, 0, -1043}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -100089,21 +99081,6 @@ unicode = 08FB;
 subCategory = Spacing;
 },
 {
-glyphname = "doublerightarrowheadabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "doublerightarrowheadabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "doublerightarrowheadDotabove-ar";
 layers = (
 {
@@ -100122,21 +99099,6 @@ width = 525;
 }
 );
 unicode = 08FC;
-subCategory = Spacing;
-},
-{
-glyphname = "doublerightarrowheadDotabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "doublerightarrowheadDotabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -100165,21 +99127,6 @@ unicode = 08FD;
 subCategory = Spacing;
 },
 {
-glyphname = "rightarrowheadDotabove-ar.base";
-layers = (
-{
-components = (
-{
-name = "rightarrowheadDotabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-subCategory = Spacing;
-},
-{
 glyphname = "dammaDot-ar";
 layers = (
 {
@@ -100198,21 +99145,6 @@ width = 525;
 }
 );
 unicode = 08FE;
-subCategory = Spacing;
-},
-{
-glyphname = "dammaDot-ar.base";
-layers = (
-{
-components = (
-{
-name = "dammaDot-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
@@ -100263,21 +99195,6 @@ width = 525;
 }
 );
 unicode = 08FF;
-subCategory = Spacing;
-},
-{
-glyphname = "marksidewaysnoonghunna-ar.base";
-layers = (
-{
-components = (
-{
-name = "marksidewaysnoonghunna-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 subCategory = Spacing;
 },
 {
