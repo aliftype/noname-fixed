@@ -98096,26 +98096,13 @@ subCategory = Spacing;
 glyphname = "sukunround-ar";
 layers = (
 {
-layerId = master01;
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"195 859 OFFCURVE",
-"226 890 OFFCURVE",
-"263 890 CURVE SMOOTH",
-"300 890 OFFCURVE",
-"331 859 OFFCURVE",
-"331 822 CURVE SMOOTH",
-"331 785 OFFCURVE",
-"300 754 OFFCURVE",
-"263 754 CURVE SMOOTH",
-"226 754 OFFCURVE",
-"195 785 OFFCURVE",
-"195 822 CURVE SMOOTH"
-);
+name = "sukun-ar";
+transform = "{0.63064, 0, 0, 0.63064, 87, 299}";
 }
 );
+layerId = master01;
 width = 525;
 }
 );
