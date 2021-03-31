@@ -567,79 +567,61 @@ feature rlig {
   sub @visiblecontrols by @visiblecontrols;
 } rlig;
 
-lookup onum_0 {
-  sub ampersand by ampersand;
-  sub dollar by dollar.oldstyle;
-  sub eight by eight.taboldstyle;
-  sub five by five.taboldstyle;
-  sub four by four.taboldstyle;
-  sub nine by nine.taboldstyle;
-  sub one by one.taboldstyle;
-  sub seven by seven.taboldstyle;
-  sub six by six.taboldstyle;
-  sub three by three.taboldstyle;
-  sub two by two.taboldstyle;
-  sub zero by zero.taboldstyle;
-  sub cent by cent.oldstyle;
-} onum_0;
-
 feature onum {
   script latn;
-     language dflt;
-      lookup onum_0;
-     language AZE  exclude_dflt;
-      lookup onum_0;
-     language CRT  exclude_dflt;
-      lookup onum_0;
-     language MOL  exclude_dflt;
-      lookup onum_0;
-     language ROM  exclude_dflt;
-      lookup onum_0;
-     language TRK  exclude_dflt;
-      lookup onum_0;
+    language dflt;
+      sub ampersand by ampersand;
+      sub dollar by dollar.oldstyle;
+      sub eight by eight.taboldstyle;
+      sub five by five.taboldstyle;
+      sub four by four.taboldstyle;
+      sub nine by nine.taboldstyle;
+      sub one by one.taboldstyle;
+      sub seven by seven.taboldstyle;
+      sub six by six.taboldstyle;
+      sub three by three.taboldstyle;
+      sub two by two.taboldstyle;
+      sub zero by zero.taboldstyle;
+      sub cent by cent.oldstyle;
+    language AZE;
+    language CRT;
+    language MOL;
+    language ROM;
+    language TRK;
 } onum;
-
-lookup lnum_0 {
-  sub ampersand by ampersand;
-  sub cent.oldstyle by cent;
-  sub dollar.oldstyle by dollar;
-  sub eight.taboldstyle by eight;
-  sub five.taboldstyle by five;
-  sub four.taboldstyle by four;
-  sub nine.taboldstyle by nine;
-  sub one.taboldstyle by one;
-  sub seven.taboldstyle by seven;
-  sub six.taboldstyle by six;
-  sub three.taboldstyle by three;
-  sub two.taboldstyle by two;
-  sub zero.taboldstyle by zero;
-} lnum_0;
 
 feature lnum {
   script latn;
-     language dflt;
-      lookup lnum_0;
-     language AZE  exclude_dflt;
-      lookup lnum_0;
-     language CRT  exclude_dflt;
-      lookup lnum_0;
-     language MOL  exclude_dflt;
-      lookup lnum_0;
-     language ROM  exclude_dflt;
-      lookup lnum_0;
-     language TRK  exclude_dflt;
-      lookup lnum_0;
+    language dflt;
+      sub ampersand by ampersand;
+      sub cent.oldstyle by cent;
+      sub dollar.oldstyle by dollar;
+      sub eight.taboldstyle by eight;
+      sub five.taboldstyle by five;
+      sub four.taboldstyle by four;
+      sub nine.taboldstyle by nine;
+      sub one.taboldstyle by one;
+      sub seven.taboldstyle by seven;
+      sub six.taboldstyle by six;
+      sub three.taboldstyle by three;
+      sub two.taboldstyle by two;
+      sub zero.taboldstyle by zero;
+    language AZE;
+    language CRT;
+    language MOL;
+    language ROM;
+    language TRK;
 } lnum;
 
 feature zero {
   script latn;
-     language dflt;
+    language dflt;
       sub zero by zero.slash;
-     language AZE;
-     language CRT;
-     language MOL;
-     language ROM;
-     language TRK;
+    language AZE;
+    language CRT;
+    language MOL;
+    language ROM;
+    language TRK;
 } zero;
 
 # GPOS
