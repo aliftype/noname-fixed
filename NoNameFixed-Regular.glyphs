@@ -1,9 +1,5 @@
 {
 .appVersion = "1354";
-DisplayStrings = (
-"/tehMarbutagoal-ar",
-"/teh_jeem-ar.init"
-);
 classes = (
 {
 code = "fathasmall-ar
@@ -66823,11 +66819,7 @@ layers = (
 {
 components = (
 {
-name = "alefMaksura-ar.medi";
-},
-{
-name = "threedots-ar";
-transform = "{1, 0, 0, 1, -109, 361}";
+name = "peh-ar.medi";
 }
 );
 layerId = master01;
@@ -66841,11 +66833,7 @@ layers = (
 {
 components = (
 {
-name = "alefMaksura-ar.init";
-},
-{
-name = "threedots-ar";
-transform = "{1, 0, 0, 1, -109, 279}";
+name = "peh-ar.init";
 }
 );
 layerId = master01;
