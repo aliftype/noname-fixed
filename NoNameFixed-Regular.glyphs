@@ -69721,8 +69721,8 @@ layers = (
 {
 components = (
 {
-name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, -22, -953}";
+name = ring;
+transform = "{1, 0, 0, 1, -13, -750}";
 },
 {
 name = "alefMaksura-ar";
@@ -69741,45 +69741,13 @@ layers = (
 components = (
 {
 name = "yeh-farsi.fina";
+},
+{
+name = ring;
+transform = "{1, 0, 0, 1, -13, -910}";
 }
 );
 layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"513 -389 OFFCURVE",
-"472 -442 OFFCURVE",
-"428 -442 CURVE SMOOTH",
-"384 -442 OFFCURVE",
-"342 -391 OFFCURVE",
-"342 -320 CURVE SMOOTH",
-"342 -251 OFFCURVE",
-"383 -198 OFFCURVE",
-"428 -198 CURVE SMOOTH",
-"471 -198 OFFCURVE",
-"513 -249 OFFCURVE",
-"513 -320 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"462 -282 OFFCURVE",
-"446 -255 OFFCURVE",
-"428 -255 CURVE SMOOTH",
-"409 -255 OFFCURVE",
-"393 -282 OFFCURVE",
-"393 -320 CURVE SMOOTH",
-"393 -360 OFFCURVE",
-"410 -385 OFFCURVE",
-"428 -385 CURVE SMOOTH",
-"445 -385 OFFCURVE",
-"462 -360 OFFCURVE",
-"462 -320 CURVE SMOOTH"
-);
-}
-);
 width = 525;
 }
 );
@@ -69793,8 +69761,8 @@ components = (
 name = "alefMaksura-ar.medi";
 },
 {
-name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 89, -779}";
+name = ring;
+transform = "{1, 0, 0, 1, 17, -597}";
 }
 );
 layerId = master01;
@@ -69811,8 +69779,8 @@ components = (
 name = "alefMaksura-ar.init";
 },
 {
-name = "sukunoval-ar";
-transform = "{1, 0, 0, 1, 75, -779}";
+name = ring;
+transform = "{1, 0, 0, 1, -33, -597}";
 }
 );
 layerId = master01;
