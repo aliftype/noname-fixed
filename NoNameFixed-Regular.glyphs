@@ -618,8 +618,8 @@ feature rlig {
 feature locl {
   script arab;
     language URD exclude_dflt;
-      sub four-persian by four-persian.indo;
-      sub seven-persian by seven-persian.indo;
+      sub four-persian by four-persian.urdu;
+      sub seven-persian by seven-persian.urdu;
 } locl;
 
 lookup onum_0 {
@@ -78398,7 +78398,7 @@ width = 525;
 unicode = 06F9;
 },
 {
-glyphname = "four-persian.indo";
+glyphname = "four-persian.urdu";
 layers = (
 {
 layerId = master01;
@@ -78468,7 +78468,7 @@ width = 525;
 );
 },
 {
-glyphname = "seven-persian.indo";
+glyphname = "seven-persian.urdu";
 layers = (
 {
 layerId = master01;
