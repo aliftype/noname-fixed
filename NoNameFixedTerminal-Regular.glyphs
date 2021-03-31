@@ -94775,7 +94775,7 @@ weightClass = Normal;
 }
 );
 manufacturer = "Khaled Hosny";
-manufacturerURL = "https://github.com/khaledhosny/noname-fixed";
+manufacturerURL = "https://github.com/alif-type/noname-fixed";
 unitsPerEm = 1000;
 userData = {
 UFOFormat = 3;
