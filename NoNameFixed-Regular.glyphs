@@ -1,5 +1,8 @@
 {
 .appVersion = "1354";
+DisplayStrings = (
+"/zerowidthjoiner/narrownbspace/lefttorightmark/righttoleftmark/zerowidthnonjoiner/lefttorightembedding/lefttorightoverride/popdirectionalformatting/righttoleftembedding/righttoleftoverride/mark-ar"
+);
 classes = (
 {
 code = "fathasmall-ar
@@ -170,6 +173,21 @@ code = "  alefMadda-ar.fina.alt alefHamzaabove-ar.fina.alt alefHamzabelow-ar.fin
   alefThreeabove-ar.fina.alt
 ";
 name = alef.fina.alt;
+},
+{
+code = "mark-ar
+narrownbspace
+lefttorightmark
+righttoleftmark
+zerowidthjoiner
+zerowidthnonjoiner
+lefttorightembedding
+lefttorightoverride
+popdirectionalformatting
+righttoleftembedding
+righttoleftoverride
+";
+name = visiblecontrols;
 }
 );
 copyright = "Copyright 2015-2018 Khaled Hosny. Copyright 2014 Idris Samawi Hamid (Arabic-Latin Modern Fixed Regular). Derived from Copyright 2003, 2009 B. Jackowski and J. M. Nowacki (Latin Modern Mono Regular 10). Derived from Copyright Donald Knuth 1990 (Computer Modern Mono 10).";
@@ -541,6 +559,11 @@ feature locl {
       sub four-persian by four-persian.urdu;
       sub seven-persian by seven-persian.urdu;
 } locl;
+
+# Substitute controls by themselves to make them visible
+feature rlig {
+  sub @visiblecontrols by @visiblecontrols;
+} rlig;
 
 lookup onum_0 {
   sub ampersand by ampersand;
