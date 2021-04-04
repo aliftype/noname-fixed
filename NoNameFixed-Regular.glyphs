@@ -101634,6 +101634,50 @@ master01 = 1;
 };
 name = Regular;
 weightClass = Normal;
+},
+{
+customParameters = (
+{
+name = postscriptFontName;
+value = "NoNameFixedTerminal-Regular";
+},
+{
+name = familyName;
+value = "NoName Fixed Terminal";
+},
+{
+name = typoAscender;
+value = 750;
+},
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 750;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Replace Prefix";
+value = "Prefix; ";
+}
+);
+instanceInterpolations = {
+master01 = 1;
+};
+name = Regular;
 }
 );
 manufacturer = "Khaled Hosny";
