@@ -711,8 +711,9 @@ horizontalStems = (
 );
 id = master01;
 userData = {
-GSOffsetHorizontal = -3;
+GSOffsetHorizontal = 35;
 GSOffsetKeepCompatible = 1;
+GSOffsetMakeStroke = 1;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
@@ -728,6 +729,7 @@ verticalStems = (
 100,
 154
 );
+visible = 1;
 xHeight = 431;
 }
 );
@@ -67056,7 +67058,9 @@ unicode = "06C1,FBA6";
 glyphname = "hehgoal-ar.fina";
 layers = (
 {
-layerId = master01;
+associatedMasterId = master01;
+layerId = "08CDFEC4-8473-4ECC-9A76-7E03FF1446A6";
+name = "Apr 4 21, 17:38";
 paths = (
 {
 closed = 1;
@@ -67089,6 +67093,39 @@ nodes = (
 "458 230 OFFCURVE",
 "461 180 OFFCURVE",
 "525 180 CURVE"
+);
+}
+);
+width = 525;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"61 55 OFFCURVE",
+"79 62 OFFCURVE",
+"88 87 CURVE SMOOTH",
+"123 184 OFFCURVE",
+"196 274 OFFCURVE",
+"281 329 CURVE",
+"340 177 OFFCURVE",
+"413 110 OFFCURVE",
+"525 110 CURVE",
+"525 180 LINE",
+"440 180 OFFCURVE",
+"382 243 OFFCURVE",
+"338 375 CURVE SMOOTH",
+"330 398 OFFCURVE",
+"307 421 OFFCURVE",
+"261 398 CURVE SMOOTH",
+"173 353 OFFCURVE",
+"77 246 OFFCURVE",
+"23 111 CURVE SMOOTH",
+"10 84 OFFCURVE",
+"19 68 OFFCURVE",
+"38 62 CURVE SMOOTH"
 );
 }
 );
