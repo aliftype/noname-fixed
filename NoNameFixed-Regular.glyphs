@@ -68,6 +68,21 @@ doublerightarrowheadDotabove-ar
 rightarrowheadDotabove-ar
 dammaDot-ar
 marksidewaysnoonghunna-ar
+annisfabove-ar
+dammaturnedbelow-ar
+arrubabove-ar
+assajdaabove-ar
+aththalathaabove-ar
+footnotemarkerabove-ar
+noonKasraabove-ar
+noonKasrabelow-ar
+qafabove-ar
+qifabove-ar
+safhaabove-ar
+saktaabove-ar
+smallsadabove-ar
+waqfaabove-ar
+wawbelow-ar
 ";
 name = marks;
 },
@@ -249,7 +264,7 @@ name = visiblecontrols;
 },
 {
 automatic = 1;
-code = "Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotbelow Dlinebelow E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Ereversed Etilde F G Gacute Gbreve Gcaron Gcedilla Gcircumflex Gcommaaccent Gdotaccent H H_tildecomb Hbar Hbrevebelow Hcircumflex Hdieresis Hdotbelow I Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcedilla Kcommaaccent L L_tildecomb Lacute Lcaron Lcedilla Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lslash M Mdotbelow N Nacute Ncaron Ncedilla Ncommaaccent Ndotaccent Ndotbelow Eng Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcedilla Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T T_dieresiscomb T_tildecomb Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U U_breveinvertedbelowcomb Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow J_caroncomb.cap AE.dup Oslash.dup OE.dup a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotbelow agrave ahookabove amacron aogonek aring aringacute atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d eth dcaron dcroat ddotbelow dlinebelow e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove emacron eogonek ereversed etilde eturned schwa f g gacute gbreve gcaron gcedilla gcircumflex gcommaaccent gdotaccent h h_tildecomb hbar hbrevebelow hcircumflex hdieresis hdotbelow i dotlessi iacute ibreve icaron icircumflex idblgrave idieresis idieresisacute idotbelow igrave ihookabove imacron iogonek itilde j jdotless jcaron jcircumflex k kcedilla kcommaaccent l l_tildecomb lacute lcaron lcedilla lcommaaccent ldot ldotbelow ldotbelowmacron lslash m mdotbelow n nacute ncaron ncedilla ncommaaccent ndotaccent ndotbelow eng ntilde o oacute obreve ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oogonek oslash oslashacute otilde oe p thorn q r racute rcaron rcedilla rcommaaccent rdblgrave rdotaccent rdotbelow rdotbelowmacron s sacute scaron scedilla scircumflex scommaaccent sdotbelow germandbls longs t t_tildecomb tcaron tcedilla tcommaaccent tdieresis tdotbelow tlinebelow u u_breveinvertedbelowcomb uacute ubreve ucaron ucircumflex udblgrave udieresis udieresisacute udieresiscaron udieresisgrave udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent zdotbelow ae.dup oslash.dup oe.dup germandbls.dup ordfeminine ordmasculine A A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Omega-cy Yat-cy Eiotified-cy Yuslittle-cy Yuslittleiotified-cy Yusbig-cy Yusbigiotified-cy Ksi-cy Psi-cy Fita-cy Izhitsa-cy Izhitsadblgrave-cy Uk-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pemiddlehook-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Hahook-cy Hastroke-cy Elhook-cy Koppa-cy Semisoftsign-cy Ertick-cy a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy iishorttail-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy hardsign-cy yeru-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy omega-cy yat-cy eiotified-cy yuslittle-cy yuslittleiotified-cy yusbig-cy yusbigiotified-cy ksi-cy psi-cy fita-cy izhitsa-cy izhitsadblgrave-cy uk-cy ghestroke-cy ghemiddlehook-cy zhedescender-cy zedescender-cy kadescender-cy kaverticalstroke-cy kastroke-cy kabashkir-cy endescender-cy enghe-cy pemiddlehook-cy haabkhasian-cy esdescender-cy tedescender-cy ustraight-cy ustraightstroke-cy hadescender-cy tetse-cy chedescender-cy cheverticalstroke-cy shha-cy cheabkhasian-cy chedescenderabkhasian-cy zhebreve-cy kahook-cy eltail-cy enhook-cy entail-cy chekhakassian-cy emtail-cy abreve-cy adieresis-cy aie-cy iebreve-cy schwa-cy schwadieresis-cy zhedieresis-cy zedieresis-cy dzeabkhasian-cy imacron-cy idieresis-cy odieresis-cy obarred-cy obarreddieresis-cy edieresis-cy umacron-cy udieresis-cy uhungarumlaut-cy chedieresis-cy gedescender-cy yerudieresis-cy hahook-cy hastroke-cy elhook-cy koppa-cy semisoftsign-cy ertick-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KoppaArchaic Stigma Digamma Sampi Alphapsili Alphadasia Alphapsilivaria Alphadasiavaria Alphapsilioxia Alphadasiaoxia Alphapsiliperispomeni Alphadasiaperispomeni Alphavaria Alphaoxia Alphavrachy Alphamacron Alphaprosgegrammeni Alphapsiliprosgegrammeni Alphadasiaprosgegrammeni Alphapsilivariaprosgegrammeni Alphadasiavariaprosgegrammeni Alphapsilioxiaprosgegrammeni Alphadasiaoxiaprosgegrammeni Alphapsiliperispomeniprosgegrammeni Alphadasiaperispomeniprosgegrammeni Epsilonpsili Epsilondasia Epsilonpsilivaria Epsilondasiavaria Epsilonpsilioxia Epsilondasiaoxia Epsilonvaria Epsilonoxia Etapsili Etadasia Etapsilivaria Etadasiavaria Etapsilioxia Etadasiaoxia Etapsiliperispomeni Etadasiaperispomeni Etavaria Etaoxia Etaprosgegrammeni Etapsiliprosgegrammeni Etadasiaprosgegrammeni Etapsilivariaprosgegrammeni Etadasiavariaprosgegrammeni Etapsilioxiaprosgegrammeni Etadasiaoxiaprosgegrammeni Etapsiliperispomeniprosgegrammeni Etadasiaperispomeniprosgegrammeni Iotapsili Iotadasia Iotapsilivaria Iotadasiavaria Iotapsilioxia Iotadasiaoxia Iotapsiliperispomeni Iotadasiaperispomeni Iotavaria Iotaoxia Iotavrachy Iotamacron Omicronpsili Omicrondasia Omicronpsilivaria Omicrondasiavaria Omicronpsilioxia Omicrondasiaoxia Omicronvaria Omicronoxia Rhodasia Upsilondasia Upsilondasiavaria Upsilondasiaoxia Upsilondasiaperispomeni Upsilonvaria Upsilonoxia Upsilonvrachy Upsilonmacron Omegapsili Omegadasia Omegapsilivaria Omegadasiavaria Omegapsilioxia Omegadasiaoxia Omegapsiliperispomeni Omegadasiaperispomeni Omegavaria Omegaoxia Omegaprosgegrammeni Omegapsiliprosgegrammeni Omegadasiaprosgegrammeni Omegapsilivariaprosgegrammeni Omegadasiavariaprosgegrammeni Omegapsilioxiaprosgegrammeni Omegadasiaoxiaprosgegrammeni Omegapsiliperispomeniprosgegrammeni Omegadasiaperispomeniprosgegrammeni alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos koppaArchaic digamma koppa sampi alphapsili alphadasia alphapsilivaria alphadasiavaria alphapsilioxia alphadasiaoxia alphapsiliperispomeni alphadasiaperispomeni alphavaria alphaoxia alphaperispomeni alphavrachy alphamacron alphaypogegrammeni alphavariaypogegrammeni alphaoxiaypogegrammeni alphapsiliypogegrammeni alphadasiaypogegrammeni alphapsilivariaypogegrammeni alphadasiavariaypogegrammeni alphapsilioxiaypogegrammeni alphadasiaoxiaypogegrammeni alphapsiliperispomeniypogegrammeni alphadasiaperispomeniypogegrammeni alphaperispomeniypogegrammeni epsilonpsili epsilondasia epsilonpsilivaria epsilondasiavaria epsilonpsilioxia epsilondasiaoxia epsilonvaria epsilonoxia etapsili etadasia etapsilivaria etadasiavaria etapsilioxia etadasiaoxia etapsiliperispomeni etadasiaperispomeni etavaria etaoxia etaperispomeni etaypogegrammeni etavariaypogegrammeni etaoxiaypogegrammeni etapsiliypogegrammeni etadasiaypogegrammeni etapsilivariaypogegrammeni etadasiavariaypogegrammeni etapsilioxiaypogegrammeni etadasiaoxiaypogegrammeni etapsiliperispomeniypogegrammeni etadasiaperispomeniypogegrammeni etaperispomeniypogegrammeni iotapsili iotadasia iotapsilivaria iotadasiavaria iotapsilioxia iotadasiaoxia iotapsiliperispomeni iotadasiaperispomeni iotavaria iotaoxia iotaperispomeni iotavrachy iotamacron iotadialytikavaria iotadialytikaoxia iotadialytikaperispomeni omicronpsili omicrondasia omicronpsilivaria omicrondasiavaria omicronpsilioxia omicrondasiaoxia omicronvaria omicronoxia rhopsili rhodasia upsilonpsili upsilondasia upsilonpsilivaria upsilondasiavaria upsilonpsilioxia upsilondasiaoxia upsilonpsiliperispomeni upsilondasiaperispomeni upsilonvaria upsilonoxia upsilonperispomeni upsilonvrachy upsilonmacron upsilondialytikavaria upsilondialytikaoxia upsilondialytikaperispomeni omegapsili omegadasia omegapsilivaria omegadasiavaria omegapsilioxia omegadasiaoxia omegapsiliperispomeni omegadasiaperispomeni omegavaria omegaoxia omegaperispomeni omegaypogegrammeni omegavariaypogegrammeni omegaoxiaypogegrammeni omegapsiliypogegrammeni omegadasiaypogegrammeni omegapsilivariaypogegrammeni omegadasiavariaypogegrammeni omegapsilioxiaypogegrammeni omegadasiaoxiaypogegrammeni omegapsiliperispomeniypogegrammeni omegadasiaperispomeniypogegrammeni omegaperispomeniypogegrammeni prosgegrammeni ypogegrammeni hamza-ar highhamza-ar highhamza-ar.narrow alef-ar alef-ar.shorter alef-ar.fina alef-ar.fina.alt alef-ar.fina.shorter alef-ar.short alef-ar.fina.short alefHamzaabove-ar alefHamzaabove-ar.fina alefHamzaabove-ar.fina.alt alefHamzabelow-ar alefHamzabelow-ar.fina alefHamzabelow-ar.fina.alt alefWavyhamzaabove-ar alefWavyhamzaabove-ar.fina alefWavyhamzaabove-ar.fina.alt alefWavyhamzabelow-ar alefWavyhamzabelow-ar.fina alefWavyhamzabelow-ar.fina.alt alefMadda-ar alefMadda-ar.fina alefMadda-ar.fina.alt alefWasla-ar alefWasla-ar.fina alefWasla-ar.fina.alt highhamzaAlef-ar behDotless-ar behDotless-ar.hah behDotless-ar.fina behDotless-ar.medi behDotless-ar.init beh-ar beh-ar.fina beh-ar.medi beh-ar.init peh-ar peh-ar.fina peh-ar.medi peh-ar.init pehVabove-ar pehVabove-ar.fina pehVabove-ar.medi pehVabove-ar.init beeh-ar beeh-ar.fina beeh-ar.medi beeh-ar.init beheh-ar beheh-ar.fina beheh-ar.medi beheh-ar.init alefMaksura-ar.medi alefMaksura-ar.init teh-ar teh-ar.fina teh-ar.medi teh-ar.init tehRing-ar tehRing-ar.fina tehRing-ar.medi tehRing-ar.init tehThreedotsdown-ar tehThreedotsdown-ar.fina tehThreedotsdown-ar.medi tehThreedotsdown-ar.init theh-ar theh-ar.fina theh-ar.medi theh-ar.init tteh-ar tteh-ar.fina tteh-ar.medi tteh-ar.init tteheh-ar tteheh-ar.fina tteheh-ar.medi tteheh-ar.init teheh-ar teheh-ar.fina teheh-ar.medi teheh-ar.init behThreedotshorizontalbelow-ar behThreedotshorizontalbelow-ar.fina behThreedotshorizontalbelow-ar.medi behThreedotshorizontalbelow-ar.init behThreedotsupabove-ar behThreedotsupabove-ar.fina behThreedotsupabove-ar.medi behThreedotsupabove-ar.init behThreedotsupbelow-ar behThreedotsupbelow-ar.fina behThreedotsupbelow-ar.medi behThreedotsupbelow-ar.init tehThreedotsupbelow-ar tehThreedotsupbelow-ar.fina tehThreedotsupbelow-ar.medi tehThreedotsupbelow-ar.init behTwodotsbelowDotabove-ar behTwodotsbelowDotabove-ar.fina behTwodotsbelowDotabove-ar.medi behTwodotsbelowDotabove-ar.init behVinvertedbelow-ar behVinvertedbelow-ar.fina behVinvertedbelow-ar.medi behVinvertedbelow-ar.init behVabove-ar behVabove-ar.fina behVabove-ar.medi behVabove-ar.init behVbelow-ar ttehVabove-ar ttehVabove-ar.fina behVbelow-ar.fina ttehVabove-ar.medi behVbelow-ar.medi ttehVabove-ar.init behVbelow-ar.init behhamzaabove-ar behhamzaabove-ar.fina behhamzaabove-ar.medi behhamzaabove-ar.init jeemThreedotsabove-ar jeemThreedotsabove-ar.fina jeemThreedotsabove-ar.medi jeemThreedotsabove-ar.init jeemThreedotsbelow-ar jeemThreedotsbelow-ar.fina jeemThreedotsbelow-ar.medi jeemThreedotsbelow-ar.init jeem-ar jeem-ar.fina jeem-ar.medi jeem-ar.init tcheh-ar tcheh-ar.fina tcheh-ar.medi tcheh-ar.init tchehVabove-ar tchehVabove-ar.fina tchehVabove-ar.medi tchehVabove-ar.init tcheheh-ar tcheheh-ar.fina tcheheh-ar.medi tcheheh-ar.init tchehDotabove-ar tchehDotabove-ar.fina tchehDotabove-ar.medi tchehDotabove-ar.init nyeh-ar nyeh-ar.fina nyeh-ar.medi nyeh-ar.init dyeh-ar dyeh-ar.fina dyeh-ar.medi dyeh-ar.init hah-ar hah-ar.fina hah-ar.medi hah-ar.init hahHamzaabove-ar hahHamzaabove-ar.fina hahHamzaabove-ar.medi hahHamzaabove-ar.init hahTwodotsverticalabove-ar hahTwodotsverticalabove-ar.fina hahTwodotsverticalabove-ar.medi hahTwodotsverticalabove-ar.init hahTwodotshorizontalabove-ar hahTwodotshorizontalabove-ar.fina hahTwodotshorizontalabove-ar.medi hahTwodotshorizontalabove-ar.init hahThreedotsabove-ar hahThreedotsabove-ar.fina hahThreedotsabove-ar.medi hahThreedotsabove-ar.init hahThreedotsupbelow-ar hahThreedotsupbelow-ar.fina hahThreedotsupbelow-ar.medi hahThreedotsupbelow-ar.init khah-ar khah-ar.fina khah-ar.medi khah-ar.init hahTahbelow-ar hahTahbelow-ar.fina hahTahbelow-ar.medi hahTahbelow-ar.init hahTahTwodotshorizontalbelow-ar hahTahTwodotshorizontalbelow-ar.fina hahTahTwodotshorizontalbelow-ar.medi hahTahTwodotshorizontalbelow-ar.init hahFourbelow-ar hahFourbelow-ar.fina hahFourbelow-ar.medi hahFourbelow-ar.init jeemTwodotsabove-ar jeemTwodotsabove-ar.fina jeemTwodotsabove-ar.medi jeemTwodotsabove-ar.init dal-ar dal-ar.fina thal-ar thal-ar.fina ddal-ar ddal-ar.fina dahal-ar dahal-ar.fina ddahal-ar ddahal-ar.fina dalRing-ar dalRing-ar.fina dalDotbelow-ar dalDotbelow-ar.fina dalDotbelowTah-ar dalDotbelowTah-ar.fina dul-ar dul-ar.fina dalThreedotsdown-ar dalThreedotsdown-ar.fina dalFourdots-ar dalFourdots-ar.fina dalVinvertedabove-ar dalVinvertedabove-ar.fina dalTwodotsverticalbelowTah-ar dalTwodotsverticalbelowTah-ar.fina dalVinvertedbelow-ar dalVinvertedbelow-ar.fina dalThreedotsbelow-ar dalThreedotsbelow-ar.fina reh-ar reh-ar.fina zain-ar zain-ar.fina zainVinvertedabove-ar zainVinvertedabove-ar.fina ainThreedotsbelow-ar ainThreedotsbelow-ar.fina ainThreedotsbelow-ar.medi ainThreedotsbelow-ar.init kafDotbelow-ar kafDotbelow-ar.fina kafDotbelow-ar.medi kafDotbelow-ar.init rreh-ar rreh-ar.fina rehv-ar rehv-ar.fina rehRing-ar rehRing-ar.fina rehDotbelow-ar rehDotbelow-ar.fina rehVbelow-ar rehVbelow-ar.fina rehDotbelowdotabove-ar rehDotbelowdotabove-ar.fina rehTwodots-ar rehTwodots-ar.fina jeh-ar jeh-ar.fina rehFourdots-ar rehFourdots-ar.fina rehVinvertedabove-ar rehVinvertedabove-ar.fina rehStroke-ar rehStroke-ar.fina rehTwodotsverticalabove-ar rehTwodotsverticalabove-ar.fina rehHamzaabove-ar rehHamzaabove-ar.fina rehTwodotshorizontalaboveTahabove-ar rehTwodotshorizontalaboveTahabove-ar.fina rehLoop-ar rehLoop-ar.fina seen-ar seen-ar.fina seen-ar.medi seen-ar.init seenDotbelowDotabove-ar seenDotbelowDotabove-ar.fina seenDotbelowDotabove-ar.medi seenDotbelowDotabove-ar.init seenThreedotsbelow-ar seenThreedotsbelow-ar.fina seenThreedotsbelow-ar.medi seenThreedotsbelow-ar.init sheen-ar sheen-ar.fina sheen-ar.medi sheen-ar.init sheenDotbelow-ar sheenDotbelow-ar.fina sheenDotbelow-ar.medi sheenDotbelow-ar.init sheenThreedotsbelow-ar sheenThreedotsbelow-ar.fina sheenThreedotsbelow-ar.medi sheenThreedotsbelow-ar.init sad-ar sad-ar.fina sad-ar.medi sad-ar.init sadTwodotsbelow-ar sadTwodotsbelow-ar.fina sadTwodotsbelow-ar.medi sadTwodotsbelow-ar.init sadThreedots-ar sadThreedots-ar.fina sadThreedots-ar.medi sadThreedots-ar.init sadThreedotsbelow-ar sadThreedotsbelow-ar.fina sadThreedotsbelow-ar.medi sadThreedotsbelow-ar.init dad-ar dad-ar.fina dad-ar.medi dad-ar.init dadDotbelow-ar dadDotbelow-ar.fina dadDotbelow-ar.medi dadDotbelow-ar.init tah-ar tah-ar.fina tah-ar.medi tah-ar.init tahThreedots-ar tahThreedots-ar.fina tahThreedots-ar.medi tahThreedots-ar.init zah-ar zah-ar.fina zah-ar.medi zah-ar.init tahTwodotsabove-ar tahTwodotsabove-ar.fina tahTwodotsabove-ar.medi tahTwodotsabove-ar.init ain-ar ain-ar.fina ain-ar.medi ain-ar.init ainThreedots-ar ainThreedots-ar.fina ainThreedots-ar.medi ainThreedots-ar.init ghain-ar ghain-ar.fina ghain-ar.medi ghain-ar.init ghainDotbelow-ar ghainDotbelow-ar.fina ghainDotbelow-ar.medi ghainDotbelow-ar.init ghainThreedotsabove-ar ghainThreedotsabove-ar.fina ghainThreedotsabove-ar.medi ghainThreedotsabove-ar.init feh-ar feh-ar.fina feh-ar.medi feh-ar.init veh-ar veh-ar.fina veh-ar.medi veh-ar.init fehDotless-ar fehDotless-ar.fina fehDotless-ar.medi fehDotless-ar.init fehDotmovedbelow-ar fehDotmovedbelow-ar.fina fehDotmovedbelow-ar.medi fehDotmovedbelow-ar.init fehDotbelow-ar fehDotbelow-ar.fina fehDotbelow-ar.medi fehDotbelow-ar.init fehThreedotsbelow-ar fehThreedotsbelow-ar.fina fehThreedotsbelow-ar.medi fehThreedotsbelow-ar.init fehDotbelowThreedotsabove-ar fehDotbelowThreedotsabove-ar.fina fehDotbelowThreedotsabove-ar.medi fehDotbelowThreedotsabove-ar.init peheh-ar peheh-ar.fina peheh-ar.medi peheh-ar.init fehAfrican-ar fehAfrican-ar.fina fehAfrican-ar.medi fehAfrican-ar.init qafDotless-ar qafDotless-ar.medi qafDotless-ar.init qafDotless-ar.fina qaf-ar qaf-ar.fina qaf-ar.medi qaf-ar.init qafDotabove-ar qafDotabove-ar.fina qafDotabove-ar.medi qafDotabove-ar.init qafThreedotsabove-ar qafThreedotsabove-ar.fina qafThreedotsabove-ar.medi qafThreedotsabove-ar.init qafDotbelow-ar qafDotbelow-ar.fina qafDotbelow-ar.medi qafDotbelow-ar.init qafAfrican-ar qafAfrican-ar.fina qafAfrican-ar.medi qafAfrican-ar.init qafThreedotsaboveAfrican-ar kafDotless-ar kafDotless-ar.fina kaf-ar kaf-ar.fina kaf-ar.medi kaf-ar.init keheh-ar keheh-ar.fina keheh-ar.medi keheh-ar.init kehehTwodotshorizontalabove-ar kehehTwodotshorizontalabove-ar.fina kehehTwodotshorizontalabove-ar.medi kehehTwodotshorizontalabove-ar.init kehehThreedotsbelow-ar kehehThreedotsbelow-ar.fina kehehThreedotsbelow-ar.medi kehehThreedotsbelow-ar.init kehehDotabove-ar kehehDotabove-ar.fina kehehDotabove-ar.medi kehehDotabove-ar.init kehehThreedotsabove-ar kehehThreedotsabove-ar.fina kehehThreedotsabove-ar.medi kehehThreedotsabove-ar.init kehehThreedotsupbelow-ar kehehThreedotsupbelow-ar.fina kehehThreedotsupbelow-ar.medi kehehThreedotsupbelow-ar.init kehehVabove-ar gaf-ar gaf-ar.fina gaf-ar.medi gaf-ar.init gafRing-ar gafRing-ar.fina gafRing-ar.medi gafRing-ar.init gafThreedots-ar gafThreedots-ar.fina gafThreedots-ar.medi gafThreedots-ar.init kafswash-ar kafswash-ar.fina kafswash-ar.medi kafswash-ar.init kafRing-ar kafRing-ar.fina kafRing-ar.medi kafRing-ar.init kafDotabove-ar kafDotabove-ar.fina kafDotabove-ar.medi kafDotabove-ar.init kafTwodotshorizontalabove-ar kafTwodotshorizontalabove-ar.fina kafTwodotshorizontalabove-ar.medi kafTwodotshorizontalabove-ar.init kafThreedotsbelow-ar kafThreedotsbelow-ar.fina kafThreedotsbelow-ar.medi kafThreedotsbelow-ar.init gafTwodotsbelow-ar gafTwodotsbelow-ar.fina gafTwodotsbelow-ar.medi gafTwodotsbelow-ar.init gafInvertedstroke-ar gafInvertedstroke-ar.fina gafInvertedstroke-ar.medi gafInvertedstroke-ar.init ng-ar ng-ar.fina ng-ar.medi ng-ar.init ngoeh-ar ngoeh-ar.fina ngoeh-ar.medi ngoeh-ar.init gueh-ar gueh-ar.fina gueh-ar.medi gueh-ar.init lam-ar lam-ar.fina lam-ar.medi lam-ar.medi.short lam-ar.init lamVabove-ar lamVabove-ar.fina lamVabove-ar.medi lamVabove-ar.init lamDotabove-ar lamDotabove-ar.fina lamDotabove-ar.medi lamDotabove-ar.init lamThreedotsabove-ar lamThreedotsabove-ar.fina lamThreedotsabove-ar.medi lamThreedotsabove-ar.init lamThreedotsbelow-ar lamThreedotsbelow-ar.fina lamThreedotsbelow-ar.medi lamThreedotsbelow-ar.init lamDoublebar-ar lamDoublebar-ar.fina lamDoublebar-ar.medi lamDoublebar-ar.init lamTahabove-ar lamTahabove-ar.fina lamTahabove-ar.medi lamTahabove-ar.init meem-ar meem-ar.fina meem-ar.medi meem-ar.init meemThreedotsabove-ar meemThreedotsabove-ar.fina meemThreedotsabove-ar.medi meemThreedotsabove-ar.init noon-ar noon-ar.fina noon-ar.medi noon-ar.init noonDotbelow-ar noonDotbelow-ar.fina noonDotbelow-ar.medi noonDotbelow-ar.init noonghunna-ar noonghunna-ar.medi noonghunna-ar.init noonghunna-ar.fina rnoon-ar rnoon-ar.fina rnoon-ar.medi rnoon-ar.init noonRing-ar noonRing-ar.fina noonRing-ar.medi noonRing-ar.init noonThreedotsabove-ar noonThreedotsabove-ar.fina noonThreedotsabove-ar.medi noonThreedotsabove-ar.init noonAfrican-ar noonAfrican-ar.fina noonAfrican-ar.medi noonAfrican-ar.init heh-ar heh-ar.fina heh-ar.medi heh-ar.init hehHamzaabove-ar hehHamzaabove-ar.fina hehgoal-ar hehgoal-ar.fina hehgoal-ar.medi hehgoal-ar.init hehgoalHamzaabove-ar hehgoalHamzaabove-ar.fina hehDoachashmee-ar hehDoachashmee-ar.fina hehDoachashmee-ar.medi hehDoachashmee-ar.init hehDoachashmee-ar.init.comp hehVinvertedabove-ar hehVinvertedabove-ar.fina hehVinvertedabove-ar.medi hehVinvertedabove-ar.init tehMarbuta-ar tehMarbuta-ar.alt tehMarbuta-ar.fina tehMarbutagoal-ar tehMarbutagoal-ar.fina tehVabove-ar tehVabove-ar.fina tehVabove-ar.medi tehVabove-ar.init waw-ar waw-ar.fina wawring-ar wawring-ar.fina wawTwodots-ar wawTwodots-ar.fina wawDotabove-ar wawDotabove-ar.fina wawHamzaabove-ar wawHamzaabove-ar.fina wawTwoabove-ar wawTwoabove-ar.fina wawThreeAbove-ar wawThreeAbove-ar.fina wawDotcenter-ar wawDotcenter-ar.fina wawStraight-ar wawStraight-ar.fina kirghizoe-ar kirghizoe-ar.fina oe-ar oe-ar.fina u-ar u-ar.fina yu-ar yu-ar.fina kirghizyu-ar kirghizyu-ar.fina ve-ar ve-ar.fina alefMaksura-ar alefMaksura-ar.fina aleflow-ar alefTwoabove-ar alefTwoabove-ar.fina alefTwoabove-ar.fina.alt alefThreeabove-ar alefThreeabove-ar.fina alefThreeabove-ar.fina.alt yeh-ar yeh-ar.fina yeh-ar.medi yeh-ar.init yehHamzaabove-ar yehHamzaabove-ar.fina yehHamzaabove-ar.medi yehHamzaabove-ar.init yehVabove-ar yehVabove-ar.fina yehVabove-ar.medi yehVabove-ar.init yehTwodotsbelowHamzaabove-ar yehTwodotsbelowHamzaabove-ar.fina yehTwodotsbelowHamzaabove-ar.medi yehTwodotsbelowHamzaabove-ar.init yehTwodotsbelowDotabove-ar yehTwodotsbelowDotabove-ar.fina yehTwodotsbelowDotabove-ar.medi yehTwodotsbelowDotabove-ar.init yehVinverted-farsi yehVinverted-farsi.fina yehVinverted-farsi.medi yehVinverted-farsi.init yeh-farsi yeh-farsi.fina yeh-farsi.medi yeh-farsi.init yehTwodotsabove-farsi yehTwodotsabove-farsi.fina yehTwodotsabove-farsi.medi yehTwodotsabove-farsi.init yehThreedotsabove-farsi yehThreedotsabove-farsi.fina yehThreedotsabove-farsi.medi yehThreedotsabove-farsi.init yehTwoabove-farsi yehTwoabove-farsi.fina yehTwoabove-farsi.medi yehTwoabove-farsi.init yehThreeabove-farsi yehThreeabove-farsi.fina yehThreeabove-farsi.medi yehThreeabove-farsi.init yehFourbelow-farsi yehFourbelow-farsi.fina yehFourbelow-farsi.medi yehFourbelow-farsi.init yehTail-ar yehTail-ar.fina yehKashmiri-ar yehKashmiri-ar.fina yehKashmiri-ar.medi yehKashmiri-ar.init e-ar e-ar.fina e-ar.medi e-ar.init yehThreedotsbelow-ar yehThreedotsbelow-ar.fina yehThreedotsbelow-ar.medi yehThreedotsbelow-ar.init yehbarree-ar yehbarree-ar.fina yehbarreeHamzaabove-ar yehbarreeHamzaabove-ar.fina yehbarreeTwoabove-ar yehbarreeTwoabove-ar.fina yehbarreeThreeabove-ar yehbarreeThreeabove-ar.fina yehRohingya-ar yehRohingya-ar.fina yehRohingya-ar.comp highhamzaWaw-ar uHamzaabove-ar highhamzaYeh-ar highhamzaYeh-ar.init ae-ar ae-ar.fina seenFourdotsabove-ar seenFourdotsabove-ar.fina seenFourdotsabove-ar.medi seenFourdotsabove-ar.init ainTwodotshorizontalabove-ar ainTwodotshorizontalabove-ar.fina ainTwodotshorizontalabove-ar.medi ainTwodotshorizontalabove-ar.init ainThreedotsdownabove-ar ainThreedotsdownabove-ar.fina ainThreedotsdownabove-ar.medi ainThreedotsdownabove-ar.init ainTwodotsverticalabove-ar ainTwodotsverticalabove-ar.fina ainTwodotsverticalabove-ar.medi ainTwodotsverticalabove-ar.init fehTwodotsbelow-ar fehTwodotsbelow-ar.fina fehTwodotsbelow-ar.medi fehTwodotsbelow-ar.init fehThreedotsupbelow-ar fehThreedotsupbelow-ar.fina fehThreedotsupbelow-ar.medi fehThreedotsupbelow-ar.init meemDotabove-ar meemDotabove-ar.fina meemDotabove-ar.medi meemDotabove-ar.init meemDotbelow-ar meemDotbelow-ar.fina meemDotbelow-ar.medi meemDotbelow-ar.init noonTwodotsbelow-ar noonTwodotsbelow-ar.fina noonTwodotsbelow-ar.medi noonTwodotsbelow-ar.init noonTahabove-ar noonTahabove-ar.fina noonTahabove-ar.medi noonTahabove-ar.init noonVabove-ar noonVabove-ar.fina noonVabove-ar.medi noonVabove-ar.init lamBar-ar lamBar-ar.fina lamBar-ar.medi lamBar-ar.init seenTwodotsverticalabove-ar seenTwodotsverticalabove-ar.fina seenTwodotsverticalabove-ar.medi seenTwodotsverticalabove-ar.init seenTahTwodotshorizontalabove-ar seenTahTwodotshorizontalabove-ar.fina seenTahTwodotshorizontalabove-ar.medi seenTahTwodotshorizontalabove-ar.init hahTahabove-ar hahTahabove-ar.fina hahTahabove-ar.medi hahTahabove-ar.init seenFourabove-ar seenFourabove-ar.fina seenFourabove-ar.medi seenFourabove-ar.init seenVinvertedabove-ar seenVinvertedabove-ar.fina seenVinvertedabove-ar.medi seenVinvertedabove-ar.init fathatan-ar.medi kashidaFina-ar kasra-ar.medi kashida-ar fatha-ar.medi damma-ar.medi shadda-ar.medi sukun-ar.medi behMeemabove-ar behMeemabove-ar.fina behMeemabove-ar.medi behMeemabove-ar.init pehMeemabove-ar pehMeemabove-ar.fina pehMeemabove-ar.medi pehMeemabove-ar.init rehNoonabove-ar rehNoonabove-ar.fina tehTehabove-ar tehTehabove-ar.fina tehTehabove-ar.medi tehTehabove-ar.init yehTwodotsbelowNoonabove-ar yehTwodotsbelowNoonabove-ar.fina yehTwodotsbelowNoonabove-ar.medi yehTwodotsbelowNoonabove-ar.init lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina beh_meem-ar.init teh_jeem-ar.init teh_hah-ar.init lam_jeem-ar.init lam_hah-ar.init lam_khah-ar.init lam_meem-ar.init lam_meem_hah-ar.init yeh_noon-ar.fina allah-ar mohammad-ar allahlong-ar allahlong-ar.batraa jallajalalouhou-ar wawSmall-ar yehSmall-ar zero one two three four five six seven eight nine zero.slash one.superior two.superior three.superior zero.taboldstyle one.taboldstyle two.taboldstyle three.taboldstyle four.taboldstyle five.taboldstyle six.taboldstyle seven.taboldstyle eight.taboldstyle nine.taboldstyle fraction onehalf onequarter threequarters decimalseparator-ar thousandseparator-ar zero-ar one-ar two-ar three-ar four-ar five-ar six-ar seven-ar eight-ar nine-ar zero-persian one-persian two-persian three-persian four-persian five-persian six-persian seven-persian eight-persian nine-persian four-persian.urdu seven-persian.urdu period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk charactertie dblverticalbar gnaborretni interrobang invertedundertie numbersign quillbracketleft quillbracketright referencemark slash backslash undertie period.arabic colon.arabic exclam.arabic asterisk.math parenleft parenright braceleft braceright bracketleft bracketright angleleft angleright hyphen softhyphen endash emdash hyphentwo nonbreakinghyphen underscore quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle dblbracketleft dblbracketright tahbelowSymbol-ar dotaboveSymbol-ar dotbelowSymbol-ar twodotsverticalaboveSymbol-ar twodotsverticalbelowSymbol-ar twodotshorizontalaboveSymbol-ar twodotshorizontalbelowSymbol-ar threedots-ar threedotsdownaboveSymbol-ar threedotsdownbelowSymbol-ar threedotsupaboveSymbol-ar threedotsupbelowSymbol-ar fourdotsaboveSymbol-ar fourdotsbelowSymbol-ar doubleverticalbarbelowSymbol-ar ringSymbol-ar hizb-ar fullstop-ar comma-ar semicolon-ar question-ar number-ar asterisk-ar year-ar footnotemarker-ar pagenumber-ar dateseparator-ar verseComma-ar misraComma-ar sindhiampersand-ar endofayah-ar parenleft-ar parenright-ar anoteleia questiongreek narrownbspace space nbspace lefttorightmark righttoleftmark zerowidthjoiner zerowidthnonjoiner lefttorightembedding lefttorightoverride popdirectionalformatting righttoleftembedding righttoleftoverride space_dieresiscomb_gravecomb space_dieresiscomb_acutecomb space_dieresiscomb_caroncomb space_circumflexcomb_gravecomb space_circumflexcomb_acutecomb space_circumflexcomb_tildecomb space_circumflexcomb_hookabovecomb space_brevecomb_gravecomb space_brevecomb_acutecomb space_brevecomb_tildecomb space_brevecomb_hookabovecomb space_ringcomb_acutecomb space_hookabovecomb space_dblgravecomb space_breveinvertedcomb space_dotbelowcomb space_commaaccentcomb space_brevebelowcomb space_breveinvertedbelowcomb space_tildebelowcomb space_macronbelowcomb space_lowlinecomb zeroWidthNoBreakSpace space_dieresiscomb_gravecomb.cap space_dieresiscomb_acutecomb.cap space_dieresiscomb_caroncomb.cap space_circumflexcomb_gravecomb.cap space_circumflexcomb_acutecomb.cap space_circumflexcomb_tildecomb.cap space_circumflexcomb_hookabovecomb.cap space_brevecomb_gravecomb.cap space_brevecomb_acutecomb.cap space_brevecomb_tildecomb.cap space_brevecomb_hookabovecomb.cap space_ringcomb_acutecomb.cap space_hookabovecomb.cap space_dblgravecomb.cap space_breveinvertedcomb.cap ray-ar afghani-ar rial baht cent colonsign currency dollar dong euro florin guarani lira naira peso sterling won yen cent.oldstyle dollar.oldstyle Ohminverted commercialMinusSign divisionslash plus minus multiply divide equal greater less plusminus asciitilde logicalnot asciicircum infinity Ohm radical micro percent perthousand sphericalangle percent.arabic.comp asciitilde.low upArrow rightArrow downArrow leftArrow dottedCircle whiteBullet marriageSymbol divorceSymbol at ampersand paragraph section copyright registered published degree diameterSign bar brokenbar dagger daggerdbl estimated numero blank blankSymbol centigrade prescription paragraph.alt registered.alt note-musical sajdah-ar sindhipostpositionmen-ar sindhipostpositionmen-ar.fina sindhipostpositionmen-ar.medi sindhipostpositionmen-ar.init percent-ar cuberoot-ar fourthroot-ar perthousand-ar pertenthousand-ar bismillah-ar mark-ar numbermark-ar samvat-ar numeral-greek lowernumeral-greek thousand-cy dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb dotbelowcomb commaaccentcomb brevebelowcomb breveinvertedbelowcomb tildebelowcomb macronbelowcomb lowlinecomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek ringhalfleft ringhalfright dotaccent.alt macron.alt macron.cap.alt dieresiscomb.cap dotaccentcomb.cap gravecomb.cap acutecomb.cap hungarumlautcomb.cap circumflexcomb.cap caroncomb.cap brevecomb.cap ringcomb.cap tildecomb.cap macroncomb.cap hookabovecomb.cap dblgravecomb.cap breveinvertedcomb.cap dieresis.cap dotaccent.cap grave.cap acute.cap hungarumlaut.cap circumflex.cap caron.cap breve.cap ring.cap tilde.cap macron.cap dieresis.dup acute.dup circumflex.dup tilde.dup macron.dup cedilla.dup dieresis.ts1 grave.ts1 acute.ts1 hungarumlaut.ts1 caron.ts1 breve.ts1 macron.ts1 rehHahabove-ar rehDadabove-ar sadabove-ar ainabove-ar takhallusabove-ar tahabove-ar alefLamYehabove-ar zainabove-ar fathasmall-ar dammasmall-ar kasrasmall-ar threedotshorizontalbelow-ar stroke-ar fourabove-ar fourbelow-ar threeabove-ar twoabove-ar wasla-ar miniKeheh-ar gafsarkashabove-ar wavyhamzabelow-ar doublestroke-ar alefabove-ar alefbelow-ar hamzaabove-ar hamzabelow-ar fathatan-ar dammatan-ar kasratan-ar fatha-ar damma-ar kasra-ar shadda-ar sukun-ar madda-ar noonghunnaabove-ar dammainverted-ar fathaHorizont-ar vabove-ar vinvertedabove-ar dotvowelbelow-ar dammareversed-ar fathatwodots-ar sadLamAlefMaksuraabove-ar qafLamAlefMaksuraabove-ar meemabove-ar meemStopabove-ar lamAlefabove-ar jeemabove-ar threedotsabove-ar seenabove-ar sukunround-ar sukunoval-ar hahabove-ar seenbelow-ar maddalong-ar yehabove-ar noonabove-ar rhombusStopbelow-ar rhombusStopabove-ar dotStopabove-ar meembelow-ar fathaCurly-ar dammaCurly-ar kasraCurly-ar fathatanCurly-ar dammatanCurly-ar kasratanCurly-ar toneonedotabove-ar tonetwodotsabove-ar toneloopabove-ar toneonedotbelow-ar tonetwodotsbelow-ar toneloopbelow-ar openfathatan-ar opendammatan-ar openkasratan-ar highwaw-ar fathaRing-ar fathaDotabove-ar kasraDotbelow-ar leftarrowheadabove-ar rightarrowheadabove-ar leftarrowheadbelow-ar rightarrowheadbelow-ar doublerightarrowheadabove-ar doublerightarrowheadDotabove-ar rightarrowheadDotabove-ar dammaDot-ar marksidewaysnoonghunna-ar tonos dieresistonos psili koronis dasia psilivaria dasiavaria psilioxia dasiaoxia psiliperispomeni dasiaperispomeni dialytikavaria dialytikaoxia dialytikaperispomeni varia oxia perispomeni titlocomb-cy palatalizationcomb-cy dasiapneumatacomb-cy psilipneumatacomb-cy hundredthousandssigncomb-cy millionssigncomb-cy uni047A uni047B uni047C uni047D uni047E uni047F uniFBC0 bigcircle perthousandzero ittisal.comp Threedotsinverted.alt.comp arabic_root.comp charbox.comp tail.comp rehabove-ar";
+code = "Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotbelow Dlinebelow E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Ereversed Etilde F G Gacute Gbreve Gcaron Gcedilla Gcircumflex Gcommaaccent Gdotaccent H H_tildecomb Hbar Hbrevebelow Hcircumflex Hdieresis Hdotbelow I Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcedilla Kcommaaccent L L_tildecomb Lacute Lcaron Lcedilla Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lslash M Mdotbelow N Nacute Ncaron Ncedilla Ncommaaccent Ndotaccent Ndotbelow Eng Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcedilla Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T T_dieresiscomb T_tildecomb Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U U_breveinvertedbelowcomb Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow J_caroncomb.cap AE.dup Oslash.dup OE.dup a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotbelow agrave ahookabove amacron aogonek aring aringacute atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d eth dcaron dcroat ddotbelow dlinebelow e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove emacron eogonek ereversed etilde eturned schwa f g gacute gbreve gcaron gcedilla gcircumflex gcommaaccent gdotaccent h h_tildecomb hbar hbrevebelow hcircumflex hdieresis hdotbelow i dotlessi iacute ibreve icaron icircumflex idblgrave idieresis idieresisacute idotbelow igrave ihookabove imacron iogonek itilde j jdotless jcaron jcircumflex k kcedilla kcommaaccent l l_tildecomb lacute lcaron lcedilla lcommaaccent ldot ldotbelow ldotbelowmacron lslash m mdotbelow n nacute ncaron ncedilla ncommaaccent ndotaccent ndotbelow eng ntilde o oacute obreve ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oogonek oslash oslashacute otilde oe p thorn q r racute rcaron rcedilla rcommaaccent rdblgrave rdotaccent rdotbelow rdotbelowmacron s sacute scaron scedilla scircumflex scommaaccent sdotbelow germandbls longs t t_tildecomb tcaron tcedilla tcommaaccent tdieresis tdotbelow tlinebelow u u_breveinvertedbelowcomb uacute ubreve ucaron ucircumflex udblgrave udieresis udieresisacute udieresiscaron udieresisgrave udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent zdotbelow ae.dup oslash.dup oe.dup germandbls.dup ordfeminine ordmasculine A A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Omega-cy Yat-cy Eiotified-cy Yuslittle-cy Yuslittleiotified-cy Yusbig-cy Yusbigiotified-cy Ksi-cy Psi-cy Fita-cy Izhitsa-cy Izhitsadblgrave-cy Uk-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pemiddlehook-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Hahook-cy Hastroke-cy Elhook-cy Koppa-cy Semisoftsign-cy Ertick-cy a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy iishorttail-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy hardsign-cy yeru-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy omega-cy yat-cy eiotified-cy yuslittle-cy yuslittleiotified-cy yusbig-cy yusbigiotified-cy ksi-cy psi-cy fita-cy izhitsa-cy izhitsadblgrave-cy uk-cy ghestroke-cy ghemiddlehook-cy zhedescender-cy zedescender-cy kadescender-cy kaverticalstroke-cy kastroke-cy kabashkir-cy endescender-cy enghe-cy pemiddlehook-cy haabkhasian-cy esdescender-cy tedescender-cy ustraight-cy ustraightstroke-cy hadescender-cy tetse-cy chedescender-cy cheverticalstroke-cy shha-cy cheabkhasian-cy chedescenderabkhasian-cy zhebreve-cy kahook-cy eltail-cy enhook-cy entail-cy chekhakassian-cy emtail-cy abreve-cy adieresis-cy aie-cy iebreve-cy schwa-cy schwadieresis-cy zhedieresis-cy zedieresis-cy dzeabkhasian-cy imacron-cy idieresis-cy odieresis-cy obarred-cy obarreddieresis-cy edieresis-cy umacron-cy udieresis-cy uhungarumlaut-cy chedieresis-cy gedescender-cy yerudieresis-cy hahook-cy hastroke-cy elhook-cy koppa-cy semisoftsign-cy ertick-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KoppaArchaic Stigma Digamma Sampi Alphapsili Alphadasia Alphapsilivaria Alphadasiavaria Alphapsilioxia Alphadasiaoxia Alphapsiliperispomeni Alphadasiaperispomeni Alphavaria Alphaoxia Alphavrachy Alphamacron Alphaprosgegrammeni Alphapsiliprosgegrammeni Alphadasiaprosgegrammeni Alphapsilivariaprosgegrammeni Alphadasiavariaprosgegrammeni Alphapsilioxiaprosgegrammeni Alphadasiaoxiaprosgegrammeni Alphapsiliperispomeniprosgegrammeni Alphadasiaperispomeniprosgegrammeni Epsilonpsili Epsilondasia Epsilonpsilivaria Epsilondasiavaria Epsilonpsilioxia Epsilondasiaoxia Epsilonvaria Epsilonoxia Etapsili Etadasia Etapsilivaria Etadasiavaria Etapsilioxia Etadasiaoxia Etapsiliperispomeni Etadasiaperispomeni Etavaria Etaoxia Etaprosgegrammeni Etapsiliprosgegrammeni Etadasiaprosgegrammeni Etapsilivariaprosgegrammeni Etadasiavariaprosgegrammeni Etapsilioxiaprosgegrammeni Etadasiaoxiaprosgegrammeni Etapsiliperispomeniprosgegrammeni Etadasiaperispomeniprosgegrammeni Iotapsili Iotadasia Iotapsilivaria Iotadasiavaria Iotapsilioxia Iotadasiaoxia Iotapsiliperispomeni Iotadasiaperispomeni Iotavaria Iotaoxia Iotavrachy Iotamacron Omicronpsili Omicrondasia Omicronpsilivaria Omicrondasiavaria Omicronpsilioxia Omicrondasiaoxia Omicronvaria Omicronoxia Rhodasia Upsilondasia Upsilondasiavaria Upsilondasiaoxia Upsilondasiaperispomeni Upsilonvaria Upsilonoxia Upsilonvrachy Upsilonmacron Omegapsili Omegadasia Omegapsilivaria Omegadasiavaria Omegapsilioxia Omegadasiaoxia Omegapsiliperispomeni Omegadasiaperispomeni Omegavaria Omegaoxia Omegaprosgegrammeni Omegapsiliprosgegrammeni Omegadasiaprosgegrammeni Omegapsilivariaprosgegrammeni Omegadasiavariaprosgegrammeni Omegapsilioxiaprosgegrammeni Omegadasiaoxiaprosgegrammeni Omegapsiliperispomeniprosgegrammeni Omegadasiaperispomeniprosgegrammeni alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos koppaArchaic digamma koppa sampi alphapsili alphadasia alphapsilivaria alphadasiavaria alphapsilioxia alphadasiaoxia alphapsiliperispomeni alphadasiaperispomeni alphavaria alphaoxia alphaperispomeni alphavrachy alphamacron alphaypogegrammeni alphavariaypogegrammeni alphaoxiaypogegrammeni alphapsiliypogegrammeni alphadasiaypogegrammeni alphapsilivariaypogegrammeni alphadasiavariaypogegrammeni alphapsilioxiaypogegrammeni alphadasiaoxiaypogegrammeni alphapsiliperispomeniypogegrammeni alphadasiaperispomeniypogegrammeni alphaperispomeniypogegrammeni epsilonpsili epsilondasia epsilonpsilivaria epsilondasiavaria epsilonpsilioxia epsilondasiaoxia epsilonvaria epsilonoxia etapsili etadasia etapsilivaria etadasiavaria etapsilioxia etadasiaoxia etapsiliperispomeni etadasiaperispomeni etavaria etaoxia etaperispomeni etaypogegrammeni etavariaypogegrammeni etaoxiaypogegrammeni etapsiliypogegrammeni etadasiaypogegrammeni etapsilivariaypogegrammeni etadasiavariaypogegrammeni etapsilioxiaypogegrammeni etadasiaoxiaypogegrammeni etapsiliperispomeniypogegrammeni etadasiaperispomeniypogegrammeni etaperispomeniypogegrammeni iotapsili iotadasia iotapsilivaria iotadasiavaria iotapsilioxia iotadasiaoxia iotapsiliperispomeni iotadasiaperispomeni iotavaria iotaoxia iotaperispomeni iotavrachy iotamacron iotadialytikavaria iotadialytikaoxia iotadialytikaperispomeni omicronpsili omicrondasia omicronpsilivaria omicrondasiavaria omicronpsilioxia omicrondasiaoxia omicronvaria omicronoxia rhopsili rhodasia upsilonpsili upsilondasia upsilonpsilivaria upsilondasiavaria upsilonpsilioxia upsilondasiaoxia upsilonpsiliperispomeni upsilondasiaperispomeni upsilonvaria upsilonoxia upsilonperispomeni upsilonvrachy upsilonmacron upsilondialytikavaria upsilondialytikaoxia upsilondialytikaperispomeni omegapsili omegadasia omegapsilivaria omegadasiavaria omegapsilioxia omegadasiaoxia omegapsiliperispomeni omegadasiaperispomeni omegavaria omegaoxia omegaperispomeni omegaypogegrammeni omegavariaypogegrammeni omegaoxiaypogegrammeni omegapsiliypogegrammeni omegadasiaypogegrammeni omegapsilivariaypogegrammeni omegadasiavariaypogegrammeni omegapsilioxiaypogegrammeni omegadasiaoxiaypogegrammeni omegapsiliperispomeniypogegrammeni omegadasiaperispomeniypogegrammeni omegaperispomeniypogegrammeni prosgegrammeni ypogegrammeni hamza-ar highhamza-ar highhamza-ar.narrow alef-ar alef-ar.shorter alef-ar.fina alef-ar.fina.alt alef-ar.fina.shorter alef-ar.short alef-ar.fina.short alefHamzaabove-ar alefHamzaabove-ar.fina alefHamzaabove-ar.fina.alt alefHamzabelow-ar alefHamzabelow-ar.fina alefHamzabelow-ar.fina.alt alefWavyhamzaabove-ar alefWavyhamzaabove-ar.fina alefWavyhamzaabove-ar.fina.alt alefWavyhamzabelow-ar alefWavyhamzabelow-ar.fina alefWavyhamzabelow-ar.fina.alt alefMadda-ar alefMadda-ar.fina alefMadda-ar.fina.alt alefWasla-ar alefWasla-ar.fina alefWasla-ar.fina.alt highhamzaAlef-ar behDotless-ar behDotless-ar.hah behDotless-ar.fina behDotless-ar.medi behDotless-ar.init beh-ar beh-ar.fina beh-ar.medi beh-ar.init peh-ar peh-ar.fina peh-ar.medi peh-ar.init pehVabove-ar pehVabove-ar.fina pehVabove-ar.medi pehVabove-ar.init beeh-ar beeh-ar.fina beeh-ar.medi beeh-ar.init beheh-ar beheh-ar.fina beheh-ar.medi beheh-ar.init alefMaksura-ar.medi alefMaksura-ar.init teh-ar teh-ar.fina teh-ar.medi teh-ar.init tehRing-ar tehRing-ar.fina tehRing-ar.medi tehRing-ar.init tehThreedotsdown-ar tehThreedotsdown-ar.fina tehThreedotsdown-ar.medi tehThreedotsdown-ar.init theh-ar theh-ar.fina theh-ar.medi theh-ar.init tteh-ar tteh-ar.fina tteh-ar.medi tteh-ar.init tteheh-ar tteheh-ar.fina tteheh-ar.medi tteheh-ar.init teheh-ar teheh-ar.fina teheh-ar.medi teheh-ar.init behThreedotshorizontalbelow-ar behThreedotshorizontalbelow-ar.fina behThreedotshorizontalbelow-ar.medi behThreedotshorizontalbelow-ar.init behThreedotsupabove-ar behThreedotsupabove-ar.fina behThreedotsupabove-ar.medi behThreedotsupabove-ar.init behThreedotsupbelow-ar behThreedotsupbelow-ar.fina behThreedotsupbelow-ar.medi behThreedotsupbelow-ar.init tehThreedotsupbelow-ar tehThreedotsupbelow-ar.fina tehThreedotsupbelow-ar.medi tehThreedotsupbelow-ar.init behTwodotsbelowDotabove-ar behTwodotsbelowDotabove-ar.fina behTwodotsbelowDotabove-ar.medi behTwodotsbelowDotabove-ar.init behVinvertedbelow-ar behVinvertedbelow-ar.fina behVinvertedbelow-ar.medi behVinvertedbelow-ar.init behVabove-ar behVabove-ar.fina behVabove-ar.medi behVabove-ar.init behVbelow-ar ttehVabove-ar ttehVabove-ar.fina behVbelow-ar.fina ttehVabove-ar.medi behVbelow-ar.medi ttehVabove-ar.init behVbelow-ar.init behhamzaabove-ar behhamzaabove-ar.fina behhamzaabove-ar.medi behhamzaabove-ar.init jeemThreedotsabove-ar jeemThreedotsabove-ar.fina jeemThreedotsabove-ar.medi jeemThreedotsabove-ar.init jeemThreedotsbelow-ar jeemThreedotsbelow-ar.fina jeemThreedotsbelow-ar.medi jeemThreedotsbelow-ar.init jeem-ar jeem-ar.fina jeem-ar.medi jeem-ar.init tcheh-ar tcheh-ar.fina tcheh-ar.medi tcheh-ar.init tchehVabove-ar tchehVabove-ar.fina tchehVabove-ar.medi tchehVabove-ar.init tcheheh-ar tcheheh-ar.fina tcheheh-ar.medi tcheheh-ar.init tchehDotabove-ar tchehDotabove-ar.fina tchehDotabove-ar.medi tchehDotabove-ar.init nyeh-ar nyeh-ar.fina nyeh-ar.medi nyeh-ar.init dyeh-ar dyeh-ar.fina dyeh-ar.medi dyeh-ar.init hah-ar hah-ar.fina hah-ar.medi hah-ar.init hahHamzaabove-ar hahHamzaabove-ar.fina hahHamzaabove-ar.medi hahHamzaabove-ar.init hahTwodotsverticalabove-ar hahTwodotsverticalabove-ar.fina hahTwodotsverticalabove-ar.medi hahTwodotsverticalabove-ar.init hahTwodotshorizontalabove-ar hahTwodotshorizontalabove-ar.fina hahTwodotshorizontalabove-ar.medi hahTwodotshorizontalabove-ar.init hahThreedotsabove-ar hahThreedotsabove-ar.fina hahThreedotsabove-ar.medi hahThreedotsabove-ar.init hahThreedotsupbelow-ar hahThreedotsupbelow-ar.fina hahThreedotsupbelow-ar.medi hahThreedotsupbelow-ar.init khah-ar khah-ar.fina khah-ar.medi khah-ar.init hahTahbelow-ar hahTahbelow-ar.fina hahTahbelow-ar.medi hahTahbelow-ar.init hahTahTwodotshorizontalbelow-ar hahTahTwodotshorizontalbelow-ar.fina hahTahTwodotshorizontalbelow-ar.medi hahTahTwodotshorizontalbelow-ar.init hahFourbelow-ar hahFourbelow-ar.fina hahFourbelow-ar.medi hahFourbelow-ar.init jeemTwodotsabove-ar jeemTwodotsabove-ar.fina jeemTwodotsabove-ar.medi jeemTwodotsabove-ar.init dal-ar dal-ar.fina thal-ar thal-ar.fina ddal-ar ddal-ar.fina dahal-ar dahal-ar.fina ddahal-ar ddahal-ar.fina dalRing-ar dalRing-ar.fina dalDotbelow-ar dalDotbelow-ar.fina dalDotbelowTah-ar dalDotbelowTah-ar.fina dul-ar dul-ar.fina dalThreedotsdown-ar dalThreedotsdown-ar.fina dalFourdots-ar dalFourdots-ar.fina dalVinvertedabove-ar dalVinvertedabove-ar.fina dalTwodotsverticalbelowTah-ar dalTwodotsverticalbelowTah-ar.fina dalVinvertedbelow-ar dalVinvertedbelow-ar.fina dalThreedotsbelow-ar dalThreedotsbelow-ar.fina reh-ar reh-ar.fina zain-ar zain-ar.fina zainVinvertedabove-ar zainVinvertedabove-ar.fina ainThreedotsbelow-ar ainThreedotsbelow-ar.fina ainThreedotsbelow-ar.medi ainThreedotsbelow-ar.init kafDotbelow-ar kafDotbelow-ar.fina kafDotbelow-ar.medi kafDotbelow-ar.init rreh-ar rreh-ar.fina rehv-ar rehv-ar.fina rehRing-ar rehRing-ar.fina rehDotbelow-ar rehDotbelow-ar.fina rehVbelow-ar rehVbelow-ar.fina rehDotbelowdotabove-ar rehDotbelowdotabove-ar.fina rehTwodots-ar rehTwodots-ar.fina jeh-ar jeh-ar.fina rehFourdots-ar rehFourdots-ar.fina rehVinvertedabove-ar rehVinvertedabove-ar.fina rehStroke-ar rehStroke-ar.fina rehTwodotsverticalabove-ar rehTwodotsverticalabove-ar.fina rehHamzaabove-ar rehHamzaabove-ar.fina rehTwodotshorizontalaboveTahabove-ar rehTwodotshorizontalaboveTahabove-ar.fina rehLoop-ar rehLoop-ar.fina seen-ar seen-ar.fina seen-ar.medi seen-ar.init seenDotbelowDotabove-ar seenDotbelowDotabove-ar.fina seenDotbelowDotabove-ar.medi seenDotbelowDotabove-ar.init seenThreedotsbelow-ar seenThreedotsbelow-ar.fina seenThreedotsbelow-ar.medi seenThreedotsbelow-ar.init sheen-ar sheen-ar.fina sheen-ar.medi sheen-ar.init sheenDotbelow-ar sheenDotbelow-ar.fina sheenDotbelow-ar.medi sheenDotbelow-ar.init sheenThreedotsbelow-ar sheenThreedotsbelow-ar.fina sheenThreedotsbelow-ar.medi sheenThreedotsbelow-ar.init sad-ar sad-ar.fina sad-ar.medi sad-ar.init sadTwodotsbelow-ar sadTwodotsbelow-ar.fina sadTwodotsbelow-ar.medi sadTwodotsbelow-ar.init sadThreedots-ar sadThreedots-ar.fina sadThreedots-ar.medi sadThreedots-ar.init sadThreedotsbelow-ar sadThreedotsbelow-ar.fina sadThreedotsbelow-ar.medi sadThreedotsbelow-ar.init dad-ar dad-ar.fina dad-ar.medi dad-ar.init dadDotbelow-ar dadDotbelow-ar.fina dadDotbelow-ar.medi dadDotbelow-ar.init tah-ar tah-ar.fina tah-ar.medi tah-ar.init tahThreedots-ar tahThreedots-ar.fina tahThreedots-ar.medi tahThreedots-ar.init zah-ar zah-ar.fina zah-ar.medi zah-ar.init tahTwodotsabove-ar tahTwodotsabove-ar.fina tahTwodotsabove-ar.medi tahTwodotsabove-ar.init ain-ar ain-ar.fina ain-ar.medi ain-ar.init ainThreedots-ar ainThreedots-ar.fina ainThreedots-ar.medi ainThreedots-ar.init ghain-ar ghain-ar.fina ghain-ar.medi ghain-ar.init ghainDotbelow-ar ghainDotbelow-ar.fina ghainDotbelow-ar.medi ghainDotbelow-ar.init ghainThreedotsabove-ar ghainThreedotsabove-ar.fina ghainThreedotsabove-ar.medi ghainThreedotsabove-ar.init feh-ar feh-ar.fina feh-ar.medi feh-ar.init veh-ar veh-ar.fina veh-ar.medi veh-ar.init fehDotless-ar fehDotless-ar.fina fehDotless-ar.medi fehDotless-ar.init fehDotmovedbelow-ar fehDotmovedbelow-ar.fina fehDotmovedbelow-ar.medi fehDotmovedbelow-ar.init fehDotbelow-ar fehDotbelow-ar.fina fehDotbelow-ar.medi fehDotbelow-ar.init fehThreedotsbelow-ar fehThreedotsbelow-ar.fina fehThreedotsbelow-ar.medi fehThreedotsbelow-ar.init fehDotbelowThreedotsabove-ar fehDotbelowThreedotsabove-ar.fina fehDotbelowThreedotsabove-ar.medi fehDotbelowThreedotsabove-ar.init peheh-ar peheh-ar.fina peheh-ar.medi peheh-ar.init fehAfrican-ar fehAfrican-ar.fina fehAfrican-ar.medi fehAfrican-ar.init qafDotless-ar qafDotless-ar.medi qafDotless-ar.init qafDotless-ar.fina qaf-ar qaf-ar.fina qaf-ar.medi qaf-ar.init qafDotabove-ar qafDotabove-ar.fina qafDotabove-ar.medi qafDotabove-ar.init qafThreedotsabove-ar qafThreedotsabove-ar.fina qafThreedotsabove-ar.medi qafThreedotsabove-ar.init qafDotbelow-ar qafDotbelow-ar.fina qafDotbelow-ar.medi qafDotbelow-ar.init qafAfrican-ar qafAfrican-ar.fina qafAfrican-ar.medi qafAfrican-ar.init qafThreedotsaboveAfrican-ar qafThreedotsaboveAfrican-ar.fina qafThreedotsaboveAfrican-ar.medi qafThreedotsaboveAfrican-ar.init kafDotless-ar kafDotless-ar.fina kaf-ar kaf-ar.fina kaf-ar.medi kaf-ar.init keheh-ar keheh-ar.fina keheh-ar.medi keheh-ar.init kehehTwodotshorizontalabove-ar kehehTwodotshorizontalabove-ar.fina kehehTwodotshorizontalabove-ar.medi kehehTwodotshorizontalabove-ar.init kehehThreedotsbelow-ar kehehThreedotsbelow-ar.fina kehehThreedotsbelow-ar.medi kehehThreedotsbelow-ar.init kehehDotabove-ar kehehDotabove-ar.fina kehehDotabove-ar.medi kehehDotabove-ar.init kehehThreedotsabove-ar kehehThreedotsabove-ar.fina kehehThreedotsabove-ar.medi kehehThreedotsabove-ar.init kehehThreedotsupbelow-ar kehehThreedotsupbelow-ar.fina kehehThreedotsupbelow-ar.medi kehehThreedotsupbelow-ar.init kehehVabove-ar kehehVabove-ar.fina kehehVabove-ar.medi kehehVabove-ar.init gaf-ar gaf-ar.fina gaf-ar.medi gaf-ar.init gafRing-ar gafRing-ar.fina gafRing-ar.medi gafRing-ar.init gafThreedots-ar gafThreedots-ar.fina gafThreedots-ar.medi gafThreedots-ar.init kafswash-ar kafswash-ar.fina kafswash-ar.medi kafswash-ar.init kafRing-ar kafRing-ar.fina kafRing-ar.medi kafRing-ar.init kafDotabove-ar kafDotabove-ar.fina kafDotabove-ar.medi kafDotabove-ar.init kafTwodotshorizontalabove-ar kafTwodotshorizontalabove-ar.fina kafTwodotshorizontalabove-ar.medi kafTwodotshorizontalabove-ar.init kafThreedotsbelow-ar kafThreedotsbelow-ar.fina kafThreedotsbelow-ar.medi kafThreedotsbelow-ar.init gafTwodotsbelow-ar gafTwodotsbelow-ar.fina gafTwodotsbelow-ar.medi gafTwodotsbelow-ar.init gafInvertedstroke-ar gafInvertedstroke-ar.fina gafInvertedstroke-ar.medi gafInvertedstroke-ar.init ng-ar ng-ar.fina ng-ar.medi ng-ar.init ngoeh-ar ngoeh-ar.fina ngoeh-ar.medi ngoeh-ar.init gueh-ar gueh-ar.fina gueh-ar.medi gueh-ar.init lam-ar lam-ar.fina lam-ar.medi lam-ar.medi.short lam-ar.init lamVabove-ar lamVabove-ar.fina lamVabove-ar.medi lamVabove-ar.init lamDotabove-ar lamDotabove-ar.fina lamDotabove-ar.medi lamDotabove-ar.init lamThreedotsabove-ar lamThreedotsabove-ar.fina lamThreedotsabove-ar.medi lamThreedotsabove-ar.init lamThreedotsbelow-ar lamThreedotsbelow-ar.fina lamThreedotsbelow-ar.medi lamThreedotsbelow-ar.init lamDoublebar-ar lamDoublebar-ar.fina lamDoublebar-ar.medi lamDoublebar-ar.init lamTahabove-ar lamTahabove-ar.fina lamTahabove-ar.medi lamTahabove-ar.init meem-ar meem-ar.fina meem-ar.medi meem-ar.init meemThreedotsabove-ar meemThreedotsabove-ar.fina meemThreedotsabove-ar.medi meemThreedotsabove-ar.init noon-ar noon-ar.fina noon-ar.medi noon-ar.init noonDotbelow-ar noonDotbelow-ar.fina noonDotbelow-ar.medi noonDotbelow-ar.init noonghunna-ar noonghunna-ar.medi noonghunna-ar.init noonghunna-ar.fina rnoon-ar rnoon-ar.fina rnoon-ar.medi rnoon-ar.init noonRing-ar noonRing-ar.fina noonRing-ar.medi noonRing-ar.init noonThreedotsabove-ar noonThreedotsabove-ar.fina noonThreedotsabove-ar.medi noonThreedotsabove-ar.init noonAfrican-ar noonAfrican-ar.fina noonAfrican-ar.medi noonAfrican-ar.init heh-ar heh-ar.fina heh-ar.medi heh-ar.init hehHamzaabove-ar hehHamzaabove-ar.fina hehgoal-ar hehgoal-ar.fina hehgoal-ar.medi hehgoal-ar.init hehgoalHamzaabove-ar hehgoalHamzaabove-ar.fina hehDoachashmee-ar hehDoachashmee-ar.fina hehDoachashmee-ar.medi hehDoachashmee-ar.init hehDoachashmee-ar.init.comp hehVinvertedabove-ar hehVinvertedabove-ar.fina hehVinvertedabove-ar.medi hehVinvertedabove-ar.init tehMarbuta-ar tehMarbuta-ar.alt tehMarbuta-ar.fina tehMarbutagoal-ar tehMarbutagoal-ar.fina tehVabove-ar tehVabove-ar.fina tehVabove-ar.medi tehVabove-ar.init waw-ar waw-ar.fina wawring-ar wawring-ar.fina wawTwodots-ar wawTwodots-ar.fina wawDotabove-ar wawDotabove-ar.fina wawHamzaabove-ar wawHamzaabove-ar.fina wawTwoabove-ar wawTwoabove-ar.fina wawThreeAbove-ar wawThreeAbove-ar.fina wawDotcenter-ar wawDotcenter-ar.fina wawStraight-ar wawStraight-ar.fina kirghizoe-ar kirghizoe-ar.fina oe-ar oe-ar.fina u-ar u-ar.fina yu-ar yu-ar.fina kirghizyu-ar kirghizyu-ar.fina ve-ar ve-ar.fina alefMaksura-ar alefMaksura-ar.fina aleflow-ar alefTwoabove-ar alefTwoabove-ar.fina alefTwoabove-ar.fina.alt alefThreeabove-ar alefThreeabove-ar.fina alefThreeabove-ar.fina.alt yeh-ar yeh-ar.fina yeh-ar.medi yeh-ar.init yehHamzaabove-ar yehHamzaabove-ar.fina yehHamzaabove-ar.medi yehHamzaabove-ar.init yehVabove-ar yehVabove-ar.fina yehVabove-ar.medi yehVabove-ar.init yehTwodotsbelowHamzaabove-ar yehTwodotsbelowHamzaabove-ar.fina yehTwodotsbelowHamzaabove-ar.medi yehTwodotsbelowHamzaabove-ar.init yehTwodotsbelowDotabove-ar yehTwodotsbelowDotabove-ar.fina yehTwodotsbelowDotabove-ar.medi yehTwodotsbelowDotabove-ar.init yehVinverted-farsi yehVinverted-farsi.fina yehVinverted-farsi.medi yehVinverted-farsi.init yeh-farsi yeh-farsi.fina yeh-farsi.medi yeh-farsi.init yehTwodotsabove-farsi yehTwodotsabove-farsi.fina yehTwodotsabove-farsi.medi yehTwodotsabove-farsi.init yehThreedotsabove-farsi yehThreedotsabove-farsi.fina yehThreedotsabove-farsi.medi yehThreedotsabove-farsi.init yehTwoabove-farsi yehTwoabove-farsi.fina yehTwoabove-farsi.medi yehTwoabove-farsi.init yehThreeabove-farsi yehThreeabove-farsi.fina yehThreeabove-farsi.medi yehThreeabove-farsi.init yehFourbelow-farsi yehFourbelow-farsi.fina yehFourbelow-farsi.medi yehFourbelow-farsi.init yehTail-ar yehTail-ar.fina yehKashmiri-ar yehKashmiri-ar.fina yehKashmiri-ar.medi yehKashmiri-ar.init e-ar e-ar.fina e-ar.medi e-ar.init yehThreedotsbelow-ar yehThreedotsbelow-ar.fina yehThreedotsbelow-ar.medi yehThreedotsbelow-ar.init yehbarree-ar yehbarree-ar.fina yehbarreeHamzaabove-ar yehbarreeHamzaabove-ar.fina yehbarreeTwoabove-ar yehbarreeTwoabove-ar.fina yehbarreeThreeabove-ar yehbarreeThreeabove-ar.fina yehRohingya-ar yehRohingya-ar.fina yehRohingya-ar.comp highhamzaWaw-ar uHamzaabove-ar highhamzaYeh-ar highhamzaYeh-ar.init ae-ar ae-ar.fina seenFourdotsabove-ar seenFourdotsabove-ar.fina seenFourdotsabove-ar.medi seenFourdotsabove-ar.init ainTwodotshorizontalabove-ar ainTwodotshorizontalabove-ar.fina ainTwodotshorizontalabove-ar.medi ainTwodotshorizontalabove-ar.init ainThreedotsdownabove-ar ainThreedotsdownabove-ar.fina ainThreedotsdownabove-ar.medi ainThreedotsdownabove-ar.init ainTwodotsverticalabove-ar ainTwodotsverticalabove-ar.fina ainTwodotsverticalabove-ar.medi ainTwodotsverticalabove-ar.init fehTwodotsbelow-ar fehTwodotsbelow-ar.fina fehTwodotsbelow-ar.medi fehTwodotsbelow-ar.init fehThreedotsupbelow-ar fehThreedotsupbelow-ar.fina fehThreedotsupbelow-ar.medi fehThreedotsupbelow-ar.init meemDotabove-ar meemDotabove-ar.fina meemDotabove-ar.medi meemDotabove-ar.init meemDotbelow-ar meemDotbelow-ar.fina meemDotbelow-ar.medi meemDotbelow-ar.init noonTwodotsbelow-ar noonTwodotsbelow-ar.fina noonTwodotsbelow-ar.medi noonTwodotsbelow-ar.init noonTahabove-ar noonTahabove-ar.fina noonTahabove-ar.medi noonTahabove-ar.init noonVabove-ar noonVabove-ar.fina noonVabove-ar.medi noonVabove-ar.init lamBar-ar lamBar-ar.fina lamBar-ar.medi lamBar-ar.init seenTwodotsverticalabove-ar seenTwodotsverticalabove-ar.fina seenTwodotsverticalabove-ar.medi seenTwodotsverticalabove-ar.init seenTahTwodotshorizontalabove-ar seenTahTwodotshorizontalabove-ar.fina seenTahTwodotshorizontalabove-ar.medi seenTahTwodotshorizontalabove-ar.init hahTahabove-ar hahTahabove-ar.fina hahTahabove-ar.medi hahTahabove-ar.init seenFourabove-ar seenFourabove-ar.fina seenFourabove-ar.medi seenFourabove-ar.init seenVinvertedabove-ar seenVinvertedabove-ar.fina seenVinvertedabove-ar.medi seenVinvertedabove-ar.init fathatan-ar.medi kashidaFina-ar kasra-ar.medi kashida-ar fatha-ar.medi damma-ar.medi shadda-ar.medi sukun-ar.medi behMeemabove-ar behMeemabove-ar.fina behMeemabove-ar.medi behMeemabove-ar.init pehMeemabove-ar pehMeemabove-ar.fina pehMeemabove-ar.medi pehMeemabove-ar.init rehNoonabove-ar rehNoonabove-ar.fina tehTehabove-ar tehTehabove-ar.fina tehTehabove-ar.medi tehTehabove-ar.init yehTwodotsbelowNoonabove-ar yehTwodotsbelowNoonabove-ar.fina yehTwodotsbelowNoonabove-ar.medi yehTwodotsbelowNoonabove-ar.init lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina beh_meem-ar.init teh_jeem-ar.init teh_hah-ar.init lam_jeem-ar.init lam_hah-ar.init lam_khah-ar.init lam_meem-ar.init lam_meem_hah-ar.init yeh_noon-ar.fina allah-ar mohammad-ar allahlong-ar allahlong-ar.batraa jallajalalouhou-ar wawSmall-ar yehSmall-ar zero one two three four five six seven eight nine zero.slash one.superior two.superior three.superior zero.taboldstyle one.taboldstyle two.taboldstyle three.taboldstyle four.taboldstyle five.taboldstyle six.taboldstyle seven.taboldstyle eight.taboldstyle nine.taboldstyle fraction onehalf onequarter threequarters decimalseparator-ar thousandseparator-ar zero-ar one-ar two-ar three-ar four-ar five-ar six-ar seven-ar eight-ar nine-ar zero-persian one-persian two-persian three-persian four-persian five-persian six-persian seven-persian eight-persian nine-persian four-persian.urdu seven-persian.urdu period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk charactertie dblverticalbar gnaborretni interrobang invertedundertie numbersign quillbracketleft quillbracketright referencemark slash backslash undertie period.arabic colon.arabic exclam.arabic asterisk.math parenleft parenright braceleft braceright bracketleft bracketright angleleft angleright hyphen softhyphen endash emdash hyphentwo nonbreakinghyphen underscore quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle dblbracketleft dblbracketright tahbelowSymbol-ar dotaboveSymbol-ar dotbelowSymbol-ar twodotsverticalaboveSymbol-ar twodotsverticalbelowSymbol-ar twodotshorizontalaboveSymbol-ar twodotshorizontalbelowSymbol-ar threedots-ar threedotsdownaboveSymbol-ar threedotsdownbelowSymbol-ar threedotsupaboveSymbol-ar threedotsupbelowSymbol-ar fourdotsaboveSymbol-ar fourdotsbelowSymbol-ar doubleverticalbarbelowSymbol-ar ringSymbol-ar hizb-ar fullstop-ar comma-ar semicolon-ar question-ar number-ar asterisk-ar year-ar footnotemarker-ar pagenumber-ar dateseparator-ar verseComma-ar misraComma-ar sindhiampersand-ar endofayah-ar parenleft-ar parenright-ar anoteleia questiongreek narrownbspace space nbspace lefttorightmark righttoleftmark zerowidthjoiner zerowidthnonjoiner lefttorightembedding lefttorightoverride popdirectionalformatting righttoleftembedding righttoleftoverride space_dieresiscomb_gravecomb space_dieresiscomb_acutecomb space_dieresiscomb_caroncomb space_circumflexcomb_gravecomb space_circumflexcomb_acutecomb space_circumflexcomb_tildecomb space_circumflexcomb_hookabovecomb space_brevecomb_gravecomb space_brevecomb_acutecomb space_brevecomb_tildecomb space_brevecomb_hookabovecomb space_ringcomb_acutecomb space_hookabovecomb space_dblgravecomb space_breveinvertedcomb space_dotbelowcomb space_commaaccentcomb space_brevebelowcomb space_breveinvertedbelowcomb space_tildebelowcomb space_macronbelowcomb space_lowlinecomb zeroWidthNoBreakSpace space_dieresiscomb_gravecomb.cap space_dieresiscomb_acutecomb.cap space_dieresiscomb_caroncomb.cap space_circumflexcomb_gravecomb.cap space_circumflexcomb_acutecomb.cap space_circumflexcomb_tildecomb.cap space_circumflexcomb_hookabovecomb.cap space_brevecomb_gravecomb.cap space_brevecomb_acutecomb.cap space_brevecomb_tildecomb.cap space_brevecomb_hookabovecomb.cap space_ringcomb_acutecomb.cap space_hookabovecomb.cap space_dblgravecomb.cap space_breveinvertedcomb.cap ray-ar afghani-ar rial baht cent colonsign currency dollar dong euro florin guarani lira naira peso sterling won yen cent.oldstyle dollar.oldstyle Ohminverted commercialMinusSign divisionslash plus minus multiply divide equal greater less plusminus asciitilde logicalnot asciicircum infinity Ohm radical micro percent perthousand sphericalangle percent.arabic.comp asciitilde.low upArrow rightArrow downArrow leftArrow dottedCircle whiteBullet marriageSymbol divorceSymbol at ampersand paragraph section copyright registered published degree diameterSign bar brokenbar dagger daggerdbl estimated numero blank blankSymbol centigrade prescription paragraph.alt registered.alt note-musical sajdah-ar sindhipostpositionmen-ar sindhipostpositionmen-ar.fina sindhipostpositionmen-ar.medi sindhipostpositionmen-ar.init percent-ar cuberoot-ar fourthroot-ar perthousand-ar pertenthousand-ar bismillah-ar mark-ar numbermark-ar samvat-ar numeral-greek lowernumeral-greek thousand-cy dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb dotbelowcomb commaaccentcomb brevebelowcomb breveinvertedbelowcomb tildebelowcomb macronbelowcomb lowlinecomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek ringhalfleft ringhalfright uniFBC0 dotaccent.alt macron.alt macron.cap.alt dieresiscomb.cap dotaccentcomb.cap gravecomb.cap acutecomb.cap hungarumlautcomb.cap circumflexcomb.cap caroncomb.cap brevecomb.cap ringcomb.cap tildecomb.cap macroncomb.cap hookabovecomb.cap dblgravecomb.cap breveinvertedcomb.cap dieresis.cap dotaccent.cap grave.cap acute.cap hungarumlaut.cap circumflex.cap caron.cap breve.cap ring.cap tilde.cap macron.cap dieresis.dup acute.dup circumflex.dup tilde.dup macron.dup cedilla.dup dieresis.ts1 grave.ts1 acute.ts1 hungarumlaut.ts1 caron.ts1 breve.ts1 macron.ts1 annisfabove-ar dammaturnedbelow-ar rehHahabove-ar rehDadabove-ar sadabove-ar ainabove-ar takhallusabove-ar tahabove-ar alefLamYehabove-ar zainabove-ar fathasmall-ar dammasmall-ar kasrasmall-ar threedotshorizontalbelow-ar stroke-ar fourabove-ar fourbelow-ar threeabove-ar twoabove-ar wasla-ar miniKeheh-ar gafsarkashabove-ar wavyhamzabelow-ar doublestroke-ar alefabove-ar alefbelow-ar hamzaabove-ar hamzabelow-ar fathatan-ar dammatan-ar kasratan-ar fatha-ar damma-ar kasra-ar shadda-ar sukun-ar madda-ar noonghunnaabove-ar dammainverted-ar fathaHorizont-ar vabove-ar vinvertedabove-ar dotvowelbelow-ar dammareversed-ar fathatwodots-ar sadLamAlefMaksuraabove-ar qafLamAlefMaksuraabove-ar meemabove-ar meemStopabove-ar lamAlefabove-ar jeemabove-ar threedotsabove-ar seenabove-ar sukunround-ar sukunoval-ar hahabove-ar seenbelow-ar maddalong-ar yehabove-ar noonabove-ar rhombusStopbelow-ar rhombusStopabove-ar dotStopabove-ar meembelow-ar fathaCurly-ar dammaCurly-ar kasraCurly-ar fathatanCurly-ar dammatanCurly-ar kasratanCurly-ar toneonedotabove-ar tonetwodotsabove-ar toneloopabove-ar toneonedotbelow-ar tonetwodotsbelow-ar toneloopbelow-ar openfathatan-ar opendammatan-ar openkasratan-ar highwaw-ar fathaRing-ar fathaDotabove-ar kasraDotbelow-ar leftarrowheadabove-ar rightarrowheadabove-ar leftarrowheadbelow-ar rightarrowheadbelow-ar doublerightarrowheadabove-ar doublerightarrowheadDotabove-ar rightarrowheadDotabove-ar dammaDot-ar arrubabove-ar assajdaabove-ar aththalathaabove-ar footnotemarkerabove-ar marksidewaysnoonghunna-ar noonKasraabove-ar noonKasrabelow-ar qafabove-ar qifabove-ar safhaabove-ar saktaabove-ar smallainabove-ar smallsadabove-ar waqfaabove-ar wawbelow-ar tonos dieresistonos psili koronis dasia psilivaria dasiavaria psilioxia dasiaoxia psiliperispomeni dasiaperispomeni dialytikavaria dialytikaoxia dialytikaperispomeni varia oxia perispomeni titlocomb-cy palatalizationcomb-cy dasiapneumatacomb-cy psilipneumatacomb-cy hundredthousandssigncomb-cy millionssigncomb-cy disputedendofayah-ar uni047A uni047B uni047C uni047D uni047E uni047F bigcircle perthousandzero ittisal.comp Threedotsinverted.alt.comp arabic_root.comp charbox.comp tail.comp rehabove-ar";
 name = All;
 }
 );
@@ -96212,6 +96227,23 @@ unicode = 02BE;
 subCategory = Spacing;
 },
 {
+glyphname = uniFBC0;
+layers = (
+{
+components = (
+{
+name = "tahabove-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBC0;
+category = Mark;
+subCategory = Spacing;
+},
+{
 glyphname = dotaccent.alt;
 layers = (
 {
@@ -97161,6 +97193,103 @@ nodes = (
 width = 525;
 }
 );
+subCategory = Spacing;
+},
+{
+glyphname = "annisfabove-ar";
+layers = (
+{
+components = (
+{
+name = "feh-ar.fina";
+transform = "{0.32593, 0, 0, 0.32593, -2, 475}";
+},
+{
+name = "sad-ar.medi";
+transform = "{0.32593, 0, 0, 0.32593, 170, 475}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{0.32593, 0, 0, 0.32593, 284, 813}";
+},
+{
+name = "alef-ar";
+transform = "{0.32593, 0, 0, 0.32593, 393, 475}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"353 533 OFFCURVE",
+"358 551 OFFCURVE",
+"358 573 CURVE SMOOTH",
+"358 601 LINE SMOOTH",
+"358 611 OFFCURVE",
+"361 614 OFFCURVE",
+"370 614 CURVE SMOOTH",
+"379 614 OFFCURVE",
+"381 611 OFFCURVE",
+"381 601 CURVE SMOOTH",
+"381 573 LINE SMOOTH",
+"381 551 OFFCURVE",
+"387 533 OFFCURVE",
+"404 533 CURVE",
+"404 510 LINE",
+"382 510 OFFCURVE",
+"374 522 OFFCURVE",
+"370 530 CURVE",
+"366 522 OFFCURVE",
+"358 510 OFFCURVE",
+"336 510 CURVE",
+"336 533 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"445 709 OFFCURVE",
+"447 706 OFFCURVE",
+"447 696 CURVE SMOOTH",
+"447 555 LINE SMOOTH",
+"447 528 OFFCURVE",
+"436 510 OFFCURVE",
+"407 510 CURVE SMOOTH",
+"403 510 LINE",
+"403 533 LINE",
+"407 533 LINE SMOOTH",
+"425 533 OFFCURVE",
+"425 548 OFFCURVE",
+"425 555 CURVE SMOOTH",
+"425 696 LINE SMOOTH",
+"425 706 OFFCURVE",
+"427 709 OFFCURVE",
+"436 709 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08DC;
+subCategory = Spacing;
+},
+{
+glyphname = "dammaturnedbelow-ar";
+layers = (
+{
+components = (
+{
+name = "dammainverted-ar";
+transform = "{1, 0, 0, 1, 0, -1029}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08E3;
 subCategory = Spacing;
 },
 {
@@ -100688,6 +100817,366 @@ unicode = 08FE;
 subCategory = Spacing;
 },
 {
+glyphname = "arrubabove-ar";
+layers = (
+{
+components = (
+{
+name = "ain-ar.fina";
+transform = "{0.32737, 0, 0, 0.32737, 11, 474}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{0.33392, 0, 0, 0.33392, 123, 605}";
+},
+{
+name = "reh-ar.fina";
+transform = "{0.32737, 0, 0, 0.32737, 234, 474}";
+},
+{
+name = "alef-ar";
+transform = "{0.32593, 0, 0, 0.32593, 393, 475}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"243 613 OFFCURVE",
+"245 610 OFFCURVE",
+"245 600 CURVE SMOOTH",
+"245 523 LINE SMOOTH",
+"245 514 OFFCURVE",
+"242 510 OFFCURVE",
+"234 510 CURVE SMOOTH",
+"173 510 LINE",
+"173 533 LINE",
+"222 533 LINE",
+"222 600 LINE SMOOTH",
+"222 610 OFFCURVE",
+"225 613 OFFCURVE",
+"234 613 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"445 709 OFFCURVE",
+"447 706 OFFCURVE",
+"447 696 CURVE SMOOTH",
+"447 555 LINE SMOOTH",
+"447 528 OFFCURVE",
+"436 510 OFFCURVE",
+"407 510 CURVE SMOOTH",
+"393 510 LINE",
+"393 533 LINE",
+"407 533 LINE SMOOTH",
+"425 533 OFFCURVE",
+"425 548 OFFCURVE",
+"425 555 CURVE SMOOTH",
+"425 696 LINE SMOOTH",
+"425 706 OFFCURVE",
+"427 709 OFFCURVE",
+"436 709 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08D4;
+subCategory = Spacing;
+},
+{
+glyphname = "assajdaabove-ar";
+layers = (
+{
+components = (
+{
+name = "alef-ar";
+transform = "{0.24487, 0, 0, 0.24487, 420, 475}";
+},
+{
+name = "tehMarbuta-ar";
+transform = "{0.24487, 0, 0, 0.24487, -4, 475}";
+},
+{
+name = "dal-ar.fina";
+transform = "{0.24487, 0, 0, 0.24487, 95, 475}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{0.24487, 0, 0, 0.24487, 194, 563}";
+},
+{
+name = "seen-ar.medi";
+transform = "{0.24487, 0, 0, 0.24487, 299, 475}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"460 651 OFFCURVE",
+"461 649 OFFCURVE",
+"461 641 CURVE SMOOTH",
+"461 535 LINE SMOOTH",
+"461 515 OFFCURVE",
+"453 502 OFFCURVE",
+"431 502 CURVE SMOOTH",
+"426 502 LINE",
+"426 519 LINE",
+"431 519 LINE SMOOTH",
+"444 519 OFFCURVE",
+"444 530 OFFCURVE",
+"444 535 CURVE SMOOTH",
+"444 641 LINE SMOOTH",
+"444 649 OFFCURVE",
+"446 651 OFFCURVE",
+"453 651 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"208 580 OFFCURVE",
+"228 587 OFFCURVE",
+"242 587 CURVE SMOOTH",
+"284 587 OFFCURVE",
+"317 533 OFFCURVE",
+"317 519 CURVE",
+"323 519 LINE",
+"323 502 LINE",
+"217 502 LINE",
+"217 518 LINE",
+"301 518 LINE",
+"300 526 OFFCURVE",
+"275 570 OFFCURVE",
+"242 570 CURVE SMOOTH",
+"225 570 OFFCURVE",
+"230 556 OFFCURVE",
+"218 556 CURVE SMOOTH",
+"213 556 OFFCURVE",
+"208 560 OFFCURVE",
+"208 566 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08DB;
+subCategory = Spacing;
+},
+{
+glyphname = "aththalathaabove-ar";
+layers = (
+{
+components = (
+{
+name = "alef-ar";
+transform = "{0.32593, 0, 0, 0.32593, 393, 475}";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{0.32593, 0, 0, 0.32593, -8, 539}";
+},
+{
+name = "threedots-ar";
+transform = "{0.32593, 0, 0, 0.32593, 106, 592}";
+},
+{
+name = "threedots-ar";
+transform = "{0.32593, 0, 0, 0.32593, 268, 592}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"445 709 OFFCURVE",
+"447 706 OFFCURVE",
+"447 696 CURVE SMOOTH",
+"447 555 LINE SMOOTH",
+"447 528 OFFCURVE",
+"436 510 OFFCURVE",
+"407 510 CURVE SMOOTH",
+"397 510 LINE",
+"397 533 LINE",
+"407 533 LINE SMOOTH",
+"425 533 OFFCURVE",
+"425 548 OFFCURVE",
+"425 555 CURVE SMOOTH",
+"425 696 LINE SMOOTH",
+"425 706 OFFCURVE",
+"427 709 OFFCURVE",
+"436 709 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 533 OFFCURVE",
+"182 552 OFFCURVE",
+"182 573 CURVE SMOOTH",
+"182 601 LINE SMOOTH",
+"182 611 OFFCURVE",
+"184 614 OFFCURVE",
+"193 614 CURVE SMOOTH",
+"202 614 OFFCURVE",
+"204 611 OFFCURVE",
+"204 601 CURVE SMOOTH",
+"204 573 LINE SMOOTH",
+"204 552 OFFCURVE",
+"210 533 OFFCURVE",
+"227 533 CURVE",
+"227 510 LINE",
+"205 510 OFFCURVE",
+"197 522 OFFCURVE",
+"193 530 CURVE",
+"189 522 OFFCURVE",
+"181 510 OFFCURVE",
+"159 510 CURVE",
+"159 533 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"338 533 OFFCURVE",
+"344 552 OFFCURVE",
+"344 573 CURVE SMOOTH",
+"344 601 LINE SMOOTH",
+"344 611 OFFCURVE",
+"346 614 OFFCURVE",
+"355 614 CURVE SMOOTH",
+"364 614 OFFCURVE",
+"366 611 OFFCURVE",
+"366 601 CURVE SMOOTH",
+"366 573 LINE SMOOTH",
+"366 552 OFFCURVE",
+"372 532 OFFCURVE",
+"389 533 CURVE SMOOTH",
+"397 533 LINE",
+"397 510 LINE",
+"389 510 LINE SMOOTH",
+"367 509 OFFCURVE",
+"359 522 OFFCURVE",
+"355 530 CURVE",
+"351 522 OFFCURVE",
+"343 510 OFFCURVE",
+"321 510 CURVE",
+"321 533 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"257 532 OFFCURVE",
+"263 552 OFFCURVE",
+"263 573 CURVE SMOOTH",
+"263 714 LINE SMOOTH",
+"263 724 OFFCURVE",
+"265 728 OFFCURVE",
+"274 728 CURVE SMOOTH",
+"283 728 OFFCURVE",
+"285 724 OFFCURVE",
+"285 714 CURVE SMOOTH",
+"285 573 LINE SMOOTH",
+"285 552 OFFCURVE",
+"291 532 OFFCURVE",
+"310 533 CURVE SMOOTH",
+"321 533 LINE",
+"321 510 LINE",
+"310 510 LINE SMOOTH",
+"286 510 OFFCURVE",
+"278 522 OFFCURVE",
+"274 530 CURVE",
+"270 522 OFFCURVE",
+"262 510 OFFCURVE",
+"238 510 CURVE SMOOTH",
+"227 510 LINE",
+"227 533 LINE",
+"237 533 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"16 608 OFFCURVE",
+"56 635 OFFCURVE",
+"103 635 CURVE",
+"105 657 OFFCURVE",
+"111 669 OFFCURVE",
+"121 669 CURVE SMOOTH",
+"130 669 OFFCURVE",
+"135 663 OFFCURVE",
+"135 656 CURVE SMOOTH",
+"135 640 OFFCURVE",
+"120 646 OFFCURVE",
+"120 614 CURVE SMOOTH",
+"120 556 LINE SMOOTH",
+"120 548 OFFCURVE",
+"121 532 OFFCURVE",
+"142 533 CURVE SMOOTH",
+"159 533 LINE",
+"159 510 LINE",
+"142 510 LINE SMOOTH",
+"114 510 OFFCURVE",
+"102 528 OFFCURVE",
+"102 544 CURVE SMOOTH",
+"102 545 LINE",
+"97 540 OFFCURVE",
+"84 533 OFFCURVE",
+"62 533 CURVE SMOOTH",
+"31 533 OFFCURVE",
+"16 551 OFFCURVE",
+"16 574 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"64 614 OFFCURVE",
+"37 596 OFFCURVE",
+"37 574 CURVE SMOOTH",
+"37 566 OFFCURVE",
+"43 555 OFFCURVE",
+"62 555 CURVE SMOOTH",
+"87 555 OFFCURVE",
+"102 568 OFFCURVE",
+"102 579 CURVE SMOOTH",
+"102 614 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08DA;
+subCategory = Spacing;
+},
+{
+glyphname = "footnotemarkerabove-ar";
+layers = (
+{
+components = (
+{
+name = "footnotemarker-ar";
+transform = "{0.7, 0, 0, 0.7, 80, 530}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08E0;
+subCategory = Spacing;
+},
+{
 glyphname = "marksidewaysnoonghunna-ar";
 layers = (
 {
@@ -100735,6 +101224,488 @@ width = 525;
 }
 );
 unicode = 08FF;
+subCategory = Spacing;
+},
+{
+glyphname = "noonKasraabove-ar";
+layers = (
+{
+components = (
+{
+name = "noonabove-ar";
+},
+{
+name = "kasra-ar";
+transform = "{0.96593, -0.25882, 0.25882, 0.96593, 138, 963}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08D8;
+subCategory = Spacing;
+},
+{
+glyphname = "noonKasrabelow-ar";
+layers = (
+{
+components = (
+{
+name = "noonKasraabove-ar";
+transform = "{1, 0, 0, 1, 0, -1029}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08D9;
+subCategory = Spacing;
+},
+{
+glyphname = "qafabove-ar";
+layers = (
+{
+components = (
+{
+name = "qaf-ar";
+transform = "{0.5, 0, 0, 0.5, 126, 471}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08D7;
+subCategory = Spacing;
+},
+{
+glyphname = "qifabove-ar";
+layers = (
+{
+components = (
+{
+name = "feh-ar.fina";
+transform = "{0.32593, 0, 0, 0.32593, 88, 475}";
+},
+{
+name = "qaf-ar.init";
+transform = "{0.32593, 0, 0, 0.32593, 260, 475}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08DE;
+subCategory = Spacing;
+},
+{
+glyphname = "safhaabove-ar";
+layers = (
+{
+components = (
+{
+name = "pagenumber-ar";
+transform = "{1, 0, 0, 0.7, 0, 500}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08E1;
+category = Mark;
+subCategory = Spacing;
+},
+{
+glyphname = "saktaabove-ar";
+layers = (
+{
+components = (
+{
+name = "tehMarbuta-ar.fina";
+transform = "{0.32593, 0, 0, 0.32593, -8, 475}";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{0.32593, 0, 0, 0.32593, 106, 502}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"411 618 LINE SMOOTH",
+"411 629 OFFCURVE",
+"411 632 OFFCURVE",
+"420 632 CURVE SMOOTH",
+"428 632 OFFCURVE",
+"429 629 OFFCURVE",
+"429 618 CURVE SMOOTH",
+"429 552 LINE SMOOTH",
+"429 544 OFFCURVE",
+"429 534 OFFCURVE",
+"438 534 CURVE SMOOTH",
+"448 534 OFFCURVE",
+"452 542 OFFCURVE",
+"452 552 CURVE SMOOTH",
+"452 602 LINE SMOOTH",
+"452 612 OFFCURVE",
+"453 615 OFFCURVE",
+"461 615 CURVE SMOOTH",
+"469 615 OFFCURVE",
+"469 612 OFFCURVE",
+"469 602 CURVE SMOOTH",
+"469 552 LINE SMOOTH",
+"469 542 OFFCURVE",
+"473 534 OFFCURVE",
+"483 534 CURVE SMOOTH",
+"492 534 OFFCURVE",
+"493 544 OFFCURVE",
+"493 552 CURVE SMOOTH",
+"493 618 LINE SMOOTH",
+"493 629 OFFCURVE",
+"494 632 OFFCURVE",
+"502 632 CURVE SMOOTH",
+"510 632 OFFCURVE",
+"511 629 OFFCURVE",
+"511 618 CURVE SMOOTH",
+"511 552 LINE SMOOTH",
+"511 538 OFFCURVE",
+"507 511 OFFCURVE",
+"483 511 CURVE SMOOTH",
+"470 511 OFFCURVE",
+"464 518 OFFCURVE",
+"461 525 CURVE",
+"458 518 OFFCURVE",
+"449 511 OFFCURVE",
+"438 511 CURVE SMOOTH",
+"426 511 OFFCURVE",
+"419 523 OFFCURVE",
+"417 531 CURVE",
+"413 523 OFFCURVE",
+"407 511 OFFCURVE",
+"388 511 CURVE",
+"388 534 LINE",
+"405 534 OFFCURVE",
+"411 553 OFFCURVE",
+"411 574 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 534 OFFCURVE",
+"182 553 OFFCURVE",
+"182 574 CURVE SMOOTH",
+"182 602 LINE SMOOTH",
+"182 612 OFFCURVE",
+"184 615 OFFCURVE",
+"193 615 CURVE SMOOTH",
+"202 615 OFFCURVE",
+"204 612 OFFCURVE",
+"204 602 CURVE SMOOTH",
+"204 574 LINE SMOOTH",
+"204 553 OFFCURVE",
+"210 534 OFFCURVE",
+"227 534 CURVE SMOOTH",
+"273 534 LINE",
+"273 511 LINE",
+"227 511 LINE SMOOTH",
+"205 511 OFFCURVE",
+"197 523 OFFCURVE",
+"193 531 CURVE",
+"189 523 OFFCURVE",
+"181 511 OFFCURVE",
+"159 511 CURVE",
+"159 534 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"314 548 OFFCURVE",
+"314 552 OFFCURVE",
+"311 555 CURVE SMOOTH",
+"264 602 LINE SMOOTH",
+"253 614 OFFCURVE",
+"247 622 OFFCURVE",
+"247 630 CURVE SMOOTH",
+"247 640 OFFCURVE",
+"254 649 OFFCURVE",
+"268 663 CURVE SMOOTH",
+"328 723 LINE SMOOTH",
+"332 727 OFFCURVE",
+"334 729 OFFCURVE",
+"337 729 CURVE SMOOTH",
+"342 729 OFFCURVE",
+"349 721 OFFCURVE",
+"349 717 CURVE SMOOTH",
+"349 714 OFFCURVE",
+"348 711 OFFCURVE",
+"344 707 CURVE SMOOTH",
+"284 647 LINE SMOOTH",
+"276 640 OFFCURVE",
+"273 635 OFFCURVE",
+"273 630 CURVE SMOOTH",
+"273 627 OFFCURVE",
+"276 623 OFFCURVE",
+"280 618 CURVE SMOOTH",
+"342 556 LINE SMOOTH",
+"349 549 OFFCURVE",
+"364 533 OFFCURVE",
+"375 534 CURVE SMOOTH",
+"388 534 LINE",
+"388 511 LINE",
+"375 511 LINE SMOOTH",
+"357 511 OFFCURVE",
+"340 525 OFFCURVE",
+"326 539 CURVE",
+"326 521 OFFCURVE",
+"324 511 OFFCURVE",
+"301 511 CURVE SMOOTH",
+"224 511 LINE",
+"224 534 LINE",
+"301 534 LINE SMOOTH",
+"309 534 OFFCURVE",
+"314 539 OFFCURVE",
+"314 545 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08DD;
+subCategory = Spacing;
+},
+{
+glyphname = "smallainabove-ar";
+layers = (
+{
+components = (
+{
+name = "ain-ar";
+transform = "{0.5, 0, 0, 0.5, 126, 471}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08D6;
+script = arabic;
+category = Mark;
+subCategory = Spacing;
+},
+{
+glyphname = "smallsadabove-ar";
+layers = (
+{
+components = (
+{
+name = "sad-ar";
+transform = "{0.5, 0, 0, 0.5, 126, 471}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08D5;
+script = arabic;
+category = Mark;
+subCategory = Spacing;
+},
+{
+glyphname = "waqfaabove-ar";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{0.32593, 0, 0, 0.32593, 25, 540}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{0.32593, 0, 0, 0.32593, 143, 832.541}";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{0.32593, 0, 0, 0.32593, 267.896, 527.474}";
+},
+{
+name = "waw-ar";
+transform = "{0.32593, 0, 0, 0.32593, 349, 475}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"304 511 LINE",
+"304 534 LINE",
+"374.8 533.667 LINE",
+"374.8 563.978 LINE",
+"370.237 563 OFFCURVE",
+"363.067 562.348 OFFCURVE",
+"356.874 562.348 CURVE SMOOTH",
+"324.281 562.348 OFFCURVE",
+"313.2 575.059 OFFCURVE",
+"313.2 602.111 CURVE SMOOTH",
+"313.2 629.163 OFFCURVE",
+"332.43 649.696 OFFCURVE",
+"370.237 649.696 CURVE SMOOTH",
+"392.4 649.696 OFFCURVE",
+"397.289 638.941 OFFCURVE",
+"397.289 619.711 CURVE SMOOTH",
+"397.289 524.215 LINE SMOOTH",
+"397.289 514.111 OFFCURVE",
+"395 511 OFFCURVE",
+"385.881 510.852 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"374.8 627.859 OFFCURVE",
+"374.474 629.815 OFFCURVE",
+"370.237 629.815 CURVE SMOOTH",
+"344.163 629.815 OFFCURVE",
+"334.711 615.8 OFFCURVE",
+"334.711 602.111 CURVE SMOOTH",
+"334.711 588.096 OFFCURVE",
+"337.97 585.163 OFFCURVE",
+"356.874 585.163 CURVE SMOOTH",
+"364.044 585.163 OFFCURVE",
+"373.822 586.141 OFFCURVE",
+"374.8 593.637 CURVE",
+"374.8 619.711 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"196.452 551.593 OFFCURVE",
+"184.719 566.585 OFFCURVE",
+"184.719 587.444 CURVE SMOOTH",
+"184.719 614.17 OFFCURVE",
+"201.667 633.4 OFFCURVE",
+"228.719 633.4 CURVE SMOOTH",
+"255.77 633.4 OFFCURVE",
+"272.719 614.17 OFFCURVE",
+"272.719 587.444 CURVE SMOOTH",
+"272.719 566.585 OFFCURVE",
+"260.985 551.593 OFFCURVE",
+"248.6 539.533 CURVE",
+"257.4 535.622 OFFCURVE",
+"267.178 533.667 OFFCURVE",
+"282.822 533.667 CURVE SMOOTH",
+"314.111 533.667 LINE",
+"314.111 510.852 LINE",
+"282.822 510.852 LINE SMOOTH",
+"260.007 510.852 OFFCURVE",
+"243.059 516.393 OFFCURVE",
+"228.719 524.867 CURVE",
+"214.052 516.393 OFFCURVE",
+"197.43 510.852 OFFCURVE",
+"174.615 510.852 CURVE",
+"174.615 533.667 LINE",
+"189.933 533.667 OFFCURVE",
+"200.037 535.622 OFFCURVE",
+"208.837 539.533 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"204.6 570.17 OFFCURVE",
+"216.659 558.763 OFFCURVE",
+"228.719 549.963 CURVE",
+"240.452 558.763 OFFCURVE",
+"252.837 570.17 OFFCURVE",
+"252.837 587.444 CURVE SMOOTH",
+"252.837 598.852 OFFCURVE",
+"245.667 613.519 OFFCURVE",
+"228.719 613.519 CURVE SMOOTH",
+"211.77 613.519 OFFCURVE",
+"204.6 598.852 OFFCURVE",
+"204.6 587.444 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"49 609 OFFCURVE",
+"89 636 OFFCURVE",
+"136 636 CURVE",
+"138 658 OFFCURVE",
+"144 670 OFFCURVE",
+"154 670 CURVE SMOOTH",
+"163 670 OFFCURVE",
+"168 664 OFFCURVE",
+"168 657 CURVE SMOOTH",
+"168 641 OFFCURVE",
+"153 647 OFFCURVE",
+"153 615 CURVE SMOOTH",
+"153 557 LINE SMOOTH",
+"153 549 OFFCURVE",
+"154 534 OFFCURVE",
+"175 534 CURVE",
+"175 511 LINE",
+"147 511 OFFCURVE",
+"135 529 OFFCURVE",
+"135 545 CURVE SMOOTH",
+"135 546 LINE",
+"130 541 OFFCURVE",
+"117 534 OFFCURVE",
+"95 534 CURVE SMOOTH",
+"64 534 OFFCURVE",
+"49 552 OFFCURVE",
+"49 575 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"97 615 OFFCURVE",
+"70 597 OFFCURVE",
+"70 575 CURVE SMOOTH",
+"70 567 OFFCURVE",
+"76 556 OFFCURVE",
+"95 556 CURVE SMOOTH",
+"120 556 OFFCURVE",
+"135 569 OFFCURVE",
+"135 580 CURVE SMOOTH",
+"135 615 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08DF;
+subCategory = Spacing;
+},
+{
+glyphname = "wawbelow-ar";
+layers = (
+{
+components = (
+{
+name = "highwaw-ar";
+transform = "{1, 0, 0, 1, 0, -1029}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08D3;
 subCategory = Spacing;
 },
 {
@@ -102204,6 +103175,100 @@ unicode = 0489;
 subCategory = Spacing;
 },
 {
+glyphname = "disputedendofayah-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"126 108 OFFCURVE",
+"89 131 OFFCURVE",
+"63 163 CURVE SMOOTH",
+"44 187 OFFCURVE",
+"30 213 OFFCURVE",
+"30 254 CURVE SMOOTH",
+"30 295 OFFCURVE",
+"44 321 OFFCURVE",
+"63 344 CURVE SMOOTH",
+"89 376 OFFCURVE",
+"126 393 OFFCURVE",
+"167 399 CURVE SMOOTH",
+"184 402 OFFCURVE",
+"199 403 OFFCURVE",
+"214 409 CURVE SMOOTH",
+"248 424 OFFCURVE",
+"247 460 OFFCURVE",
+"263 460 CURVE SMOOTH",
+"279 460 OFFCURVE",
+"278 424 OFFCURVE",
+"312 409 CURVE SMOOTH",
+"327 403 OFFCURVE",
+"341 402 OFFCURVE",
+"359 399 CURVE SMOOTH",
+"400 393 OFFCURVE",
+"437 376 OFFCURVE",
+"462 344 CURVE SMOOTH",
+"482 321 OFFCURVE",
+"496 295 OFFCURVE",
+"496 254 CURVE SMOOTH",
+"496 213 OFFCURVE",
+"482 187 OFFCURVE",
+"462 163 CURVE SMOOTH",
+"437 131 OFFCURVE",
+"400 108 OFFCURVE",
+"361 108 CURVE SMOOTH",
+"325 108 OFFCURVE",
+"284 119 OFFCURVE",
+"263 151 CURVE",
+"242 119 OFFCURVE",
+"199 108 OFFCURVE",
+"163 108 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"187 156 OFFCURVE",
+"199 161 OFFCURVE",
+"214 167 CURVE SMOOTH",
+"248 181 OFFCURVE",
+"247 218 OFFCURVE",
+"263 218 CURVE SMOOTH",
+"279 218 OFFCURVE",
+"278 181 OFFCURVE",
+"312 167 CURVE SMOOTH",
+"327 161 OFFCURVE",
+"341 157 OFFCURVE",
+"361 158 CURVE SMOOTH",
+"423 161 OFFCURVE",
+"458 210 OFFCURVE",
+"458 254 CURVE SMOOTH",
+"458 298 OFFCURVE",
+"422 342 OFFCURVE",
+"356 350 CURVE SMOOTH",
+"324 354 OFFCURVE",
+"284 362 OFFCURVE",
+"263 394 CURVE",
+"242 362 OFFCURVE",
+"199 354 OFFCURVE",
+"167 350 CURVE SMOOTH",
+"102 342 OFFCURVE",
+"68 297 OFFCURVE",
+"68 254 CURVE SMOOTH",
+"68 209 OFFCURVE",
+"104 161 OFFCURVE",
+"165 157 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08E2;
+},
+{
 glyphname = uni047A;
 layers = (
 {
@@ -102713,21 +103778,6 @@ width = 525;
 }
 );
 unicode = 047F;
-},
-{
-glyphname = uniFBC0;
-layers = (
-{
-components = (
-{
-name = "tahabove-ar";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-unicode = FBC0;
 },
 {
 glyphname = bigcircle;
