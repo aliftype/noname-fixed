@@ -95803,7 +95803,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 064B;
+unicode = "064B,FE70";
 subCategory = Spacing;
 },
 {
@@ -95824,7 +95824,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 064C;
+unicode = "064C,FE72";
 subCategory = Spacing;
 },
 {
@@ -95841,7 +95841,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 064D;
+unicode = "064D,FE74";
 subCategory = Spacing;
 },
 {
@@ -95879,7 +95879,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 064E;
+unicode = "064E,FE76";
 subCategory = Spacing;
 },
 {
@@ -95924,7 +95924,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 064F;
+unicode = "064F,FE78";
 subCategory = Spacing;
 },
 {
@@ -95941,7 +95941,7 @@ layerId = master01;
 width = 525;
 }
 );
-unicode = 0650;
+unicode = "0650,FE7A";
 subCategory = Spacing;
 },
 {
@@ -96007,7 +96007,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0651;
+unicode = "0651,FE7C";
 subCategory = Spacing;
 },
 {
@@ -96057,7 +96057,7 @@ nodes = (
 width = 525;
 }
 );
-unicode = 0652;
+unicode = "0652,FE7E";
 subCategory = Spacing;
 },
 {
