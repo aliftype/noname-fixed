@@ -88273,6 +88273,27 @@ width = 525;
 unicode = 2117;
 },
 {
+glyphname = trademark;
+layers = (
+{
+components = (
+{
+name = T;
+transform = "{0.5, 0, 0, 0.5, -4, 306}";
+},
+{
+name = M;
+transform = "{0.5, 0, 0, 0.5, 259, 306}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 2122;
+},
+{
 glyphname = degree;
 layers = (
 {
@@ -91367,6 +91388,25 @@ width = 525;
 unicode = 003D;
 },
 {
+glyphname = notequal;
+layers = (
+{
+components = (
+{
+name = equal;
+},
+{
+name = divisionslash;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 2260;
+},
+{
 glyphname = greater;
 layers = (
 {
@@ -91457,6 +91497,48 @@ width = 525;
 unicode = 003C;
 },
 {
+glyphname = greaterequal;
+layers = (
+{
+components = (
+{
+name = greater;
+transform = "{1, 0, 0, 1, 0, 140}";
+},
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, -215}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 2265;
+},
+{
+glyphname = lessequal;
+layers = (
+{
+components = (
+{
+name = less;
+transform = "{1, 0, 0, 1, 0, 140}";
+},
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, -215}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 2264;
+},
+{
 glyphname = plusminus;
 layers = (
 {
@@ -91513,6 +91595,27 @@ width = 525;
 }
 );
 unicode = 00B1;
+},
+{
+glyphname = approxequal;
+layers = (
+{
+components = (
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 0, 101}";
+},
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 0, -51}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 2248;
 },
 {
 glyphname = asciitilde;
