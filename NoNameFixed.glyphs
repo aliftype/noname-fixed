@@ -914,7 +914,6 @@ width = 525;
 }
 );
 unicode = 0041;
-subCategory = Spacing;
 },
 {
 glyphname = Aacute;
