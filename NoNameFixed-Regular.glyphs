@@ -297,12 +297,20 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
+name = "Default Layer Width";
+value = "525";
+},
+{
 name = "Disable Last Change";
 value = 1;
 },
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
 },
 {
 name = license;
@@ -757,7 +765,7 @@ alignmentZones = (
 "{431, 11}",
 "{0, -11}"
 );
-ascender = 800;
+ascender = 900;
 capHeight = 611;
 customParameters = (
 {
@@ -801,7 +809,7 @@ name = underlinePosition;
 value = -99;
 }
 );
-descender = -200;
+descender = -500;
 horizontalStems = (
 61,
 38,
