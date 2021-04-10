@@ -1,5 +1,5 @@
 {
-.appVersion = "3075";
+.appVersion = "3076";
 classes = (
 {
 code = "annisfabove-ar
@@ -688,6 +688,22 @@ lefttorightembedding
 lefttorightisolate
 popdirectionalisolate
 righttoleftisolate
+VS1
+VS2
+VS3
+VS4
+VS5
+VS6
+VS7
+VS8
+VS9
+VS10
+VS11
+VS12
+VS13
+VS14
+VS15
+VS16
 ";
 name = visiblecontrols;
 },
