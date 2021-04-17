@@ -1,10 +1,9 @@
-.ONESHELL:
-
 all: NoNameFixed-Regular.otf NoNameFixedTerminal-Regular.otf
+
+export SOURCE_DATE_EPOCH=$(shell stat -c "%Y" NoNameFixed.glyphs)
 
 NoNameFixedTerminal-Regular.otf: NoNameFixed.glyphs
 	@echo "  MAKE   $@"
-	@export SOURCE_DATE_EPOCH=`stat -c "%Y" $<`
 	@fontmake -g $<                                                        \
 		  --interpolate=".* Terminal Regular"                          \
 		  --output=otf                                                 \
@@ -27,7 +26,6 @@ NoNameFixedTerminal-Regular.otf: NoNameFixed.glyphs
 
 NoNameFixed-Regular.otf: NoNameFixed.glyphs
 	@echo "  MAKE   $@"
-	@export SOURCE_DATE_EPOCH=`stat -c "%Y" $<`
 	@fontmake -g $<                                                        \
 		  --output=otf                                                 \
 		  --output-path=$@                                             \
