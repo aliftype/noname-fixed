@@ -41,7 +41,7 @@ fs==2.4.13
     # via fonttools
 glyphslib==5.3.2
     # via fontmake
-lxml==4.6.3
+lxml==4.6.5
     # via fonttools
 pyclipper==1.2.1
     # via booleanoperations
