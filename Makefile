@@ -10,6 +10,7 @@ NoNameFixedTerminal-Regular.otf: NoNameFixed.glyphs
 		  --output-path=$@                                             \
 		  --verbose=WARNING                                            \
 		  --overlaps-backend=pathops                                   \
+		  --optimize-cff=1                                             \
 		  --master-dir="{tmp}"                                         \
 		  --instance-dir="{tmp}"                                       \
 		  --no-generate-GDEF
@@ -31,6 +32,7 @@ NoNameFixed-Regular.otf: NoNameFixed.glyphs
 		  --output-path=$@                                             \
 		  --verbose=WARNING                                            \
 		  --overlaps-backend=pathops                                   \
+		  --optimize-cff=1                                             \
 		  --master-dir="{tmp}"                                         \
 		  --instance-dir="{tmp}"                                       \
 		  --no-generate-GDEF
