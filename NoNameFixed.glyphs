@@ -1,5 +1,5 @@
 {
-.appVersion = "3124";
+.appVersion = "3133";
 classes = (
 {
 code = "annisfabove-ar
@@ -72888,11 +72888,11 @@ layers = (
 {
 components = (
 {
-name = "fatha-ar";
-transform = "{1, 0, 0, 1, 17, -1033}";
+name = "kashida-ar";
 },
 {
-name = "kashida-ar";
+name = "kasra-ar";
+transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = master01;
@@ -97941,7 +97941,7 @@ layers = (
 components = (
 {
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 0, -897}";
+transform = "{1, 0, 0, 1, 0, -747}";
 }
 );
 layerId = master01;
@@ -98041,7 +98041,7 @@ layers = (
 components = (
 {
 name = "fatha-ar";
-transform = "{1, 0, 0, 1, 0, -1092}";
+transform = "{1, 0, 0, 1, 0, -863}";
 }
 );
 layerId = master01;
