@@ -100186,7 +100186,7 @@ layers = (
 components = (
 {
 name = "yehSmall-ar";
-transform = "{1, 0, 0, 1, 0, 70}";
+transform = "{1, 0, 0, 1, 0, 600}";
 }
 );
 layerId = master01;
