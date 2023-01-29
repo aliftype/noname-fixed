@@ -97,6 +97,7 @@ saktaabove-ar
 smallainabove-ar
 smallsadabove-ar
 sahabove-ar
+largerounddotbelow-ar
 waqfaabove-ar
 wawbelow-ar
 VS1
@@ -2052,6 +2053,7 @@ lookup mark_over_kashida {
   sub dammaDot-ar by kashida-ar dammaDot-ar;
   sub marksidewaysnoonghunna-ar by kashida-ar marksidewaysnoonghunna-ar;
   sub sahabove-ar by kashida-ar sahabove-ar;
+  sub largerounddotbelow-ar by kashida-ar largerounddotbelow-ar;
 } mark_over_kashida;
 
 @init_medi = [kashida-ar zerowidthjoiner @init @medi];
@@ -102051,6 +102053,38 @@ width = 525;
 }
 );
 unicode = 08CC;
+script = arabic;
+category = Mark;
+subCategory = Spacing;
+},
+{
+glyphname = "largerounddotbelow-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"313 -324 OFFCURVE",
+"353 -284 OFFCURVE",
+"353 -234 CURVE SMOOTH",
+"353 -184 OFFCURVE",
+"313 -144 OFFCURVE",
+"263 -144 CURVE SMOOTH",
+"213 -144 OFFCURVE",
+"173 -184 OFFCURVE",
+"173 -234 CURVE SMOOTH",
+"173 -284 OFFCURVE",
+"213 -324 OFFCURVE",
+"263 -324 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08CF;
 script = arabic;
 category = Mark;
 subCategory = Spacing;
