@@ -214,7 +214,6 @@ yehThreedotsbelow-ar
 sheenDotbelow-ar
 dadDotbelow-ar
 ghainDotbelow-ar
-sindhipostpositionmen-ar
 hehVinvertedabove-ar
 behThreedotshorizontalbelow-ar
 behThreedotsupabove-ar
@@ -381,7 +380,6 @@ yehThreedotsbelow-ar.init
 sheenDotbelow-ar.init
 dadDotbelow-ar.init
 ghainDotbelow-ar.init
-sindhipostpositionmen-ar.init
 hehVinvertedabove-ar.init
 behThreedotshorizontalbelow-ar.init
 behThreedotsupabove-ar.init
@@ -450,7 +448,8 @@ qafThreedotsaboveAfrican-ar.init
 kehehVabove-ar.init
 lamTahabove-ar.init
 tehVabove-ar.init
-  ";
+  
+";
 name = init;
 },
 {
@@ -548,7 +547,6 @@ yehThreedotsbelow-ar.medi
 sheenDotbelow-ar.medi
 dadDotbelow-ar.medi
 ghainDotbelow-ar.medi
-sindhipostpositionmen-ar.medi
 hehVinvertedabove-ar.medi
 behThreedotshorizontalbelow-ar.medi
 behThreedotsupabove-ar.medi
@@ -711,7 +709,7 @@ name = visiblecontrols;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotbelow Dlinebelow E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Ereversed Etilde F G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hbrevebelow Hcircumflex Hdieresis Hdotbelow I Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lslash M Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotbelow agrave ahookabove amacron aogonek aring aringacute atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d eth dcaron dcroat ddotbelow dlinebelow e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove emacron eogonek ereversed etilde eturned schwa f g gacute gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hbrevebelow hcircumflex hdieresis hdotbelow i dotlessi iacute ibreve icaron icircumflex idblgrave idieresis idieresisacute idotbelow igrave ihookabove imacron iogonek itilde j jdotless jcaron jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot ldotbelow ldotbelowmacron lslash m mdotbelow n nacute ncaron ncommaaccent ndotaccent ndotbelow ntilde eng o oacute obreve ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oogonek oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent rdblgrave rdotaccent rdotbelow rdotbelowmacron s sacute scaron scedilla scircumflex scommaaccent sdotbelow germandbls longs t tcaron tcedilla tcommaaccent tdieresis tdotbelow tlinebelow u uacute ubreve ucaron ucircumflex udblgrave udieresis udieresisacute udieresiscaron udieresisgrave udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent zdotbelow ordfeminine ordmasculine A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy Gedescender-cy Ghestroke-cy Ghemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Omega-cy Yat-cy Eiotified-cy Yuslittle-cy Yuslittleiotified-cy Yusbig-cy Yusbigiotified-cy Ksi-cy Psi-cy Fita-cy Izhitsa-cy Izhitsadblgrave-cy Uk-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pemiddlehook-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Hahook-cy Hastroke-cy Elhook-cy Koppa-cy Semisoftsign-cy Ertick-cy a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy gedescender-cy ghestroke-cy ghemiddlehook-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy iishorttail-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy yeru-cy hardsign-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy omega-cy yat-cy eiotified-cy yuslittle-cy yuslittleiotified-cy yusbig-cy yusbigiotified-cy ksi-cy psi-cy fita-cy izhitsa-cy izhitsadblgrave-cy uk-cy zhedescender-cy zedescender-cy kadescender-cy kaverticalstroke-cy kastroke-cy kabashkir-cy endescender-cy enghe-cy pemiddlehook-cy haabkhasian-cy esdescender-cy tedescender-cy ustraight-cy ustraightstroke-cy hadescender-cy tetse-cy chedescender-cy cheverticalstroke-cy shha-cy cheabkhasian-cy chedescenderabkhasian-cy zhebreve-cy kahook-cy eltail-cy enhook-cy entail-cy chekhakassian-cy emtail-cy abreve-cy adieresis-cy aie-cy iebreve-cy schwa-cy schwadieresis-cy zhedieresis-cy zedieresis-cy dzeabkhasian-cy imacron-cy idieresis-cy odieresis-cy obarred-cy obarreddieresis-cy edieresis-cy umacron-cy udieresis-cy uhungarumlaut-cy chedieresis-cy yerudieresis-cy hahook-cy hastroke-cy elhook-cy koppa-cy semisoftsign-cy ertick-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KoppaArchaic Stigma Digamma Sampi Alphapsili Alphadasia Alphapsilivaria Alphadasiavaria Alphapsilioxia Alphadasiaoxia Alphapsiliperispomeni Alphadasiaperispomeni Alphavaria Alphaoxia Alphavrachy Alphamacron Alphaprosgegrammeni Alphapsiliprosgegrammeni Alphadasiaprosgegrammeni Alphapsilivariaprosgegrammeni Alphadasiavariaprosgegrammeni Alphapsilioxiaprosgegrammeni Alphadasiaoxiaprosgegrammeni Alphapsiliperispomeniprosgegrammeni Alphadasiaperispomeniprosgegrammeni Epsilonpsili Epsilondasia Epsilonpsilivaria Epsilondasiavaria Epsilonpsilioxia Epsilondasiaoxia Epsilonvaria Epsilonoxia Etapsili Etadasia Etapsilivaria Etadasiavaria Etapsilioxia Etadasiaoxia Etapsiliperispomeni Etadasiaperispomeni Etavaria Etaoxia Etaprosgegrammeni Etapsiliprosgegrammeni Etadasiaprosgegrammeni Etapsilivariaprosgegrammeni Etadasiavariaprosgegrammeni Etapsilioxiaprosgegrammeni Etadasiaoxiaprosgegrammeni Etapsiliperispomeniprosgegrammeni Etadasiaperispomeniprosgegrammeni Iotapsili Iotadasia Iotapsilivaria Iotadasiavaria Iotapsilioxia Iotadasiaoxia Iotapsiliperispomeni Iotadasiaperispomeni Iotavaria Iotaoxia Iotavrachy Iotamacron Omicronpsili Omicrondasia Omicronpsilivaria Omicrondasiavaria Omicronpsilioxia Omicrondasiaoxia Omicronvaria Omicronoxia Rhodasia Upsilondasia Upsilondasiavaria Upsilondasiaoxia Upsilondasiaperispomeni Upsilonvaria Upsilonoxia Upsilonvrachy Upsilonmacron Omegapsili Omegadasia Omegapsilivaria Omegadasiavaria Omegapsilioxia Omegadasiaoxia Omegapsiliperispomeni Omegadasiaperispomeni Omegavaria Omegaoxia Omegaprosgegrammeni Omegapsiliprosgegrammeni Omegadasiaprosgegrammeni Omegapsilivariaprosgegrammeni Omegadasiavariaprosgegrammeni Omegapsilioxiaprosgegrammeni Omegadasiaoxiaprosgegrammeni Omegapsiliperispomeniprosgegrammeni Omegadasiaperispomeniprosgegrammeni alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos koppaArchaic digamma koppa sampi alphapsili alphadasia alphapsilivaria alphadasiavaria alphapsilioxia alphadasiaoxia alphapsiliperispomeni alphadasiaperispomeni alphavaria alphaoxia alphaperispomeni alphavrachy alphamacron alphaypogegrammeni alphavariaypogegrammeni alphaoxiaypogegrammeni alphapsiliypogegrammeni alphadasiaypogegrammeni alphapsilivariaypogegrammeni alphadasiavariaypogegrammeni alphapsilioxiaypogegrammeni alphadasiaoxiaypogegrammeni alphapsiliperispomeniypogegrammeni alphadasiaperispomeniypogegrammeni alphaperispomeniypogegrammeni epsilonpsili epsilondasia epsilonpsilivaria epsilondasiavaria epsilonpsilioxia epsilondasiaoxia epsilonvaria epsilonoxia etapsili etadasia etapsilivaria etadasiavaria etapsilioxia etadasiaoxia etapsiliperispomeni etadasiaperispomeni etavaria etaoxia etaperispomeni etaypogegrammeni etavariaypogegrammeni etaoxiaypogegrammeni etapsiliypogegrammeni etadasiaypogegrammeni etapsilivariaypogegrammeni etadasiavariaypogegrammeni etapsilioxiaypogegrammeni etadasiaoxiaypogegrammeni etapsiliperispomeniypogegrammeni etadasiaperispomeniypogegrammeni etaperispomeniypogegrammeni iotapsili iotadasia iotapsilivaria iotadasiavaria iotapsilioxia iotadasiaoxia iotapsiliperispomeni iotadasiaperispomeni iotavaria iotaoxia iotaperispomeni iotavrachy iotamacron iotadialytikavaria iotadialytikaoxia iotadialytikaperispomeni omicronpsili omicrondasia omicronpsilivaria omicrondasiavaria omicronpsilioxia omicrondasiaoxia omicronvaria omicronoxia rhopsili rhodasia upsilonpsili upsilondasia upsilonpsilivaria upsilondasiavaria upsilonpsilioxia upsilondasiaoxia upsilonpsiliperispomeni upsilondasiaperispomeni upsilonvaria upsilonoxia upsilonperispomeni upsilonvrachy upsilonmacron upsilondialytikavaria upsilondialytikaoxia upsilondialytikaperispomeni omegapsili omegadasia omegapsilivaria omegadasiavaria omegapsilioxia omegadasiaoxia omegapsiliperispomeni omegadasiaperispomeni omegavaria omegaoxia omegaperispomeni omegaypogegrammeni omegavariaypogegrammeni omegaoxiaypogegrammeni omegapsiliypogegrammeni omegadasiaypogegrammeni omegapsilivariaypogegrammeni omegadasiavariaypogegrammeni omegapsilioxiaypogegrammeni omegadasiaoxiaypogegrammeni omegapsiliperispomeniypogegrammeni omegadasiaperispomeniypogegrammeni omegaperispomeniypogegrammeni prosgegrammeni ypogegrammeni hamza-ar highhamza-ar highhamza-ar.narrow alef-ar alef-ar.shorter alef-ar.fina alef-ar.fina.alt alef-ar.fina.shorter alef-ar.short alef-ar.fina.short alefHamzaabove-ar alefHamzaabove-ar.fina alefHamzaabove-ar.fina.alt alefHamzabelow-ar alefHamzabelow-ar.fina alefHamzabelow-ar.fina.alt alefWavyhamzaabove-ar alefWavyhamzaabove-ar.fina alefWavyhamzaabove-ar.fina.alt alefWavyhamzabelow-ar alefWavyhamzabelow-ar.fina alefWavyhamzabelow-ar.fina.alt alefMadda-ar alefMadda-ar.fina alefMadda-ar.fina.alt alefWasla-ar alefWasla-ar.fina alefWasla-ar.fina.alt highhamzaAlef-ar behDotless-ar behDotless-ar.hah behDotless-ar.fina behDotless-ar.medi behDotless-ar.init beh-ar beh-ar.fina beh-ar.medi beh-ar.init peh-ar peh-ar.fina peh-ar.medi peh-ar.init pehVabove-ar pehVabove-ar.fina pehVabove-ar.medi pehVabove-ar.init beeh-ar beeh-ar.fina beeh-ar.medi beeh-ar.init beheh-ar beheh-ar.fina beheh-ar.medi beheh-ar.init alefMaksura-ar.medi alefMaksura-ar.init teh-ar teh-ar.fina teh-ar.medi teh-ar.init tehRing-ar tehRing-ar.fina tehRing-ar.medi tehRing-ar.init tehThreedotsdown-ar tehThreedotsdown-ar.fina tehThreedotsdown-ar.medi tehThreedotsdown-ar.init theh-ar theh-ar.fina theh-ar.medi theh-ar.init tteh-ar tteh-ar.fina tteh-ar.medi tteh-ar.init tteheh-ar tteheh-ar.fina tteheh-ar.medi tteheh-ar.init teheh-ar teheh-ar.fina teheh-ar.medi teheh-ar.init behThreedotshorizontalbelow-ar behThreedotshorizontalbelow-ar.fina behThreedotshorizontalbelow-ar.medi behThreedotshorizontalbelow-ar.init behThreedotsupabove-ar behThreedotsupabove-ar.fina behThreedotsupabove-ar.medi behThreedotsupabove-ar.init behThreedotsupbelow-ar behThreedotsupbelow-ar.fina behThreedotsupbelow-ar.medi behThreedotsupbelow-ar.init tehThreedotsupbelow-ar tehThreedotsupbelow-ar.fina tehThreedotsupbelow-ar.medi tehThreedotsupbelow-ar.init behTwodotsbelowDotabove-ar behTwodotsbelowDotabove-ar.fina behTwodotsbelowDotabove-ar.medi behTwodotsbelowDotabove-ar.init behVinvertedbelow-ar behVinvertedbelow-ar.fina behVinvertedbelow-ar.medi behVinvertedbelow-ar.init behVabove-ar behVabove-ar.fina behVabove-ar.medi behVabove-ar.init behVbelow-ar ttehVabove-ar ttehVabove-ar.fina behVbelow-ar.fina ttehVabove-ar.medi behVbelow-ar.medi ttehVabove-ar.init behVbelow-ar.init behhamzaabove-ar behhamzaabove-ar.fina behhamzaabove-ar.medi behhamzaabove-ar.init jeemThreedotsabove-ar jeemThreedotsabove-ar.fina jeemThreedotsabove-ar.medi jeemThreedotsabove-ar.init jeemThreedotsbelow-ar jeemThreedotsbelow-ar.fina jeemThreedotsbelow-ar.medi jeemThreedotsbelow-ar.init jeem-ar jeem-ar.fina jeem-ar.medi jeem-ar.init tcheh-ar tcheh-ar.fina tcheh-ar.medi tcheh-ar.init tchehVabove-ar tchehVabove-ar.fina tchehVabove-ar.medi tchehVabove-ar.init tcheheh-ar tcheheh-ar.fina tcheheh-ar.medi tcheheh-ar.init tchehDotabove-ar tchehDotabove-ar.fina tchehDotabove-ar.medi tchehDotabove-ar.init nyeh-ar nyeh-ar.fina nyeh-ar.medi nyeh-ar.init dyeh-ar dyeh-ar.fina dyeh-ar.medi dyeh-ar.init hah-ar hah-ar.fina hah-ar.medi hah-ar.init hahHamzaabove-ar hahHamzaabove-ar.fina hahHamzaabove-ar.medi hahHamzaabove-ar.init hahTwodotsverticalabove-ar hahTwodotsverticalabove-ar.fina hahTwodotsverticalabove-ar.medi hahTwodotsverticalabove-ar.init hahTwodotshorizontalabove-ar hahTwodotshorizontalabove-ar.fina hahTwodotshorizontalabove-ar.medi hahTwodotshorizontalabove-ar.init hahThreedotsabove-ar hahThreedotsabove-ar.fina hahThreedotsabove-ar.medi hahThreedotsabove-ar.init hahThreedotsupbelow-ar hahThreedotsupbelow-ar.fina hahThreedotsupbelow-ar.medi hahThreedotsupbelow-ar.init khah-ar khah-ar.fina khah-ar.medi khah-ar.init hahTahbelow-ar hahTahbelow-ar.fina hahTahbelow-ar.medi hahTahbelow-ar.init hahTahTwodotshorizontalbelow-ar hahFourbelow-ar hahFourbelow-ar.fina hahFourbelow-ar.medi hahFourbelow-ar.init jeemTwodotsabove-ar jeemTwodotsabove-ar.fina jeemTwodotsabove-ar.medi jeemTwodotsabove-ar.init dal-ar dal-ar.fina thal-ar thal-ar.fina ddal-ar ddal-ar.fina dahal-ar dahal-ar.fina ddahal-ar ddahal-ar.fina dalRing-ar dalRing-ar.fina dalDotbelow-ar dalDotbelow-ar.fina dalDotbelowTah-ar dalDotbelowTah-ar.fina dul-ar dul-ar.fina dalThreedotsdown-ar dalThreedotsdown-ar.fina dalFourdots-ar dalFourdots-ar.fina dalVinvertedabove-ar dalVinvertedabove-ar.fina dalTwodotsverticalbelowTah-ar dalTwodotsverticalbelowTah-ar.fina dalVinvertedbelow-ar dalVinvertedbelow-ar.fina dalThreedotsbelow-ar dalThreedotsbelow-ar.fina reh-ar reh-ar.fina zain-ar zain-ar.fina zainVinvertedabove-ar zainVinvertedabove-ar.fina ainThreedotsbelow-ar ainThreedotsbelow-ar.fina ainThreedotsbelow-ar.medi ainThreedotsbelow-ar.init kafDotbelow-ar kafDotbelow-ar.fina kafDotbelow-ar.medi kafDotbelow-ar.init rreh-ar rreh-ar.fina rehv-ar rehv-ar.fina rehRing-ar rehRing-ar.fina rehDotbelow-ar rehDotbelow-ar.fina rehVbelow-ar rehVbelow-ar.fina rehDotbelowdotabove-ar rehDotbelowdotabove-ar.fina rehTwodots-ar rehTwodots-ar.fina jeh-ar jeh-ar.fina rehFourdots-ar rehFourdots-ar.fina rehVinvertedabove-ar rehVinvertedabove-ar.fina rehStroke-ar rehStroke-ar.fina rehTwodotsverticalabove-ar rehTwodotsverticalabove-ar.fina rehHamzaabove-ar rehHamzaabove-ar.fina rehTwodotshorizontalaboveTahabove-ar rehTwodotshorizontalaboveTahabove-ar.fina rehLoop-ar rehLoop-ar.fina seen-ar seen-ar.fina seen-ar.medi seen-ar.init seenDotbelowDotabove-ar seenDotbelowDotabove-ar.fina seenDotbelowDotabove-ar.medi seenDotbelowDotabove-ar.init seenThreedotsbelow-ar seenThreedotsbelow-ar.fina seenThreedotsbelow-ar.medi seenThreedotsbelow-ar.init sheen-ar sheen-ar.fina sheen-ar.medi sheen-ar.init sheenDotbelow-ar sheenDotbelow-ar.fina sheenDotbelow-ar.medi sheenDotbelow-ar.init sheenThreedotsbelow-ar sheenThreedotsbelow-ar.fina sheenThreedotsbelow-ar.medi sheenThreedotsbelow-ar.init sad-ar sad-ar.fina sad-ar.medi sad-ar.init sadTwodotsbelow-ar sadTwodotsbelow-ar.fina sadTwodotsbelow-ar.medi sadTwodotsbelow-ar.init sadThreedots-ar sadThreedots-ar.fina sadThreedots-ar.medi sadThreedots-ar.init sadThreedotsbelow-ar sadThreedotsbelow-ar.fina sadThreedotsbelow-ar.medi sadThreedotsbelow-ar.init dad-ar dad-ar.fina dad-ar.medi dad-ar.init dadDotbelow-ar dadDotbelow-ar.fina dadDotbelow-ar.medi dadDotbelow-ar.init tah-ar tah-ar.fina tah-ar.medi tah-ar.init tahThreedots-ar tahThreedots-ar.fina tahThreedots-ar.medi tahThreedots-ar.init zah-ar zah-ar.fina zah-ar.medi zah-ar.init tahTwodotsabove-ar tahTwodotsabove-ar.fina tahTwodotsabove-ar.medi tahTwodotsabove-ar.init ain-ar ain-ar.fina ain-ar.medi ain-ar.init ainThreedots-ar ainThreedots-ar.fina ainThreedots-ar.medi ainThreedots-ar.init ghain-ar ghain-ar.fina ghain-ar.medi ghain-ar.init ghainDotbelow-ar ghainDotbelow-ar.fina ghainDotbelow-ar.medi ghainDotbelow-ar.init ghainThreedotsabove-ar ghainThreedotsabove-ar.fina ghainThreedotsabove-ar.medi ghainThreedotsabove-ar.init feh-ar feh-ar.fina feh-ar.medi feh-ar.init veh-ar veh-ar.fina veh-ar.medi veh-ar.init fehDotless-ar fehDotless-ar.fina fehDotless-ar.medi fehDotless-ar.init fehDotmovedbelow-ar fehDotmovedbelow-ar.fina fehDotmovedbelow-ar.medi fehDotmovedbelow-ar.init fehDotbelow-ar fehDotbelow-ar.fina fehDotbelow-ar.medi fehDotbelow-ar.init fehThreedotsbelow-ar fehThreedotsbelow-ar.fina fehThreedotsbelow-ar.medi fehThreedotsbelow-ar.init fehDotbelowThreedotsabove-ar fehDotbelowThreedotsabove-ar.fina fehDotbelowThreedotsabove-ar.medi fehDotbelowThreedotsabove-ar.init peheh-ar peheh-ar.fina peheh-ar.medi peheh-ar.init fehAfrican-ar fehAfrican-ar.fina fehAfrican-ar.medi fehAfrican-ar.init qafDotless-ar qafDotless-ar.medi qafDotless-ar.init qafDotless-ar.fina qaf-ar qaf-ar.fina qaf-ar.medi qaf-ar.init qafDotabove-ar qafDotabove-ar.fina qafDotabove-ar.medi qafDotabove-ar.init qafThreedotsabove-ar qafThreedotsabove-ar.fina qafThreedotsabove-ar.medi qafThreedotsabove-ar.init qafDotbelow-ar qafDotbelow-ar.fina qafDotbelow-ar.medi qafDotbelow-ar.init qafAfrican-ar qafAfrican-ar.fina qafAfrican-ar.medi qafAfrican-ar.init qafThreedotsaboveAfrican-ar qafThreedotsaboveAfrican-ar.fina qafThreedotsaboveAfrican-ar.medi qafThreedotsaboveAfrican-ar.init kafDotless-ar kafDotless-ar.fina kaf-ar kaf-ar.fina kaf-ar.medi kaf-ar.init keheh-ar keheh-ar.fina keheh-ar.medi keheh-ar.init kehehTwodotshorizontalabove-ar kehehTwodotshorizontalabove-ar.fina kehehTwodotshorizontalabove-ar.medi kehehTwodotshorizontalabove-ar.init kehehThreedotsbelow-ar kehehThreedotsbelow-ar.fina kehehThreedotsbelow-ar.medi kehehThreedotsbelow-ar.init kehehDotabove-ar kehehDotabove-ar.fina kehehDotabove-ar.medi kehehDotabove-ar.init kehehThreedotsabove-ar kehehThreedotsabove-ar.fina kehehThreedotsabove-ar.medi kehehThreedotsabove-ar.init kehehThreedotsupbelow-ar kehehThreedotsupbelow-ar.fina kehehThreedotsupbelow-ar.medi kehehThreedotsupbelow-ar.init kehehVabove-ar kehehVabove-ar.fina kehehVabove-ar.medi kehehVabove-ar.init gaf-ar gaf-ar.fina gaf-ar.medi gaf-ar.init gafRing-ar gafRing-ar.fina gafRing-ar.medi gafRing-ar.init gafThreedots-ar gafThreedots-ar.fina gafThreedots-ar.medi gafThreedots-ar.init kafswash-ar kafswash-ar.fina kafswash-ar.medi kafswash-ar.init kafRing-ar kafRing-ar.fina kafRing-ar.medi kafRing-ar.init kafDotabove-ar kafDotabove-ar.fina kafDotabove-ar.medi kafDotabove-ar.init kafTwodotshorizontalabove-ar kafTwodotshorizontalabove-ar.fina kafTwodotshorizontalabove-ar.medi kafTwodotshorizontalabove-ar.init kafThreedotsbelow-ar kafThreedotsbelow-ar.fina kafThreedotsbelow-ar.medi kafThreedotsbelow-ar.init gafTwodotsbelow-ar gafTwodotsbelow-ar.fina gafTwodotsbelow-ar.medi gafTwodotsbelow-ar.init gafInvertedstroke-ar gafInvertedstroke-ar.fina gafInvertedstroke-ar.medi gafInvertedstroke-ar.init ng-ar ng-ar.fina ng-ar.medi ng-ar.init ngoeh-ar ngoeh-ar.fina ngoeh-ar.medi ngoeh-ar.init gueh-ar gueh-ar.fina gueh-ar.medi gueh-ar.init lam-ar lam-ar.fina lam-ar.medi lam-ar.medi.short lam-ar.init lamVabove-ar lamVabove-ar.fina lamVabove-ar.medi lamVabove-ar.init lamDotabove-ar lamDotabove-ar.fina lamDotabove-ar.medi lamDotabove-ar.init lamThreedotsabove-ar lamThreedotsabove-ar.fina lamThreedotsabove-ar.medi lamThreedotsabove-ar.init lamThreedotsbelow-ar lamThreedotsbelow-ar.fina lamThreedotsbelow-ar.medi lamThreedotsbelow-ar.init lamDoublebar-ar lamDoublebar-ar.fina lamDoublebar-ar.medi lamDoublebar-ar.init lamTahabove-ar lamTahabove-ar.fina lamTahabove-ar.medi lamTahabove-ar.init meem-ar meem-ar.fina meem-ar.medi meem-ar.init meemThreedotsabove-ar meemThreedotsabove-ar.fina meemThreedotsabove-ar.medi meemThreedotsabove-ar.init noon-ar noon-ar.fina noon-ar.medi noon-ar.init noonDotbelow-ar noonDotbelow-ar.fina noonDotbelow-ar.medi noonDotbelow-ar.init noonghunna-ar noonghunna-ar.medi noonghunna-ar.init noonghunna-ar.fina rnoon-ar rnoon-ar.fina rnoon-ar.medi rnoon-ar.init noonRing-ar noonRing-ar.fina noonRing-ar.medi noonRing-ar.init noonThreedotsabove-ar noonThreedotsabove-ar.fina noonThreedotsabove-ar.medi noonThreedotsabove-ar.init noonAfrican-ar noonAfrican-ar.fina noonAfrican-ar.medi noonAfrican-ar.init heh-ar heh-ar.fina heh-ar.medi heh-ar.init hehHamzaabove-ar hehHamzaabove-ar.fina hehgoal-ar hehgoal-ar.fina hehgoal-ar.medi hehgoal-ar.init hehgoalHamzaabove-ar hehgoalHamzaabove-ar.fina hehDoachashmee-ar hehDoachashmee-ar.fina hehDoachashmee-ar.medi hehDoachashmee-ar.init hehDoachashmee-ar.init.comp hehVinvertedabove-ar hehVinvertedabove-ar.fina hehVinvertedabove-ar.medi hehVinvertedabove-ar.init tehMarbuta-ar tehMarbuta-ar.alt tehMarbuta-ar.fina tehMarbutagoal-ar tehMarbutagoal-ar.fina tehVabove-ar tehVabove-ar.fina tehVabove-ar.medi tehVabove-ar.init waw-ar waw-ar.fina wawring-ar wawring-ar.fina wawTwodots-ar wawTwodots-ar.fina wawDotabove-ar wawDotabove-ar.fina wawHamzaabove-ar wawHamzaabove-ar.fina wawTwoabove-ar wawTwoabove-ar.fina wawThreeAbove-ar wawThreeAbove-ar.fina wawDotcenter-ar wawDotcenter-ar.fina wawStraight-ar wawStraight-ar.fina kirghizoe-ar kirghizoe-ar.fina oe-ar oe-ar.fina u-ar u-ar.fina yu-ar yu-ar.fina kirghizyu-ar kirghizyu-ar.fina ve-ar ve-ar.fina alefMaksura-ar alefMaksura-ar.fina aleflow-ar alefTwoabove-ar alefTwoabove-ar.fina alefTwoabove-ar.fina.alt alefThreeabove-ar alefThreeabove-ar.fina alefThreeabove-ar.fina.alt yeh-ar yeh-ar.fina yeh-ar.medi yeh-ar.init yehHamzaabove-ar yehHamzaabove-ar.fina yehHamzaabove-ar.medi yehHamzaabove-ar.init yehVabove-ar yehVabove-ar.fina yehVabove-ar.medi yehVabove-ar.init yehTwodotsbelowHamzaabove-ar yehTwodotsbelowHamzaabove-ar.fina yehTwodotsbelowHamzaabove-ar.medi yehTwodotsbelowHamzaabove-ar.init yehTwodotsbelowDotabove-ar yehTwodotsbelowDotabove-ar.fina yehTwodotsbelowDotabove-ar.medi yehTwodotsbelowDotabove-ar.init yehVinverted-farsi yehVinverted-farsi.fina yehVinverted-farsi.medi yehVinverted-farsi.init yeh-farsi yeh-farsi.fina yeh-farsi.medi yeh-farsi.init yehTwodotsabove-farsi yehTwodotsabove-farsi.fina yehTwodotsabove-farsi.medi yehTwodotsabove-farsi.init yehThreedotsabove-farsi yehThreedotsabove-farsi.fina yehThreedotsabove-farsi.medi yehThreedotsabove-farsi.init yehTwoabove-farsi yehTwoabove-farsi.fina yehTwoabove-farsi.medi yehTwoabove-farsi.init yehThreeabove-farsi yehThreeabove-farsi.fina yehThreeabove-farsi.medi yehThreeabove-farsi.init yehFourbelow-farsi yehFourbelow-farsi.fina yehFourbelow-farsi.medi yehFourbelow-farsi.init yehTail-ar yehTail-ar.fina yehKashmiri-ar yehKashmiri-ar.fina yehKashmiri-ar.medi yehKashmiri-ar.init e-ar e-ar.fina e-ar.medi e-ar.init yehThreedotsbelow-ar yehThreedotsbelow-ar.fina yehThreedotsbelow-ar.medi yehThreedotsbelow-ar.init yehbarree-ar yehbarree-ar.fina yehbarreeHamzaabove-ar yehbarreeHamzaabove-ar.fina yehbarreeTwoabove-ar yehbarreeTwoabove-ar.fina yehbarreeThreeabove-ar yehbarreeThreeabove-ar.fina yehRohingya-ar yehRohingya-ar.fina yehRohingya-ar.comp highhamzaWaw-ar uHamzaabove-ar highhamzaYeh-ar highhamzaYeh-ar.init ae-ar ae-ar.fina wawSmall-ar yehSmall-ar seenFourdotsabove-ar seenFourdotsabove-ar.fina seenFourdotsabove-ar.medi seenFourdotsabove-ar.init ainTwodotshorizontalabove-ar ainTwodotshorizontalabove-ar.fina ainTwodotshorizontalabove-ar.medi ainTwodotshorizontalabove-ar.init ainThreedotsdownabove-ar ainThreedotsdownabove-ar.fina ainThreedotsdownabove-ar.medi ainThreedotsdownabove-ar.init ainTwodotsverticalabove-ar ainTwodotsverticalabove-ar.fina ainTwodotsverticalabove-ar.medi ainTwodotsverticalabove-ar.init fehTwodotsbelow-ar fehTwodotsbelow-ar.fina fehTwodotsbelow-ar.medi fehTwodotsbelow-ar.init fehThreedotsupbelow-ar fehThreedotsupbelow-ar.fina fehThreedotsupbelow-ar.medi fehThreedotsupbelow-ar.init meemDotabove-ar meemDotabove-ar.fina meemDotabove-ar.medi meemDotabove-ar.init meemDotbelow-ar meemDotbelow-ar.fina meemDotbelow-ar.medi meemDotbelow-ar.init noonTwodotsbelow-ar noonTwodotsbelow-ar.fina noonTwodotsbelow-ar.medi noonTwodotsbelow-ar.init noonTahabove-ar noonTahabove-ar.fina noonTahabove-ar.medi noonTahabove-ar.init noonVabove-ar noonVabove-ar.fina noonVabove-ar.medi noonVabove-ar.init lamBar-ar lamBar-ar.fina lamBar-ar.medi lamBar-ar.init seenTwodotsverticalabove-ar seenTwodotsverticalabove-ar.fina seenTwodotsverticalabove-ar.medi seenTwodotsverticalabove-ar.init seenTahTwodotshorizontalabove-ar seenTahTwodotshorizontalabove-ar.fina seenTahTwodotshorizontalabove-ar.medi seenTahTwodotshorizontalabove-ar.init hahTahabove-ar hahTahabove-ar.fina hahTahabove-ar.medi hahTahabove-ar.init seenFourabove-ar seenFourabove-ar.fina seenFourabove-ar.medi seenFourabove-ar.init seenVinvertedabove-ar seenVinvertedabove-ar.fina seenVinvertedabove-ar.medi seenVinvertedabove-ar.init fathatan-ar.medi kashidaFina-ar kasra-ar.medi kashida-ar fatha-ar.medi damma-ar.medi shadda-ar.medi sukun-ar.medi behMeemabove-ar behMeemabove-ar.fina behMeemabove-ar.medi behMeemabove-ar.init pehMeemabove-ar pehMeemabove-ar.fina pehMeemabove-ar.medi pehMeemabove-ar.init rehNoonabove-ar rehNoonabove-ar.fina tehTehabove-ar tehTehabove-ar.fina tehTehabove-ar.medi tehTehabove-ar.init yehTwodotsbelowNoonabove-ar yehTwodotsbelowNoonabove-ar.fina yehTwodotsbelowNoonabove-ar.medi yehTwodotsbelowNoonabove-ar.init lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina beh_meem-ar.init teh_jeem-ar.init teh_hah-ar.init lam_jeem-ar.init lam_hah-ar.init lam_khah-ar.init lam_meem-ar.init lam_meem_hah-ar.init yeh_noon-ar.fina allah-ar mohammad-ar allahlong-ar jallajalalouhou-ar decimalseparator-ar thousandseparator-ar zero-ar one-ar two-ar three-ar four-ar five-ar six-ar seven-ar eight-ar nine-ar four-persian five-persian six-persian seven-persian four-persian.urdu seven-persian.urdu zero one two three four five six seven eight nine zero.slash one.superior two.superior three.superior fraction onehalf onequarter threequarters VS1 VS10 VS11 VS12 VS13 VS14 VS15 VS16 VS2 VS3 VS4 VS5 VS6 VS7 VS8 VS9 graphemejoinercomb firststrongisolate functionapplication invisibleplus invisibleseparator invisibletimes lefttorightembedding lefttorightisolate lefttorightmark lefttorightoverride popdirectionalformatting popdirectionalisolate righttoleftembedding righttoleftisolate righttoleftmark righttoleftoverride zeroWidthNoBreakSpace zerowidthjoiner zerowidthnonjoiner narrownbspace space nbspace anoteleia questiongreek tahbelowSymbol-ar threedots-ar hizb-ar fullstop-ar comma-ar semicolon-ar question-ar number-ar asterisk-ar year-ar footnotemarker-ar pagenumber-ar dateseparator-ar verseComma-ar misraComma-ar sindhiampersand-ar endofayah-ar disputedendofayah-ar parenleft-ar parenright-ar dblbracketleft dblbracketright period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk charactertie dblverticalbar gnaborretni interrobang invertedundertie numbersign quillbracketleft quillbracketright referencemark slash backslash undertie period.arabic colon.arabic exclam.arabic hyphen softhyphen endash emdash hyphentwo nonbreakinghyphen underscore parenleft parenright braceleft braceright bracketleft bracketright angleleft angleright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle florin thousand-cy numeral-greek lowernumeral-greek sajdah-ar sindhipostpositionmen-ar sindhipostpositionmen-ar.fina sindhipostpositionmen-ar.medi sindhipostpositionmen-ar.init bismillah-ar mark-ar numbermark-ar samvat-ar ray-ar afghani-ar rial percent-ar cuberoot-ar fourthroot-ar perthousand-ar pertenthousand-ar note-musical baht marriageSymbol divorceSymbol at ampersand paragraph section copyright registered published trademark degree diameterSign bar brokenbar dagger daggerdbl estimated numero blank blankSymbol centigrade prescription cent colonsign currency dollar dong euro guarani lira naira peso sterling won yen Ohminverted commercialMinusSign divisionslash plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity Ohm radical micro percent perthousand sphericalangle asterisk.math percent.arabic.comp upArrow rightArrow downArrow leftArrow dottedCircle whiteBullet titlocomb-cy palatalizationcomb-cy dasiapneumatacomb-cy psilipneumatacomb-cy hundredthousandssigncomb-cy millionssigncomb-cy tonos dieresistonos psili koronis dasia psilivaria dasiavaria psilioxia dasiaoxia psiliperispomeni dasiaperispomeni dialytikavaria dialytikaoxia dialytikaperispomeni varia oxia perispomeni annisfabove-ar dammaturnedbelow-ar rehHahabove-ar rehDadabove-ar sadabove-ar ainabove-ar takhallusabove-ar tahabove-ar alefLamYehabove-ar zainabove-ar fathasmall-ar dammasmall-ar kasrasmall-ar threedotshorizontalbelow-ar stroke-ar fourabove-ar fourbelow-ar threeabove-ar twoabove-ar wasla-ar miniKeheh-ar gafsarkashabove-ar wavyhamzabelow-ar doublestroke-ar alefabove-ar alefbelow-ar hamzaabove-ar hamzabelow-ar fathatan-ar dammatan-ar kasratan-ar fatha-ar damma-ar kasra-ar shadda-ar sukun-ar madda-ar noonghunnaabove-ar dammainverted-ar fathaHorizont-ar vabove-ar vinvertedabove-ar dotvowelbelow-ar dammareversed-ar fathatwodots-ar sadLamAlefMaksuraabove-ar qafLamAlefMaksuraabove-ar meemabove-ar meemStopabove-ar lamAlefabove-ar jeemabove-ar threedotsabove-ar seenabove-ar sukunround-ar sukunoval-ar hahabove-ar seenbelow-ar maddalong-ar yehabove-ar noonabove-ar rhombusStopbelow-ar rhombusStopabove-ar dotStopabove-ar meembelow-ar fathaCurly-ar dammaCurly-ar kasraCurly-ar fathatanCurly-ar dammatanCurly-ar kasratanCurly-ar toneonedotabove-ar tonetwodotsabove-ar toneloopabove-ar toneonedotbelow-ar tonetwodotsbelow-ar toneloopbelow-ar openfathatan-ar opendammatan-ar openkasratan-ar highwaw-ar fathaRing-ar fathaDotabove-ar kasraDotbelow-ar leftarrowheadabove-ar rightarrowheadabove-ar leftarrowheadbelow-ar rightarrowheadbelow-ar doublerightarrowheadabove-ar doublerightarrowheadDotabove-ar rightarrowheadDotabove-ar dammaDot-ar arrubabove-ar assajdaabove-ar aththalathaabove-ar footnotemarkerabove-ar marksidewaysnoonghunna-ar noonKasraabove-ar noonKasrabelow-ar qafabove-ar qifabove-ar safhaabove-ar saktaabove-ar smallainabove-ar smallsadabove-ar waqfaabove-ar wawbelow-ar dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb dotbelowcomb commaaccentcomb brevebelowcomb breveinvertedbelowcomb tildebelowcomb macronbelowcomb lowlinecomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek ringhalfleft ringhalfright uniFBC0 circumflexcomb_gravecomb.cap circumflexcomb_acutecomb.cap circumflexcomb_tildecomb.cap circumflexcomb_hookabovecomb.cap dieresis.cap circumflex.cap caron.cap uni047A uni047B uni047C uni047D uni047E uni047F dotaboveSymbol-ar dotbelowSymbol-ar twodotshorizontalaboveSymbol-ar twodotshorizontalbelowSymbol-ar threedotsupaboveSymbol-ar threedotsupbelowSymbol-ar threedotsdownaboveSymbol-ar threedotsdownbelowSymbol-ar fourdotsaboveSymbol-ar fourdotsbelowSymbol-ar doubleverticalbarbelowSymbol-ar twodotsverticalaboveSymbol-ar twodotsverticalbelowSymbol-ar ringSymbol-ar bigcircle perthousandzero rehabove-ar arabic_root.comp charbox.comp hahTahTwodotshorizontalbelow-ar.fina hahTahTwodotshorizontalbelow-ar.init hahTahTwodotshorizontalbelow-ar.medi ittisal.comp tail.comp Threedotsinverted.alt.comp";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dlinebelow Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Ereversed Etilde F G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hbrevebelow Hcircumflex Hdieresis Hdotbelow I Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lslash M Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotaccent Rdotbelow Rdotbelowmacron S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotbelow agrave ahookabove amacron aogonek aring aringacute atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat ddotbelow dlinebelow eth e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove emacron eogonek ereversed etilde eturned schwa f g gacute gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hbrevebelow hcircumflex hdieresis hdotbelow i dotlessi iacute ibreve icaron icircumflex idblgrave idieresis idieresisacute idotbelow igrave ihookabove imacron iogonek itilde j jdotless jcaron jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot ldotbelow ldotbelowmacron lslash m mdotbelow n nacute ncaron ncommaaccent ndotaccent ndotbelow ntilde eng o oacute obreve ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oogonek oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent rdblgrave rdotaccent rdotbelow rdotbelowmacron s sacute scaron scedilla scircumflex scommaaccent sdotbelow germandbls longs t tcaron tcedilla tcommaaccent tdieresis tdotbelow tlinebelow u uacute ubreve ucaron ucircumflex udblgrave udieresis udieresisacute udieresiscaron udieresisgrave udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent zdotbelow ordfeminine ordmasculine A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy Gedescender-cy Ghestroke-cy Ghemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Omega-cy Yat-cy Eiotified-cy Yuslittle-cy Yuslittleiotified-cy Yusbig-cy Yusbigiotified-cy Ksi-cy Psi-cy Fita-cy Izhitsa-cy Izhitsadblgrave-cy Uk-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pemiddlehook-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Hahook-cy Hastroke-cy Elhook-cy Koppa-cy Semisoftsign-cy Ertick-cy a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy gedescender-cy ghestroke-cy ghemiddlehook-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy iishorttail-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy yeru-cy hardsign-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy omega-cy yat-cy eiotified-cy yuslittle-cy yuslittleiotified-cy yusbig-cy yusbigiotified-cy ksi-cy psi-cy fita-cy izhitsa-cy izhitsadblgrave-cy uk-cy zhedescender-cy zedescender-cy kadescender-cy kaverticalstroke-cy kastroke-cy kabashkir-cy endescender-cy enghe-cy pemiddlehook-cy haabkhasian-cy esdescender-cy tedescender-cy ustraight-cy ustraightstroke-cy hadescender-cy tetse-cy chedescender-cy cheverticalstroke-cy shha-cy cheabkhasian-cy chedescenderabkhasian-cy zhebreve-cy kahook-cy eltail-cy enhook-cy entail-cy chekhakassian-cy emtail-cy abreve-cy adieresis-cy aie-cy iebreve-cy schwa-cy schwadieresis-cy zhedieresis-cy zedieresis-cy dzeabkhasian-cy imacron-cy idieresis-cy odieresis-cy obarred-cy obarreddieresis-cy edieresis-cy umacron-cy udieresis-cy uhungarumlaut-cy chedieresis-cy yerudieresis-cy hahook-cy hastroke-cy elhook-cy koppa-cy semisoftsign-cy ertick-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KoppaArchaic Stigma Digamma Sampi Alphapsili Alphadasia Alphapsilivaria Alphadasiavaria Alphapsilioxia Alphadasiaoxia Alphapsiliperispomeni Alphadasiaperispomeni Alphavaria Alphaoxia Alphavrachy Alphamacron Alphaprosgegrammeni Alphapsiliprosgegrammeni Alphadasiaprosgegrammeni Alphapsilivariaprosgegrammeni Alphadasiavariaprosgegrammeni Alphapsilioxiaprosgegrammeni Alphadasiaoxiaprosgegrammeni Alphapsiliperispomeniprosgegrammeni Alphadasiaperispomeniprosgegrammeni Epsilonpsili Epsilondasia Epsilonpsilivaria Epsilondasiavaria Epsilonpsilioxia Epsilondasiaoxia Epsilonvaria Epsilonoxia Etapsili Etadasia Etapsilivaria Etadasiavaria Etapsilioxia Etadasiaoxia Etapsiliperispomeni Etadasiaperispomeni Etavaria Etaoxia Etaprosgegrammeni Etapsiliprosgegrammeni Etadasiaprosgegrammeni Etapsilivariaprosgegrammeni Etadasiavariaprosgegrammeni Etapsilioxiaprosgegrammeni Etadasiaoxiaprosgegrammeni Etapsiliperispomeniprosgegrammeni Etadasiaperispomeniprosgegrammeni Iotapsili Iotadasia Iotapsilivaria Iotadasiavaria Iotapsilioxia Iotadasiaoxia Iotapsiliperispomeni Iotadasiaperispomeni Iotavaria Iotaoxia Iotavrachy Iotamacron Omicronpsili Omicrondasia Omicronpsilivaria Omicrondasiavaria Omicronpsilioxia Omicrondasiaoxia Omicronvaria Omicronoxia Rhodasia Upsilondasia Upsilondasiavaria Upsilondasiaoxia Upsilondasiaperispomeni Upsilonvaria Upsilonoxia Upsilonvrachy Upsilonmacron Omegapsili Omegadasia Omegapsilivaria Omegadasiavaria Omegapsilioxia Omegadasiaoxia Omegapsiliperispomeni Omegadasiaperispomeni Omegavaria Omegaoxia Omegaprosgegrammeni Omegapsiliprosgegrammeni Omegadasiaprosgegrammeni Omegapsilivariaprosgegrammeni Omegadasiavariaprosgegrammeni Omegapsilioxiaprosgegrammeni Omegadasiaoxiaprosgegrammeni Omegapsiliperispomeniprosgegrammeni Omegadasiaperispomeniprosgegrammeni alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos koppaArchaic digamma koppa sampi alphapsili alphadasia alphapsilivaria alphadasiavaria alphapsilioxia alphadasiaoxia alphapsiliperispomeni alphadasiaperispomeni alphavaria alphaoxia alphaperispomeni alphavrachy alphamacron alphaypogegrammeni alphavariaypogegrammeni alphaoxiaypogegrammeni alphapsiliypogegrammeni alphadasiaypogegrammeni alphapsilivariaypogegrammeni alphadasiavariaypogegrammeni alphapsilioxiaypogegrammeni alphadasiaoxiaypogegrammeni alphapsiliperispomeniypogegrammeni alphadasiaperispomeniypogegrammeni alphaperispomeniypogegrammeni epsilonpsili epsilondasia epsilonpsilivaria epsilondasiavaria epsilonpsilioxia epsilondasiaoxia epsilonvaria epsilonoxia etapsili etadasia etapsilivaria etadasiavaria etapsilioxia etadasiaoxia etapsiliperispomeni etadasiaperispomeni etavaria etaoxia etaperispomeni etaypogegrammeni etavariaypogegrammeni etaoxiaypogegrammeni etapsiliypogegrammeni etadasiaypogegrammeni etapsilivariaypogegrammeni etadasiavariaypogegrammeni etapsilioxiaypogegrammeni etadasiaoxiaypogegrammeni etapsiliperispomeniypogegrammeni etadasiaperispomeniypogegrammeni etaperispomeniypogegrammeni iotapsili iotadasia iotapsilivaria iotadasiavaria iotapsilioxia iotadasiaoxia iotapsiliperispomeni iotadasiaperispomeni iotavaria iotaoxia iotaperispomeni iotavrachy iotamacron iotadialytikavaria iotadialytikaoxia iotadialytikaperispomeni omicronpsili omicrondasia omicronpsilivaria omicrondasiavaria omicronpsilioxia omicrondasiaoxia omicronvaria omicronoxia rhopsili rhodasia upsilonpsili upsilondasia upsilonpsilivaria upsilondasiavaria upsilonpsilioxia upsilondasiaoxia upsilonpsiliperispomeni upsilondasiaperispomeni upsilonvaria upsilonoxia upsilonperispomeni upsilonvrachy upsilonmacron upsilondialytikavaria upsilondialytikaoxia upsilondialytikaperispomeni omegapsili omegadasia omegapsilivaria omegadasiavaria omegapsilioxia omegadasiaoxia omegapsiliperispomeni omegadasiaperispomeni omegavaria omegaoxia omegaperispomeni omegaypogegrammeni omegavariaypogegrammeni omegaoxiaypogegrammeni omegapsiliypogegrammeni omegadasiaypogegrammeni omegapsilivariaypogegrammeni omegadasiavariaypogegrammeni omegapsilioxiaypogegrammeni omegadasiaoxiaypogegrammeni omegapsiliperispomeniypogegrammeni omegadasiaperispomeniypogegrammeni omegaperispomeniypogegrammeni prosgegrammeni ypogegrammeni hamza-ar highhamza-ar highhamza-ar.narrow alef-ar alef-ar.shorter alef-ar.fina alef-ar.fina.alt alef-ar.fina.shorter alef-ar.short alef-ar.fina.short alefHamzaabove-ar alefHamzaabove-ar.fina alefHamzaabove-ar.fina.alt alefHamzabelow-ar alefHamzabelow-ar.fina alefHamzabelow-ar.fina.alt alefWavyhamzaabove-ar alefWavyhamzaabove-ar.fina alefWavyhamzaabove-ar.fina.alt alefWavyhamzabelow-ar alefWavyhamzabelow-ar.fina alefWavyhamzabelow-ar.fina.alt alefMadda-ar alefMadda-ar.fina alefMadda-ar.fina.alt alefWasla-ar alefWasla-ar.fina alefWasla-ar.fina.alt highhamzaAlef-ar behDotless-ar behDotless-ar.hah behDotless-ar.fina behDotless-ar.medi behDotless-ar.init beh-ar beh-ar.fina beh-ar.medi beh-ar.init peh-ar peh-ar.fina peh-ar.medi peh-ar.init pehVabove-ar pehVabove-ar.fina pehVabove-ar.medi pehVabove-ar.init beeh-ar beeh-ar.fina beeh-ar.medi beeh-ar.init beheh-ar beheh-ar.fina beheh-ar.medi beheh-ar.init alefMaksura-ar.medi alefMaksura-ar.init teh-ar teh-ar.fina teh-ar.medi teh-ar.init tehRing-ar tehRing-ar.fina tehRing-ar.medi tehRing-ar.init tehThreedotsdown-ar tehThreedotsdown-ar.fina tehThreedotsdown-ar.medi tehThreedotsdown-ar.init theh-ar theh-ar.fina theh-ar.medi theh-ar.init tteh-ar tteh-ar.fina tteh-ar.medi tteh-ar.init tteheh-ar tteheh-ar.fina tteheh-ar.medi tteheh-ar.init teheh-ar teheh-ar.fina teheh-ar.medi teheh-ar.init behThreedotshorizontalbelow-ar behThreedotshorizontalbelow-ar.fina behThreedotshorizontalbelow-ar.medi behThreedotshorizontalbelow-ar.init behThreedotsupabove-ar behThreedotsupabove-ar.fina behThreedotsupabove-ar.medi behThreedotsupabove-ar.init behThreedotsupbelow-ar behThreedotsupbelow-ar.fina behThreedotsupbelow-ar.medi behThreedotsupbelow-ar.init tehThreedotsupbelow-ar tehThreedotsupbelow-ar.fina tehThreedotsupbelow-ar.medi tehThreedotsupbelow-ar.init behTwodotsbelowDotabove-ar behTwodotsbelowDotabove-ar.fina behTwodotsbelowDotabove-ar.medi behTwodotsbelowDotabove-ar.init behVinvertedbelow-ar behVinvertedbelow-ar.fina behVinvertedbelow-ar.medi behVinvertedbelow-ar.init behVabove-ar behVabove-ar.fina behVabove-ar.medi behVabove-ar.init behVbelow-ar ttehVabove-ar ttehVabove-ar.fina behVbelow-ar.fina ttehVabove-ar.medi behVbelow-ar.medi ttehVabove-ar.init behVbelow-ar.init behhamzaabove-ar behhamzaabove-ar.fina behhamzaabove-ar.medi behhamzaabove-ar.init jeemThreedotsabove-ar jeemThreedotsabove-ar.fina jeemThreedotsabove-ar.medi jeemThreedotsabove-ar.init jeemThreedotsbelow-ar jeemThreedotsbelow-ar.fina jeemThreedotsbelow-ar.medi jeemThreedotsbelow-ar.init jeem-ar jeem-ar.fina jeem-ar.medi jeem-ar.init tcheh-ar tcheh-ar.fina tcheh-ar.medi tcheh-ar.init tchehVabove-ar tchehVabove-ar.fina tchehVabove-ar.medi tchehVabove-ar.init tcheheh-ar tcheheh-ar.fina tcheheh-ar.medi tcheheh-ar.init tchehDotabove-ar tchehDotabove-ar.fina tchehDotabove-ar.medi tchehDotabove-ar.init nyeh-ar nyeh-ar.fina nyeh-ar.medi nyeh-ar.init dyeh-ar dyeh-ar.fina dyeh-ar.medi dyeh-ar.init hah-ar hah-ar.fina hah-ar.medi hah-ar.init hahHamzaabove-ar hahHamzaabove-ar.fina hahHamzaabove-ar.medi hahHamzaabove-ar.init hahTwodotsverticalabove-ar hahTwodotsverticalabove-ar.fina hahTwodotsverticalabove-ar.medi hahTwodotsverticalabove-ar.init hahTwodotshorizontalabove-ar hahTwodotshorizontalabove-ar.fina hahTwodotshorizontalabove-ar.medi hahTwodotshorizontalabove-ar.init hahThreedotsabove-ar hahThreedotsabove-ar.fina hahThreedotsabove-ar.medi hahThreedotsabove-ar.init hahThreedotsupbelow-ar hahThreedotsupbelow-ar.fina hahThreedotsupbelow-ar.medi hahThreedotsupbelow-ar.init khah-ar khah-ar.fina khah-ar.medi khah-ar.init hahTahbelow-ar hahTahbelow-ar.fina hahTahbelow-ar.medi hahTahbelow-ar.init hahTahTwodotshorizontalbelow-ar hahFourbelow-ar hahFourbelow-ar.fina hahFourbelow-ar.medi hahFourbelow-ar.init jeemTwodotsabove-ar jeemTwodotsabove-ar.fina jeemTwodotsabove-ar.medi jeemTwodotsabove-ar.init dal-ar dal-ar.fina thal-ar thal-ar.fina ddal-ar ddal-ar.fina dahal-ar dahal-ar.fina ddahal-ar ddahal-ar.fina dalRing-ar dalRing-ar.fina dalDotbelow-ar dalDotbelow-ar.fina dalDotbelowTah-ar dalDotbelowTah-ar.fina dul-ar dul-ar.fina dalThreedotsdown-ar dalThreedotsdown-ar.fina dalFourdots-ar dalFourdots-ar.fina dalVinvertedabove-ar dalVinvertedabove-ar.fina dalTwodotsverticalbelowTah-ar dalTwodotsverticalbelowTah-ar.fina dalVinvertedbelow-ar dalVinvertedbelow-ar.fina dalThreedotsbelow-ar dalThreedotsbelow-ar.fina reh-ar reh-ar.fina zain-ar zain-ar.fina zainVinvertedabove-ar zainVinvertedabove-ar.fina ainThreedotsbelow-ar ainThreedotsbelow-ar.fina ainThreedotsbelow-ar.medi ainThreedotsbelow-ar.init kafDotbelow-ar kafDotbelow-ar.fina kafDotbelow-ar.medi kafDotbelow-ar.init rreh-ar rreh-ar.fina rehv-ar rehv-ar.fina rehRing-ar rehRing-ar.fina rehDotbelow-ar rehDotbelow-ar.fina rehVbelow-ar rehVbelow-ar.fina rehDotbelowdotabove-ar rehDotbelowdotabove-ar.fina rehTwodots-ar rehTwodots-ar.fina jeh-ar jeh-ar.fina rehFourdots-ar rehFourdots-ar.fina rehVinvertedabove-ar rehVinvertedabove-ar.fina rehStroke-ar rehStroke-ar.fina rehTwodotsverticalabove-ar rehTwodotsverticalabove-ar.fina rehHamzaabove-ar rehHamzaabove-ar.fina rehTwodotshorizontalaboveTahabove-ar rehTwodotshorizontalaboveTahabove-ar.fina rehLoop-ar rehLoop-ar.fina seen-ar seen-ar.fina seen-ar.medi seen-ar.init seenDotbelowDotabove-ar seenDotbelowDotabove-ar.fina seenDotbelowDotabove-ar.medi seenDotbelowDotabove-ar.init seenThreedotsbelow-ar seenThreedotsbelow-ar.fina seenThreedotsbelow-ar.medi seenThreedotsbelow-ar.init sheen-ar sheen-ar.fina sheen-ar.medi sheen-ar.init sheenDotbelow-ar sheenDotbelow-ar.fina sheenDotbelow-ar.medi sheenDotbelow-ar.init sheenThreedotsbelow-ar sheenThreedotsbelow-ar.fina sheenThreedotsbelow-ar.medi sheenThreedotsbelow-ar.init sad-ar sad-ar.fina sad-ar.medi sad-ar.init sadTwodotsbelow-ar sadTwodotsbelow-ar.fina sadTwodotsbelow-ar.medi sadTwodotsbelow-ar.init sadThreedots-ar sadThreedots-ar.fina sadThreedots-ar.medi sadThreedots-ar.init sadThreedotsbelow-ar sadThreedotsbelow-ar.fina sadThreedotsbelow-ar.medi sadThreedotsbelow-ar.init dad-ar dad-ar.fina dad-ar.medi dad-ar.init dadDotbelow-ar dadDotbelow-ar.fina dadDotbelow-ar.medi dadDotbelow-ar.init tah-ar tah-ar.fina tah-ar.medi tah-ar.init tahThreedots-ar tahThreedots-ar.fina tahThreedots-ar.medi tahThreedots-ar.init zah-ar zah-ar.fina zah-ar.medi zah-ar.init tahTwodotsabove-ar tahTwodotsabove-ar.fina tahTwodotsabove-ar.medi tahTwodotsabove-ar.init ain-ar ain-ar.fina ain-ar.medi ain-ar.init ainThreedots-ar ainThreedots-ar.fina ainThreedots-ar.medi ainThreedots-ar.init ghain-ar ghain-ar.fina ghain-ar.medi ghain-ar.init ghainDotbelow-ar ghainDotbelow-ar.fina ghainDotbelow-ar.medi ghainDotbelow-ar.init ghainThreedotsabove-ar ghainThreedotsabove-ar.fina ghainThreedotsabove-ar.medi ghainThreedotsabove-ar.init feh-ar feh-ar.fina feh-ar.medi feh-ar.init veh-ar veh-ar.fina veh-ar.medi veh-ar.init fehDotless-ar fehDotless-ar.fina fehDotless-ar.medi fehDotless-ar.init fehDotmovedbelow-ar fehDotmovedbelow-ar.fina fehDotmovedbelow-ar.medi fehDotmovedbelow-ar.init fehDotbelow-ar fehDotbelow-ar.fina fehDotbelow-ar.medi fehDotbelow-ar.init fehThreedotsbelow-ar fehThreedotsbelow-ar.fina fehThreedotsbelow-ar.medi fehThreedotsbelow-ar.init fehDotbelowThreedotsabove-ar fehDotbelowThreedotsabove-ar.fina fehDotbelowThreedotsabove-ar.medi fehDotbelowThreedotsabove-ar.init peheh-ar peheh-ar.fina peheh-ar.medi peheh-ar.init fehAfrican-ar fehAfrican-ar.fina fehAfrican-ar.medi fehAfrican-ar.init qafDotless-ar qafDotless-ar.medi qafDotless-ar.init qafDotless-ar.fina qaf-ar qaf-ar.fina qaf-ar.medi qaf-ar.init qafDotabove-ar qafDotabove-ar.fina qafDotabove-ar.medi qafDotabove-ar.init qafThreedotsabove-ar qafThreedotsabove-ar.fina qafThreedotsabove-ar.medi qafThreedotsabove-ar.init qafDotbelow-ar qafDotbelow-ar.fina qafDotbelow-ar.medi qafDotbelow-ar.init qafAfrican-ar qafAfrican-ar.fina qafAfrican-ar.medi qafAfrican-ar.init qafThreedotsaboveAfrican-ar qafThreedotsaboveAfrican-ar.fina qafThreedotsaboveAfrican-ar.medi qafThreedotsaboveAfrican-ar.init kafDotless-ar kafDotless-ar.fina kaf-ar kaf-ar.fina kaf-ar.medi kaf-ar.init keheh-ar keheh-ar.fina keheh-ar.medi keheh-ar.init kehehTwodotshorizontalabove-ar kehehTwodotshorizontalabove-ar.fina kehehTwodotshorizontalabove-ar.medi kehehTwodotshorizontalabove-ar.init kehehThreedotsbelow-ar kehehThreedotsbelow-ar.fina kehehThreedotsbelow-ar.medi kehehThreedotsbelow-ar.init kehehDotabove-ar kehehDotabove-ar.fina kehehDotabove-ar.medi kehehDotabove-ar.init kehehThreedotsabove-ar kehehThreedotsabove-ar.fina kehehThreedotsabove-ar.medi kehehThreedotsabove-ar.init kehehThreedotsupbelow-ar kehehThreedotsupbelow-ar.fina kehehThreedotsupbelow-ar.medi kehehThreedotsupbelow-ar.init kehehVabove-ar kehehVabove-ar.fina kehehVabove-ar.medi kehehVabove-ar.init gaf-ar gaf-ar.fina gaf-ar.medi gaf-ar.init gafRing-ar gafRing-ar.fina gafRing-ar.medi gafRing-ar.init gafThreedots-ar gafThreedots-ar.fina gafThreedots-ar.medi gafThreedots-ar.init kafswash-ar kafswash-ar.fina kafswash-ar.medi kafswash-ar.init kafRing-ar kafRing-ar.fina kafRing-ar.medi kafRing-ar.init kafDotabove-ar kafDotabove-ar.fina kafDotabove-ar.medi kafDotabove-ar.init kafTwodotshorizontalabove-ar kafTwodotshorizontalabove-ar.fina kafTwodotshorizontalabove-ar.medi kafTwodotshorizontalabove-ar.init kafThreedotsbelow-ar kafThreedotsbelow-ar.fina kafThreedotsbelow-ar.medi kafThreedotsbelow-ar.init gafTwodotsbelow-ar gafTwodotsbelow-ar.fina gafTwodotsbelow-ar.medi gafTwodotsbelow-ar.init gafInvertedstroke-ar gafInvertedstroke-ar.fina gafInvertedstroke-ar.medi gafInvertedstroke-ar.init ng-ar ng-ar.fina ng-ar.medi ng-ar.init ngoeh-ar ngoeh-ar.fina ngoeh-ar.medi ngoeh-ar.init gueh-ar gueh-ar.fina gueh-ar.medi gueh-ar.init lam-ar lam-ar.fina lam-ar.medi lam-ar.medi.short lam-ar.init lamVabove-ar lamVabove-ar.init lamVabove-ar.medi lamVabove-ar.fina lamDotabove-ar lamDotabove-ar.fina lamDotabove-ar.medi lamDotabove-ar.init lamThreedotsabove-ar lamThreedotsabove-ar.fina lamThreedotsabove-ar.medi lamThreedotsabove-ar.init lamThreedotsbelow-ar lamThreedotsbelow-ar.fina lamThreedotsbelow-ar.medi lamThreedotsbelow-ar.init lamDoublebar-ar lamDoublebar-ar.fina lamDoublebar-ar.medi lamDoublebar-ar.init lamTahabove-ar lamTahabove-ar.fina lamTahabove-ar.medi lamTahabove-ar.init meem-ar meem-ar.fina meem-ar.medi meem-ar.init meemThreedotsabove-ar meemThreedotsabove-ar.fina meemThreedotsabove-ar.medi meemThreedotsabove-ar.init noon-ar noon-ar.fina noon-ar.medi noon-ar.init noonDotbelow-ar noonDotbelow-ar.fina noonDotbelow-ar.medi noonDotbelow-ar.init noonghunna-ar noonghunna-ar.medi noonghunna-ar.init noonghunna-ar.fina rnoon-ar rnoon-ar.fina rnoon-ar.medi rnoon-ar.init noonRing-ar noonRing-ar.fina noonRing-ar.medi noonRing-ar.init noonThreedotsabove-ar noonThreedotsabove-ar.fina noonThreedotsabove-ar.medi noonThreedotsabove-ar.init noonAfrican-ar noonAfrican-ar.fina noonAfrican-ar.medi noonAfrican-ar.init heh-ar heh-ar.fina heh-ar.medi heh-ar.init hehHamzaabove-ar hehHamzaabove-ar.fina hehgoal-ar hehgoal-ar.fina hehgoal-ar.medi hehgoal-ar.init hehgoalHamzaabove-ar hehgoalHamzaabove-ar.fina hehDoachashmee-ar hehDoachashmee-ar.fina hehDoachashmee-ar.medi hehDoachashmee-ar.init hehDoachashmee-ar.init.comp hehVinvertedabove-ar hehVinvertedabove-ar.fina hehVinvertedabove-ar.medi hehVinvertedabove-ar.init tehMarbuta-ar tehMarbuta-ar.alt tehMarbuta-ar.fina tehMarbutagoal-ar tehMarbutagoal-ar.fina tehVabove-ar tehVabove-ar.fina tehVabove-ar.medi tehVabove-ar.init waw-ar waw-ar.fina wawring-ar wawring-ar.fina wawTwodots-ar wawTwodots-ar.fina wawDotabove-ar wawDotabove-ar.fina wawHamzaabove-ar wawHamzaabove-ar.fina wawTwoabove-ar wawTwoabove-ar.fina wawThreeAbove-ar wawThreeAbove-ar.fina wawDotcenter-ar wawDotcenter-ar.fina wawStraight-ar wawStraight-ar.fina kirghizoe-ar kirghizoe-ar.fina oe-ar oe-ar.fina u-ar u-ar.fina yu-ar yu-ar.fina kirghizyu-ar kirghizyu-ar.fina ve-ar ve-ar.fina alefMaksura-ar alefMaksura-ar.fina aleflow-ar alefTwoabove-ar alefTwoabove-ar.fina alefTwoabove-ar.fina.alt alefThreeabove-ar alefThreeabove-ar.fina alefThreeabove-ar.fina.alt yeh-ar yeh-ar.fina yeh-ar.medi yeh-ar.init yehHamzaabove-ar yehHamzaabove-ar.fina yehHamzaabove-ar.medi yehHamzaabove-ar.init yehVabove-ar yehVabove-ar.fina yehVabove-ar.medi yehVabove-ar.init yehTwodotsbelowHamzaabove-ar yehTwodotsbelowHamzaabove-ar.fina yehTwodotsbelowHamzaabove-ar.medi yehTwodotsbelowHamzaabove-ar.init yehTwodotsbelowDotabove-ar yehTwodotsbelowDotabove-ar.fina yehTwodotsbelowDotabove-ar.medi yehTwodotsbelowDotabove-ar.init yehVinverted-farsi yehVinverted-farsi.fina yehVinverted-farsi.medi yehVinverted-farsi.init yeh-farsi yeh-farsi.fina yeh-farsi.medi yeh-farsi.init yehTwodotsabove-farsi yehTwodotsabove-farsi.fina yehTwodotsabove-farsi.medi yehTwodotsabove-farsi.init yehThreedotsabove-farsi yehThreedotsabove-farsi.fina yehThreedotsabove-farsi.medi yehThreedotsabove-farsi.init yehTwoabove-farsi yehTwoabove-farsi.fina yehTwoabove-farsi.medi yehTwoabove-farsi.init yehThreeabove-farsi yehThreeabove-farsi.fina yehThreeabove-farsi.medi yehThreeabove-farsi.init yehFourbelow-farsi yehFourbelow-farsi.fina yehFourbelow-farsi.medi yehFourbelow-farsi.init yehTail-ar yehTail-ar.fina yehKashmiri-ar yehKashmiri-ar.fina yehKashmiri-ar.medi yehKashmiri-ar.init e-ar e-ar.fina e-ar.medi e-ar.init yehThreedotsbelow-ar yehThreedotsbelow-ar.fina yehThreedotsbelow-ar.medi yehThreedotsbelow-ar.init yehbarree-ar yehbarree-ar.fina yehbarreeHamzaabove-ar yehbarreeHamzaabove-ar.fina yehbarreeTwoabove-ar yehbarreeTwoabove-ar.fina yehbarreeThreeabove-ar yehbarreeThreeabove-ar.fina yehRohingya-ar yehRohingya-ar.fina yehRohingya-ar.comp highhamzaWaw-ar uHamzaabove-ar highhamzaYeh-ar highhamzaYeh-ar.init ae-ar ae-ar.fina seenFourdotsabove-ar seenFourdotsabove-ar.fina seenFourdotsabove-ar.medi seenFourdotsabove-ar.init ainTwodotshorizontalabove-ar ainTwodotshorizontalabove-ar.fina ainTwodotshorizontalabove-ar.medi ainTwodotshorizontalabove-ar.init ainThreedotsdownabove-ar ainThreedotsdownabove-ar.fina ainThreedotsdownabove-ar.medi ainThreedotsdownabove-ar.init ainTwodotsverticalabove-ar ainTwodotsverticalabove-ar.fina ainTwodotsverticalabove-ar.medi ainTwodotsverticalabove-ar.init fehTwodotsbelow-ar fehTwodotsbelow-ar.fina fehTwodotsbelow-ar.medi fehTwodotsbelow-ar.init fehThreedotsupbelow-ar fehThreedotsupbelow-ar.fina fehThreedotsupbelow-ar.medi fehThreedotsupbelow-ar.init meemDotabove-ar meemDotabove-ar.fina meemDotabove-ar.medi meemDotabove-ar.init meemDotbelow-ar meemDotbelow-ar.fina meemDotbelow-ar.medi meemDotbelow-ar.init noonTwodotsbelow-ar noonTwodotsbelow-ar.fina noonTwodotsbelow-ar.medi noonTwodotsbelow-ar.init noonTahabove-ar noonTahabove-ar.fina noonTahabove-ar.medi noonTahabove-ar.init noonVabove-ar noonVabove-ar.fina noonVabove-ar.medi noonVabove-ar.init lamBar-ar lamBar-ar.fina lamBar-ar.medi lamBar-ar.init seenTwodotsverticalabove-ar seenTwodotsverticalabove-ar.fina seenTwodotsverticalabove-ar.medi seenTwodotsverticalabove-ar.init seenTahTwodotshorizontalabove-ar seenTahTwodotshorizontalabove-ar.fina seenTahTwodotshorizontalabove-ar.medi seenTahTwodotshorizontalabove-ar.init hahTahabove-ar hahTahabove-ar.fina hahTahabove-ar.medi hahTahabove-ar.init seenFourabove-ar seenFourabove-ar.fina seenFourabove-ar.medi seenFourabove-ar.init seenVinvertedabove-ar seenVinvertedabove-ar.fina seenVinvertedabove-ar.medi seenVinvertedabove-ar.init fathatan-ar.medi kashidaFina-ar kasra-ar.medi kashida-ar fatha-ar.medi damma-ar.medi shadda-ar.medi sukun-ar.medi behMeemabove-ar behMeemabove-ar.fina behMeemabove-ar.medi behMeemabove-ar.init pehMeemabove-ar pehMeemabove-ar.fina pehMeemabove-ar.medi pehMeemabove-ar.init rehNoonabove-ar rehNoonabove-ar.fina tehTehabove-ar tehTehabove-ar.fina tehTehabove-ar.medi tehTehabove-ar.init yehTwodotsbelowNoonabove-ar yehTwodotsbelowNoonabove-ar.fina yehTwodotsbelowNoonabove-ar.medi yehTwodotsbelowNoonabove-ar.init wawSmall-ar yehSmall-ar lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina beh_meem-ar.init teh_jeem-ar.init teh_hah-ar.init lam_jeem-ar.init lam_hah-ar.init lam_khah-ar.init lam_meem-ar.init lam_meem_hah-ar.init yeh_noon-ar.fina allah-ar mohammad-ar allahlong-ar jallajalalouhou-ar decimalseparator-ar thousandseparator-ar zero-ar one-ar two-ar three-ar four-ar five-ar six-ar seven-ar eight-ar nine-ar four-persian five-persian six-persian seven-persian four-persian.urdu seven-persian.urdu zero one two three four five six seven eight nine zero.slash fraction onehalf onequarter threequarters one.superior two.superior three.superior space nbspace zerowidthnonjoiner zerowidthjoiner zeroWidthNoBreakSpace narrownbspace VS1 VS10 VS11 VS12 VS13 VS14 VS15 VS16 VS2 VS3 VS4 VS5 VS6 VS7 VS8 VS9 graphemejoinercomb firststrongisolate functionapplication invisibleplus invisibleseparator invisibletimes lefttorightembedding lefttorightisolate lefttorightmark lefttorightoverride popdirectionalformatting popdirectionalisolate righttoleftembedding righttoleftisolate righttoleftmark righttoleftoverride anoteleia questiongreek tahbelowSymbol-ar dotaboveSymbol-ar dotbelowSymbol-ar twodotsverticalaboveSymbol-ar twodotsverticalbelowSymbol-ar twodotshorizontalaboveSymbol-ar twodotshorizontalbelowSymbol-ar threedots-ar threedotsdownaboveSymbol-ar threedotsdownbelowSymbol-ar threedotsupaboveSymbol-ar threedotsupbelowSymbol-ar fourdotsaboveSymbol-ar fourdotsbelowSymbol-ar doubleverticalbarbelowSymbol-ar ringSymbol-ar hizb-ar fullstop-ar comma-ar semicolon-ar question-ar number-ar asterisk-ar year-ar footnotemarker-ar pagenumber-ar dateseparator-ar verseComma-ar misraComma-ar sindhiampersand-ar endofayah-ar disputedendofayah-ar parenleft-ar parenright-ar dblbracketleft dblbracketright period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk charactertie dblverticalbar gnaborretni interrobang invertedundertie numbersign quillbracketleft quillbracketright referencemark slash backslash undertie period.arabic colon.arabic exclam.arabic hyphen softhyphen endash emdash hyphentwo nonbreakinghyphen underscore parenleft parenright braceleft braceright bracketleft bracketright angleleft angleright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle florin thousand-cy numeral-greek lowernumeral-greek mark-ar numbermark-ar samvat-ar bismillah-ar sajdah-ar sindhipostpositionmen-ar ray-ar afghani-ar rial percent-ar cuberoot-ar fourthroot-ar perthousand-ar pertenthousand-ar note-musical baht marriageSymbol divorceSymbol at ampersand paragraph section copyright registered published trademark degree diameterSign bar brokenbar dagger daggerdbl estimated numero blank blankSymbol centigrade prescription cent colonsign currency dollar dong euro guarani lira naira peso sterling won yen Ohminverted commercialMinusSign divisionslash plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity Ohm radical micro percent perthousand sphericalangle asterisk.math percent.arabic.comp upArrow rightArrow downArrow leftArrow dottedCircle whiteBullet titlocomb-cy palatalizationcomb-cy dasiapneumatacomb-cy psilipneumatacomb-cy hundredthousandssigncomb-cy millionssigncomb-cy tonos dieresistonos psili koronis dasia psilivaria dasiavaria psilioxia dasiaoxia psiliperispomeni dasiaperispomeni dialytikavaria dialytikaoxia dialytikaperispomeni varia oxia perispomeni annisfabove-ar dammaturnedbelow-ar rehHahabove-ar rehDadabove-ar sadabove-ar ainabove-ar takhallusabove-ar tahabove-ar alefLamYehabove-ar zainabove-ar fathasmall-ar dammasmall-ar kasrasmall-ar threedotshorizontalbelow-ar stroke-ar fourabove-ar fourbelow-ar threeabove-ar twoabove-ar wasla-ar miniKeheh-ar gafsarkashabove-ar wavyhamzabelow-ar doublestroke-ar alefabove-ar alefbelow-ar hamzaabove-ar hamzabelow-ar fathatan-ar dammatan-ar kasratan-ar fatha-ar damma-ar kasra-ar shadda-ar sukun-ar madda-ar noonghunnaabove-ar dammainverted-ar fathaHorizont-ar vabove-ar vinvertedabove-ar dotvowelbelow-ar dammareversed-ar fathatwodots-ar sadLamAlefMaksuraabove-ar qafLamAlefMaksuraabove-ar meemabove-ar meemStopabove-ar lamAlefabove-ar jeemabove-ar threedotsabove-ar seenabove-ar sukunround-ar sukunoval-ar hahabove-ar seenbelow-ar maddalong-ar yehabove-ar noonabove-ar rhombusStopbelow-ar rhombusStopabove-ar dotStopabove-ar meembelow-ar fathaCurly-ar dammaCurly-ar kasraCurly-ar fathatanCurly-ar dammatanCurly-ar kasratanCurly-ar toneonedotabove-ar tonetwodotsabove-ar toneloopabove-ar toneonedotbelow-ar tonetwodotsbelow-ar toneloopbelow-ar openfathatan-ar opendammatan-ar openkasratan-ar highwaw-ar fathaRing-ar fathaDotabove-ar kasraDotbelow-ar leftarrowheadabove-ar rightarrowheadabove-ar leftarrowheadbelow-ar rightarrowheadbelow-ar doublerightarrowheadabove-ar doublerightarrowheadDotabove-ar rightarrowheadDotabove-ar dammaDot-ar arrubabove-ar assajdaabove-ar aththalathaabove-ar footnotemarkerabove-ar marksidewaysnoonghunna-ar noonKasraabove-ar noonKasrabelow-ar qafabove-ar qifabove-ar safhaabove-ar saktaabove-ar smallainabove-ar smallsadabove-ar sahabove-ar largerounddotbelow-ar waqfaabove-ar wawbelow-ar dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb dotbelowcomb commaaccentcomb brevebelowcomb breveinvertedbelowcomb tildebelowcomb macronbelowcomb lowlinecomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek ringhalfleft ringhalfright uniFBC0 circumflexcomb_gravecomb.cap circumflexcomb_acutecomb.cap circumflexcomb_tildecomb.cap circumflexcomb_hookabovecomb.cap dieresis.cap circumflex.cap caron.cap uni047A uni047B uni047C uni047D uni047E uni047F bigcircle perthousandzero rehabove-ar arabic_root.comp charbox.comp hahTahTwodotshorizontalbelow-ar.fina hahTahTwodotshorizontalbelow-ar.init hahTahTwodotshorizontalbelow-ar.medi ittisal.comp tail.comp Threedotsinverted.alt.comp";
 name = All;
 },
 {
@@ -1842,7 +1840,6 @@ feature fina {
     sub lamThreedotsbelow-ar by lamThreedotsbelow-ar.fina;
     sub lamDoublebar-ar by lamDoublebar-ar.fina;
     sub meem-ar by meem-ar.fina;
-    sub sindhipostpositionmen-ar by sindhipostpositionmen-ar.fina;
     sub meemThreedotsabove-ar by meemThreedotsabove-ar.fina;
     sub noon-ar by noon-ar.fina;
     sub noonDotbelow-ar by noonDotbelow-ar.fina;
@@ -3248,78 +3245,6 @@ width = 525;
 unicode = 0044;
 },
 {
-glyphname = Eth;
-layers = (
-{
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"485 140 OFFCURVE",
-"397 0 OFFCURVE",
-"266 0 CURVE SMOOTH",
-"60 0 LINE SMOOTH",
-"45 0 OFFCURVE",
-"19 0 OFFCURVE",
-"19 30 CURVE SMOOTH",
-"19 61 OFFCURVE",
-"44 61 OFFCURVE",
-"60 61 CURVE SMOOTH",
-"82 61 LINE",
-"82 275 LINE",
-"54 275 LINE SMOOTH",
-"37 275 OFFCURVE",
-"23 288 OFFCURVE",
-"23 306 CURVE SMOOTH",
-"23 323 OFFCURVE",
-"37 337 OFFCURVE",
-"54 337 CURVE SMOOTH",
-"82 337 LINE",
-"82 550 LINE",
-"60 550 LINE SMOOTH",
-"45 550 OFFCURVE",
-"19 550 OFFCURVE",
-"19 580 CURVE SMOOTH",
-"19 611 OFFCURVE",
-"44 611 OFFCURVE",
-"60 611 CURVE SMOOTH",
-"266 611 LINE SMOOTH",
-"399 611 OFFCURVE",
-"485 461 OFFCURVE",
-"485 301 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"416 417 OFFCURVE",
-"360 550 OFFCURVE",
-"247 550 CURVE SMOOTH",
-"151 550 LINE",
-"151 337 LINE",
-"210 337 LINE SMOOTH",
-"227 337 OFFCURVE",
-"241 323 OFFCURVE",
-"241 306 CURVE SMOOTH",
-"241 288 OFFCURVE",
-"227 275 OFFCURVE",
-"210 275 CURVE SMOOTH",
-"151 275 LINE",
-"151 61 LINE",
-"247 61 LINE SMOOTH",
-"358 61 OFFCURVE",
-"416 184 OFFCURVE",
-"416 301 CURVE SMOOTH"
-);
-}
-);
-width = 525;
-}
-);
-unicode = 00D0;
-},
-{
 glyphname = Dcaron;
 layers = (
 {
@@ -3390,6 +3315,78 @@ width = 525;
 }
 );
 unicode = 1E0E;
+},
+{
+glyphname = Eth;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"485 140 OFFCURVE",
+"397 0 OFFCURVE",
+"266 0 CURVE SMOOTH",
+"60 0 LINE SMOOTH",
+"45 0 OFFCURVE",
+"19 0 OFFCURVE",
+"19 30 CURVE SMOOTH",
+"19 61 OFFCURVE",
+"44 61 OFFCURVE",
+"60 61 CURVE SMOOTH",
+"82 61 LINE",
+"82 275 LINE",
+"54 275 LINE SMOOTH",
+"37 275 OFFCURVE",
+"23 288 OFFCURVE",
+"23 306 CURVE SMOOTH",
+"23 323 OFFCURVE",
+"37 337 OFFCURVE",
+"54 337 CURVE SMOOTH",
+"82 337 LINE",
+"82 550 LINE",
+"60 550 LINE SMOOTH",
+"45 550 OFFCURVE",
+"19 550 OFFCURVE",
+"19 580 CURVE SMOOTH",
+"19 611 OFFCURVE",
+"44 611 OFFCURVE",
+"60 611 CURVE SMOOTH",
+"266 611 LINE SMOOTH",
+"399 611 OFFCURVE",
+"485 461 OFFCURVE",
+"485 301 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"416 417 OFFCURVE",
+"360 550 OFFCURVE",
+"247 550 CURVE SMOOTH",
+"151 550 LINE",
+"151 337 LINE",
+"210 337 LINE SMOOTH",
+"227 337 OFFCURVE",
+"241 323 OFFCURVE",
+"241 306 CURVE SMOOTH",
+"241 288 OFFCURVE",
+"227 275 OFFCURVE",
+"210 275 CURVE SMOOTH",
+"151 275 LINE",
+"151 61 LINE",
+"247 61 LINE SMOOTH",
+"358 61 OFFCURVE",
+"416 184 OFFCURVE",
+"416 301 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 00D0;
 },
 {
 glyphname = E;
@@ -9907,99 +9904,6 @@ width = 525;
 unicode = 0064;
 },
 {
-glyphname = eth;
-layers = (
-{
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"467 196 OFFCURVE",
-"467 130 OFFCURVE",
-"414 67 CURVE SMOOTH",
-"369 14 OFFCURVE",
-"311 -6 OFFCURVE",
-"262 -6 CURVE SMOOTH",
-"151 -6 OFFCURVE",
-"57 91 OFFCURVE",
-"57 215 CURVE SMOOTH",
-"57 341 OFFCURVE",
-"151 439 OFFCURVE",
-"262 439 CURVE SMOOTH",
-"297 439 OFFCURVE",
-"325 428 OFFCURVE",
-"331 426 CURVE",
-"311 453 OFFCURVE",
-"282 478 OFFCURVE",
-"264 491 CURVE",
-"249 500 LINE",
-"161 464 LINE SMOOTH",
-"156 462 OFFCURVE",
-"151 461 OFFCURVE",
-"146 461 CURVE SMOOTH",
-"128 461 OFFCURVE",
-"114 474 OFFCURVE",
-"114 490 CURVE SMOOTH",
-"114 504 OFFCURVE",
-"124 516 OFFCURVE",
-"138 522 CURVE SMOOTH",
-"173 536 LINE",
-"159 540 OFFCURVE",
-"145 544 OFFCURVE",
-"131 546 CURVE SMOOTH",
-"117 548 OFFCURVE",
-"105 549 OFFCURVE",
-"95 549 CURVE SMOOTH",
-"64 550 OFFCURVE",
-"64 577 OFFCURVE",
-"64 577 CURVE",
-"64 589 OFFCURVE",
-"76 611 OFFCURVE",
-"106 611 CURVE SMOOTH",
-"160 611 OFFCURVE",
-"213 597 OFFCURVE",
-"261 572 CURVE",
-"351 608 LINE SMOOTH",
-"356 610 OFFCURVE",
-"361 611 OFFCURVE",
-"366 611 CURVE SMOOTH",
-"384 611 OFFCURVE",
-"398 599 OFFCURVE",
-"398 583 CURVE SMOOTH",
-"398 569 OFFCURVE",
-"388 556 OFFCURVE",
-"374 551 CURVE SMOOTH",
-"323 530 LINE",
-"467 413 OFFCURVE",
-"467 276 OFFCURVE",
-"467 231 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"398 299 OFFCURVE",
-"341 378 OFFCURVE",
-"263 378 CURVE SMOOTH",
-"192 378 OFFCURVE",
-"128 313 OFFCURVE",
-"128 223 CURVE SMOOTH",
-"128 129 OFFCURVE",
-"190 55 OFFCURVE",
-"263 55 CURVE SMOOTH",
-"341 55 OFFCURVE",
-"398 137 OFFCURVE",
-"398 219 CURVE SMOOTH"
-);
-}
-);
-width = 525;
-}
-);
-unicode = 00F0;
-},
-{
 glyphname = dcaron;
 layers = (
 {
@@ -10144,6 +10048,99 @@ width = 525;
 }
 );
 unicode = 1E0F;
+},
+{
+glyphname = eth;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"467 196 OFFCURVE",
+"467 130 OFFCURVE",
+"414 67 CURVE SMOOTH",
+"369 14 OFFCURVE",
+"311 -6 OFFCURVE",
+"262 -6 CURVE SMOOTH",
+"151 -6 OFFCURVE",
+"57 91 OFFCURVE",
+"57 215 CURVE SMOOTH",
+"57 341 OFFCURVE",
+"151 439 OFFCURVE",
+"262 439 CURVE SMOOTH",
+"297 439 OFFCURVE",
+"325 428 OFFCURVE",
+"331 426 CURVE",
+"311 453 OFFCURVE",
+"282 478 OFFCURVE",
+"264 491 CURVE",
+"249 500 LINE",
+"161 464 LINE SMOOTH",
+"156 462 OFFCURVE",
+"151 461 OFFCURVE",
+"146 461 CURVE SMOOTH",
+"128 461 OFFCURVE",
+"114 474 OFFCURVE",
+"114 490 CURVE SMOOTH",
+"114 504 OFFCURVE",
+"124 516 OFFCURVE",
+"138 522 CURVE SMOOTH",
+"173 536 LINE",
+"159 540 OFFCURVE",
+"145 544 OFFCURVE",
+"131 546 CURVE SMOOTH",
+"117 548 OFFCURVE",
+"105 549 OFFCURVE",
+"95 549 CURVE SMOOTH",
+"64 550 OFFCURVE",
+"64 577 OFFCURVE",
+"64 577 CURVE",
+"64 589 OFFCURVE",
+"76 611 OFFCURVE",
+"106 611 CURVE SMOOTH",
+"160 611 OFFCURVE",
+"213 597 OFFCURVE",
+"261 572 CURVE",
+"351 608 LINE SMOOTH",
+"356 610 OFFCURVE",
+"361 611 OFFCURVE",
+"366 611 CURVE SMOOTH",
+"384 611 OFFCURVE",
+"398 599 OFFCURVE",
+"398 583 CURVE SMOOTH",
+"398 569 OFFCURVE",
+"388 556 OFFCURVE",
+"374 551 CURVE SMOOTH",
+"323 530 LINE",
+"467 413 OFFCURVE",
+"467 276 OFFCURVE",
+"467 231 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"398 299 OFFCURVE",
+"341 378 OFFCURVE",
+"263 378 CURVE SMOOTH",
+"192 378 OFFCURVE",
+"128 313 OFFCURVE",
+"128 223 CURVE SMOOTH",
+"128 129 OFFCURVE",
+"190 55 OFFCURVE",
+"263 55 CURVE SMOOTH",
+"341 55 OFFCURVE",
+"398 137 OFFCURVE",
+"398 219 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 00F0;
 },
 {
 glyphname = e;
@@ -54788,124 +54785,6 @@ width = 525;
 unicode = 037A;
 },
 {
-glyphname = "wawSmall-ar";
-layers = (
-{
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"256 113 OFFCURVE",
-"291 164 OFFCURVE",
-"340 164 CURVE SMOOTH",
-"371 164 OFFCURVE",
-"398 145 OFFCURVE",
-"398 100 CURVE SMOOTH",
-"398 64 LINE SMOOTH",
-"398 -45 OFFCURVE",
-"333 -105 OFFCURVE",
-"223 -105 CURVE SMOOTH",
-"165 -105 OFFCURVE",
-"126 -75 OFFCURVE",
-"126 -49 CURVE SMOOTH",
-"126 -29 OFFCURVE",
-"140 -16 OFFCURVE",
-"155 -16 CURVE SMOOTH",
-"166 -16 OFFCURVE",
-"172 -22 OFFCURVE",
-"180 -31 CURVE",
-"186 -39 OFFCURVE",
-"200 -53 OFFCURVE",
-"230 -53 CURVE SMOOTH",
-"307 -53 OFFCURVE",
-"330 -23 OFFCURVE",
-"336 0 CURVE",
-"329 -1 OFFCURVE",
-"316 -2 OFFCURVE",
-"310 -2 CURVE SMOOTH",
-"275 -2 OFFCURVE",
-"256 24 OFFCURVE",
-"256 79 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"351 100 LINE SMOOTH",
-"351 108 OFFCURVE",
-"348 112 OFFCURVE",
-"340 112 CURVE SMOOTH",
-"317 112 OFFCURVE",
-"297 94 OFFCURVE",
-"297 79 CURVE SMOOTH",
-"297 65 OFFCURVE",
-"298 49 OFFCURVE",
-"316 49 CURVE SMOOTH",
-"321 49 OFFCURVE",
-"333 49 OFFCURVE",
-"340 51 CURVE SMOOTH",
-"346 53 OFFCURVE",
-"351 61 OFFCURVE",
-"351 69 CURVE SMOOTH"
-);
-}
-);
-width = 525;
-}
-);
-unicode = 06E5;
-},
-{
-glyphname = "yehSmall-ar";
-layers = (
-{
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"406 -100 OFFCURVE",
-"398 -105 OFFCURVE",
-"379 -105 CURVE SMOOTH",
-"138 -105 LINE SMOOTH",
-"117 -105 OFFCURVE",
-"109 -96 OFFCURVE",
-"109 -73 CURVE SMOOTH",
-"109 -64 OFFCURVE",
-"112 -49 OFFCURVE",
-"115 -41 CURVE SMOOTH",
-"129 1 OFFCURVE",
-"195 164 OFFCURVE",
-"296 164 CURVE SMOOTH",
-"365 164 OFFCURVE",
-"393 123 OFFCURVE",
-"393 62 CURVE SMOOTH",
-"393 39 OFFCURVE",
-"386 30 OFFCURVE",
-"368 30 CURVE SMOOTH",
-"348 30 OFFCURVE",
-"342 39 OFFCURVE",
-"342 62 CURVE SMOOTH",
-"342 97 OFFCURVE",
-"321 110 OFFCURVE",
-"296 110 CURVE SMOOTH",
-"218 110 OFFCURVE",
-"168 -31 OFFCURVE",
-"163 -49 CURVE",
-"379 -49 LINE SMOOTH",
-"398 -49 OFFCURVE",
-"406 -53 OFFCURVE",
-"406 -77 CURVE SMOOTH"
-);
-}
-);
-width = 525;
-}
-);
-unicode = 06E6;
-},
-{
 glyphname = "hamza-ar";
 layers = (
 {
@@ -67381,16 +67260,16 @@ width = 525;
 unicode = 06B5;
 },
 {
-glyphname = "lamVabove-ar.fina";
+glyphname = "lamVabove-ar.init";
 layers = (
 {
 components = (
 {
-name = "lam-ar.fina";
+name = "lam-ar.init";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, -32, -112}";
+transform = "{1, 0, 0, 1, -40, -113}";
 }
 );
 layerId = master01;
@@ -67420,16 +67299,16 @@ width = 525;
 );
 },
 {
-glyphname = "lamVabove-ar.init";
+glyphname = "lamVabove-ar.fina";
 layers = (
 {
 components = (
 {
-name = "lam-ar.init";
+name = "lam-ar.fina";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, -40, -113}";
+transform = "{1, 0, 0, 1, -32, -112}";
 }
 );
 layerId = master01;
@@ -74385,6 +74264,124 @@ width = 525;
 );
 },
 {
+glyphname = "wawSmall-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"256 113 OFFCURVE",
+"291 164 OFFCURVE",
+"340 164 CURVE SMOOTH",
+"371 164 OFFCURVE",
+"398 145 OFFCURVE",
+"398 100 CURVE SMOOTH",
+"398 64 LINE SMOOTH",
+"398 -45 OFFCURVE",
+"333 -105 OFFCURVE",
+"223 -105 CURVE SMOOTH",
+"165 -105 OFFCURVE",
+"126 -75 OFFCURVE",
+"126 -49 CURVE SMOOTH",
+"126 -29 OFFCURVE",
+"140 -16 OFFCURVE",
+"155 -16 CURVE SMOOTH",
+"166 -16 OFFCURVE",
+"172 -22 OFFCURVE",
+"180 -31 CURVE",
+"186 -39 OFFCURVE",
+"200 -53 OFFCURVE",
+"230 -53 CURVE SMOOTH",
+"307 -53 OFFCURVE",
+"330 -23 OFFCURVE",
+"336 0 CURVE",
+"329 -1 OFFCURVE",
+"316 -2 OFFCURVE",
+"310 -2 CURVE SMOOTH",
+"275 -2 OFFCURVE",
+"256 24 OFFCURVE",
+"256 79 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"351 100 LINE SMOOTH",
+"351 108 OFFCURVE",
+"348 112 OFFCURVE",
+"340 112 CURVE SMOOTH",
+"317 112 OFFCURVE",
+"297 94 OFFCURVE",
+"297 79 CURVE SMOOTH",
+"297 65 OFFCURVE",
+"298 49 OFFCURVE",
+"316 49 CURVE SMOOTH",
+"321 49 OFFCURVE",
+"333 49 OFFCURVE",
+"340 51 CURVE SMOOTH",
+"346 53 OFFCURVE",
+"351 61 OFFCURVE",
+"351 69 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 06E5;
+},
+{
+glyphname = "yehSmall-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"406 -100 OFFCURVE",
+"398 -105 OFFCURVE",
+"379 -105 CURVE SMOOTH",
+"138 -105 LINE SMOOTH",
+"117 -105 OFFCURVE",
+"109 -96 OFFCURVE",
+"109 -73 CURVE SMOOTH",
+"109 -64 OFFCURVE",
+"112 -49 OFFCURVE",
+"115 -41 CURVE SMOOTH",
+"129 1 OFFCURVE",
+"195 164 OFFCURVE",
+"296 164 CURVE SMOOTH",
+"365 164 OFFCURVE",
+"393 123 OFFCURVE",
+"393 62 CURVE SMOOTH",
+"393 39 OFFCURVE",
+"386 30 OFFCURVE",
+"368 30 CURVE SMOOTH",
+"348 30 OFFCURVE",
+"342 39 OFFCURVE",
+"342 62 CURVE SMOOTH",
+"342 97 OFFCURVE",
+"321 110 OFFCURVE",
+"296 110 CURVE SMOOTH",
+"218 110 OFFCURVE",
+"168 -31 OFFCURVE",
+"163 -49 CURVE",
+"379 -49 LINE SMOOTH",
+"398 -49 OFFCURVE",
+"406 -53 OFFCURVE",
+"406 -77 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 06E6;
+},
+{
 glyphname = "lam_alef-ar";
 layers = (
 {
@@ -79505,6 +79502,1037 @@ width = 525;
 unicode = 00B3;
 },
 {
+glyphname = space;
+layers = (
+{
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0020;
+},
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = master01;
+width = 525;
+}
+);
+unicode = 00A0;
+},
+{
+glyphname = zerowidthnonjoiner;
+layers = (
+{
+components = (
+{
+name = charbox.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"226 478 OFFCURVE",
+"222 476 OFFCURVE",
+"206 476 CURVE SMOOTH",
+"70 476 LINE SMOOTH",
+"60 476 OFFCURVE",
+"49 476 OFFCURVE",
+"49 494 CURVE SMOOTH",
+"49 495 OFFCURVE",
+"53 507 OFFCURVE",
+"54 508 CURVE",
+"53 508 LINE",
+"175 711 LINE",
+"90 711 LINE",
+"90 693 LINE SMOOTH",
+"90 682 OFFCURVE",
+"90 672 OFFCURVE",
+"71 672 CURVE SMOOTH",
+"55 672 OFFCURVE",
+"55 682 OFFCURVE",
+"55 693 CURVE SMOOTH",
+"55 725 LINE SMOOTH",
+"55 743 OFFCURVE",
+"58 747 OFFCURVE",
+"75 747 CURVE SMOOTH",
+"203 747 LINE SMOOTH",
+"213 747 OFFCURVE",
+"223 747 OFFCURVE",
+"223 726 CURVE SMOOTH",
+"223 724 OFFCURVE",
+"222 715 OFFCURVE",
+"221 712 CURVE",
+"96 509 LINE",
+"189 509 LINE",
+"189 535 LINE SMOOTH",
+"189 549 OFFCURVE",
+"189 559 OFFCURVE",
+"207 559 CURVE SMOOTH",
+"226 559 OFFCURVE",
+"226 547 OFFCURVE",
+"226 535 CURVE SMOOTH",
+"226 495 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"240 410 OFFCURVE",
+"227 410 OFFCURVE",
+"219 410 CURVE SMOOTH",
+"214 410 LINE",
+"214 195 LINE SMOOTH",
+"214 175 OFFCURVE",
+"206 173 OFFCURVE",
+"191 173 CURVE SMOOTH",
+"182 173 OFFCURVE",
+"172 175 OFFCURVE",
+"168 193 CURVE",
+"168 192 LINE",
+"159 220 LINE SMOOTH",
+"141 274 OFFCURVE",
+"126 322 OFFCURVE",
+"106 379 CURVE",
+"106 208 LINE",
+"111 208 LINE SMOOTH",
+"119 208 OFFCURVE",
+"130 208 OFFCURVE",
+"130 191 CURVE SMOOTH",
+"130 173 OFFCURVE",
+"119 173 OFFCURVE",
+"111 173 CURVE SMOOTH",
+"69 173 LINE SMOOTH",
+"60 173 OFFCURVE",
+"49 173 OFFCURVE",
+"49 193 CURVE SMOOTH",
+"49 208 OFFCURVE",
+"60 208 OFFCURVE",
+"69 208 CURVE SMOOTH",
+"74 208 LINE",
+"74 410 LINE",
+"69 410 LINE SMOOTH",
+"60 410 OFFCURVE",
+"49 410 OFFCURVE",
+"49 428 CURVE SMOOTH",
+"49 446 OFFCURVE",
+"60 446 OFFCURVE",
+"69 446 CURVE SMOOTH",
+"95 446 LINE SMOOTH",
+"107 446 OFFCURVE",
+"115 441 OFFCURVE",
+"121 429 CURVE",
+"150 339 LINE SMOOTH",
+"161 306 OFFCURVE",
+"172 276 OFFCURVE",
+"183 242 CURVE",
+"183 410 LINE",
+"178 410 LINE SMOOTH",
+"170 410 OFFCURVE",
+"158 410 OFFCURVE",
+"158 428 CURVE SMOOTH",
+"158 446 OFFCURVE",
+"170 446 OFFCURVE",
+"178 446 CURVE SMOOTH",
+"219 446 LINE SMOOTH",
+"227 446 OFFCURVE",
+"240 446 OFFCURVE",
+"240 428 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"434 410 OFFCURVE",
+"421 410 OFFCURVE",
+"413 410 CURVE SMOOTH",
+"406 410 LINE",
+"406 237 LINE SMOOTH",
+"406 196 OFFCURVE",
+"373 169 OFFCURVE",
+"336 169 CURVE SMOOTH",
+"296 169 OFFCURVE",
+"269 192 OFFCURVE",
+"269 222 CURVE SMOOTH",
+"269 238 OFFCURVE",
+"280 247 OFFCURVE",
+"291 247 CURVE SMOOTH",
+"303 247 OFFCURVE",
+"311 237 OFFCURVE",
+"311 224 CURVE SMOOTH",
+"311 219 OFFCURVE",
+"310 216 OFFCURVE",
+"309 214 CURVE",
+"319 209 OFFCURVE",
+"334 207 OFFCURVE",
+"336 207 CURVE SMOOTH",
+"343 207 OFFCURVE",
+"370 208 OFFCURVE",
+"370 240 CURVE SMOOTH",
+"370 410 LINE",
+"343 410 LINE SMOOTH",
+"335 410 OFFCURVE",
+"323 410 OFFCURVE",
+"323 428 CURVE SMOOTH",
+"323 446 OFFCURVE",
+"335 446 OFFCURVE",
+"343 446 CURVE SMOOTH",
+"413 446 LINE SMOOTH",
+"421 446 OFFCURVE",
+"434 446 OFFCURVE",
+"434 428 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"473 713 OFFCURVE",
+"465 711 OFFCURVE",
+"458 711 CURVE",
+"449 638 OFFCURVE",
+"438 565 OFFCURVE",
+"429 491 CURVE SMOOTH",
+"427 474 OFFCURVE",
+"417 473 OFFCURVE",
+"410 473 CURVE SMOOTH",
+"404 473 OFFCURVE",
+"395 473 OFFCURVE",
+"391 485 CURVE",
+"391 485 OFFCURVE",
+"375 551 OFFCURVE",
+"372 572 CURVE",
+"366 536 OFFCURVE",
+"355 488 OFFCURVE",
+"352 483 CURVE",
+"346 475 OFFCURVE",
+"336 473 OFFCURVE",
+"333 473 CURVE SMOOTH",
+"326 473 OFFCURVE",
+"314 473 OFFCURVE",
+"312 491 CURVE SMOOTH",
+"306 546 OFFCURVE",
+"299 600 OFFCURVE",
+"292 656 CURVE SMOOTH",
+"284 711 LINE",
+"278 711 OFFCURVE",
+"269 713 OFFCURVE",
+"269 729 CURVE SMOOTH",
+"269 747 OFFCURVE",
+"283 747 OFFCURVE",
+"291 747 CURVE SMOOTH",
+"321 747 LINE SMOOTH",
+"329 747 OFFCURVE",
+"341 747 OFFCURVE",
+"341 729 CURVE SMOOTH",
+"341 711 OFFCURVE",
+"329 711 OFFCURVE",
+"321 711 CURVE SMOOTH",
+"316 711 LINE",
+"320 676 OFFCURVE",
+"325 643 OFFCURVE",
+"330 605 CURVE SMOOTH",
+"337 554 LINE",
+"352 630 LINE",
+"354 644 OFFCURVE",
+"366 644 OFFCURVE",
+"372 644 CURVE SMOOTH",
+"376 644 OFFCURVE",
+"393 644 OFFCURVE",
+"394 630 CURVE",
+"407 552 LINE",
+"414 606 OFFCURVE",
+"418 656 OFFCURVE",
+"425 711 CURVE",
+"421 711 LINE SMOOTH",
+"415 711 OFFCURVE",
+"402 711 OFFCURVE",
+"402 729 CURVE SMOOTH",
+"402 747 OFFCURVE",
+"413 747 OFFCURVE",
+"421 747 CURVE SMOOTH",
+"453 747 LINE SMOOTH",
+"462 747 OFFCURVE",
+"473 747 OFFCURVE",
+"473 729 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 200C;
+subCategory = Format;
+},
+{
+glyphname = zerowidthjoiner;
+layers = (
+{
+components = (
+{
+name = charbox.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"319 411 OFFCURVE",
+"307 411 OFFCURVE",
+"299 411 CURVE SMOOTH",
+"292 411 LINE",
+"292 238 LINE SMOOTH",
+"292 196 OFFCURVE",
+"259 169 OFFCURVE",
+"222 169 CURVE SMOOTH",
+"182 169 OFFCURVE",
+"155 192 OFFCURVE",
+"155 223 CURVE SMOOTH",
+"155 239 OFFCURVE",
+"166 248 OFFCURVE",
+"176 248 CURVE SMOOTH",
+"188 248 OFFCURVE",
+"196 236 OFFCURVE",
+"196 224 CURVE SMOOTH",
+"196 221 OFFCURVE",
+"195 218 OFFCURVE",
+"194 216 CURVE",
+"205 208 OFFCURVE",
+"218 208 OFFCURVE",
+"222 208 CURVE SMOOTH",
+"229 208 OFFCURVE",
+"256 209 OFFCURVE",
+"256 240 CURVE SMOOTH",
+"256 411 LINE",
+"229 411 LINE SMOOTH",
+"221 411 OFFCURVE",
+"208 411 OFFCURVE",
+"208 429 CURVE SMOOTH",
+"208 447 OFFCURVE",
+"221 447 OFFCURVE",
+"229 447 CURVE SMOOTH",
+"299 447 LINE SMOOTH",
+"307 447 OFFCURVE",
+"319 447 OFFCURVE",
+"319 429 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"223 479 OFFCURVE",
+"219 476 OFFCURVE",
+"203 476 CURVE SMOOTH",
+"67 476 LINE SMOOTH",
+"57 476 OFFCURVE",
+"46 476 OFFCURVE",
+"46 495 CURVE SMOOTH",
+"46 497 OFFCURVE",
+"49 506 OFFCURVE",
+"50 509 CURVE",
+"172 710 LINE",
+"87 710 LINE",
+"87 693 LINE SMOOTH",
+"87 683 OFFCURVE",
+"87 671 OFFCURVE",
+"68 671 CURVE SMOOTH",
+"52 671 OFFCURVE",
+"52 683 OFFCURVE",
+"52 693 CURVE SMOOTH",
+"52 726 LINE SMOOTH",
+"52 744 OFFCURVE",
+"55 747 OFFCURVE",
+"72 747 CURVE SMOOTH",
+"200 747 LINE SMOOTH",
+"210 747 OFFCURVE",
+"220 747 OFFCURVE",
+"220 727 CURVE SMOOTH",
+"220 723 OFFCURVE",
+"219 714 OFFCURVE",
+"218 710 CURVE",
+"93 510 LINE",
+"186 510 LINE",
+"186 536 LINE SMOOTH",
+"186 549 OFFCURVE",
+"186 560 OFFCURVE",
+"204 560 CURVE SMOOTH",
+"223 560 OFFCURVE",
+"223 547 OFFCURVE",
+"223 536 CURVE SMOOTH",
+"223 496 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"470 715 OFFCURVE",
+"461 711 OFFCURVE",
+"455 710 CURVE",
+"446 637 OFFCURVE",
+"435 566 OFFCURVE",
+"426 492 CURVE",
+"423 475 OFFCURVE",
+"413 472 OFFCURVE",
+"407 472 CURVE SMOOTH",
+"401 472 OFFCURVE",
+"392 472 OFFCURVE",
+"388 486 CURVE",
+"388 486 OFFCURVE",
+"372 553 OFFCURVE",
+"369 573 CURVE",
+"363 538 OFFCURVE",
+"352 489 OFFCURVE",
+"349 484 CURVE",
+"344 473 OFFCURVE",
+"333 472 OFFCURVE",
+"330 472 CURVE SMOOTH",
+"323 472 OFFCURVE",
+"311 472 OFFCURVE",
+"309 492 CURVE SMOOTH",
+"303 551 OFFCURVE",
+"294 610 OFFCURVE",
+"287 669 CURVE SMOOTH",
+"281 710 LINE",
+"275 710 OFFCURVE",
+"266 714 OFFCURVE",
+"266 728 CURVE SMOOTH",
+"266 747 OFFCURVE",
+"280 747 OFFCURVE",
+"288 747 CURVE SMOOTH",
+"318 747 LINE SMOOTH",
+"326 747 OFFCURVE",
+"338 747 OFFCURVE",
+"338 728 CURVE SMOOTH",
+"338 710 OFFCURVE",
+"326 710 OFFCURVE",
+"318 710 CURVE SMOOTH",
+"313 710 LINE",
+"326 612 LINE SMOOTH",
+"329 591 OFFCURVE",
+"330 574 OFFCURVE",
+"333 551 CURVE",
+"349 630 LINE SMOOTH",
+"351 643 OFFCURVE",
+"363 643 OFFCURVE",
+"369 643 CURVE SMOOTH",
+"373 643 OFFCURVE",
+"390 643 OFFCURVE",
+"391 630 CURVE",
+"404 552 LINE",
+"422 710 LINE",
+"418 710 LINE SMOOTH",
+"412 710 OFFCURVE",
+"400 710 OFFCURVE",
+"400 728 CURVE SMOOTH",
+"400 747 OFFCURVE",
+"410 747 OFFCURVE",
+"418 747 CURVE SMOOTH",
+"450 747 LINE SMOOTH",
+"459 747 OFFCURVE",
+"470 747 OFFCURVE",
+"470 728 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 200D;
+subCategory = Format;
+},
+{
+glyphname = zeroWidthNoBreakSpace;
+layers = (
+{
+components = (
+{
+name = charbox.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"223 479 OFFCURVE",
+"219 476 OFFCURVE",
+"203 476 CURVE SMOOTH",
+"67 476 LINE SMOOTH",
+"57 476 OFFCURVE",
+"46 476 OFFCURVE",
+"46 495 CURVE SMOOTH",
+"46 497 OFFCURVE",
+"49 506 OFFCURVE",
+"50 509 CURVE",
+"172 710 LINE",
+"87 710 LINE",
+"87 693 LINE SMOOTH",
+"87 683 OFFCURVE",
+"87 671 OFFCURVE",
+"68 671 CURVE SMOOTH",
+"52 671 OFFCURVE",
+"52 683 OFFCURVE",
+"52 693 CURVE SMOOTH",
+"52 726 LINE SMOOTH",
+"52 744 OFFCURVE",
+"55 747 OFFCURVE",
+"72 747 CURVE SMOOTH",
+"200 747 LINE SMOOTH",
+"210 747 OFFCURVE",
+"220 747 OFFCURVE",
+"220 727 CURVE SMOOTH",
+"220 723 OFFCURVE",
+"219 714 OFFCURVE",
+"218 710 CURVE",
+"93 510 LINE",
+"186 510 LINE",
+"186 536 LINE SMOOTH",
+"186 549 OFFCURVE",
+"186 560 OFFCURVE",
+"204 560 CURVE SMOOTH",
+"223 560 OFFCURVE",
+"223 547 OFFCURVE",
+"223 536 CURVE SMOOTH",
+"223 496 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"470 715 OFFCURVE",
+"461 711 OFFCURVE",
+"455 710 CURVE",
+"446 637 OFFCURVE",
+"435 566 OFFCURVE",
+"426 492 CURVE SMOOTH",
+"423 475 OFFCURVE",
+"413 472 OFFCURVE",
+"407 472 CURVE SMOOTH",
+"401 472 OFFCURVE",
+"392 472 OFFCURVE",
+"388 486 CURVE",
+"388 486 OFFCURVE",
+"372 553 OFFCURVE",
+"369 573 CURVE",
+"363 538 OFFCURVE",
+"352 489 OFFCURVE",
+"349 484 CURVE SMOOTH",
+"344 473 OFFCURVE",
+"333 472 OFFCURVE",
+"330 472 CURVE SMOOTH",
+"323 472 OFFCURVE",
+"311 472 OFFCURVE",
+"309 492 CURVE SMOOTH",
+"303 551 OFFCURVE",
+"296 610 OFFCURVE",
+"287 669 CURVE SMOOTH",
+"281 710 LINE",
+"275 710 OFFCURVE",
+"266 714 OFFCURVE",
+"266 728 CURVE SMOOTH",
+"266 747 OFFCURVE",
+"280 747 OFFCURVE",
+"288 747 CURVE SMOOTH",
+"318 747 LINE SMOOTH",
+"326 747 OFFCURVE",
+"338 747 OFFCURVE",
+"338 728 CURVE SMOOTH",
+"338 710 OFFCURVE",
+"326 710 OFFCURVE",
+"318 710 CURVE SMOOTH",
+"313 710 LINE",
+"326 612 LINE SMOOTH",
+"329 591 OFFCURVE",
+"330 574 OFFCURVE",
+"333 551 CURVE",
+"349 630 LINE SMOOTH",
+"352 643 OFFCURVE",
+"363 643 OFFCURVE",
+"369 643 CURVE SMOOTH",
+"373 643 OFFCURVE",
+"390 643 OFFCURVE",
+"391 630 CURVE",
+"404 552 LINE",
+"422 710 LINE",
+"418 710 LINE SMOOTH",
+"412 710 OFFCURVE",
+"400 710 OFFCURVE",
+"400 728 CURVE SMOOTH",
+"400 747 OFFCURVE",
+"410 747 OFFCURVE",
+"418 747 CURVE SMOOTH",
+"450 747 LINE SMOOTH",
+"459 747 OFFCURVE",
+"470 747 OFFCURVE",
+"470 728 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"245 210 OFFCURVE",
+"209 175 OFFCURVE",
+"162 175 CURVE SMOOTH",
+"137 175 OFFCURVE",
+"112 181 OFFCURVE",
+"94 193 CURVE",
+"91 182 OFFCURVE",
+"87 175 OFFCURVE",
+"77 175 CURVE SMOOTH",
+"61 175 OFFCURVE",
+"61 189 OFFCURVE",
+"61 196 CURVE SMOOTH",
+"61 252 LINE SMOOTH",
+"61 260 OFFCURVE",
+"61 272 OFFCURVE",
+"79 272 CURVE SMOOTH",
+"95 272 OFFCURVE",
+"96 262 OFFCURVE",
+"96 254 CURVE SMOOTH",
+"97 247 OFFCURVE",
+"98 231 OFFCURVE",
+"115 220 CURVE SMOOTH",
+"127 211 OFFCURVE",
+"144 207 OFFCURVE",
+"163 207 CURVE SMOOTH",
+"191 207 OFFCURVE",
+"212 227 OFFCURVE",
+"212 251 CURVE SMOOTH",
+"212 286 OFFCURVE",
+"179 294 OFFCURVE",
+"167 296 CURVE SMOOTH",
+"118 308 LINE SMOOTH",
+"83 318 OFFCURVE",
+"61 346 OFFCURVE",
+"61 377 CURVE SMOOTH",
+"61 417 OFFCURVE",
+"97 450 OFFCURVE",
+"143 450 CURVE SMOOTH",
+"165 450 OFFCURVE",
+"186 443 OFFCURVE",
+"201 432 CURVE",
+"204 443 OFFCURVE",
+"207 450 OFFCURVE",
+"218 450 CURVE SMOOTH",
+"234 450 OFFCURVE",
+"234 436 OFFCURVE",
+"234 429 CURVE SMOOTH",
+"234 373 LINE SMOOTH",
+"234 365 OFFCURVE",
+"234 353 OFFCURVE",
+"216 353 CURVE SMOOTH",
+"205 353 OFFCURVE",
+"200 357 OFFCURVE",
+"199 367 CURVE SMOOTH",
+"196 381 OFFCURVE",
+"190 418 OFFCURVE",
+"143 418 CURVE SMOOTH",
+"116 418 OFFCURVE",
+"95 400 OFFCURVE",
+"95 379 CURVE SMOOTH",
+"95 362 OFFCURVE",
+"108 347 OFFCURVE",
+"126 342 CURVE SMOOTH",
+"161 334 LINE SMOOTH",
+"194 327 OFFCURVE",
+"206 324 OFFCURVE",
+"224 306 CURVE SMOOTH",
+"229 300 OFFCURVE",
+"245 282 OFFCURVE",
+"245 253 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"470 324 OFFCURVE",
+"433 288 OFFCURVE",
+"386 288 CURVE SMOOTH",
+"336 288 LINE",
+"336 216 LINE",
+"346 216 LINE SMOOTH",
+"352 216 OFFCURVE",
+"367 216 OFFCURVE",
+"367 200 CURVE SMOOTH",
+"367 184 OFFCURVE",
+"352 184 OFFCURVE",
+"346 184 CURVE SMOOTH",
+"291 184 LINE SMOOTH",
+"285 184 OFFCURVE",
+"271 184 OFFCURVE",
+"271 200 CURVE SMOOTH",
+"271 216 OFFCURVE",
+"285 216 OFFCURVE",
+"291 216 CURVE SMOOTH",
+"301 216 LINE",
+"301 417 LINE",
+"291 417 LINE SMOOTH",
+"285 417 OFFCURVE",
+"271 417 OFFCURVE",
+"271 433 CURVE SMOOTH",
+"271 449 OFFCURVE",
+"285 449 OFFCURVE",
+"291 449 CURVE SMOOTH",
+"386 449 LINE SMOOTH",
+"433 449 OFFCURVE",
+"470 413 OFFCURVE",
+"470 369 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"434 390 OFFCURVE",
+"417 417 OFFCURVE",
+"378 417 CURVE SMOOTH",
+"336 417 LINE",
+"336 320 LINE",
+"378 320 LINE SMOOTH",
+"417 320 OFFCURVE",
+"434 347 OFFCURVE",
+"434 369 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FEFF;
+},
+{
+glyphname = narrownbspace;
+layers = (
+{
+components = (
+{
+name = charbox.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"381 438 OFFCURVE",
+"404 401 OFFCURVE",
+"404 361 CURVE SMOOTH",
+"404 322 OFFCURVE",
+"381 284 OFFCURVE",
+"345 284 CURVE SMOOTH",
+"313 284 LINE",
+"313 220 LINE",
+"317 220 LINE SMOOTH",
+"323 220 OFFCURVE",
+"333 220 OFFCURVE",
+"333 202 CURVE SMOOTH",
+"333 187 OFFCURVE",
+"323 187 OFFCURVE",
+"317 187 CURVE SMOOTH",
+"279 187 LINE SMOOTH",
+"272 187 OFFCURVE",
+"263 187 OFFCURVE",
+"263 202 CURVE SMOOTH",
+"263 220 OFFCURVE",
+"272 220 OFFCURVE",
+"279 220 CURVE SMOOTH",
+"284 220 LINE",
+"284 405 LINE",
+"279 405 LINE SMOOTH",
+"272 405 OFFCURVE",
+"263 405 OFFCURVE",
+"263 421 CURVE SMOOTH",
+"263 438 OFFCURVE",
+"272 438 OFFCURVE",
+"279 438 CURVE SMOOTH",
+"345 438 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"313 405 LINE",
+"313 318 LINE",
+"339 318 LINE SMOOTH",
+"366 318 OFFCURVE",
+"376 343 OFFCURVE",
+"376 361 CURVE SMOOTH",
+"376 373 OFFCURVE",
+"372 405 OFFCURVE",
+"339 405 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"336 700 OFFCURVE",
+"326 700 OFFCURVE",
+"319 700 CURVE SMOOTH",
+"316 700 LINE",
+"316 502 LINE SMOOTH",
+"316 485 OFFCURVE",
+"309 484 OFFCURVE",
+"298 484 CURVE SMOOTH",
+"291 484 OFFCURVE",
+"284 485 OFFCURVE",
+"280 501 CURVE",
+"280 500 LINE",
+"274 520 OFFCURVE",
+"268 541 OFFCURVE",
+"263 561 CURVE",
+"263 560 LINE",
+"252 599 OFFCURVE",
+"246 627 OFFCURVE",
+"233 670 CURVE",
+"233 515 LINE",
+"237 515 LINE SMOOTH",
+"243 515 OFFCURVE",
+"252 515 OFFCURVE",
+"252 499 CURVE SMOOTH",
+"252 484 OFFCURVE",
+"243 484 OFFCURVE",
+"237 484 CURVE SMOOTH",
+"204 484 LINE SMOOTH",
+"197 484 OFFCURVE",
+"189 484 OFFCURVE",
+"189 501 CURVE SMOOTH",
+"189 515 OFFCURVE",
+"197 515 OFFCURVE",
+"204 515 CURVE SMOOTH",
+"207 515 LINE",
+"207 700 LINE",
+"204 700 LINE SMOOTH",
+"197 700 OFFCURVE",
+"189 700 OFFCURVE",
+"189 716 CURVE SMOOTH",
+"189 732 OFFCURVE",
+"197 732 OFFCURVE",
+"204 732 CURVE SMOOTH",
+"225 732 LINE SMOOTH",
+"234 732 OFFCURVE",
+"241 728 OFFCURVE",
+"245 717 CURVE",
+"292 545 LINE",
+"292 700 LINE",
+"288 700 LINE SMOOTH",
+"282 700 OFFCURVE",
+"272 700 OFFCURVE",
+"272 716 CURVE SMOOTH",
+"272 732 OFFCURVE",
+"282 732 OFFCURVE",
+"288 732 CURVE SMOOTH",
+"319 732 LINE SMOOTH",
+"326 732 OFFCURVE",
+"336 732 OFFCURVE",
+"336 716 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"491 521 OFFCURVE",
+"471 484 OFFCURVE",
+"436 484 CURVE SMOOTH",
+"363 484 LINE SMOOTH",
+"358 484 OFFCURVE",
+"347 484 OFFCURVE",
+"347 498 CURVE SMOOTH",
+"347 516 OFFCURVE",
+"357 516 OFFCURVE",
+"364 516 CURVE SMOOTH",
+"368 516 LINE",
+"368 700 LINE",
+"364 700 LINE SMOOTH",
+"357 700 OFFCURVE",
+"347 700 OFFCURVE",
+"347 717 CURVE SMOOTH",
+"347 734 OFFCURVE",
+"358 734 OFFCURVE",
+"363 734 CURVE SMOOTH",
+"429 734 LINE SMOOTH",
+"465 734 OFFCURVE",
+"485 700 OFFCURVE",
+"485 668 CURVE SMOOTH",
+"485 645 OFFCURVE",
+"474 627 OFFCURVE",
+"459 615 CURVE",
+"474 601 OFFCURVE",
+"491 575 OFFCURVE",
+"491 554 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"456 678 OFFCURVE",
+"449 700 OFFCURVE",
+"428 700 CURVE SMOOTH",
+"395 700 LINE",
+"395 632 LINE",
+"422 632 LINE SMOOTH",
+"447 632 OFFCURVE",
+"456 653 OFFCURVE",
+"456 668 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"456 571 OFFCURVE",
+"448 597 OFFCURVE",
+"426 597 CURVE SMOOTH",
+"388 597 LINE",
+"388 516 LINE",
+"423 516 LINE SMOOTH",
+"446 516 OFFCURVE",
+"456 538 OFFCURVE",
+"456 556 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"178 700 OFFCURVE",
+"168 700 OFFCURVE",
+"162 700 CURVE SMOOTH",
+"158 700 LINE",
+"158 502 LINE SMOOTH",
+"158 485 OFFCURVE",
+"152 484 OFFCURVE",
+"141 484 CURVE SMOOTH",
+"132 484 OFFCURVE",
+"126 485 OFFCURVE",
+"121 500 CURVE",
+"105 561 OFFCURVE",
+"93 604 OFFCURVE",
+"76 668 CURVE",
+"76 515 LINE",
+"78 515 LINE SMOOTH",
+"85 515 OFFCURVE",
+"93 515 OFFCURVE",
+"93 499 CURVE SMOOTH",
+"93 484 OFFCURVE",
+"85 484 OFFCURVE",
+"78 484 CURVE SMOOTH",
+"46 484 LINE SMOOTH",
+"40 484 OFFCURVE",
+"31 484 OFFCURVE",
+"31 501 CURVE SMOOTH",
+"31 515 OFFCURVE",
+"40 515 OFFCURVE",
+"46 515 CURVE SMOOTH",
+"50 515 LINE",
+"50 700 LINE",
+"46 700 LINE SMOOTH",
+"40 700 OFFCURVE",
+"31 700 OFFCURVE",
+"31 716 CURVE SMOOTH",
+"31 732 OFFCURVE",
+"40 732 OFFCURVE",
+"46 732 CURVE SMOOTH",
+"67 732 LINE SMOOTH",
+"77 732 OFFCURVE",
+"81 728 OFFCURVE",
+"86 718 CURVE",
+"133 548 LINE",
+"133 700 LINE",
+"130 700 LINE SMOOTH",
+"123 700 OFFCURVE",
+"114 700 OFFCURVE",
+"114 716 CURVE SMOOTH",
+"114 732 OFFCURVE",
+"123 732 OFFCURVE",
+"130 732 CURVE SMOOTH",
+"162 732 LINE SMOOTH",
+"168 732 OFFCURVE",
+"178 732 OFFCURVE",
+"178 716 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"250 219 OFFCURVE",
+"226 183 OFFCURVE",
+"189 183 CURVE SMOOTH",
+"171 183 OFFCURVE",
+"156 187 OFFCURVE",
+"143 197 CURVE",
+"140 189 OFFCURVE",
+"135 183 OFFCURVE",
+"130 183 CURVE SMOOTH",
+"117 183 OFFCURVE",
+"117 196 OFFCURVE",
+"117 202 CURVE SMOOTH",
+"117 257 LINE SMOOTH",
+"117 267 OFFCURVE",
+"117 276 OFFCURVE",
+"131 276 CURVE SMOOTH",
+"145 276 OFFCURVE",
+"146 267 OFFCURVE",
+"146 260 CURVE SMOOTH",
+"146 252 OFFCURVE",
+"147 236 OFFCURVE",
+"158 227 CURVE SMOOTH",
+"168 218 OFFCURVE",
+"183 216 OFFCURVE",
+"191 216 CURVE SMOOTH",
+"212 216 OFFCURVE",
+"222 237 OFFCURVE",
+"222 257 CURVE SMOOTH",
+"222 283 OFFCURVE",
+"202 293 OFFCURVE",
+"194 296 CURVE",
+"158 306 LINE SMOOTH",
+"131 314 OFFCURVE",
+"117 344 OFFCURVE",
+"117 374 CURVE SMOOTH",
+"117 409 OFFCURVE",
+"142 442 OFFCURVE",
+"177 442 CURVE SMOOTH",
+"187 442 OFFCURVE",
+"203 437 OFFCURVE",
+"215 427 CURVE",
+"216 436 OFFCURVE",
+"219 442 OFFCURVE",
+"228 442 CURVE SMOOTH",
+"241 442 OFFCURVE",
+"241 430 OFFCURVE",
+"241 421 CURVE SMOOTH",
+"241 369 LINE SMOOTH",
+"241 358 OFFCURVE",
+"241 348 OFFCURVE",
+"226 348 CURVE SMOOTH",
+"219 348 OFFCURVE",
+"214 353 OFFCURVE",
+"213 363 CURVE",
+"211 376 OFFCURVE",
+"206 407 OFFCURVE",
+"176 407 CURVE SMOOTH",
+"157 407 OFFCURVE",
+"145 392 OFFCURVE",
+"145 375 CURVE SMOOTH",
+"145 360 OFFCURVE",
+"156 345 OFFCURVE",
+"166 341 CURVE",
+"165 341 LINE",
+"177 338 OFFCURVE",
+"191 332 OFFCURVE",
+"203 329 CURVE",
+"229 319 OFFCURVE",
+"250 304 OFFCURVE",
+"250 258 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 202F;
+},
+{
 glyphname = VS1;
 layers = (
 {
@@ -83276,687 +84304,6 @@ width = 525;
 unicode = 202E;
 },
 {
-glyphname = zeroWidthNoBreakSpace;
-layers = (
-{
-components = (
-{
-name = charbox.comp;
-}
-);
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"223 479 OFFCURVE",
-"219 476 OFFCURVE",
-"203 476 CURVE SMOOTH",
-"67 476 LINE SMOOTH",
-"57 476 OFFCURVE",
-"46 476 OFFCURVE",
-"46 495 CURVE SMOOTH",
-"46 497 OFFCURVE",
-"49 506 OFFCURVE",
-"50 509 CURVE",
-"172 710 LINE",
-"87 710 LINE",
-"87 693 LINE SMOOTH",
-"87 683 OFFCURVE",
-"87 671 OFFCURVE",
-"68 671 CURVE SMOOTH",
-"52 671 OFFCURVE",
-"52 683 OFFCURVE",
-"52 693 CURVE SMOOTH",
-"52 726 LINE SMOOTH",
-"52 744 OFFCURVE",
-"55 747 OFFCURVE",
-"72 747 CURVE SMOOTH",
-"200 747 LINE SMOOTH",
-"210 747 OFFCURVE",
-"220 747 OFFCURVE",
-"220 727 CURVE SMOOTH",
-"220 723 OFFCURVE",
-"219 714 OFFCURVE",
-"218 710 CURVE",
-"93 510 LINE",
-"186 510 LINE",
-"186 536 LINE SMOOTH",
-"186 549 OFFCURVE",
-"186 560 OFFCURVE",
-"204 560 CURVE SMOOTH",
-"223 560 OFFCURVE",
-"223 547 OFFCURVE",
-"223 536 CURVE SMOOTH",
-"223 496 LINE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"470 715 OFFCURVE",
-"461 711 OFFCURVE",
-"455 710 CURVE",
-"446 637 OFFCURVE",
-"435 566 OFFCURVE",
-"426 492 CURVE SMOOTH",
-"423 475 OFFCURVE",
-"413 472 OFFCURVE",
-"407 472 CURVE SMOOTH",
-"401 472 OFFCURVE",
-"392 472 OFFCURVE",
-"388 486 CURVE",
-"388 486 OFFCURVE",
-"372 553 OFFCURVE",
-"369 573 CURVE",
-"363 538 OFFCURVE",
-"352 489 OFFCURVE",
-"349 484 CURVE SMOOTH",
-"344 473 OFFCURVE",
-"333 472 OFFCURVE",
-"330 472 CURVE SMOOTH",
-"323 472 OFFCURVE",
-"311 472 OFFCURVE",
-"309 492 CURVE SMOOTH",
-"303 551 OFFCURVE",
-"296 610 OFFCURVE",
-"287 669 CURVE SMOOTH",
-"281 710 LINE",
-"275 710 OFFCURVE",
-"266 714 OFFCURVE",
-"266 728 CURVE SMOOTH",
-"266 747 OFFCURVE",
-"280 747 OFFCURVE",
-"288 747 CURVE SMOOTH",
-"318 747 LINE SMOOTH",
-"326 747 OFFCURVE",
-"338 747 OFFCURVE",
-"338 728 CURVE SMOOTH",
-"338 710 OFFCURVE",
-"326 710 OFFCURVE",
-"318 710 CURVE SMOOTH",
-"313 710 LINE",
-"326 612 LINE SMOOTH",
-"329 591 OFFCURVE",
-"330 574 OFFCURVE",
-"333 551 CURVE",
-"349 630 LINE SMOOTH",
-"352 643 OFFCURVE",
-"363 643 OFFCURVE",
-"369 643 CURVE SMOOTH",
-"373 643 OFFCURVE",
-"390 643 OFFCURVE",
-"391 630 CURVE",
-"404 552 LINE",
-"422 710 LINE",
-"418 710 LINE SMOOTH",
-"412 710 OFFCURVE",
-"400 710 OFFCURVE",
-"400 728 CURVE SMOOTH",
-"400 747 OFFCURVE",
-"410 747 OFFCURVE",
-"418 747 CURVE SMOOTH",
-"450 747 LINE SMOOTH",
-"459 747 OFFCURVE",
-"470 747 OFFCURVE",
-"470 728 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"245 210 OFFCURVE",
-"209 175 OFFCURVE",
-"162 175 CURVE SMOOTH",
-"137 175 OFFCURVE",
-"112 181 OFFCURVE",
-"94 193 CURVE",
-"91 182 OFFCURVE",
-"87 175 OFFCURVE",
-"77 175 CURVE SMOOTH",
-"61 175 OFFCURVE",
-"61 189 OFFCURVE",
-"61 196 CURVE SMOOTH",
-"61 252 LINE SMOOTH",
-"61 260 OFFCURVE",
-"61 272 OFFCURVE",
-"79 272 CURVE SMOOTH",
-"95 272 OFFCURVE",
-"96 262 OFFCURVE",
-"96 254 CURVE SMOOTH",
-"97 247 OFFCURVE",
-"98 231 OFFCURVE",
-"115 220 CURVE SMOOTH",
-"127 211 OFFCURVE",
-"144 207 OFFCURVE",
-"163 207 CURVE SMOOTH",
-"191 207 OFFCURVE",
-"212 227 OFFCURVE",
-"212 251 CURVE SMOOTH",
-"212 286 OFFCURVE",
-"179 294 OFFCURVE",
-"167 296 CURVE SMOOTH",
-"118 308 LINE SMOOTH",
-"83 318 OFFCURVE",
-"61 346 OFFCURVE",
-"61 377 CURVE SMOOTH",
-"61 417 OFFCURVE",
-"97 450 OFFCURVE",
-"143 450 CURVE SMOOTH",
-"165 450 OFFCURVE",
-"186 443 OFFCURVE",
-"201 432 CURVE",
-"204 443 OFFCURVE",
-"207 450 OFFCURVE",
-"218 450 CURVE SMOOTH",
-"234 450 OFFCURVE",
-"234 436 OFFCURVE",
-"234 429 CURVE SMOOTH",
-"234 373 LINE SMOOTH",
-"234 365 OFFCURVE",
-"234 353 OFFCURVE",
-"216 353 CURVE SMOOTH",
-"205 353 OFFCURVE",
-"200 357 OFFCURVE",
-"199 367 CURVE SMOOTH",
-"196 381 OFFCURVE",
-"190 418 OFFCURVE",
-"143 418 CURVE SMOOTH",
-"116 418 OFFCURVE",
-"95 400 OFFCURVE",
-"95 379 CURVE SMOOTH",
-"95 362 OFFCURVE",
-"108 347 OFFCURVE",
-"126 342 CURVE SMOOTH",
-"161 334 LINE SMOOTH",
-"194 327 OFFCURVE",
-"206 324 OFFCURVE",
-"224 306 CURVE SMOOTH",
-"229 300 OFFCURVE",
-"245 282 OFFCURVE",
-"245 253 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"470 324 OFFCURVE",
-"433 288 OFFCURVE",
-"386 288 CURVE SMOOTH",
-"336 288 LINE",
-"336 216 LINE",
-"346 216 LINE SMOOTH",
-"352 216 OFFCURVE",
-"367 216 OFFCURVE",
-"367 200 CURVE SMOOTH",
-"367 184 OFFCURVE",
-"352 184 OFFCURVE",
-"346 184 CURVE SMOOTH",
-"291 184 LINE SMOOTH",
-"285 184 OFFCURVE",
-"271 184 OFFCURVE",
-"271 200 CURVE SMOOTH",
-"271 216 OFFCURVE",
-"285 216 OFFCURVE",
-"291 216 CURVE SMOOTH",
-"301 216 LINE",
-"301 417 LINE",
-"291 417 LINE SMOOTH",
-"285 417 OFFCURVE",
-"271 417 OFFCURVE",
-"271 433 CURVE SMOOTH",
-"271 449 OFFCURVE",
-"285 449 OFFCURVE",
-"291 449 CURVE SMOOTH",
-"386 449 LINE SMOOTH",
-"433 449 OFFCURVE",
-"470 413 OFFCURVE",
-"470 369 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"434 390 OFFCURVE",
-"417 417 OFFCURVE",
-"378 417 CURVE SMOOTH",
-"336 417 LINE",
-"336 320 LINE",
-"378 320 LINE SMOOTH",
-"417 320 OFFCURVE",
-"434 347 OFFCURVE",
-"434 369 CURVE SMOOTH"
-);
-}
-);
-width = 525;
-}
-);
-unicode = FEFF;
-},
-{
-glyphname = zerowidthjoiner;
-layers = (
-{
-components = (
-{
-name = charbox.comp;
-}
-);
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"319 411 OFFCURVE",
-"307 411 OFFCURVE",
-"299 411 CURVE SMOOTH",
-"292 411 LINE",
-"292 238 LINE SMOOTH",
-"292 196 OFFCURVE",
-"259 169 OFFCURVE",
-"222 169 CURVE SMOOTH",
-"182 169 OFFCURVE",
-"155 192 OFFCURVE",
-"155 223 CURVE SMOOTH",
-"155 239 OFFCURVE",
-"166 248 OFFCURVE",
-"176 248 CURVE SMOOTH",
-"188 248 OFFCURVE",
-"196 236 OFFCURVE",
-"196 224 CURVE SMOOTH",
-"196 221 OFFCURVE",
-"195 218 OFFCURVE",
-"194 216 CURVE",
-"205 208 OFFCURVE",
-"218 208 OFFCURVE",
-"222 208 CURVE SMOOTH",
-"229 208 OFFCURVE",
-"256 209 OFFCURVE",
-"256 240 CURVE SMOOTH",
-"256 411 LINE",
-"229 411 LINE SMOOTH",
-"221 411 OFFCURVE",
-"208 411 OFFCURVE",
-"208 429 CURVE SMOOTH",
-"208 447 OFFCURVE",
-"221 447 OFFCURVE",
-"229 447 CURVE SMOOTH",
-"299 447 LINE SMOOTH",
-"307 447 OFFCURVE",
-"319 447 OFFCURVE",
-"319 429 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"223 479 OFFCURVE",
-"219 476 OFFCURVE",
-"203 476 CURVE SMOOTH",
-"67 476 LINE SMOOTH",
-"57 476 OFFCURVE",
-"46 476 OFFCURVE",
-"46 495 CURVE SMOOTH",
-"46 497 OFFCURVE",
-"49 506 OFFCURVE",
-"50 509 CURVE",
-"172 710 LINE",
-"87 710 LINE",
-"87 693 LINE SMOOTH",
-"87 683 OFFCURVE",
-"87 671 OFFCURVE",
-"68 671 CURVE SMOOTH",
-"52 671 OFFCURVE",
-"52 683 OFFCURVE",
-"52 693 CURVE SMOOTH",
-"52 726 LINE SMOOTH",
-"52 744 OFFCURVE",
-"55 747 OFFCURVE",
-"72 747 CURVE SMOOTH",
-"200 747 LINE SMOOTH",
-"210 747 OFFCURVE",
-"220 747 OFFCURVE",
-"220 727 CURVE SMOOTH",
-"220 723 OFFCURVE",
-"219 714 OFFCURVE",
-"218 710 CURVE",
-"93 510 LINE",
-"186 510 LINE",
-"186 536 LINE SMOOTH",
-"186 549 OFFCURVE",
-"186 560 OFFCURVE",
-"204 560 CURVE SMOOTH",
-"223 560 OFFCURVE",
-"223 547 OFFCURVE",
-"223 536 CURVE SMOOTH",
-"223 496 LINE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"470 715 OFFCURVE",
-"461 711 OFFCURVE",
-"455 710 CURVE",
-"446 637 OFFCURVE",
-"435 566 OFFCURVE",
-"426 492 CURVE",
-"423 475 OFFCURVE",
-"413 472 OFFCURVE",
-"407 472 CURVE SMOOTH",
-"401 472 OFFCURVE",
-"392 472 OFFCURVE",
-"388 486 CURVE",
-"388 486 OFFCURVE",
-"372 553 OFFCURVE",
-"369 573 CURVE",
-"363 538 OFFCURVE",
-"352 489 OFFCURVE",
-"349 484 CURVE",
-"344 473 OFFCURVE",
-"333 472 OFFCURVE",
-"330 472 CURVE SMOOTH",
-"323 472 OFFCURVE",
-"311 472 OFFCURVE",
-"309 492 CURVE SMOOTH",
-"303 551 OFFCURVE",
-"294 610 OFFCURVE",
-"287 669 CURVE SMOOTH",
-"281 710 LINE",
-"275 710 OFFCURVE",
-"266 714 OFFCURVE",
-"266 728 CURVE SMOOTH",
-"266 747 OFFCURVE",
-"280 747 OFFCURVE",
-"288 747 CURVE SMOOTH",
-"318 747 LINE SMOOTH",
-"326 747 OFFCURVE",
-"338 747 OFFCURVE",
-"338 728 CURVE SMOOTH",
-"338 710 OFFCURVE",
-"326 710 OFFCURVE",
-"318 710 CURVE SMOOTH",
-"313 710 LINE",
-"326 612 LINE SMOOTH",
-"329 591 OFFCURVE",
-"330 574 OFFCURVE",
-"333 551 CURVE",
-"349 630 LINE SMOOTH",
-"351 643 OFFCURVE",
-"363 643 OFFCURVE",
-"369 643 CURVE SMOOTH",
-"373 643 OFFCURVE",
-"390 643 OFFCURVE",
-"391 630 CURVE",
-"404 552 LINE",
-"422 710 LINE",
-"418 710 LINE SMOOTH",
-"412 710 OFFCURVE",
-"400 710 OFFCURVE",
-"400 728 CURVE SMOOTH",
-"400 747 OFFCURVE",
-"410 747 OFFCURVE",
-"418 747 CURVE SMOOTH",
-"450 747 LINE SMOOTH",
-"459 747 OFFCURVE",
-"470 747 OFFCURVE",
-"470 728 CURVE SMOOTH"
-);
-}
-);
-width = 525;
-}
-);
-unicode = 200D;
-subCategory = Format;
-},
-{
-glyphname = zerowidthnonjoiner;
-layers = (
-{
-components = (
-{
-name = charbox.comp;
-}
-);
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"226 478 OFFCURVE",
-"222 476 OFFCURVE",
-"206 476 CURVE SMOOTH",
-"70 476 LINE SMOOTH",
-"60 476 OFFCURVE",
-"49 476 OFFCURVE",
-"49 494 CURVE SMOOTH",
-"49 495 OFFCURVE",
-"53 507 OFFCURVE",
-"54 508 CURVE",
-"53 508 LINE",
-"175 711 LINE",
-"90 711 LINE",
-"90 693 LINE SMOOTH",
-"90 682 OFFCURVE",
-"90 672 OFFCURVE",
-"71 672 CURVE SMOOTH",
-"55 672 OFFCURVE",
-"55 682 OFFCURVE",
-"55 693 CURVE SMOOTH",
-"55 725 LINE SMOOTH",
-"55 743 OFFCURVE",
-"58 747 OFFCURVE",
-"75 747 CURVE SMOOTH",
-"203 747 LINE SMOOTH",
-"213 747 OFFCURVE",
-"223 747 OFFCURVE",
-"223 726 CURVE SMOOTH",
-"223 724 OFFCURVE",
-"222 715 OFFCURVE",
-"221 712 CURVE",
-"96 509 LINE",
-"189 509 LINE",
-"189 535 LINE SMOOTH",
-"189 549 OFFCURVE",
-"189 559 OFFCURVE",
-"207 559 CURVE SMOOTH",
-"226 559 OFFCURVE",
-"226 547 OFFCURVE",
-"226 535 CURVE SMOOTH",
-"226 495 LINE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"240 410 OFFCURVE",
-"227 410 OFFCURVE",
-"219 410 CURVE SMOOTH",
-"214 410 LINE",
-"214 195 LINE SMOOTH",
-"214 175 OFFCURVE",
-"206 173 OFFCURVE",
-"191 173 CURVE SMOOTH",
-"182 173 OFFCURVE",
-"172 175 OFFCURVE",
-"168 193 CURVE",
-"168 192 LINE",
-"159 220 LINE SMOOTH",
-"141 274 OFFCURVE",
-"126 322 OFFCURVE",
-"106 379 CURVE",
-"106 208 LINE",
-"111 208 LINE SMOOTH",
-"119 208 OFFCURVE",
-"130 208 OFFCURVE",
-"130 191 CURVE SMOOTH",
-"130 173 OFFCURVE",
-"119 173 OFFCURVE",
-"111 173 CURVE SMOOTH",
-"69 173 LINE SMOOTH",
-"60 173 OFFCURVE",
-"49 173 OFFCURVE",
-"49 193 CURVE SMOOTH",
-"49 208 OFFCURVE",
-"60 208 OFFCURVE",
-"69 208 CURVE SMOOTH",
-"74 208 LINE",
-"74 410 LINE",
-"69 410 LINE SMOOTH",
-"60 410 OFFCURVE",
-"49 410 OFFCURVE",
-"49 428 CURVE SMOOTH",
-"49 446 OFFCURVE",
-"60 446 OFFCURVE",
-"69 446 CURVE SMOOTH",
-"95 446 LINE SMOOTH",
-"107 446 OFFCURVE",
-"115 441 OFFCURVE",
-"121 429 CURVE",
-"150 339 LINE SMOOTH",
-"161 306 OFFCURVE",
-"172 276 OFFCURVE",
-"183 242 CURVE",
-"183 410 LINE",
-"178 410 LINE SMOOTH",
-"170 410 OFFCURVE",
-"158 410 OFFCURVE",
-"158 428 CURVE SMOOTH",
-"158 446 OFFCURVE",
-"170 446 OFFCURVE",
-"178 446 CURVE SMOOTH",
-"219 446 LINE SMOOTH",
-"227 446 OFFCURVE",
-"240 446 OFFCURVE",
-"240 428 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"434 410 OFFCURVE",
-"421 410 OFFCURVE",
-"413 410 CURVE SMOOTH",
-"406 410 LINE",
-"406 237 LINE SMOOTH",
-"406 196 OFFCURVE",
-"373 169 OFFCURVE",
-"336 169 CURVE SMOOTH",
-"296 169 OFFCURVE",
-"269 192 OFFCURVE",
-"269 222 CURVE SMOOTH",
-"269 238 OFFCURVE",
-"280 247 OFFCURVE",
-"291 247 CURVE SMOOTH",
-"303 247 OFFCURVE",
-"311 237 OFFCURVE",
-"311 224 CURVE SMOOTH",
-"311 219 OFFCURVE",
-"310 216 OFFCURVE",
-"309 214 CURVE",
-"319 209 OFFCURVE",
-"334 207 OFFCURVE",
-"336 207 CURVE SMOOTH",
-"343 207 OFFCURVE",
-"370 208 OFFCURVE",
-"370 240 CURVE SMOOTH",
-"370 410 LINE",
-"343 410 LINE SMOOTH",
-"335 410 OFFCURVE",
-"323 410 OFFCURVE",
-"323 428 CURVE SMOOTH",
-"323 446 OFFCURVE",
-"335 446 OFFCURVE",
-"343 446 CURVE SMOOTH",
-"413 446 LINE SMOOTH",
-"421 446 OFFCURVE",
-"434 446 OFFCURVE",
-"434 428 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"473 713 OFFCURVE",
-"465 711 OFFCURVE",
-"458 711 CURVE",
-"449 638 OFFCURVE",
-"438 565 OFFCURVE",
-"429 491 CURVE SMOOTH",
-"427 474 OFFCURVE",
-"417 473 OFFCURVE",
-"410 473 CURVE SMOOTH",
-"404 473 OFFCURVE",
-"395 473 OFFCURVE",
-"391 485 CURVE",
-"391 485 OFFCURVE",
-"375 551 OFFCURVE",
-"372 572 CURVE",
-"366 536 OFFCURVE",
-"355 488 OFFCURVE",
-"352 483 CURVE",
-"346 475 OFFCURVE",
-"336 473 OFFCURVE",
-"333 473 CURVE SMOOTH",
-"326 473 OFFCURVE",
-"314 473 OFFCURVE",
-"312 491 CURVE SMOOTH",
-"306 546 OFFCURVE",
-"299 600 OFFCURVE",
-"292 656 CURVE SMOOTH",
-"284 711 LINE",
-"278 711 OFFCURVE",
-"269 713 OFFCURVE",
-"269 729 CURVE SMOOTH",
-"269 747 OFFCURVE",
-"283 747 OFFCURVE",
-"291 747 CURVE SMOOTH",
-"321 747 LINE SMOOTH",
-"329 747 OFFCURVE",
-"341 747 OFFCURVE",
-"341 729 CURVE SMOOTH",
-"341 711 OFFCURVE",
-"329 711 OFFCURVE",
-"321 711 CURVE SMOOTH",
-"316 711 LINE",
-"320 676 OFFCURVE",
-"325 643 OFFCURVE",
-"330 605 CURVE SMOOTH",
-"337 554 LINE",
-"352 630 LINE",
-"354 644 OFFCURVE",
-"366 644 OFFCURVE",
-"372 644 CURVE SMOOTH",
-"376 644 OFFCURVE",
-"393 644 OFFCURVE",
-"394 630 CURVE",
-"407 552 LINE",
-"414 606 OFFCURVE",
-"418 656 OFFCURVE",
-"425 711 CURVE",
-"421 711 LINE SMOOTH",
-"415 711 OFFCURVE",
-"402 711 OFFCURVE",
-"402 729 CURVE SMOOTH",
-"402 747 OFFCURVE",
-"413 747 OFFCURVE",
-"421 747 CURVE SMOOTH",
-"453 747 LINE SMOOTH",
-"462 747 OFFCURVE",
-"473 747 OFFCURVE",
-"473 729 CURVE SMOOTH"
-);
-}
-);
-width = 525;
-}
-);
-unicode = 200C;
-subCategory = Format;
-},
-{
 glyphname = .notdef;
 layers = (
 {
@@ -84002,356 +84349,6 @@ nodes = (
 width = 525;
 }
 );
-},
-{
-glyphname = narrownbspace;
-layers = (
-{
-components = (
-{
-name = charbox.comp;
-}
-);
-layerId = master01;
-paths = (
-{
-closed = 1;
-nodes = (
-"381 438 OFFCURVE",
-"404 401 OFFCURVE",
-"404 361 CURVE SMOOTH",
-"404 322 OFFCURVE",
-"381 284 OFFCURVE",
-"345 284 CURVE SMOOTH",
-"313 284 LINE",
-"313 220 LINE",
-"317 220 LINE SMOOTH",
-"323 220 OFFCURVE",
-"333 220 OFFCURVE",
-"333 202 CURVE SMOOTH",
-"333 187 OFFCURVE",
-"323 187 OFFCURVE",
-"317 187 CURVE SMOOTH",
-"279 187 LINE SMOOTH",
-"272 187 OFFCURVE",
-"263 187 OFFCURVE",
-"263 202 CURVE SMOOTH",
-"263 220 OFFCURVE",
-"272 220 OFFCURVE",
-"279 220 CURVE SMOOTH",
-"284 220 LINE",
-"284 405 LINE",
-"279 405 LINE SMOOTH",
-"272 405 OFFCURVE",
-"263 405 OFFCURVE",
-"263 421 CURVE SMOOTH",
-"263 438 OFFCURVE",
-"272 438 OFFCURVE",
-"279 438 CURVE SMOOTH",
-"345 438 LINE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"313 405 LINE",
-"313 318 LINE",
-"339 318 LINE SMOOTH",
-"366 318 OFFCURVE",
-"376 343 OFFCURVE",
-"376 361 CURVE SMOOTH",
-"376 373 OFFCURVE",
-"372 405 OFFCURVE",
-"339 405 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"336 700 OFFCURVE",
-"326 700 OFFCURVE",
-"319 700 CURVE SMOOTH",
-"316 700 LINE",
-"316 502 LINE SMOOTH",
-"316 485 OFFCURVE",
-"309 484 OFFCURVE",
-"298 484 CURVE SMOOTH",
-"291 484 OFFCURVE",
-"284 485 OFFCURVE",
-"280 501 CURVE",
-"280 500 LINE",
-"274 520 OFFCURVE",
-"268 541 OFFCURVE",
-"263 561 CURVE",
-"263 560 LINE",
-"252 599 OFFCURVE",
-"246 627 OFFCURVE",
-"233 670 CURVE",
-"233 515 LINE",
-"237 515 LINE SMOOTH",
-"243 515 OFFCURVE",
-"252 515 OFFCURVE",
-"252 499 CURVE SMOOTH",
-"252 484 OFFCURVE",
-"243 484 OFFCURVE",
-"237 484 CURVE SMOOTH",
-"204 484 LINE SMOOTH",
-"197 484 OFFCURVE",
-"189 484 OFFCURVE",
-"189 501 CURVE SMOOTH",
-"189 515 OFFCURVE",
-"197 515 OFFCURVE",
-"204 515 CURVE SMOOTH",
-"207 515 LINE",
-"207 700 LINE",
-"204 700 LINE SMOOTH",
-"197 700 OFFCURVE",
-"189 700 OFFCURVE",
-"189 716 CURVE SMOOTH",
-"189 732 OFFCURVE",
-"197 732 OFFCURVE",
-"204 732 CURVE SMOOTH",
-"225 732 LINE SMOOTH",
-"234 732 OFFCURVE",
-"241 728 OFFCURVE",
-"245 717 CURVE",
-"292 545 LINE",
-"292 700 LINE",
-"288 700 LINE SMOOTH",
-"282 700 OFFCURVE",
-"272 700 OFFCURVE",
-"272 716 CURVE SMOOTH",
-"272 732 OFFCURVE",
-"282 732 OFFCURVE",
-"288 732 CURVE SMOOTH",
-"319 732 LINE SMOOTH",
-"326 732 OFFCURVE",
-"336 732 OFFCURVE",
-"336 716 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"491 521 OFFCURVE",
-"471 484 OFFCURVE",
-"436 484 CURVE SMOOTH",
-"363 484 LINE SMOOTH",
-"358 484 OFFCURVE",
-"347 484 OFFCURVE",
-"347 498 CURVE SMOOTH",
-"347 516 OFFCURVE",
-"357 516 OFFCURVE",
-"364 516 CURVE SMOOTH",
-"368 516 LINE",
-"368 700 LINE",
-"364 700 LINE SMOOTH",
-"357 700 OFFCURVE",
-"347 700 OFFCURVE",
-"347 717 CURVE SMOOTH",
-"347 734 OFFCURVE",
-"358 734 OFFCURVE",
-"363 734 CURVE SMOOTH",
-"429 734 LINE SMOOTH",
-"465 734 OFFCURVE",
-"485 700 OFFCURVE",
-"485 668 CURVE SMOOTH",
-"485 645 OFFCURVE",
-"474 627 OFFCURVE",
-"459 615 CURVE",
-"474 601 OFFCURVE",
-"491 575 OFFCURVE",
-"491 554 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"456 678 OFFCURVE",
-"449 700 OFFCURVE",
-"428 700 CURVE SMOOTH",
-"395 700 LINE",
-"395 632 LINE",
-"422 632 LINE SMOOTH",
-"447 632 OFFCURVE",
-"456 653 OFFCURVE",
-"456 668 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"456 571 OFFCURVE",
-"448 597 OFFCURVE",
-"426 597 CURVE SMOOTH",
-"388 597 LINE",
-"388 516 LINE",
-"423 516 LINE SMOOTH",
-"446 516 OFFCURVE",
-"456 538 OFFCURVE",
-"456 556 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"178 700 OFFCURVE",
-"168 700 OFFCURVE",
-"162 700 CURVE SMOOTH",
-"158 700 LINE",
-"158 502 LINE SMOOTH",
-"158 485 OFFCURVE",
-"152 484 OFFCURVE",
-"141 484 CURVE SMOOTH",
-"132 484 OFFCURVE",
-"126 485 OFFCURVE",
-"121 500 CURVE",
-"105 561 OFFCURVE",
-"93 604 OFFCURVE",
-"76 668 CURVE",
-"76 515 LINE",
-"78 515 LINE SMOOTH",
-"85 515 OFFCURVE",
-"93 515 OFFCURVE",
-"93 499 CURVE SMOOTH",
-"93 484 OFFCURVE",
-"85 484 OFFCURVE",
-"78 484 CURVE SMOOTH",
-"46 484 LINE SMOOTH",
-"40 484 OFFCURVE",
-"31 484 OFFCURVE",
-"31 501 CURVE SMOOTH",
-"31 515 OFFCURVE",
-"40 515 OFFCURVE",
-"46 515 CURVE SMOOTH",
-"50 515 LINE",
-"50 700 LINE",
-"46 700 LINE SMOOTH",
-"40 700 OFFCURVE",
-"31 700 OFFCURVE",
-"31 716 CURVE SMOOTH",
-"31 732 OFFCURVE",
-"40 732 OFFCURVE",
-"46 732 CURVE SMOOTH",
-"67 732 LINE SMOOTH",
-"77 732 OFFCURVE",
-"81 728 OFFCURVE",
-"86 718 CURVE",
-"133 548 LINE",
-"133 700 LINE",
-"130 700 LINE SMOOTH",
-"123 700 OFFCURVE",
-"114 700 OFFCURVE",
-"114 716 CURVE SMOOTH",
-"114 732 OFFCURVE",
-"123 732 OFFCURVE",
-"130 732 CURVE SMOOTH",
-"162 732 LINE SMOOTH",
-"168 732 OFFCURVE",
-"178 732 OFFCURVE",
-"178 716 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"250 219 OFFCURVE",
-"226 183 OFFCURVE",
-"189 183 CURVE SMOOTH",
-"171 183 OFFCURVE",
-"156 187 OFFCURVE",
-"143 197 CURVE",
-"140 189 OFFCURVE",
-"135 183 OFFCURVE",
-"130 183 CURVE SMOOTH",
-"117 183 OFFCURVE",
-"117 196 OFFCURVE",
-"117 202 CURVE SMOOTH",
-"117 257 LINE SMOOTH",
-"117 267 OFFCURVE",
-"117 276 OFFCURVE",
-"131 276 CURVE SMOOTH",
-"145 276 OFFCURVE",
-"146 267 OFFCURVE",
-"146 260 CURVE SMOOTH",
-"146 252 OFFCURVE",
-"147 236 OFFCURVE",
-"158 227 CURVE SMOOTH",
-"168 218 OFFCURVE",
-"183 216 OFFCURVE",
-"191 216 CURVE SMOOTH",
-"212 216 OFFCURVE",
-"222 237 OFFCURVE",
-"222 257 CURVE SMOOTH",
-"222 283 OFFCURVE",
-"202 293 OFFCURVE",
-"194 296 CURVE",
-"158 306 LINE SMOOTH",
-"131 314 OFFCURVE",
-"117 344 OFFCURVE",
-"117 374 CURVE SMOOTH",
-"117 409 OFFCURVE",
-"142 442 OFFCURVE",
-"177 442 CURVE SMOOTH",
-"187 442 OFFCURVE",
-"203 437 OFFCURVE",
-"215 427 CURVE",
-"216 436 OFFCURVE",
-"219 442 OFFCURVE",
-"228 442 CURVE SMOOTH",
-"241 442 OFFCURVE",
-"241 430 OFFCURVE",
-"241 421 CURVE SMOOTH",
-"241 369 LINE SMOOTH",
-"241 358 OFFCURVE",
-"241 348 OFFCURVE",
-"226 348 CURVE SMOOTH",
-"219 348 OFFCURVE",
-"214 353 OFFCURVE",
-"213 363 CURVE",
-"211 376 OFFCURVE",
-"206 407 OFFCURVE",
-"176 407 CURVE SMOOTH",
-"157 407 OFFCURVE",
-"145 392 OFFCURVE",
-"145 375 CURVE SMOOTH",
-"145 360 OFFCURVE",
-"156 345 OFFCURVE",
-"166 341 CURVE",
-"165 341 LINE",
-"177 338 OFFCURVE",
-"191 332 OFFCURVE",
-"203 329 CURVE",
-"229 319 OFFCURVE",
-"250 304 OFFCURVE",
-"250 258 CURVE SMOOTH"
-);
-}
-);
-width = 525;
-}
-);
-unicode = 202F;
-},
-{
-glyphname = space;
-layers = (
-{
-layerId = master01;
-width = 525;
-}
-);
-unicode = 0020;
-},
-{
-glyphname = nbspace;
-layers = (
-{
-layerId = master01;
-width = 525;
-}
-);
-unicode = 00A0;
 },
 {
 glyphname = anoteleia;
@@ -90094,60 +90091,6 @@ width = 525;
 }
 );
 unicode = 06FE;
-},
-{
-glyphname = "sindhipostpositionmen-ar.fina";
-layers = (
-{
-components = (
-{
-name = "meem-ar.fina";
-},
-{
-name = "doubleverticalbarbelowSymbol-ar";
-transform = "{1, 0, 0, 1, 15, -211}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-},
-{
-glyphname = "sindhipostpositionmen-ar.medi";
-layers = (
-{
-components = (
-{
-name = "meem-ar.medi";
-},
-{
-name = "doubleverticalbarbelowSymbol-ar";
-transform = "{1, 0, 0, 1, 1, -214}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
-},
-{
-glyphname = "sindhipostpositionmen-ar.init";
-layers = (
-{
-components = (
-{
-name = "meem-ar.init";
-},
-{
-name = "doubleverticalbarbelowSymbol-ar";
-transform = "{1, 0, 0, 1, 113, -221}";
-}
-);
-layerId = master01;
-width = 525;
-}
-);
 },
 {
 glyphname = "ray-ar";
