@@ -1,16 +1,15 @@
-all: NoNameFixed-Regular.otf NoNameFixedTerminal-Regular.otf
+all: NoNameFixed-Regular.ttf NoNameFixedTerminal-Regular.ttf
 
 export SOURCE_DATE_EPOCH=$(shell stat -c "%Y" NoNameFixed.glyphs)
 
-NoNameFixedTerminal-Regular.otf: NoNameFixed.glyphs
+NoNameFixedTerminal-Regular.ttf: NoNameFixed.glyphs
 	@echo "  MAKE   $@"
 	@fontmake -g $<                                                        \
 		  --interpolate=".* Terminal Regular"                          \
-		  --output=otf                                                 \
+		  --output=ttf                                                 \
 		  --output-path=$@                                             \
 		  --verbose=WARNING                                            \
 		  --overlaps-backend=pathops                                   \
-		  --optimize-cff=1                                             \
 		  --master-dir="{tmp}"                                         \
 		  --instance-dir="{tmp}"                                       \
 		  --no-generate-GDEF
@@ -25,14 +24,13 @@ NoNameFixedTerminal-Regular.otf: NoNameFixed.glyphs
 		  --output-file=$@.s $@
 	 @mv $@.s $@
 
-NoNameFixed-Regular.otf: NoNameFixed.glyphs
+NoNameFixed-Regular.ttf: NoNameFixed.glyphs
 	@echo "  MAKE   $@"
 	@fontmake -g $<                                                        \
-		  --output=otf                                                 \
+		  --output=ttf                                                 \
 		  --output-path=$@                                             \
 		  --verbose=WARNING                                            \
 		  --overlaps-backend=pathops                                   \
-		  --optimize-cff=1                                             \
 		  --master-dir="{tmp}"                                         \
 		  --instance-dir="{tmp}"                                       \
 		  --no-generate-GDEF
