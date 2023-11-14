@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3227";
 classes = (
 {
 code = "annisfabove-ar
@@ -77262,41 +77262,13 @@ unicode = 066B;
 glyphname = "thousandseparator-ar";
 layers = (
 {
-layerId = master01;
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"274 255 OFFCURVE",
-"254 269 OFFCURVE",
-"248 269 CURVE SMOOTH",
-"235 269 OFFCURVE",
-"232 264 OFFCURVE",
-"221 264 CURVE SMOOTH",
-"211 264 OFFCURVE",
-"194 283 OFFCURVE",
-"194 304 CURVE SMOOTH",
-"194 338 OFFCURVE",
-"220 366 OFFCURVE",
-"256 366 CURVE SMOOTH",
-"294 366 OFFCURVE",
-"331 334 OFFCURVE",
-"331 268 CURVE SMOOTH",
-"331 142 OFFCURVE",
-"248 110 OFFCURVE",
-"219 110 CURVE SMOOTH",
-"202 110 OFFCURVE",
-"194 118 OFFCURVE",
-"194 133 CURVE SMOOTH",
-"194 150 OFFCURVE",
-"204 158 OFFCURVE",
-"214 158 CURVE SMOOTH",
-"235 158 OFFCURVE",
-"274 173 OFFCURVE",
-"274 229 CURVE SMOOTH"
-);
+name = "decimalseparator-ar";
+transform = "{-1, 0, 0, -1, 524, 486}";
 }
 );
+layerId = master01;
 width = 525;
 }
 );
@@ -104661,12 +104633,12 @@ name = "Replace Prefix";
 value = "Prefix; ";
 },
 {
-name = postscriptFontName;
-value = "NoNameFixedTerminal-Regular";
-},
-{
 name = familyName;
 value = "NoName Fixed Terminal";
+},
+{
+name = postscriptFontName;
+value = "NoNameFixedTerminal-Regular";
 }
 );
 instanceInterpolations = {
