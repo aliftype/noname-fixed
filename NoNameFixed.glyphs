@@ -77887,7 +77887,9 @@ unicode = 06F4;
 glyphname = "five-persian";
 layers = (
 {
-layerId = master01;
+associatedMasterId = master01;
+layerId = "EFC605F2-FDAC-4171-B042-D38C4466EFDA";
+name = "14 Nov 23 at 22:09";
 paths = (
 {
 closed = 1;
@@ -77936,6 +77938,61 @@ nodes = (
 );
 }
 );
+visible = 1;
+width = 525;
+},
+{
+layerId = master01;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"331 555 OFFCURVE",
+"460 421 OFFCURVE",
+"460 213 CURVE SMOOTH",
+"460 155 OFFCURVE",
+"432 45 OFFCURVE",
+"338 45 CURVE SMOOTH",
+"280 45 OFFCURVE",
+"261 95 OFFCURVE",
+"251 95 CURVE SMOOTH",
+"242 95 OFFCURVE",
+"218 51 OFFCURVE",
+"160 51 CURVE SMOOTH",
+"100 51 OFFCURVE",
+"65 122 OFFCURVE",
+"65 185 CURVE SMOOTH",
+"65 368 OFFCURVE",
+"232 555 OFFCURVE",
+"293 555 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"390 352 OFFCURVE",
+"310 469 OFFCURVE",
+"281 469 CURVE SMOOTH",
+"237 469 OFFCURVE",
+"129 316 OFFCURVE",
+"129 185 CURVE SMOOTH",
+"129 161 OFFCURVE",
+"140 117 OFFCURVE",
+"168 117 CURVE SMOOTH",
+"197 117 OFFCURVE",
+"232 165 OFFCURVE",
+"251 165 CURVE SMOOTH",
+"271 165 OFFCURVE",
+"303 116 OFFCURVE",
+"337 116 CURVE SMOOTH",
+"381 116 OFFCURVE",
+"390 183 OFFCURVE",
+"390 213 CURVE SMOOTH"
+);
+}
+);
+visible = 1;
 width = 525;
 }
 );
