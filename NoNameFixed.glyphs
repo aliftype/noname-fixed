@@ -103392,46 +103392,6 @@ instanceInterpolations = {
 master01 = 1;
 };
 name = Regular;
-},
-{
-customParameters = (
-{
-name = typoAscender;
-value = 750;
-},
-{
-name = typoDescender;
-value = -250;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 750;
-},
-{
-name = hheaDescender;
-value = -250;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = familyName;
-value = "NoName Fixed Terminal";
-},
-{
-name = postscriptFontName;
-value = "NoNameFixedTerminal-Regular";
-}
-);
-instanceInterpolations = {
-master01 = 1;
-};
-name = Regular;
 }
 );
 manufacturer = "Khaled Hosny";
