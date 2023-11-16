@@ -183,14 +183,6 @@ value = (
 );
 },
 {
-name = blueFuzz;
-value = 0;
-},
-{
-name = blueScale;
-value = 0.04546;
-},
-{
 name = isFixedPitch;
 value = 1;
 },
@@ -889,12 +881,6 @@ name = mark;
 );
 fontMaster = (
 {
-alignmentZones = (
-"{626, 11}",
-"{611, 11}",
-"{431, 11}",
-"{0, -11}"
-);
 ascender = 900;
 capHeight = 611;
 customParameters = (
@@ -940,18 +926,6 @@ value = -99;
 }
 );
 descender = -500;
-horizontalStems = (
-61,
-38,
-54,
-60,
-62,
-63,
-64,
-65,
-70,
-90
-);
 id = master01;
 userData = {
 GSOffsetHorizontal = 11;
@@ -959,18 +933,6 @@ GSOffsetKeepCompatible = 1;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
-verticalStems = (
-69,
-35,
-56,
-58,
-62,
-70,
-89,
-90,
-100,
-154
-);
 visible = 1;
 xHeight = 431;
 }
