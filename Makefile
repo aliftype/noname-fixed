@@ -9,6 +9,4 @@ NoNameFixed-Regular.ttf: NoNameFixed.glyphs
 		  --output-path=$@                                             \
 		  --verbose=WARNING                                            \
 		  --overlaps-backend=pathops                                   \
-		  --master-dir="{tmp}"                                         \
-		  --instance-dir="{tmp}"                                       \
 		  --no-generate-GDEF
