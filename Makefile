@@ -8,5 +8,4 @@ NoNameFixed-Regular.ttf: NoNameFixed.glyphs
 		  --output=ttf                                                 \
 		  --output-path=$@                                             \
 		  --verbose=WARNING                                            \
-		  --overlaps-backend=pathops                                   \
-		  --no-generate-GDEF
+		  --overlaps-backend=pathops
