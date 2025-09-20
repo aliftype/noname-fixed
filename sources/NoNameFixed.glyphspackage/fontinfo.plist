@@ -191,6 +191,10 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
+name = "Use Arabic Presentation Form Unicodes";
+value = 1;
+},
+{
 name = "Default Layer Width";
 value = "525";
 },
