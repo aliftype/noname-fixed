@@ -1,0 +1,19 @@
+{
+glyphname = "kafThreedotsbelow-ar";
+layers = (
+{
+components = (
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 51, -581}";
+},
+{
+name = "kaf-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06AE;
+}

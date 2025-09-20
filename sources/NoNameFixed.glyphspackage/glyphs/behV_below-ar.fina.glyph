@@ -1,0 +1,18 @@
+{
+glyphname = "behVbelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.fina";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 28, -890}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

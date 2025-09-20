@@ -1,0 +1,18 @@
+{
+glyphname = "kehehVabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "keheh-ar.fina";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, -108, -79}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

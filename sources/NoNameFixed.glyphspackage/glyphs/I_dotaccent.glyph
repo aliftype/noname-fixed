@@ -1,0 +1,19 @@
+{
+glyphname = Idotaccent;
+layers = (
+{
+components = (
+{
+name = dotaccent;
+transform = "{1, 0, 0, 1, 0, 169}";
+},
+{
+name = I;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0130;
+}

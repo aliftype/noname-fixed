@@ -1,0 +1,40 @@
+{
+glyphname = "Kje-cy";
+layers = (
+{
+components = (
+{
+name = K;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"203 749 OFFCURVE",
+"224 754 OFFCURVE",
+"235 758 CURVE SMOOTH",
+"376 806 OFFCURVE",
+"375 807 OFFCURVE",
+"386 807 CURVE SMOOTH",
+"403 807 OFFCURVE",
+"420 792 OFFCURVE",
+"420 772 CURVE SMOOTH",
+"420 750 OFFCURVE",
+"403 741 OFFCURVE",
+"388 736 CURVE SMOOTH",
+"252 690 OFFCURVE",
+"242 686 OFFCURVE",
+"235 686 CURVE SMOOTH",
+"209 686 OFFCURVE",
+"203 718 OFFCURVE",
+"203 727 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 040C;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "sheenDotbelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "sheen-ar.fina";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 123, 359}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

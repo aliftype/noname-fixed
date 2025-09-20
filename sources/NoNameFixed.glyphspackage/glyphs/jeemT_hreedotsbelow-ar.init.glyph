@@ -1,0 +1,18 @@
+{
+glyphname = "jeemThreedotsbelow-ar.init";
+layers = (
+{
+components = (
+{
+name = "jeem-ar.init";
+},
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{0.5, 0, 0, 0.5, 139, -445}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

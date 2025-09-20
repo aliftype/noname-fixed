@@ -1,0 +1,18 @@
+{
+glyphname = "lamDotabove-ar.init";
+layers = (
+{
+components = (
+{
+name = "lam-ar.init";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -17, 1153}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

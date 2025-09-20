@@ -1,0 +1,35 @@
+{
+glyphname = "numeral-greek";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"167 472 OFFCURVE",
+"155 491 OFFCURVE",
+"163 510 CURVE",
+"165 514 OFFCURVE",
+"223 596 OFFCURVE",
+"228 602 CURVE",
+"234 608 OFFCURVE",
+"243 612 OFFCURVE",
+"254 612 CURVE",
+"273 610 OFFCURVE",
+"286 595 OFFCURVE",
+"286 578 CURVE SMOOTH",
+"286 565 OFFCURVE",
+"282 559 OFFCURVE",
+"242 517 CURVE SMOOTH",
+"202 474 OFFCURVE",
+"201 473 OFFCURVE",
+"191 472 CURVE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0374;
+}

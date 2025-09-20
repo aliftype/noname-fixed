@@ -1,0 +1,19 @@
+{
+glyphname = "lam_jeem-ar.init";
+layers = (
+{
+components = (
+{
+name = "jeem-ar.init";
+},
+{
+name = "alef-ar.shorter";
+transform = "{1, 0, 0, 1, -59.064, 280.885}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FCC9;
+}

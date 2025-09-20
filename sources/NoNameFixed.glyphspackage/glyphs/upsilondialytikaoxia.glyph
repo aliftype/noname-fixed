@@ -1,0 +1,53 @@
+{
+glyphname = upsilondialytikaoxia;
+layers = (
+{
+components = (
+{
+name = dialytikaoxia;
+transform = "{1, 0, 0, 1, -22, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"488 91 OFFCURVE",
+"406 -5 OFFCURVE",
+"292 -5 CURVE SMOOTH",
+"174 -5 OFFCURVE",
+"110 135 OFFCURVE",
+"96 219 CURVE",
+"88 356 OFFCURVE",
+"60 372 OFFCURVE",
+"52 407 CURVE",
+"50 447 OFFCURVE",
+"102 447 OFFCURVE",
+"114 427 CURVE",
+"132 401 OFFCURVE",
+"164 305 OFFCURVE",
+"164 219 CURVE",
+"182 130 OFFCURVE",
+"240 63 OFFCURVE",
+"292 63 CURVE SMOOTH",
+"366 63 OFFCURVE",
+"420 131 OFFCURVE",
+"420 217 CURVE SMOOTH",
+"420 269 OFFCURVE",
+"398 351 OFFCURVE",
+"362 409 CURVE",
+"360 456 OFFCURVE",
+"410 458 OFFCURVE",
+"432 415 CURVE",
+"474 345 OFFCURVE",
+"488 281 OFFCURVE",
+"488 219 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1FE3;
+}

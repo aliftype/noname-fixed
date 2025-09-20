@@ -1,0 +1,20 @@
+{
+glyphname = "fathatan-ar";
+layers = (
+{
+components = (
+{
+name = "fatha-ar";
+transform = "{1, 0, 0, 1, 0, -195}";
+},
+{
+name = "fatha-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "064B,FE70";
+subCategory = Spacing;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "lamThreedotsbelow-ar";
+layers = (
+{
+components = (
+{
+name = Threedotsinverted.alt.comp;
+transform = "{1, 0, 0, 1, -113, -16}";
+},
+{
+name = "lam-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06B8;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "teh-ar.medi";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.medi";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 13, 82}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FE98;
+}

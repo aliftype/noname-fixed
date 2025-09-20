@@ -1,0 +1,30 @@
+{
+glyphname = "dotvowelbelow-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"197 -409 OFFCURVE",
+"246 -359 OFFCURVE",
+"263 -359 CURVE SMOOTH",
+"280 -359 OFFCURVE",
+"329 -411 OFFCURVE",
+"329 -430 CURVE SMOOTH",
+"329 -452 OFFCURVE",
+"279 -500 OFFCURVE",
+"263 -500 CURVE SMOOTH",
+"245 -500 OFFCURVE",
+"197 -450 OFFCURVE",
+"197 -430 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 065C;
+subCategory = Spacing;
+}

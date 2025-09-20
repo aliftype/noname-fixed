@@ -1,0 +1,158 @@
+{
+glyphname = "hizb-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"336 399 LINE",
+"441 399 LINE",
+"441 294 LINE",
+"516 220 LINE",
+"441 145 LINE",
+"441 41 LINE",
+"336 41 LINE",
+"262 -34 LINE",
+"187 41 LINE",
+"83 41 LINE",
+"83 145 LINE",
+"8 220 LINE",
+"83 294 LINE",
+"83 399 LINE",
+"187 399 LINE",
+"262 474 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"112 158 LINE",
+"200 70 LINE",
+"324 70 LINE",
+"412 158 LINE",
+"412 282 LINE",
+"324 370 LINE",
+"200 370 LINE",
+"112 282 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"412 70 LINE",
+"412 116 LINE",
+"366 70 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"366 370 LINE",
+"412 324 LINE",
+"412 370 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"112 324 LINE",
+"158 370 LINE",
+"112 370 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"112 116 LINE",
+"112 70 LINE",
+"158 70 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"229 399 LINE",
+"295 399 LINE",
+"262 432 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"441 253 LINE",
+"441 187 LINE",
+"474 220 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"83 187 LINE",
+"83 253 LINE",
+"50 220 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"262 8 LINE",
+"295 41 LINE",
+"229 41 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"333 336 LINE SMOOTH",
+"348 336 OFFCURVE",
+"352 332 OFFCURVE",
+"352 316 CURVE SMOOTH",
+"352 302 OFFCURVE",
+"348 298 OFFCURVE",
+"339 298 CURVE SMOOTH",
+"302 298 LINE",
+"282 282 LINE SMOOTH",
+"251 258 OFFCURVE",
+"197 217 OFFCURVE",
+"197 183 CURVE SMOOTH",
+"197 152 OFFCURVE",
+"212 122 OFFCURVE",
+"261 122 CURVE SMOOTH",
+"306 122 OFFCURVE",
+"312 137 OFFCURVE",
+"325 151 CURVE",
+"330 158 OFFCURVE",
+"335 163 OFFCURVE",
+"341 163 CURVE SMOOTH",
+"350 163 OFFCURVE",
+"359 155 OFFCURVE",
+"359 141 CURVE SMOOTH",
+"359 117 OFFCURVE",
+"325 88 OFFCURVE",
+"261 88 CURVE SMOOTH",
+"204 88 OFFCURVE",
+"166 118 OFFCURVE",
+"166 183 CURVE SMOOTH",
+"166 217 OFFCURVE",
+"198 258 OFFCURVE",
+"247 297 CURVE",
+"193 297 LINE",
+"189 281 OFFCURVE",
+"193 265 OFFCURVE",
+"176 265 CURVE SMOOTH",
+"163 265 OFFCURVE",
+"159 271 OFFCURVE",
+"159 286 CURVE SMOOTH",
+"159 302 OFFCURVE",
+"164 336 OFFCURVE",
+"193 336 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 06DE;
+}

@@ -1,0 +1,35 @@
+{
+glyphname = "dateseparator-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"412 390 OFFCURVE",
+"402 388 OFFCURVE",
+"374 388 CURVE SMOOTH",
+"234 388 OFFCURVE",
+"176 295 OFFCURVE",
+"176 192 CURVE SMOOTH",
+"176 162 OFFCURVE",
+"170 154 OFFCURVE",
+"143 154 CURVE SMOOTH",
+"117 154 OFFCURVE",
+"112 162 OFFCURVE",
+"112 192 CURVE SMOOTH",
+"112 352 OFFCURVE",
+"234 445 OFFCURVE",
+"374 445 CURVE SMOOTH",
+"402 445 OFFCURVE",
+"412 443 OFFCURVE",
+"412 417 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 060D;
+}

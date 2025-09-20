@@ -1,0 +1,19 @@
+{
+glyphname = "seenFourdotsabove-ar";
+layers = (
+{
+components = (
+{
+name = "fourdotsaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 93, 110}";
+},
+{
+name = "seen-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 075C;
+}

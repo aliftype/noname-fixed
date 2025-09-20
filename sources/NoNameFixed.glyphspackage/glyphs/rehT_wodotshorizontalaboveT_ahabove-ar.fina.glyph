@@ -1,0 +1,22 @@
+{
+glyphname = "rehTwodotshorizontalaboveTahabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "reh-ar.fina";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -58, -370}";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 0, -36}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

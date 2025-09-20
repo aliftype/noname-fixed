@@ -1,0 +1,19 @@
+{
+glyphname = "qaf-ar.medi";
+layers = (
+{
+components = (
+{
+name = "fehDotless-ar.medi";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 1, 137}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FED8;
+}

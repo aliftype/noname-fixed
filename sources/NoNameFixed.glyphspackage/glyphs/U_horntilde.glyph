@@ -1,0 +1,19 @@
+{
+glyphname = Uhorntilde;
+layers = (
+{
+components = (
+{
+name = Uhorn;
+},
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, -29, 417}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EEE;
+}

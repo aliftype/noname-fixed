@@ -1,0 +1,20 @@
+{
+glyphname = "fathatanCurly-ar";
+layers = (
+{
+components = (
+{
+name = "fathaCurly-ar";
+transform = "{1, 0, 0, 1, 0, -185}";
+},
+{
+name = "fathaCurly-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08E7;
+subCategory = Spacing;
+}

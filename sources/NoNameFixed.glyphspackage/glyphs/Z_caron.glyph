@@ -1,0 +1,19 @@
+{
+glyphname = Zcaron;
+layers = (
+{
+components = (
+{
+name = caron.cap;
+transform = "{1, 0, 0, 1, 0, 181}";
+},
+{
+name = Z;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 017D;
+}

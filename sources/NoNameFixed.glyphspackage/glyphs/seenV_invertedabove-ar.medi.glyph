@@ -1,0 +1,18 @@
+{
+glyphname = "seenVinvertedabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "seen-ar.medi";
+},
+{
+name = "vinvertedabove-ar";
+transform = "{1, 0, 0, 1, 36, -148}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

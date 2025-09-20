@@ -1,0 +1,17 @@
+{
+glyphname = "madda-ar";
+layers = (
+{
+components = (
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 0, 524}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0653;
+subCategory = Spacing;
+}

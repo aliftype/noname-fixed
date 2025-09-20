@@ -1,0 +1,18 @@
+{
+glyphname = "yehThreedotsbelow-ar.init";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init";
+},
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 15, -621}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

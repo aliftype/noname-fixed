@@ -1,0 +1,30 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"472 526 OFFCURVE",
+"448 474 OFFCURVE",
+"413 489 CURVE SMOOTH",
+"262 554 LINE",
+"111 489 LINE SMOOTH",
+"77 474 OFFCURVE",
+"53 526 OFFCURVE",
+"88 543 CURVE SMOOTH",
+"251 622 LINE SMOOTH",
+"258 625 OFFCURVE",
+"267 625 OFFCURVE",
+"274 622 CURVE SMOOTH",
+"437 543 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 005E;
+}

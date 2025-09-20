@@ -1,0 +1,17 @@
+{
+glyphname = tildecomb;
+layers = (
+{
+components = (
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, -525, 249}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0303;
+subCategory = Spacing;
+}

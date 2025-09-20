@@ -1,0 +1,18 @@
+{
+glyphname = rdotaccent;
+layers = (
+{
+components = (
+{
+name = dotaccent;
+},
+{
+name = r;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1E59;
+}

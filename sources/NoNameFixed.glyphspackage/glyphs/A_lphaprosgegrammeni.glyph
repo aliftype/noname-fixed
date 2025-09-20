@@ -1,0 +1,71 @@
+{
+glyphname = Alphaprosgegrammeni;
+layers = (
+{
+components = (
+{
+name = prosgegrammeni;
+transform = "{1, 0, 0, 1, 180, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"385 61 OFFCURVE",
+"401 61 OFFCURVE",
+"401 30 CURVE SMOOTH",
+"401 0 OFFCURVE",
+"380 0 OFFCURVE",
+"367 0 CURVE SMOOTH",
+"285 0 LINE SMOOTH",
+"271 0 OFFCURVE",
+"251 0 OFFCURVE",
+"251 30 CURVE SMOOTH",
+"251 61 OFFCURVE",
+"267 61 OFFCURVE",
+"296 61 CURVE",
+"278 165 LINE",
+"148 165 LINE",
+"130 61 LINE",
+"159 61 OFFCURVE",
+"175 61 OFFCURVE",
+"175 30 CURVE SMOOTH",
+"175 0 OFFCURVE",
+"155 0 OFFCURVE",
+"141 0 CURVE SMOOTH",
+"59 0 LINE SMOOTH",
+"46 0 OFFCURVE",
+"25 0 OFFCURVE",
+"25 30 CURVE SMOOTH",
+"25 43 OFFCURVE",
+"30 54 OFFCURVE",
+"39 59 CURVE",
+"43 62 OFFCURVE",
+"62 61 OFFCURVE",
+"73 61 CURVE",
+"170 585 LINE SMOOTH",
+"177 623 OFFCURVE",
+"190 623 OFFCURVE",
+"213 623 CURVE SMOOTH",
+"238 623 OFFCURVE",
+"249 622 OFFCURVE",
+"256 584 CURVE SMOOTH",
+"353 61 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"213 540 LINE",
+"160 226 LINE",
+"266 226 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1FBC;
+}

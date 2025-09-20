@@ -1,0 +1,34 @@
+{
+glyphname = alphatonos;
+layers = (
+{
+components = (
+{
+name = alpha;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"334 612 OFFCURVE",
+"340 585 OFFCURVE",
+"340 578 CURVE SMOOTH",
+"340 568 OFFCURVE",
+"262 480 OFFCURVE",
+"256 477 CURVE",
+"236 462 OFFCURVE",
+"203 485 OFFCURVE",
+"216 511 CURVE",
+"244 549 OFFCURVE",
+"284 612 OFFCURVE",
+"304 612 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 03AC;
+}

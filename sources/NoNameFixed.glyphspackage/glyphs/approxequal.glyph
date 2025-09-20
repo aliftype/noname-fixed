@@ -1,0 +1,21 @@
+{
+glyphname = approxequal;
+layers = (
+{
+components = (
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 0, 101}";
+},
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 0, -51}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 2248;
+}

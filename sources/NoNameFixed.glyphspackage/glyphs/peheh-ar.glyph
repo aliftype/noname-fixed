@@ -1,0 +1,19 @@
+{
+glyphname = "peheh-ar";
+layers = (
+{
+components = (
+{
+name = "fourdotsaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 63, 109}";
+},
+{
+name = "fehDotless-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "06A6,FB6E";
+}

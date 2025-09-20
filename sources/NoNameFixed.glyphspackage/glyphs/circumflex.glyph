@@ -1,0 +1,31 @@
+{
+glyphname = circumflex;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"430 521 OFFCURVE",
+"399 473 OFFCURVE",
+"366 493 CURVE SMOOTH",
+"263 555 LINE",
+"160 493 LINE SMOOTH",
+"127 473 OFFCURVE",
+"96 522 OFFCURVE",
+"129 543 CURVE SMOOTH",
+"247 618 LINE SMOOTH",
+"256 624 OFFCURVE",
+"268 624 OFFCURVE",
+"277 618 CURVE SMOOTH",
+"397 542 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 02C6;
+subCategory = Spacing;
+}

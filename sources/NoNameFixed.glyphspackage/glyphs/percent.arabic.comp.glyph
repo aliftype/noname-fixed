@@ -1,0 +1,36 @@
+{
+glyphname = percent.arabic.comp;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"437 652 OFFCURVE",
+"435 647 OFFCURVE",
+"431 637 CURVE SMOOTH",
+"157 -54 LINE SMOOTH",
+"153 -65 OFFCURVE",
+"146 -83 OFFCURVE",
+"122 -83 CURVE SMOOTH",
+"103 -83 OFFCURVE",
+"87 -67 OFFCURVE",
+"87 -48 CURVE SMOOTH",
+"87 -41 OFFCURVE",
+"89 -36 OFFCURVE",
+"93 -26 CURVE SMOOTH",
+"366 663 LINE SMOOTH",
+"371 675 OFFCURVE",
+"378 694 OFFCURVE",
+"402 694 CURVE SMOOTH",
+"422 694 OFFCURVE",
+"437 677 OFFCURVE",
+"437 659 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+}

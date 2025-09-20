@@ -1,0 +1,18 @@
+{
+glyphname = imacron;
+layers = (
+{
+components = (
+{
+name = dotlessi;
+},
+{
+name = macron;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 012B;
+}

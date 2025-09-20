@@ -1,0 +1,25 @@
+{
+glyphname = "hahTahTwodotshorizontalbelow-ar.medi";
+production = uni076F.medi;
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -15, -959}";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, -18, -809}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+script = arabic;
+category = Letter;
+}

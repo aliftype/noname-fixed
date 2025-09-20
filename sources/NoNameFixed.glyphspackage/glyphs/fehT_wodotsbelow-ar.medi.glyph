@@ -1,0 +1,18 @@
+{
+glyphname = "fehTwodotsbelow-ar.medi";
+layers = (
+{
+components = (
+{
+name = "fehDotless-ar.medi";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 1, -621}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

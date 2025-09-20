@@ -1,0 +1,31 @@
+{
+glyphname = minus;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"486 271 OFFCURVE",
+"453 271 OFFCURVE",
+"441 271 CURVE SMOOTH",
+"83 271 LINE SMOOTH",
+"71 271 OFFCURVE",
+"38 271 OFFCURVE",
+"38 306 CURVE SMOOTH",
+"38 341 OFFCURVE",
+"75 341 OFFCURVE",
+"89 341 CURVE SMOOTH",
+"435 341 LINE SMOOTH",
+"449 341 OFFCURVE",
+"486 341 OFFCURVE",
+"486 306 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 2212;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "tahThreedots-ar";
+layers = (
+{
+components = (
+{
+name = "tah-ar";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 118, 389}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 069F;
+}

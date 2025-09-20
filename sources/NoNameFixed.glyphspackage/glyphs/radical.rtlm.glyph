@@ -1,0 +1,17 @@
+{
+glyphname = radical.rtlm;
+layers = (
+{
+components = (
+{
+name = radical;
+transform = "{-1, 0, 0, 1, 525, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+leftMetricsKey = "=|radical";
+rightMetricsKey = "=|radical";
+}

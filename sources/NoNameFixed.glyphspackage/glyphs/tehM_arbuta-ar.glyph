@@ -1,0 +1,19 @@
+{
+glyphname = "tehMarbuta-ar";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -27, 212}";
+},
+{
+name = "heh-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "0629,FE93";
+}

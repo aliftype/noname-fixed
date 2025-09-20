@@ -1,0 +1,51 @@
+{
+glyphname = "zedieresis-cy";
+layers = (
+{
+components = (
+{
+name = "ze-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"314 590 OFFCURVE",
+"340 610 OFFCURVE",
+"364 610 CURVE SMOOTH",
+"393 610 OFFCURVE",
+"414 587 OFFCURVE",
+"414 560 CURVE SMOOTH",
+"414 535 OFFCURVE",
+"394 510 OFFCURVE",
+"364 510 CURVE SMOOTH",
+"336 510 OFFCURVE",
+"314 534 OFFCURVE",
+"314 560 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"110 590 OFFCURVE",
+"136 610 OFFCURVE",
+"160 610 CURVE SMOOTH",
+"189 610 OFFCURVE",
+"210 587 OFFCURVE",
+"210 560 CURVE SMOOTH",
+"210 535 OFFCURVE",
+"190 510 OFFCURVE",
+"160 510 CURVE SMOOTH",
+"132 510 OFFCURVE",
+"110 534 OFFCURVE",
+"110 560 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04DF;
+}

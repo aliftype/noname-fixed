@@ -1,0 +1,18 @@
+{
+glyphname = "yehKashmiri-ar.fina";
+layers = (
+{
+components = (
+{
+name = "yehFarsi-ar.fina";
+},
+{
+name = ring;
+transform = "{1, 0, 0, 1, -13, -910}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

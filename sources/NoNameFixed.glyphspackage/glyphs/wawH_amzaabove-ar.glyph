@@ -1,0 +1,19 @@
+{
+glyphname = "wawHamzaabove-ar";
+layers = (
+{
+components = (
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, -26, -154}";
+},
+{
+name = "waw-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "0624,FE85";
+}

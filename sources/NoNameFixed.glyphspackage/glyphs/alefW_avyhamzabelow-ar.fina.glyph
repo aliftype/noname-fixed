@@ -1,0 +1,18 @@
+{
+glyphname = "alefWavyhamzabelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "alef-ar.fina";
+},
+{
+name = "wavyhamzabelow-ar";
+transform = "{1, 0, 0, 1, -40, 335}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "hahThreedotsupbelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "hah-ar.fina";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 13, 26}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

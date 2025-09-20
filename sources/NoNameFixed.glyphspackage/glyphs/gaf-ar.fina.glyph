@@ -1,0 +1,19 @@
+{
+glyphname = "gaf-ar.fina";
+layers = (
+{
+components = (
+{
+name = "gafsarkashabove-ar";
+transform = "{1, 0, 0, 1, -138, -28}";
+},
+{
+name = "keheh-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB93;
+}

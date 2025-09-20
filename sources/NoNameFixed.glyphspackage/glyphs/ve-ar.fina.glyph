@@ -1,0 +1,19 @@
+{
+glyphname = "ve-ar.fina";
+layers = (
+{
+components = (
+{
+name = "waw-ar.fina";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, -10, 334}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBDF;
+}

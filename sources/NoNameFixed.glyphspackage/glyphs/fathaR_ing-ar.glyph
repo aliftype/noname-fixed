@@ -1,0 +1,21 @@
+{
+glyphname = "fathaRing-ar";
+layers = (
+{
+components = (
+{
+name = "sukunoval-ar";
+transform = "{1, 0, 0, 1, 1, -41}";
+},
+{
+name = "fatha-ar";
+transform = "{1, 0, 0, 1, 1, 24}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08F4;
+subCategory = Spacing;
+}

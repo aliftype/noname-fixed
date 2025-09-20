@@ -1,0 +1,16 @@
+{
+glyphname = periodcentered;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 243}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 00B7;
+}

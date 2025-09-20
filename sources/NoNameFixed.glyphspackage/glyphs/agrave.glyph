@@ -1,0 +1,18 @@
+{
+glyphname = agrave;
+layers = (
+{
+components = (
+{
+name = a;
+},
+{
+name = grave;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 00E0;
+}

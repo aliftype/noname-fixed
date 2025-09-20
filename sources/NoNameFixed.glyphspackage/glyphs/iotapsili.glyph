@@ -1,0 +1,19 @@
+{
+glyphname = iotapsili;
+layers = (
+{
+components = (
+{
+name = koronis;
+transform = "{1, 0, 0, 1, -18, 0}";
+},
+{
+name = iota;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1F30;
+}

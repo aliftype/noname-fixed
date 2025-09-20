@@ -1,0 +1,18 @@
+{
+glyphname = "lamDoublebar-ar.medi";
+layers = (
+{
+components = (
+{
+name = "doublestroke-ar";
+transform = "{1, 0, 0, 1, 17, 110}";
+},
+{
+name = "lam-ar.medi";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

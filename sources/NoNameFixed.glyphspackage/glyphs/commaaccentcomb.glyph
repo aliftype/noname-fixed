@@ -1,0 +1,42 @@
+{
+glyphname = commaaccentcomb;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-200 -190 OFFCURVE",
+"-277 -231 OFFCURVE",
+"-301 -231 CURVE SMOOTH",
+"-313 -231 OFFCURVE",
+"-325 -218 OFFCURVE",
+"-325 -207 CURVE SMOOTH",
+"-325 -192 OFFCURVE",
+"-311 -188 OFFCURVE",
+"-304 -186 CURVE SMOOTH",
+"-295 -183 OFFCURVE",
+"-259 -171 OFFCURVE",
+"-248 -124 CURVE",
+"-253 -126 OFFCURVE",
+"-259 -127 OFFCURVE",
+"-263 -127 CURVE SMOOTH",
+"-288 -127 OFFCURVE",
+"-310 -108 OFFCURVE",
+"-310 -79 CURVE SMOOTH",
+"-310 -55 OFFCURVE",
+"-292 -33 OFFCURVE",
+"-262 -33 CURVE SMOOTH",
+"-229 -33 OFFCURVE",
+"-200 -62 OFFCURVE",
+"-200 -108 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0326;
+subCategory = Spacing;
+}

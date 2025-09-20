@@ -1,0 +1,18 @@
+{
+glyphname = "wawring-ar.fina";
+layers = (
+{
+components = (
+{
+name = "waw-ar.fina";
+},
+{
+name = "sukunoval-ar";
+transform = "{1, 0, 0, 1, -45, -748}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

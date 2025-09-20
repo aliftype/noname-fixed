@@ -1,0 +1,18 @@
+{
+glyphname = "gafInvertedstroke-ar.fina";
+layers = (
+{
+components = (
+{
+name = "gafsarkashabove-ar";
+transform = "{1, 0, 0, 1, 91, -158}";
+},
+{
+name = "keheh-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

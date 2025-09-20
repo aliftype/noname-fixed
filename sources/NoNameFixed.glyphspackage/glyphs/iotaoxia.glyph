@@ -1,0 +1,34 @@
+{
+glyphname = iotaoxia;
+layers = (
+{
+components = (
+{
+name = iota;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"320 612 OFFCURVE",
+"326 585 OFFCURVE",
+"326 578 CURVE SMOOTH",
+"326 568 OFFCURVE",
+"248 480 OFFCURVE",
+"242 477 CURVE",
+"222 462 OFFCURVE",
+"190 485 OFFCURVE",
+"202 511 CURVE",
+"230 549 OFFCURVE",
+"270 612 OFFCURVE",
+"290 612 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1F77;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "yehKashmiri-ar.init";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init";
+},
+{
+name = ring;
+transform = "{1, 0, 0, 1, -33, -597}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

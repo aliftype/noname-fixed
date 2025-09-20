@@ -1,0 +1,23 @@
+{
+glyphname = "fathatan-ar.medi";
+layers = (
+{
+components = (
+{
+name = "fatha-ar";
+transform = "{1, 0, 0, 1, 17, -153}";
+},
+{
+name = "fatha-ar";
+transform = "{1, 0, 0, 1, 17, 0}";
+},
+{
+name = "kashida-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FE71;
+}

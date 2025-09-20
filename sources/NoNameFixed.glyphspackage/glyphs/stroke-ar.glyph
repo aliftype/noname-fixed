@@ -1,0 +1,31 @@
+{
+glyphname = "stroke-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"351 820 LINE SMOOTH",
+"382 820 OFFCURVE",
+"395 817 OFFCURVE",
+"395 788 CURVE SMOOTH",
+"395 760 OFFCURVE",
+"383 751 OFFCURVE",
+"351 751 CURVE SMOOTH",
+"171 751 LINE SMOOTH",
+"142 751 OFFCURVE",
+"129 755 OFFCURVE",
+"129 782 CURVE SMOOTH",
+"129 810 OFFCURVE",
+"141 820 OFFCURVE",
+"171 820 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+subCategory = Spacing;
+}

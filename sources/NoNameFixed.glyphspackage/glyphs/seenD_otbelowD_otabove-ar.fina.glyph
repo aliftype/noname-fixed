@@ -1,0 +1,22 @@
+{
+glyphname = "seenDotbelowDotabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "seen-ar.fina";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 123, 359}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 92, 1091}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

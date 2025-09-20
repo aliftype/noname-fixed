@@ -1,0 +1,18 @@
+{
+glyphname = uhungarumlaut;
+layers = (
+{
+components = (
+{
+name = hungarumlaut;
+},
+{
+name = u;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0171;
+}

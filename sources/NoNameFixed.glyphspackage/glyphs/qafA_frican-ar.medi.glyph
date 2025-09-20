@@ -1,0 +1,14 @@
+{
+glyphname = "qafAfrican-ar.medi";
+layers = (
+{
+components = (
+{
+name = "feh-ar.medi";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

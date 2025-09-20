@@ -1,0 +1,29 @@
+{
+glyphname = anoteleia;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"187 607 OFFCURVE",
+"202 664 OFFCURVE",
+"262 664 CURVE SMOOTH",
+"325 664 OFFCURVE",
+"338 604 OFFCURVE",
+"338 588 CURVE SMOOTH",
+"338 570 OFFCURVE",
+"322 513 OFFCURVE",
+"262 513 CURVE SMOOTH",
+"247 513 OFFCURVE",
+"187 528 OFFCURVE",
+"187 589 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0387;
+}

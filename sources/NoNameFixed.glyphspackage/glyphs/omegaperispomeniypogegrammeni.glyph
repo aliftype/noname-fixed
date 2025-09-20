@@ -1,0 +1,49 @@
+{
+glyphname = omegaperispomeniypogegrammeni;
+layers = (
+{
+components = (
+{
+name = omegaypogegrammeni;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"440 629 OFFCURVE",
+"440 604 OFFCURVE",
+"440 597 CURVE",
+"436 535 OFFCURVE",
+"362 525 OFFCURVE",
+"338 525 CURVE SMOOTH",
+"282 525 OFFCURVE",
+"226 567 OFFCURVE",
+"192 567 CURVE SMOOTH",
+"178 567 OFFCURVE",
+"154 564 OFFCURVE",
+"154 550 CURVE",
+"150 517 OFFCURVE",
+"90 514 OFFCURVE",
+"90 555 CURVE SMOOTH",
+"90 597 OFFCURVE",
+"134 629 OFFCURVE",
+"196 629 CURVE SMOOTH",
+"262 626 OFFCURVE",
+"286 588 OFFCURVE",
+"338 588 CURVE SMOOTH",
+"360 588 OFFCURVE",
+"376 594 OFFCURVE",
+"376 602 CURVE SMOOTH",
+"376 608 OFFCURVE",
+"380 629 OFFCURVE",
+"406 629 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1FF7;
+}

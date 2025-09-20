@@ -1,0 +1,20 @@
+{
+glyphname = "sindhiampersand-ar";
+layers = (
+{
+components = (
+{
+name = "doubleverticalbarbelowSymbol-ar";
+transform = "{1, 0, 0, 1, 40, 0}";
+},
+{
+name = "hamza-ar";
+transform = "{1, 0, 0, 1, -11, 64}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06FD;
+}

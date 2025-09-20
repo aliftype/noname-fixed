@@ -1,0 +1,30 @@
+{
+glyphname = "teh_hah-ar.init";
+layers = (
+{
+components = (
+{
+name = "hah-ar.init";
+transform = "{1, 0, 0, 1, 0.365, -0.109}";
+},
+{
+name = "behDotless-ar.hah";
+transform = "{1, 0, 0, 1, 10.745, 261.986}";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 10.745, 348.986}";
+}
+);
+layerId = master01;
+width = 525;
+},
+{
+associatedMasterId = master01;
+layerId = "D53CAE3F-16FE-436C-A51F-89FABD2BA98B";
+name = Back;
+width = 0;
+}
+);
+unicode = FCA2;
+}

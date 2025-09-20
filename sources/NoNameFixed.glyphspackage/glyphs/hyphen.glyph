@@ -1,0 +1,31 @@
+{
+glyphname = hyphen;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"468 271 OFFCURVE",
+"433 271 OFFCURVE",
+"421 271 CURVE SMOOTH",
+"103 271 LINE SMOOTH",
+"91 271 OFFCURVE",
+"56 271 OFFCURVE",
+"56 306 CURVE SMOOTH",
+"56 341 OFFCURVE",
+"91 341 OFFCURVE",
+"103 341 CURVE SMOOTH",
+"421 341 LINE SMOOTH",
+"433 341 OFFCURVE",
+"468 341 OFFCURVE",
+"468 306 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 002D;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "yehFarsiFourbelow-ar.init";
+layers = (
+{
+components = (
+{
+name = "fourbelow-ar";
+transform = "{1, 0, 0, 1, 0, -780}";
+},
+{
+name = "alefMaksura-ar.init";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

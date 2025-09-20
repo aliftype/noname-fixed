@@ -1,0 +1,16 @@
+{
+glyphname = nonbreakinghyphen;
+layers = (
+{
+components = (
+{
+name = hyphen;
+transform = "{1, 0, 0, 1, 1, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 2011;
+}

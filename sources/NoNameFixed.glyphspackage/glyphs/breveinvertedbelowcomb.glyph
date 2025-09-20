@@ -1,0 +1,17 @@
+{
+glyphname = breveinvertedbelowcomb;
+layers = (
+{
+components = (
+{
+name = breveinvertedcomb;
+transform = "{1, 0, 0, 1, 0, -705}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 032F;
+subCategory = Spacing;
+}

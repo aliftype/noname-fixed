@@ -1,0 +1,19 @@
+{
+glyphname = Umacron;
+layers = (
+{
+components = (
+{
+name = macron;
+transform = "{1, 0, 0, 1, 0, 159}";
+},
+{
+name = U;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 016A;
+}

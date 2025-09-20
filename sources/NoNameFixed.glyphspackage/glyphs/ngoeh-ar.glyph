@@ -1,0 +1,23 @@
+{
+glyphname = "ngoeh-ar";
+layers = (
+{
+components = (
+{
+name = "gafsarkashabove-ar";
+transform = "{1, 0, 0, 1, -42, -42}";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -118, 279}";
+},
+{
+name = "keheh-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "06B1,FB9A";
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "gafThreedots-ar";
+layers = (
+{
+components = (
+{
+name = "gafsarkashabove-ar";
+transform = "{1, 0, 0, 1, -54, 0}";
+},
+{
+name = "keheh-ar";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, -183, 112}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06B4;
+}

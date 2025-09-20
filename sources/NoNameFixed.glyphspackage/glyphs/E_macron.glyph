@@ -1,0 +1,19 @@
+{
+glyphname = Emacron;
+layers = (
+{
+components = (
+{
+name = macron;
+transform = "{1, 0, 0, 1, 0, 159}";
+},
+{
+name = E;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0112;
+}

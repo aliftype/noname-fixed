@@ -1,0 +1,18 @@
+{
+glyphname = ebreve;
+layers = (
+{
+components = (
+{
+name = breve;
+},
+{
+name = e;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0115;
+}

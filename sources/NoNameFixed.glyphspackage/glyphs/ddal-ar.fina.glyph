@@ -1,0 +1,19 @@
+{
+glyphname = "ddal-ar.fina";
+layers = (
+{
+components = (
+{
+name = "dal-ar.fina";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, -99, 80}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB89;
+}

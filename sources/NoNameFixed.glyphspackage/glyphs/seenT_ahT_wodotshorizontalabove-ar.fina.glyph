@@ -1,0 +1,22 @@
+{
+glyphname = "seenTahTwodotshorizontalabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "seen-ar.fina";
+},
+{
+name = "twodotsverticalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -167, -164}";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 71, 81}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

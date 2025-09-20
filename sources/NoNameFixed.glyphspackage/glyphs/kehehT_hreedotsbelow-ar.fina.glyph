@@ -1,0 +1,18 @@
+{
+glyphname = "kehehThreedotsbelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 4, -621}";
+},
+{
+name = "keheh-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

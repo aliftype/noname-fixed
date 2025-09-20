@@ -1,0 +1,15 @@
+{
+glyphname = "kaf-ar.medi";
+layers = (
+{
+components = (
+{
+name = "keheh-ar.medi";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FEDC;
+}

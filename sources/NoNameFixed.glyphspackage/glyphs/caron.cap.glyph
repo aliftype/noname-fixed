@@ -1,0 +1,30 @@
+{
+glyphname = caron.cap;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"272 484 LINE SMOOTH",
+"266 482 OFFCURVE",
+"259 482 OFFCURVE",
+"253 484 CURVE SMOOTH",
+"135 527 LINE SMOOTH",
+"100 540 OFFCURVE",
+"118 594 OFFCURVE",
+"154 583 CURVE SMOOTH",
+"263 550 LINE",
+"372 583 LINE SMOOTH",
+"408 594 OFFCURVE",
+"426 540 OFFCURVE",
+"390 527 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+subCategory = Spacing;
+}

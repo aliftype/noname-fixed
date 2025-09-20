@@ -1,0 +1,38 @@
+{
+glyphname = grave;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"368 520 OFFCURVE",
+"361 488 OFFCURVE",
+"335 488 CURVE SMOOTH",
+"328 488 OFFCURVE",
+"323 490 OFFCURVE",
+"317 493 CURVE SMOOTH",
+"184 552 LINE SMOOTH",
+"160 563 OFFCURVE",
+"156 576 OFFCURVE",
+"156 587 CURVE SMOOTH",
+"156 607 OFFCURVE",
+"171 622 OFFCURVE",
+"191 622 CURVE",
+"191 622 OFFCURVE",
+"199 622 OFFCURVE",
+"210 617 CURVE SMOOTH",
+"343 557 LINE SMOOTH",
+"357 551 OFFCURVE",
+"368 546 OFFCURVE",
+"368 528 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0060;
+subCategory = Spacing;
+}

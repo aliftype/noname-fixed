@@ -1,0 +1,18 @@
+{
+glyphname = "qafThreedotsabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "fehDotless-ar.medi";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 3, 416}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

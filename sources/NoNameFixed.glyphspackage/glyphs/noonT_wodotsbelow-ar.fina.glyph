@@ -1,0 +1,18 @@
+{
+glyphname = "noonTwodotsbelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "noon-ar.fina";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 36, -953}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

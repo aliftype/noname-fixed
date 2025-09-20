@@ -1,0 +1,36 @@
+{
+glyphname = upsilonmacron;
+layers = (
+{
+components = (
+{
+name = upsilon;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"425 590 OFFCURVE",
+"428 585 OFFCURVE",
+"430 562 CURVE",
+"426 539 OFFCURVE",
+"423 542 OFFCURVE",
+"418 536 CURVE",
+"106 536 LINE",
+"103 535 OFFCURVE",
+"95 545 OFFCURVE",
+"94 562 CURVE",
+"94 579 OFFCURVE",
+"100 598 OFFCURVE",
+"106 598 CURVE SMOOTH",
+"418 598 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1FE1;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "alefMadda-ar";
+layers = (
+{
+components = (
+{
+name = "alef-ar";
+},
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 42, 521}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "0622,FE81";
+}

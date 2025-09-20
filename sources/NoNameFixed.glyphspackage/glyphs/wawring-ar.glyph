@@ -1,0 +1,19 @@
+{
+glyphname = "wawring-ar";
+layers = (
+{
+components = (
+{
+name = "sukunoval-ar";
+transform = "{1, 0, 0, 1, -59, -740}";
+},
+{
+name = "waw-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06C4;
+}

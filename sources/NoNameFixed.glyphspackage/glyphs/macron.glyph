@@ -1,0 +1,32 @@
+{
+glyphname = macron;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"452 524 OFFCURVE",
+"428 524 OFFCURVE",
+"412 524 CURVE SMOOTH",
+"115 524 LINE SMOOTH",
+"98 524 OFFCURVE",
+"74 524 OFFCURVE",
+"74 556 CURVE SMOOTH",
+"74 587 OFFCURVE",
+"98 587 OFFCURVE",
+"114 587 CURVE SMOOTH",
+"412 587 LINE SMOOTH",
+"429 587 OFFCURVE",
+"452 587 OFFCURVE",
+"452 555 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 00AF;
+subCategory = Spacing;
+}

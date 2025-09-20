@@ -1,0 +1,18 @@
+{
+glyphname = "seenFourabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "fourbelow-ar";
+transform = "{1, 0, 0, 1, 37, 30}";
+},
+{
+name = "seen-ar.medi";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

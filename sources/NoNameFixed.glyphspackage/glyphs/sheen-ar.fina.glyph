@@ -1,0 +1,19 @@
+{
+glyphname = "sheen-ar.fina";
+layers = (
+{
+components = (
+{
+name = "seen-ar.fina";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 93, 411}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FEB6;
+}

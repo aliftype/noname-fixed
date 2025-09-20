@@ -1,0 +1,19 @@
+{
+glyphname = "zainVinvertedabove-ar";
+layers = (
+{
+components = (
+{
+name = "vinvertedabove-ar";
+transform = "{1, 0, 0, 1, -29, -58}";
+},
+{
+name = "zain-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08B2;
+}

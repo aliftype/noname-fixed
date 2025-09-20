@@ -1,0 +1,19 @@
+{
+glyphname = oslashacute;
+layers = (
+{
+components = (
+{
+name = oslash;
+},
+{
+name = acute;
+transform = "{1, 0, 0, 1, -5, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 01FF;
+}

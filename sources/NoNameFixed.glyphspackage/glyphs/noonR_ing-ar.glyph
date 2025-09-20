@@ -1,0 +1,19 @@
+{
+glyphname = "noonRing-ar";
+layers = (
+{
+components = (
+{
+name = "sukunoval-ar";
+transform = "{1, 0, 0, 1, -3, -900}";
+},
+{
+name = "noonghunna-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06BC;
+}

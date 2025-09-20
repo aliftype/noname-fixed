@@ -1,0 +1,40 @@
+{
+glyphname = "iigrave-cy";
+layers = (
+{
+components = (
+{
+name = "ii-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"144 624 OFFCURVE",
+"161 639 OFFCURVE",
+"178 639 CURVE SMOOTH",
+"194 639 OFFCURVE",
+"232 618 OFFCURVE",
+"329 577 CURVE SMOOTH",
+"340 572 OFFCURVE",
+"357 565 OFFCURVE",
+"357 546 CURVE SMOOTH",
+"357 531 OFFCURVE",
+"345 506 OFFCURVE",
+"324 506 CURVE SMOOTH",
+"317 506 OFFCURVE",
+"311 509 OFFCURVE",
+"304 511 CURVE",
+"162 573 OFFCURVE",
+"144 574 OFFCURVE",
+"144 604 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 045D;
+}

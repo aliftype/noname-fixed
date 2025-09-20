@@ -1,0 +1,23 @@
+{
+glyphname = "noonTahabove-ar";
+layers = (
+{
+components = (
+{
+name = "noonghunna-ar";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 16, 864}";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 17, 80}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0768;
+}

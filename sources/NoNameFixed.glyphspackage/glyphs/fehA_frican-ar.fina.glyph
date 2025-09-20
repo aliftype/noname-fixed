@@ -1,0 +1,14 @@
+{
+glyphname = "fehAfrican-ar.fina";
+layers = (
+{
+components = (
+{
+name = "fehDotless-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

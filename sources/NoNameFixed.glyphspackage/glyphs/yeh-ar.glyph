@@ -1,0 +1,19 @@
+{
+glyphname = "yeh-ar";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -17, -795}";
+},
+{
+name = "alefMaksura-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "064A,FEF1";
+}

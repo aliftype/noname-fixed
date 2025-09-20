@@ -1,0 +1,18 @@
+{
+glyphname = "lamThreedotsbelow-ar.medi";
+layers = (
+{
+components = (
+{
+name = "lam-ar.medi";
+},
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 14, -621}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

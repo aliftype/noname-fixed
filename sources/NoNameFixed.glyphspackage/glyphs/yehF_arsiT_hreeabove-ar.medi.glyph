@@ -1,0 +1,18 @@
+{
+glyphname = "yehFarsiThreeabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "threeabove-ar";
+transform = "{1, 0, 0, 1, -86, -157}";
+},
+{
+name = "alefMaksura-ar.medi";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

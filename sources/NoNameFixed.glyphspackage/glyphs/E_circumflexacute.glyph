@@ -1,0 +1,19 @@
+{
+glyphname = Ecircumflexacute;
+layers = (
+{
+components = (
+{
+name = Ecircumflex;
+},
+{
+name = acute;
+transform = "{1, 0, 0, 1, 0, 297}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EBE;
+}

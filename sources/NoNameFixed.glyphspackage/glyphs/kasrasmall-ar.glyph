@@ -1,0 +1,17 @@
+{
+glyphname = "kasrasmall-ar";
+layers = (
+{
+components = (
+{
+name = "fathasmall-ar";
+transform = "{1, 0, 0, 1, -25, -1202}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 061A;
+subCategory = Spacing;
+}

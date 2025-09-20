@@ -1,0 +1,19 @@
+{
+glyphname = "behVabove-ar";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 14, -213}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0756;
+}

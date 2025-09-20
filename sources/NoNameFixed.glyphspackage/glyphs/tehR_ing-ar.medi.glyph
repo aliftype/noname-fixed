@@ -1,0 +1,18 @@
+{
+glyphname = "tehRing-ar.medi";
+layers = (
+{
+components = (
+{
+name = "teh-ar.medi";
+},
+{
+name = "sukunoval-ar";
+transform = "{1, 0, 0, 1, 17, -673}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

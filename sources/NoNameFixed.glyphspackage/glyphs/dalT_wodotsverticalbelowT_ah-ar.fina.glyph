@@ -1,0 +1,18 @@
+{
+glyphname = "dalTwodotsverticalbelowTah-ar.fina";
+layers = (
+{
+components = (
+{
+name = "twodotsverticalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -28, -797}";
+},
+{
+name = "ddal-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

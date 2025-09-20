@@ -1,0 +1,19 @@
+{
+glyphname = Acircumflexgrave;
+layers = (
+{
+components = (
+{
+name = Acircumflex;
+},
+{
+name = grave;
+transform = "{1, 0, 0, 1, 1, 297}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EA6;
+}

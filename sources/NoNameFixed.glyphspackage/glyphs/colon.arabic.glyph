@@ -1,0 +1,19 @@
+{
+glyphname = colon.arabic;
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -1, 595}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -1, 915}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

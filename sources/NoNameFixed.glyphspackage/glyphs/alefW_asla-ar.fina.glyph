@@ -1,0 +1,19 @@
+{
+glyphname = "alefWasla-ar.fina";
+layers = (
+{
+components = (
+{
+name = "alef-ar.fina.short";
+},
+{
+name = "wasla-ar";
+transform = "{1, 0, 0, 1, 0, 67}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB51;
+}

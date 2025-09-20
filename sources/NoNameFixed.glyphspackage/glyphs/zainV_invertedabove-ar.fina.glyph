@@ -1,0 +1,22 @@
+{
+glyphname = "zainVinvertedabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "reh-ar.fina";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -29, 985}";
+},
+{
+name = "vinvertedabove-ar";
+transform = "{1, 0, 0, 1, -29, -58}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

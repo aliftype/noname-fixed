@@ -1,0 +1,19 @@
+{
+glyphname = Gcircumflex;
+layers = (
+{
+components = (
+{
+name = circumflex.cap;
+transform = "{1, 0, 0, 1, 0, 181}";
+},
+{
+name = G;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 011C;
+}

@@ -1,0 +1,15 @@
+{
+glyphname = "noonAfrican-ar.fina";
+layers = (
+{
+components = (
+{
+name = "noonghunna-ar.fina";
+transform = "{1, 0, 0, 1, 1, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

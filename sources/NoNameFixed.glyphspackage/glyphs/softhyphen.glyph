@@ -1,0 +1,19 @@
+{
+glyphname = softhyphen;
+layers = (
+{
+components = (
+{
+name = hyphen;
+transform = "{1, 0, 0, 1, 0, 160}";
+},
+{
+name = charbox.comp;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 00AD;
+}

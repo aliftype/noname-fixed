@@ -1,0 +1,34 @@
+{
+glyphname = upsilonvaria;
+layers = (
+{
+components = (
+{
+name = upsilon;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"218 612 OFFCURVE",
+"257 549 OFFCURVE",
+"285 511 CURVE",
+"298 485 OFFCURVE",
+"265 462 OFFCURVE",
+"245 477 CURVE",
+"239 480 OFFCURVE",
+"162 568 OFFCURVE",
+"162 578 CURVE SMOOTH",
+"162 585 OFFCURVE",
+"168 612 OFFCURVE",
+"197 612 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1F7A;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = invisibleplus;
+layers = (
+{
+components = (
+{
+name = charbox.comp;
+},
+{
+name = plus;
+transform = "{1, 0, 0, 1, 0, 160}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 2064;
+}

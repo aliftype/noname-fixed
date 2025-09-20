@@ -1,0 +1,36 @@
+{
+glyphname = exclam.arabic;
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -1, 590}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"271 732 OFFCURVE",
+"312 728 OFFCURVE",
+"312 675 CURVE",
+"302 319 LINE SMOOTH",
+"301 294 OFFCURVE",
+"275 294 OFFCURVE",
+"262 294 CURVE SMOOTH",
+"249 294 OFFCURVE",
+"222 294 OFFCURVE",
+"221 320 CURVE SMOOTH",
+"212 675 LINE SMOOTH",
+"211 728 OFFCURVE",
+"253 732 OFFCURVE",
+"262 732 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+}

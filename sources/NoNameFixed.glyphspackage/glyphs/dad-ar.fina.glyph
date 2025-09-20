@@ -1,0 +1,19 @@
+{
+glyphname = "dad-ar.fina";
+layers = (
+{
+components = (
+{
+name = "sad-ar.fina";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 127, 1068}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FEBE;
+}

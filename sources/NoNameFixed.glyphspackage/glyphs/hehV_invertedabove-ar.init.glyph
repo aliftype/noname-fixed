@@ -1,0 +1,18 @@
+{
+glyphname = "hehVinvertedabove-ar.init";
+layers = (
+{
+components = (
+{
+name = "heh-ar.init";
+},
+{
+name = "vinvertedabove-ar";
+transform = "{1, 0, 0, 1, -2, -26}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

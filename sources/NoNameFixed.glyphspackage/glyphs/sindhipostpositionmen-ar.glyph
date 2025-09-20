@@ -1,0 +1,20 @@
+{
+glyphname = "sindhipostpositionmen-ar";
+layers = (
+{
+components = (
+{
+name = "doubleverticalbarbelowSymbol-ar";
+transform = "{1, 0, 0, 1, 115, -109}";
+},
+{
+name = "meem-ar";
+transform = "{1, 0, 0, 1, 0, 110}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06FE;
+}

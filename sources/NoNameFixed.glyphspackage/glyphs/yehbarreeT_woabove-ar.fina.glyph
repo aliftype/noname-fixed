@@ -1,0 +1,18 @@
+{
+glyphname = "yehbarreeTwoabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "twoabove-ar";
+transform = "{1, 0, 0, 1, -128, -255}";
+},
+{
+name = "yehbarree-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,17 @@
+{
+glyphname = ringcomb;
+layers = (
+{
+components = (
+{
+name = ring;
+transform = "{1, 0, 0, 1, -525, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 030A;
+subCategory = Spacing;
+}

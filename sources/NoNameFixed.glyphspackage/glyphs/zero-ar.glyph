@@ -1,0 +1,29 @@
+{
+glyphname = "zero-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"183 332 OFFCURVE",
+"239 398 OFFCURVE",
+"263 398 CURVE SMOOTH",
+"286 398 OFFCURVE",
+"342 331 OFFCURVE",
+"342 305 CURVE SMOOTH",
+"342 276 OFFCURVE",
+"285 212 OFFCURVE",
+"263 212 CURVE SMOOTH",
+"238 212 OFFCURVE",
+"183 278 OFFCURVE",
+"183 305 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = "0660,06F0";
+}

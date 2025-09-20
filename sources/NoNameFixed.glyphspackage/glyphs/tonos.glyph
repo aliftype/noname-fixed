@@ -1,0 +1,37 @@
+{
+glyphname = tonos;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"200 673 LINE",
+"202 678 OFFCURVE",
+"264 764 OFFCURVE",
+"270 768 CURVE",
+"272 771 OFFCURVE",
+"280 776 OFFCURVE",
+"292 776 CURVE",
+"312 774 OFFCURVE",
+"324 759 OFFCURVE",
+"324 742 CURVE SMOOTH",
+"324 729 OFFCURVE",
+"320 723 OFFCURVE",
+"280 681 CURVE SMOOTH",
+"244 642 OFFCURVE",
+"240 637 OFFCURVE",
+"230 637 CURVE SMOOTH",
+"208 637 OFFCURVE",
+"200 653 OFFCURVE",
+"200 664 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0384;
+subCategory = Spacing;
+}

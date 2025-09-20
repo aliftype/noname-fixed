@@ -1,0 +1,14 @@
+{
+glyphname = "noonghunna-ar.init";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

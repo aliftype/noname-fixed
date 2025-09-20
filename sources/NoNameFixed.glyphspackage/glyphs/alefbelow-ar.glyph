@@ -1,0 +1,32 @@
+{
+glyphname = "alefbelow-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"291 -218 OFFCURVE",
+"299 -231 OFFCURVE",
+"299 -266 CURVE SMOOTH",
+"299 -509 LINE SMOOTH",
+"299 -542 OFFCURVE",
+"295 -556 OFFCURVE",
+"265 -556 CURVE SMOOTH",
+"235 -556 OFFCURVE",
+"226 -543 OFFCURVE",
+"226 -509 CURVE SMOOTH",
+"226 -266 LINE SMOOTH",
+"226 -232 OFFCURVE",
+"228 -218 OFFCURVE",
+"259 -218 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0656;
+subCategory = Spacing;
+}

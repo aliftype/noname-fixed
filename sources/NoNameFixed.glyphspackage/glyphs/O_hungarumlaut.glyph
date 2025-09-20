@@ -1,0 +1,19 @@
+{
+glyphname = Ohungarumlaut;
+layers = (
+{
+components = (
+{
+name = hungarumlaut;
+transform = "{1, 0, 0, 1, 0, 188}";
+},
+{
+name = O;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0150;
+}

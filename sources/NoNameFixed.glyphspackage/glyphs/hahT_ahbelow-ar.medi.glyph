@@ -1,0 +1,18 @@
+{
+glyphname = "hahTahbelow-ar.medi";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, -18, -820}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

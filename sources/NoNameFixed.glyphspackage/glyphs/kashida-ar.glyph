@@ -1,0 +1,26 @@
+{
+glyphname = "kashida-ar";
+layers = (
+{
+components = (
+{
+name = ittisal.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"525 110 LINE",
+"0 110 LINE",
+"0 180 LINE",
+"525 180 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0640;
+}

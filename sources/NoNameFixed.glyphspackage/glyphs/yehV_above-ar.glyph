@@ -1,0 +1,19 @@
+{
+glyphname = "yehVabove-ar";
+layers = (
+{
+components = (
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 0, -173}";
+},
+{
+name = "alefMaksura-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06CE;
+}

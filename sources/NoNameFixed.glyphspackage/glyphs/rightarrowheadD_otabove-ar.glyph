@@ -1,0 +1,25 @@
+{
+glyphname = "rightarrowheadDotabove-ar";
+layers = (
+{
+components = (
+{
+name = "rightarrowheadabove-ar";
+transform = "{1, 0, 0, 1, 37, 0}";
+},
+{
+name = "toneonedotabove-ar";
+transform = "{1, 0, 0, 1, -90, -127}";
+},
+{
+name = "toneonedotabove-ar";
+transform = "{1, 0, 0, 1, -90, -127}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08FD;
+subCategory = Spacing;
+}

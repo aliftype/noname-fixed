@@ -1,0 +1,25 @@
+{
+glyphname = "fathatwodots-ar";
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -91, 1248}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 89, 1009}";
+},
+{
+name = "fatha-ar";
+transform = "{1, 0, 0, 1, 17, -8}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 065E;
+subCategory = Spacing;
+}

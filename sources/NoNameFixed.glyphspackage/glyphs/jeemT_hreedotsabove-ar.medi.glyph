@@ -1,0 +1,17 @@
+{
+glyphname = "jeemThreedotsabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "jeem-ar.medi";
+},
+{
+name = "threedotsabove-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

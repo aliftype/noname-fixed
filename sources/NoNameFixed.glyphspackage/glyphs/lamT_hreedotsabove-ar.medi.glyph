@@ -1,0 +1,70 @@
+{
+glyphname = "lamThreedotsabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "lam-ar.medi.short";
+},
+{
+name = ittisal.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"189 850 OFFCURVE",
+"238 900 OFFCURVE",
+"256 900 CURVE SMOOTH",
+"273 900 OFFCURVE",
+"322 849 OFFCURVE",
+"322 829 CURVE SMOOTH",
+"322 807 OFFCURVE",
+"272 760 OFFCURVE",
+"256 760 CURVE SMOOTH",
+"237 760 OFFCURVE",
+"189 810 OFFCURVE",
+"189 829 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"96 708 OFFCURVE",
+"146 758 OFFCURVE",
+"164 758 CURVE SMOOTH",
+"181 758 OFFCURVE",
+"230 707 OFFCURVE",
+"230 687 CURVE SMOOTH",
+"230 665 OFFCURVE",
+"180 618 OFFCURVE",
+"164 618 CURVE SMOOTH",
+"145 618 OFFCURVE",
+"96 668 OFFCURVE",
+"96 687 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"307 730 OFFCURVE",
+"356 780 OFFCURVE",
+"373 780 CURVE SMOOTH",
+"391 780 OFFCURVE",
+"441 729 OFFCURVE",
+"441 709 CURVE SMOOTH",
+"441 687 OFFCURVE",
+"390 639 OFFCURVE",
+"373 639 CURVE SMOOTH",
+"355 639 OFFCURVE",
+"307 690 OFFCURVE",
+"307 709 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+}

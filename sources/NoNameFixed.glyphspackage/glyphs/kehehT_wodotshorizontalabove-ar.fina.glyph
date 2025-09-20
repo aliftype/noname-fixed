@@ -1,0 +1,18 @@
+{
+glyphname = "kehehTwodotshorizontalabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -118, 279}";
+},
+{
+name = "keheh-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

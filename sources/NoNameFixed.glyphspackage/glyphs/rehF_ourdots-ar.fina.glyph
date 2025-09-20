@@ -1,0 +1,18 @@
+{
+glyphname = "rehFourdots-ar.fina";
+layers = (
+{
+components = (
+{
+name = "reh-ar.fina";
+},
+{
+name = "fourdotsaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 15, -2}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Abrevegrave;
+layers = (
+{
+components = (
+{
+name = Abreve;
+},
+{
+name = grave;
+transform = "{1, 0, 0, 1, 1, 318}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EB0;
+}

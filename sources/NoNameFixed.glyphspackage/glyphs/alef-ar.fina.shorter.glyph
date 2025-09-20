@@ -1,0 +1,33 @@
+{
+glyphname = "alef-ar.fina.shorter";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"525 110 LINE",
+"351 110 LINE SMOOTH",
+"261 110 OFFCURVE",
+"228 166 OFFCURVE",
+"228 250 CURVE SMOOTH",
+"228 551 LINE SMOOTH",
+"228 582 OFFCURVE",
+"235 592 OFFCURVE",
+"264 592 CURVE SMOOTH",
+"291 592 OFFCURVE",
+"297 582 OFFCURVE",
+"297 551 CURVE SMOOTH",
+"297 250 LINE SMOOTH",
+"297 228 OFFCURVE",
+"297 180 OFFCURVE",
+"351 180 CURVE SMOOTH",
+"525 180 LINE"
+);
+}
+);
+width = 525;
+}
+);
+}

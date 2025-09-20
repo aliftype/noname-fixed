@@ -1,0 +1,19 @@
+{
+glyphname = circumflexcomb_acutecomb.cap;
+layers = (
+{
+components = (
+{
+name = circumflex.cap;
+},
+{
+name = acute;
+transform = "{1, 0, 0, 1, 0, 116}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+subCategory = Spacing;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Aring;
+layers = (
+{
+components = (
+{
+name = ring;
+transform = "{1, 0, 0, 1, 0, 131}";
+},
+{
+name = A;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 00C5;
+}

@@ -1,0 +1,73 @@
+{
+glyphname = "pertenthousand-ar";
+layers = (
+{
+components = (
+{
+name = percent.arabic.comp;
+transform = "{1, 0, 0, 1, -80, 0}";
+},
+{
+name = "zero-ar";
+transform = "{1, 0, 0, 1, -140, 256}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"129 47 OFFCURVE",
+"179 107 OFFCURVE",
+"201 107 CURVE SMOOTH",
+"222 107 OFFCURVE",
+"273 46 OFFCURVE",
+"273 23 CURVE SMOOTH",
+"273 -4 OFFCURVE",
+"221 -62 OFFCURVE",
+"201 -62 CURVE SMOOTH",
+"179 -62 OFFCURVE",
+"129 -2 OFFCURVE",
+"129 23 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"367 264 OFFCURVE",
+"417 324 OFFCURVE",
+"439 324 CURVE SMOOTH",
+"460 324 OFFCURVE",
+"511 263 OFFCURVE",
+"511 240 CURVE SMOOTH",
+"511 213 OFFCURVE",
+"459 155 OFFCURVE",
+"439 155 CURVE SMOOTH",
+"417 155 OFFCURVE",
+"367 215 OFFCURVE",
+"367 240 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"250 152 OFFCURVE",
+"300 212 OFFCURVE",
+"322 212 CURVE SMOOTH",
+"343 212 OFFCURVE",
+"394 151 OFFCURVE",
+"394 128 CURVE SMOOTH",
+"394 101 OFFCURVE",
+"342 43 OFFCURVE",
+"322 43 CURVE SMOOTH",
+"300 43 OFFCURVE",
+"250 103 OFFCURVE",
+"250 128 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 060A;
+}

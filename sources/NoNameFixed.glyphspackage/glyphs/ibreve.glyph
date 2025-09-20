@@ -1,0 +1,18 @@
+{
+glyphname = ibreve;
+layers = (
+{
+components = (
+{
+name = breve;
+},
+{
+name = dotlessi;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 012D;
+}

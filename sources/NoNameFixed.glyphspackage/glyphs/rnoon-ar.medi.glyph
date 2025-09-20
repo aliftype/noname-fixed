@@ -1,0 +1,19 @@
+{
+glyphname = "rnoon-ar.medi";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.medi";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, -99, 47}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBA3;
+}

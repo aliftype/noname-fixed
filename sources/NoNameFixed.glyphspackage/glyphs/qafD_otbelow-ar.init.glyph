@@ -1,0 +1,18 @@
+{
+glyphname = "qafDotbelow-ar.init";
+layers = (
+{
+components = (
+{
+name = "qaf-ar.init";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 104, 359}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

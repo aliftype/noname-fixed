@@ -1,0 +1,18 @@
+{
+glyphname = "alefThreeabove-ar.fina.alt";
+layers = (
+{
+components = (
+{
+name = "alef-ar.fina.alt";
+},
+{
+name = "threeabove-ar";
+transform = "{1, 0, 0, 1, 4, -99}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

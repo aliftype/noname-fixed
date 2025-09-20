@@ -1,0 +1,45 @@
+{
+glyphname = perthousandzero;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"350 -24 OFFCURVE",
+"313 -83 OFFCURVE",
+"263 -83 CURVE SMOOTH",
+"213 -83 OFFCURVE",
+"176 -24 OFFCURVE",
+"176 50 CURVE SMOOTH",
+"176 124 OFFCURVE",
+"213 183 OFFCURVE",
+"263 183 CURVE SMOOTH",
+"313 183 OFFCURVE",
+"350 124 OFFCURVE",
+"350 50 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"294 94 OFFCURVE",
+"275 121 OFFCURVE",
+"263 121 CURVE SMOOTH",
+"251 121 OFFCURVE",
+"232 94 OFFCURVE",
+"232 50 CURVE SMOOTH",
+"232 6 OFFCURVE",
+"251 -21 OFFCURVE",
+"263 -21 CURVE SMOOTH",
+"275 -21 OFFCURVE",
+"294 6 OFFCURVE",
+"294 50 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+}

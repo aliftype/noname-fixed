@@ -1,0 +1,18 @@
+{
+glyphname = "meemThreedotsabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "meem-ar.fina";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 14, 285}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,38 @@
+{
+glyphname = "heh-ar";
+layers = (
+{
+components = (
+{
+name = "ae-ar";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"115 543 OFFCURVE",
+"151 561 OFFCURVE",
+"196 561 CURVE SMOOTH",
+"256 561 OFFCURVE",
+"294 528 OFFCURVE",
+"335 494 CURVE",
+"261 460 LINE",
+"246 470 OFFCURVE",
+"235 477 OFFCURVE",
+"205 477 CURVE SMOOTH",
+"187 477 OFFCURVE",
+"179 462 OFFCURVE",
+"157 462 CURVE SMOOTH",
+"135 462 OFFCURVE",
+"115 478 OFFCURVE",
+"115 505 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = "0647,FEE9";
+}

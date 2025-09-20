@@ -1,0 +1,19 @@
+{
+glyphname = omicronpsilioxia;
+layers = (
+{
+components = (
+{
+name = psilioxia;
+transform = "{1, 0, 0, 1, -3, 0}";
+},
+{
+name = omicron;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1F44;
+}

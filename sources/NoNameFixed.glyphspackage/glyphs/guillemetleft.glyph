@@ -1,0 +1,51 @@
+{
+glyphname = guillemetleft;
+layers = (
+{
+components = (
+{
+name = guilsinglleft;
+transform = "{1, 0, 0, 1, 81, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"316 92 OFFCURVE",
+"305 81 OFFCURVE",
+"294 81 CURVE SMOOTH",
+"289 81 OFFCURVE",
+"286 82 OFFCURVE",
+"276 90 CURVE SMOOTH",
+"58 278 LINE",
+"52 284 OFFCURVE",
+"47 294 OFFCURVE",
+"47 306 CURVE SMOOTH",
+"47 323 OFFCURVE",
+"55 330 OFFCURVE",
+"61 336 CURVE",
+"276 522 LINE SMOOTH",
+"286 530 OFFCURVE",
+"289 531 OFFCURVE",
+"294 531 CURVE SMOOTH",
+"305 531 OFFCURVE",
+"316 520 OFFCURVE",
+"316 499 CURVE SMOOTH",
+"316 482 OFFCURVE",
+"308 475 OFFCURVE",
+"301 469 CURVE SMOOTH",
+"113 306 LINE",
+"301 143 LINE SMOOTH",
+"308 137 OFFCURVE",
+"316 130 OFFCURVE",
+"316 113 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 00AB;
+}

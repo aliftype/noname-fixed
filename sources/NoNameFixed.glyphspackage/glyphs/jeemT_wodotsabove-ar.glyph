@@ -1,0 +1,23 @@
+{
+glyphname = "jeemTwodotsabove-ar";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 3, 26}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 30, 492}";
+},
+{
+name = "hah-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08A2;
+}

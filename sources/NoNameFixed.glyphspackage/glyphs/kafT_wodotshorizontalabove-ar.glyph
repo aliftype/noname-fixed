@@ -1,0 +1,19 @@
+{
+glyphname = "kafTwodotshorizontalabove-ar";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -40, 279}";
+},
+{
+name = "kaf-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 077F;
+}

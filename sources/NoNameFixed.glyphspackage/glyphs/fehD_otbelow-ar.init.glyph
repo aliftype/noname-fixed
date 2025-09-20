@@ -1,0 +1,18 @@
+{
+glyphname = "fehDotbelow-ar.init";
+layers = (
+{
+components = (
+{
+name = "feh-ar.init";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 62, 359}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

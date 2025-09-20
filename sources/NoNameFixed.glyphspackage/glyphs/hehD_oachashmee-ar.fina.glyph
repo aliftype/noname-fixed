@@ -1,0 +1,29 @@
+{
+glyphname = "hehDoachashmee-ar.fina";
+layers = (
+{
+components = (
+{
+name = "hehDoachashmee-ar";
+transform = "{1, 0, 0, 1, -3, -14}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"525 110 LINE",
+"345 110 LINE",
+"354 169 LINE",
+"411 162 OFFCURVE",
+"468 177 OFFCURVE",
+"525 180 CURVE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FBAB;
+}

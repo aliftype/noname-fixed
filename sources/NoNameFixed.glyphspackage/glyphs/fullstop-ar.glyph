@@ -1,0 +1,21 @@
+{
+glyphname = "fullstop-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"415 110 LINE",
+"110 110 LINE",
+"110 207 LINE",
+"415 207 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 06D4;
+}

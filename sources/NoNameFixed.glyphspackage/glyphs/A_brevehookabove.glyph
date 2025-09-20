@@ -1,0 +1,19 @@
+{
+glyphname = Abrevehookabove;
+layers = (
+{
+components = (
+{
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 526, 346}";
+},
+{
+name = Abreve;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EB2;
+}

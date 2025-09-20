@@ -1,0 +1,18 @@
+{
+glyphname = "sadTwodotsbelow-ar.medi";
+layers = (
+{
+components = (
+{
+name = "sad-ar.medi";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 91, -621}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "behThreedotshorizontalbelow-ar.medi";
+layers = (
+{
+components = (
+{
+name = "threedotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 17, 270}";
+},
+{
+name = "alefMaksura-ar.medi";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

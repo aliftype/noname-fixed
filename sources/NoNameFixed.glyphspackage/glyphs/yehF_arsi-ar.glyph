@@ -1,0 +1,15 @@
+{
+glyphname = "yehFarsi-ar";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "06CC,FBFC";
+}

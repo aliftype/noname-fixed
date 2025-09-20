@@ -1,0 +1,56 @@
+{
+glyphname = theta;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"46 502 OFFCURVE",
+"112 644 OFFCURVE",
+"268 644 CURVE SMOOTH",
+"398 644 OFFCURVE",
+"478 500 OFFCURVE",
+"478 319 CURVE SMOOTH",
+"478 207 OFFCURVE",
+"442 28 OFFCURVE",
+"298 -3 CURVE SMOOTH",
+"154 -32 OFFCURVE",
+"46 111 OFFCURVE",
+"46 320 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 577 OFFCURVE",
+"116 371 OFFCURVE",
+"116 366 CURVE",
+"408 366 LINE",
+"408 458 OFFCURVE",
+"354 577 OFFCURVE",
+"262 577 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"114 266 OFFCURVE",
+"136 133 OFFCURVE",
+"190 88 CURVE SMOOTH",
+"212 70 OFFCURVE",
+"234 62 OFFCURVE",
+"264 62 CURVE",
+"328 44 OFFCURVE",
+"410 141 OFFCURVE",
+"410 303 CURVE",
+"114 303 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 03B8;
+}

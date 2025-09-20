@@ -1,0 +1,31 @@
+{
+glyphname = ypogegrammeni;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"228 -77 OFFCURVE",
+"221 -54 OFFCURVE",
+"264 -54 CURVE",
+"298 -57 OFFCURVE",
+"296 -68 OFFCURVE",
+"296 -116 CURVE SMOOTH",
+"296 -159 LINE",
+"292 -166 OFFCURVE",
+"284 -185 OFFCURVE",
+"262 -185 CURVE SMOOTH",
+"240 -185 OFFCURVE",
+"234 -169 OFFCURVE",
+"229 -159 CURVE",
+"228 -119 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 037A;
+}

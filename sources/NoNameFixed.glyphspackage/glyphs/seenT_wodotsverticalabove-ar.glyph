@@ -1,0 +1,19 @@
+{
+glyphname = "seenTwodotsverticalabove-ar";
+layers = (
+{
+components = (
+{
+name = "twodotsverticalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 97, 116}";
+},
+{
+name = "seen-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 076D;
+}

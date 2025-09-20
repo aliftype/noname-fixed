@@ -1,0 +1,15 @@
+{
+glyphname = Upsilonoxia;
+layers = (
+{
+components = (
+{
+name = Upsilontonos;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1FEB;
+}

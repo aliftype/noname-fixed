@@ -1,0 +1,18 @@
+{
+glyphname = "yehFarsiTwodotsabove-ar.init";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 104, 82}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

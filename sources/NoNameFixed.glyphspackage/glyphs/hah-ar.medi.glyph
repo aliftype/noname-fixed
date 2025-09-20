@@ -1,0 +1,42 @@
+{
+glyphname = "hah-ar.medi";
+layers = (
+{
+components = (
+{
+name = ittisal.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"56 429 OFFCURVE",
+"137 459 OFFCURVE",
+"196 459 CURVE SMOOTH",
+"366 459 OFFCURVE",
+"501 237 OFFCURVE",
+"501 180 CURVE",
+"525 180 LINE",
+"525 110 LINE",
+"0 110 LINE",
+"0 180 LINE",
+"437 180 LINE",
+"433 215 OFFCURVE",
+"331 390 OFFCURVE",
+"196 390 CURVE SMOOTH",
+"126 390 OFFCURVE",
+"147 332 OFFCURVE",
+"98 332 CURVE SMOOTH",
+"76 332 OFFCURVE",
+"56 348 OFFCURVE",
+"56 375 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FEA4;
+}

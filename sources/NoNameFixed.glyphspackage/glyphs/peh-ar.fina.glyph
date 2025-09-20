@@ -1,0 +1,19 @@
+{
+glyphname = "peh-ar.fina";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.fina";
+},
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 24, -590}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB57;
+}

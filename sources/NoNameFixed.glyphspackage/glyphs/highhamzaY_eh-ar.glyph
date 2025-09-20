@@ -1,0 +1,19 @@
+{
+glyphname = "highhamzaYeh-ar";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar";
+},
+{
+name = "highhamza-ar.narrow";
+transform = "{1, 0, 0, 1, 113, 140}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0678;
+}

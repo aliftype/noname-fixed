@@ -1,0 +1,54 @@
+{
+glyphname = "meem-ar.init";
+layers = (
+{
+components = (
+{
+name = ittisal.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 110 LINE",
+"0 180 LINE",
+"197 180 LINE",
+"204 257 OFFCURVE",
+"297 348 OFFCURVE",
+"365 348 CURVE SMOOTH",
+"463 348 OFFCURVE",
+"516 261 OFFCURVE",
+"516 173 CURVE SMOOTH",
+"516 89 OFFCURVE",
+"463 -1 OFFCURVE",
+"364 -1 CURVE SMOOTH",
+"305 -1 OFFCURVE",
+"244 57 OFFCURVE",
+"214 110 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"316 276 OFFCURVE",
+"264 212 OFFCURVE",
+"264 173 CURVE SMOOTH",
+"264 139 OFFCURVE",
+"322 71 OFFCURVE",
+"364 71 CURVE SMOOTH",
+"415 71 OFFCURVE",
+"449 125 OFFCURVE",
+"449 173 CURVE SMOOTH",
+"449 225 OFFCURVE",
+"415 276 OFFCURVE",
+"365 276 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FEE3;
+}

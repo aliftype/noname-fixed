@@ -1,0 +1,19 @@
+{
+glyphname = Etilde;
+layers = (
+{
+components = (
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 0, 417}";
+},
+{
+name = E;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EBC;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "yehFarsiThreeabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "threeabove-ar";
+transform = "{1, 0, 0, 1, -58, -312}";
+},
+{
+name = "yehFarsi-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,45 @@
+{
+glyphname = "tehTehabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "teh-ar.medi";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"287 498 OFFCURVE",
+"142 491 OFFCURVE",
+"102 530 CURVE SMOOTH",
+"69 562 OFFCURVE",
+"79 623 OFFCURVE",
+"113 671 CURVE SMOOTH",
+"120 681 OFFCURVE",
+"116 695 OFFCURVE",
+"108 703 CURVE SMOOTH",
+"98 712 OFFCURVE",
+"83 717 OFFCURVE",
+"69 697 CURVE SMOOTH",
+"21 629 OFFCURVE",
+"15 544 OFFCURVE",
+"68 494 CURVE SMOOTH",
+"125 439 OFFCURVE",
+"282 443 OFFCURVE",
+"450 499 CURVE SMOOTH",
+"462 503 OFFCURVE",
+"467 512 OFFCURVE",
+"462 529 CURVE SMOOTH",
+"459 539 OFFCURVE",
+"449 552 OFFCURVE",
+"434 547 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+}

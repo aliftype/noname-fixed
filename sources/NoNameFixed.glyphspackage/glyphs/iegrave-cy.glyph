@@ -1,0 +1,40 @@
+{
+glyphname = "iegrave-cy";
+layers = (
+{
+components = (
+{
+name = e;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"192 624 OFFCURVE",
+"209 639 OFFCURVE",
+"226 639 CURVE SMOOTH",
+"242 639 OFFCURVE",
+"280 618 OFFCURVE",
+"377 577 CURVE SMOOTH",
+"388 572 OFFCURVE",
+"405 565 OFFCURVE",
+"405 546 CURVE SMOOTH",
+"405 531 OFFCURVE",
+"393 506 OFFCURVE",
+"372 506 CURVE SMOOTH",
+"365 506 OFFCURVE",
+"359 509 OFFCURVE",
+"352 511 CURVE",
+"210 573 OFFCURVE",
+"192 574 OFFCURVE",
+"192 604 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0450;
+}

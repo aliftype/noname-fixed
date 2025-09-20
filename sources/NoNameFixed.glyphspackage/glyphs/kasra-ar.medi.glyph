@@ -1,0 +1,19 @@
+{
+glyphname = "kasra-ar.medi";
+layers = (
+{
+components = (
+{
+name = "kashida-ar";
+},
+{
+name = "kasra-ar";
+transform = "{1, 0, 0, 1, 17, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FE7B;
+}

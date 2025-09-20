@@ -1,0 +1,36 @@
+{
+glyphname = alphapsiliypogegrammeni;
+layers = (
+{
+components = (
+{
+name = alphapsili;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"234 -77 OFFCURVE",
+"227 -54 OFFCURVE",
+"270 -54 CURVE",
+"304 -57 OFFCURVE",
+"302 -68 OFFCURVE",
+"302 -116 CURVE SMOOTH",
+"302 -159 LINE",
+"298 -166 OFFCURVE",
+"290 -185 OFFCURVE",
+"268 -185 CURVE SMOOTH",
+"246 -185 OFFCURVE",
+"239 -169 OFFCURVE",
+"234 -159 CURVE",
+"234 -119 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1F80;
+}

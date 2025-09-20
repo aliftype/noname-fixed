@@ -1,0 +1,14 @@
+{
+glyphname = "ae-ar.fina";
+layers = (
+{
+components = (
+{
+name = "hehgoal-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "tteheh-ar.medi";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.medi";
+},
+{
+name = "twodotsverticalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 19, 45}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB61;
+}

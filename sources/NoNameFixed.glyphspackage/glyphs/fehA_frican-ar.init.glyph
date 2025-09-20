@@ -1,0 +1,14 @@
+{
+glyphname = "fehAfrican-ar.init";
+layers = (
+{
+components = (
+{
+name = "fehDotmovedbelow-ar.init";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

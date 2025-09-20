@@ -1,0 +1,44 @@
+{
+glyphname = semicolon;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 306}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"330 -85 OFFCURVE",
+"234 -139 OFFCURVE",
+"212 -139 CURVE SMOOTH",
+"195 -139 OFFCURVE",
+"180 -122 OFFCURVE",
+"180 -107 CURVE SMOOTH",
+"180 -91 OFFCURVE",
+"194 -84 OFFCURVE",
+"200 -81 CURVE SMOOTH",
+"215 -73 OFFCURVE",
+"253 -54 OFFCURVE",
+"266 0 CURVE",
+"217 0 OFFCURVE",
+"200 35 OFFCURVE",
+"200 63 CURVE SMOOTH",
+"200 97 OFFCURVE",
+"226 125 OFFCURVE",
+"262 125 CURVE SMOOTH",
+"300 125 OFFCURVE",
+"330 93 OFFCURVE",
+"330 27 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 003B;
+}

@@ -1,0 +1,82 @@
+{
+glyphname = "assajdaabove-ar";
+layers = (
+{
+components = (
+{
+name = "alef-ar";
+transform = "{0.24487, 0, 0, 0.24487, 420, 475}";
+},
+{
+name = "tehMarbuta-ar";
+transform = "{0.24487, 0, 0, 0.24487, -4, 475}";
+},
+{
+name = "dal-ar.fina";
+transform = "{0.24487, 0, 0, 0.24487, 95, 475}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{0.24487, 0, 0, 0.24487, 194, 563}";
+},
+{
+name = "seen-ar.medi";
+transform = "{0.24487, 0, 0, 0.24487, 299, 475}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"460 651 OFFCURVE",
+"461 649 OFFCURVE",
+"461 641 CURVE SMOOTH",
+"461 535 LINE SMOOTH",
+"461 515 OFFCURVE",
+"453 502 OFFCURVE",
+"431 502 CURVE SMOOTH",
+"426 502 LINE",
+"426 519 LINE",
+"431 519 LINE SMOOTH",
+"444 519 OFFCURVE",
+"444 530 OFFCURVE",
+"444 535 CURVE SMOOTH",
+"444 641 LINE SMOOTH",
+"444 649 OFFCURVE",
+"446 651 OFFCURVE",
+"453 651 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"208 580 OFFCURVE",
+"228 587 OFFCURVE",
+"242 587 CURVE SMOOTH",
+"284 587 OFFCURVE",
+"317 533 OFFCURVE",
+"317 519 CURVE",
+"323 519 LINE",
+"323 502 LINE",
+"217 502 LINE",
+"217 518 LINE",
+"301 518 LINE",
+"300 526 OFFCURVE",
+"275 570 OFFCURVE",
+"242 570 CURVE SMOOTH",
+"225 570 OFFCURVE",
+"230 556 OFFCURVE",
+"218 556 CURVE SMOOTH",
+"213 556 OFFCURVE",
+"208 560 OFFCURVE",
+"208 566 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08DB;
+subCategory = Spacing;
+}

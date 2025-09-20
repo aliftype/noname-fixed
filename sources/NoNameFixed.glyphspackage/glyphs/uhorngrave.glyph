@@ -1,0 +1,19 @@
+{
+glyphname = uhorngrave;
+layers = (
+{
+components = (
+{
+name = uhorn;
+},
+{
+name = grave;
+transform = "{1, 0, 0, 1, -29, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EEB;
+}

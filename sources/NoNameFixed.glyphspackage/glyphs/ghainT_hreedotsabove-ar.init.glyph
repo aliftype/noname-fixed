@@ -1,0 +1,18 @@
+{
+glyphname = "ghainThreedotsabove-ar.init";
+layers = (
+{
+components = (
+{
+name = "ghain-ar.init";
+},
+{
+name = "threedotsabove-ar";
+transform = "{0.5, 0, 0, 0.5, 186, 445}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

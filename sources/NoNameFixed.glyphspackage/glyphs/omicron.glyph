@@ -1,0 +1,46 @@
+{
+glyphname = omicron;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"42 365 OFFCURVE",
+"169 435 OFFCURVE",
+"256 435 CURVE",
+"347 445 OFFCURVE",
+"485 360 OFFCURVE",
+"482 215 CURVE",
+"482 103 OFFCURVE",
+"395 -5 OFFCURVE",
+"262 -5 CURVE SMOOTH",
+"137 -5 OFFCURVE",
+"42 93 OFFCURVE",
+"42 215 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"346 62 OFFCURVE",
+"414 130 OFFCURVE",
+"414 215 CURVE SMOOTH",
+"414 298 OFFCURVE",
+"349 368 OFFCURVE",
+"260 368 CURVE SMOOTH",
+"176 368 OFFCURVE",
+"110 301 OFFCURVE",
+"110 215 CURVE SMOOTH",
+"110 124 OFFCURVE",
+"184 62 OFFCURVE",
+"262 62 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 03BF;
+}

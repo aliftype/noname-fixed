@@ -1,0 +1,18 @@
+{
+glyphname = "behThreedotshorizontalbelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "threedotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 24, 270}";
+},
+{
+name = "behDotless-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

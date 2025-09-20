@@ -1,0 +1,18 @@
+{
+glyphname = "hehDoachashmee-ar.init";
+layers = (
+{
+components = (
+{
+name = "hehDoachashmee-ar.init.comp";
+},
+{
+name = ittisal.comp;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBAC;
+}

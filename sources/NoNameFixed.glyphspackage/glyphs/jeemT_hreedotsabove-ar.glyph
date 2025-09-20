@@ -1,0 +1,18 @@
+{
+glyphname = "jeemThreedotsabove-ar";
+layers = (
+{
+components = (
+{
+name = "jeem-ar";
+},
+{
+name = "threedotsabove-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08C5;
+}

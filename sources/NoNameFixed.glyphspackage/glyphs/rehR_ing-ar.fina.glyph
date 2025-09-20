@@ -1,0 +1,18 @@
+{
+glyphname = "rehRing-ar.fina";
+layers = (
+{
+components = (
+{
+name = "reh-ar.fina";
+},
+{
+name = "sukunoval-ar";
+transform = "{1, 0, 0, 1, 114, -875}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

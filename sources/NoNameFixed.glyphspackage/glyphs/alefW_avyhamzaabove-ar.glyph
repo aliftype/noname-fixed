@@ -1,0 +1,20 @@
+{
+glyphname = "alefWavyhamzaabove-ar";
+layers = (
+{
+components = (
+{
+name = "alef-ar.shorter";
+transform = "{1, 0, 0, 1, 42, 0}";
+},
+{
+name = "wavyhamzabelow-ar";
+transform = "{1, 0, 0, 1, 2, 1146}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0672;
+}

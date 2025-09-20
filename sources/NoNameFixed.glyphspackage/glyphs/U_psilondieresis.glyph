@@ -1,0 +1,51 @@
+{
+glyphname = Upsilondieresis;
+layers = (
+{
+components = (
+{
+name = Upsilon;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"210 683 OFFCURVE",
+"190 663 OFFCURVE",
+"166 663 CURVE SMOOTH",
+"140 663 OFFCURVE",
+"120 683 OFFCURVE",
+"120 708 CURVE SMOOTH",
+"120 734 OFFCURVE",
+"140 753 OFFCURVE",
+"166 753 CURVE SMOOTH",
+"190 753 OFFCURVE",
+"210 734 OFFCURVE",
+"210 708 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"406 683 OFFCURVE",
+"386 663 OFFCURVE",
+"360 663 CURVE SMOOTH",
+"336 663 OFFCURVE",
+"316 683 OFFCURVE",
+"316 708 CURVE SMOOTH",
+"316 734 OFFCURVE",
+"336 753 OFFCURVE",
+"360 753 CURVE SMOOTH",
+"386 753 OFFCURVE",
+"406 734 OFFCURVE",
+"406 708 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 03AB;
+}

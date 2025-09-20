@@ -1,0 +1,19 @@
+{
+glyphname = tcaron;
+layers = (
+{
+components = (
+{
+name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 586, 700}";
+},
+{
+name = t;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0165;
+}

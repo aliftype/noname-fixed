@@ -1,0 +1,19 @@
+{
+glyphname = "hahFourbelow-ar";
+layers = (
+{
+components = (
+{
+name = "fourbelow-ar";
+transform = "{1, 0, 0, 1, 16, -692}";
+},
+{
+name = "hah-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 077C;
+}

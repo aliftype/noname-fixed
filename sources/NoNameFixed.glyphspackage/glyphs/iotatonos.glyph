@@ -1,0 +1,34 @@
+{
+glyphname = iotatonos;
+layers = (
+{
+components = (
+{
+name = iota;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"327 612 OFFCURVE",
+"333 585 OFFCURVE",
+"333 578 CURVE SMOOTH",
+"333 568 OFFCURVE",
+"255 480 OFFCURVE",
+"249 477 CURVE",
+"229 462 OFFCURVE",
+"197 485 OFFCURVE",
+"209 511 CURVE",
+"237 549 OFFCURVE",
+"277 612 OFFCURVE",
+"297 612 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 03AF;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "lamBar-ar";
+layers = (
+{
+components = (
+{
+name = "fathaHorizont-ar";
+transform = "{1, 0, 0, 1, 183, -478}";
+},
+{
+name = "lam-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 076A;
+}

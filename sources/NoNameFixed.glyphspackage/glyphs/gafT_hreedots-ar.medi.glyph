@@ -1,0 +1,18 @@
+{
+glyphname = "gafThreedots-ar.medi";
+layers = (
+{
+components = (
+{
+name = "gaf-ar.medi";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 113, 181}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

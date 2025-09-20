@@ -1,0 +1,21 @@
+{
+glyphname = lessequal;
+layers = (
+{
+components = (
+{
+name = less;
+transform = "{1, 0, 0, 1, 0, 140}";
+},
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, -215}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 2264;
+}

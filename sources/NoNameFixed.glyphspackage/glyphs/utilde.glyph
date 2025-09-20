@@ -1,0 +1,19 @@
+{
+glyphname = utilde;
+layers = (
+{
+components = (
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 0, 249}";
+},
+{
+name = u;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0169;
+}

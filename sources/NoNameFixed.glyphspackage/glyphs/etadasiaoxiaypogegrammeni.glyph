@@ -1,0 +1,36 @@
+{
+glyphname = etadasiaoxiaypogegrammeni;
+layers = (
+{
+components = (
+{
+name = etadasiaoxia;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"138 -77 OFFCURVE",
+"131 -54 OFFCURVE",
+"174 -54 CURVE",
+"208 -57 OFFCURVE",
+"206 -68 OFFCURVE",
+"206 -116 CURVE SMOOTH",
+"206 -159 LINE",
+"202 -166 OFFCURVE",
+"194 -185 OFFCURVE",
+"172 -185 CURVE SMOOTH",
+"150 -185 OFFCURVE",
+"143 -169 OFFCURVE",
+"138 -159 CURVE",
+"138 -119 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1F95;
+}

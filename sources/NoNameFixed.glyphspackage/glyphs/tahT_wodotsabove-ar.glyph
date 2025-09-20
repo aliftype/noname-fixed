@@ -1,0 +1,19 @@
+{
+glyphname = "tahTwodotsabove-ar";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 118, 110}";
+},
+{
+name = "tah-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08A3;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Ocircumflexacute;
+layers = (
+{
+components = (
+{
+name = Ocircumflex;
+},
+{
+name = acute;
+transform = "{1, 0, 0, 1, 0, 297}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1ED0;
+}

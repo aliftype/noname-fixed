@@ -1,0 +1,47 @@
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"465 111 LINE",
+"465 820 LINE",
+"60 820 LINE",
+"60 111 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"91 789 LINE",
+"434 789 LINE",
+"434 142 LINE",
+"91 142 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"453 793 LINE",
+"427 807 LINE",
+"72 138 LINE",
+"98 124 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"98 807 LINE",
+"72 793 LINE",
+"427 124 LINE",
+"453 138 LINE"
+);
+}
+);
+width = 525;
+}
+);
+}

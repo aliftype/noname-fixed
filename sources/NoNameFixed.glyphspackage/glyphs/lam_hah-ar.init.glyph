@@ -1,0 +1,20 @@
+{
+glyphname = "lam_hah-ar.init";
+layers = (
+{
+components = (
+{
+name = "hah-ar.init";
+transform = "{1, 0, 0, 1, 0.365, -0.109}";
+},
+{
+name = "alef-ar.shorter";
+transform = "{1, 0, 0, 1, -59.064, 280.885}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FCCA;
+}

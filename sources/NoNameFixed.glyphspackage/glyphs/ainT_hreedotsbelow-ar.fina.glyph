@@ -1,0 +1,18 @@
+{
+glyphname = "ainThreedotsbelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "ain-ar.fina";
+},
+{
+name = "threedotsdownbelowSymbol-ar";
+transform = "{0.82852, 0, 0, 0.82852, 33, -11}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

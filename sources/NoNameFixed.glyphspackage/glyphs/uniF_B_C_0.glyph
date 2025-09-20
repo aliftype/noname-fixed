@@ -1,0 +1,17 @@
+{
+glyphname = uniFBC0;
+layers = (
+{
+components = (
+{
+name = "tahabove-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBC0;
+category = Mark;
+subCategory = Spacing;
+}

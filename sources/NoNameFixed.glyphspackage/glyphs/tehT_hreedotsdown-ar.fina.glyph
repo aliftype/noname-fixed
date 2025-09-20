@@ -1,0 +1,18 @@
+{
+glyphname = "tehThreedotsdown-ar.fina";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.fina";
+},
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 38, 218}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

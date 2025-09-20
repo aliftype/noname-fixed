@@ -1,0 +1,21 @@
+{
+glyphname = "lamVabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "lam-ar.medi.short";
+},
+{
+name = ittisal.comp;
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 14, -72}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

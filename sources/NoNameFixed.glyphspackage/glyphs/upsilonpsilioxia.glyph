@@ -1,0 +1,19 @@
+{
+glyphname = upsilonpsilioxia;
+layers = (
+{
+components = (
+{
+name = psilioxia;
+transform = "{1, 0, 0, 1, -2, 0}";
+},
+{
+name = upsilon;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1F54;
+}

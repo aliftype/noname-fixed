@@ -1,0 +1,48 @@
+{
+glyphname = "lam-ar.medi";
+layers = (
+{
+components = (
+{
+name = ittisal.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"227 180 OFFCURVE",
+"244 238 OFFCURVE",
+"244 305 CURVE SMOOTH",
+"244 737 LINE SMOOTH",
+"244 768 OFFCURVE",
+"251 778 OFFCURVE",
+"279 778 CURVE SMOOTH",
+"307 778 OFFCURVE",
+"313 768 OFFCURVE",
+"313 737 CURVE SMOOTH",
+"313 305 LINE SMOOTH",
+"313 238 OFFCURVE",
+"330 180 OFFCURVE",
+"390 180 CURVE SMOOTH",
+"525 180 LINE",
+"525 110 LINE",
+"390 110 LINE SMOOTH",
+"316 110 OFFCURVE",
+"291 147 OFFCURVE",
+"279 173 CURVE",
+"266 147 OFFCURVE",
+"241 110 OFFCURVE",
+"169 110 CURVE SMOOTH",
+"0 110 LINE",
+"0 180 LINE",
+"167 180 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FEE0;
+}

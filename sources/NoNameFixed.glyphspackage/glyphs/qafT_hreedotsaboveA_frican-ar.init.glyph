@@ -1,0 +1,18 @@
+{
+glyphname = "qafThreedotsaboveAfrican-ar.init";
+layers = (
+{
+components = (
+{
+name = "qafAfrican-ar.init";
+},
+{
+name = "threedotsabove-ar";
+transform = "{0.5, 0, 0, 0.5, 185, 517}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

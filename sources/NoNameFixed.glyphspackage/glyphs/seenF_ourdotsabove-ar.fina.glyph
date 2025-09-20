@@ -1,0 +1,18 @@
+{
+glyphname = "seenFourdotsabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "seen-ar.fina";
+},
+{
+name = "fourdotsaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 93, 110}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

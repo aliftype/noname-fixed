@@ -1,0 +1,31 @@
+{
+glyphname = bar;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"297 -48 OFFCURVE",
+"297 -83 OFFCURVE",
+"262 -83 CURVE SMOOTH",
+"227 -83 OFFCURVE",
+"227 -48 OFFCURVE",
+"227 -36 CURVE SMOOTH",
+"227 647 LINE SMOOTH",
+"227 659 OFFCURVE",
+"227 694 OFFCURVE",
+"262 694 CURVE SMOOTH",
+"297 694 OFFCURVE",
+"297 659 OFFCURVE",
+"297 647 CURVE SMOOTH",
+"297 -36 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 007C;
+}

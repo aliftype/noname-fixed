@@ -1,0 +1,15 @@
+{
+glyphname = divisionslash;
+layers = (
+{
+components = (
+{
+name = fraction;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 2215;
+}

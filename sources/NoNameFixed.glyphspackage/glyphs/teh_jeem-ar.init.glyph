@@ -1,0 +1,29 @@
+{
+glyphname = "teh_jeem-ar.init";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.hah";
+transform = "{1, 0, 0, 1, 10.745, 261.986}";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 10.745, 348.986}";
+},
+{
+name = "jeem-ar.init";
+}
+);
+layerId = master01;
+width = 525;
+},
+{
+associatedMasterId = master01;
+layerId = "8C0E7CB2-2939-4DFF-8204-A230482BB65B";
+name = Back;
+width = 0;
+}
+);
+unicode = FCA1;
+}

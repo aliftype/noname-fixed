@@ -1,0 +1,18 @@
+{
+glyphname = "noonThreedotsabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "noonghunna-ar.fina";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 2, 157}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

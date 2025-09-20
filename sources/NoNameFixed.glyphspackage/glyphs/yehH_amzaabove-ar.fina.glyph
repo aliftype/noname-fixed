@@ -1,0 +1,19 @@
+{
+glyphname = "yehHamzaabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "yehFarsi-ar.fina";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, -47, -245}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FE8A;
+}

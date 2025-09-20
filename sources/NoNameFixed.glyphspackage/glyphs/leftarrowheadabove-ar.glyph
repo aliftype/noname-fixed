@@ -1,0 +1,56 @@
+{
+glyphname = "leftarrowheadabove-ar";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{259, 940}";
+},
+{
+name = bottom;
+position = "{259, 543}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"349 890 OFFCURVE",
+"359 879 OFFCURVE",
+"359 859 CURVE SMOOTH",
+"359 838 OFFCURVE",
+"350 826 OFFCURVE",
+"347 823 CURVE",
+"223 717 LINE",
+"347 611 LINE",
+"351 607 OFFCURVE",
+"359 593 OFFCURVE",
+"359 575 CURVE SMOOTH",
+"359 554 OFFCURVE",
+"349 543 OFFCURVE",
+"341 543 CURVE SMOOTH",
+"338 543 OFFCURVE",
+"336 544 OFFCURVE",
+"326 553 CURVE SMOOTH",
+"167 689 LINE",
+"161 695 OFFCURVE",
+"158 704 OFFCURVE",
+"158 717 CURVE SMOOTH",
+"158 733 OFFCURVE",
+"162 737 OFFCURVE",
+"169 745 CURVE",
+"326 880 LINE SMOOTH",
+"336 889 OFFCURVE",
+"338 890 OFFCURVE",
+"341 890 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08F7;
+subCategory = Spacing;
+}

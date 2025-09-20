@@ -1,0 +1,18 @@
+{
+glyphname = "alefMadda-ar.fina.alt";
+layers = (
+{
+components = (
+{
+name = "alef-ar.fina.alt";
+},
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 158, 521}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,34 @@
+{
+glyphname = omicrontonos;
+layers = (
+{
+components = (
+{
+name = omicron;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"333 612 OFFCURVE",
+"339 585 OFFCURVE",
+"339 578 CURVE SMOOTH",
+"339 568 OFFCURVE",
+"262 480 OFFCURVE",
+"256 477 CURVE",
+"236 462 OFFCURVE",
+"203 485 OFFCURVE",
+"216 511 CURVE",
+"244 549 OFFCURVE",
+"283 612 OFFCURVE",
+"304 612 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 03CC;
+}

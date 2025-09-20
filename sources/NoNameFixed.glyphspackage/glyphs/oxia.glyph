@@ -1,0 +1,30 @@
+{
+glyphname = oxia;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"319 612 OFFCURVE",
+"325 585 OFFCURVE",
+"325 578 CURVE SMOOTH",
+"325 568 OFFCURVE",
+"249 480 OFFCURVE",
+"243 477 CURVE",
+"223 462 OFFCURVE",
+"189 485 OFFCURVE",
+"203 511 CURVE",
+"231 549 OFFCURVE",
+"269 612 OFFCURVE",
+"291 612 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1FFD;
+subCategory = Spacing;
+}

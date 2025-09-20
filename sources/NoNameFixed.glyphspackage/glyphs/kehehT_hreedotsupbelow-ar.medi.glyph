@@ -1,0 +1,18 @@
+{
+glyphname = "kehehThreedotsupbelow-ar.medi";
+layers = (
+{
+components = (
+{
+name = "keheh-ar.medi";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 18, -476}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

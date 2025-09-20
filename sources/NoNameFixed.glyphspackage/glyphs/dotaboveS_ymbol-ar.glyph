@@ -1,0 +1,16 @@
+{
+glyphname = "dotaboveSymbol-ar";
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 0, 976}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBB2;
+}

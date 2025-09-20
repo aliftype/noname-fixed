@@ -1,0 +1,19 @@
+{
+glyphname = "gueh-ar.medi";
+layers = (
+{
+components = (
+{
+name = "twodotsverticalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 22, -775}";
+},
+{
+name = "gaf-ar.medi";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB99;
+}

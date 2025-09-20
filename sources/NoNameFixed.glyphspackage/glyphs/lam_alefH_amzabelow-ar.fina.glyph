@@ -1,0 +1,19 @@
+{
+glyphname = "lam_alefHamzabelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, -99, -818}";
+},
+{
+name = "lam_alef-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FEFA;
+}

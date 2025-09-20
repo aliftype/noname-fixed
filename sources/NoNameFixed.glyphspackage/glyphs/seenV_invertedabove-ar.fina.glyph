@@ -1,0 +1,18 @@
+{
+glyphname = "seenVinvertedabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "seen-ar.fina";
+},
+{
+name = "vinvertedabove-ar";
+transform = "{1, 0, 0, 1, 92, -148}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

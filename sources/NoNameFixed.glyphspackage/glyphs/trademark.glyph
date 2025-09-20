@@ -1,0 +1,21 @@
+{
+glyphname = trademark;
+layers = (
+{
+components = (
+{
+name = T;
+transform = "{0.5, 0, 0, 0.5, -4, 306}";
+},
+{
+name = M;
+transform = "{0.5, 0, 0, 0.5, 259, 306}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 2122;
+}

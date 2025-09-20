@@ -1,0 +1,19 @@
+{
+glyphname = "yehFarsiVinverted-ar";
+layers = (
+{
+components = (
+{
+name = "vinvertedabove-ar";
+transform = "{1, 0, 0, 1, -1, -147}";
+},
+{
+name = "alefMaksura-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 063D;
+}

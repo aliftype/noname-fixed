@@ -1,0 +1,46 @@
+{
+glyphname = "alefWasla-ar.fina.alt";
+layers = (
+{
+components = (
+{
+name = "wasla-ar";
+transform = "{1, 0, 0, 1, 158, 67}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"525 110 LINE",
+"272 110 LINE SMOOTH",
+"241 110 OFFCURVE",
+"231 117 OFFCURVE",
+"231 145 CURVE SMOOTH",
+"231 173 OFFCURVE",
+"241 180 OFFCURVE",
+"272 180 CURVE SMOOTH",
+"332 180 LINE SMOOTH",
+"386 180 OFFCURVE",
+"386 228 OFFCURVE",
+"386 250 CURVE SMOOTH",
+"386 550 LINE SMOOTH",
+"386 581 OFFCURVE",
+"392 591 OFFCURVE",
+"419 591 CURVE SMOOTH",
+"448 591 OFFCURVE",
+"455 581 OFFCURVE",
+"455 550 CURVE SMOOTH",
+"455 250 LINE SMOOTH",
+"455 223.562 OFFCURVE",
+"451.731 199.897 OFFCURVE",
+"444.444 179.88 CURVE",
+"525 180 LINE"
+);
+}
+);
+width = 525;
+}
+);
+}

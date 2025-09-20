@@ -1,0 +1,19 @@
+{
+glyphname = "gaf-ar.medi";
+layers = (
+{
+components = (
+{
+name = "gafsarkashabove-ar";
+transform = "{1, 0, 0, 1, -109, 28}";
+},
+{
+name = "keheh-ar.medi";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB95;
+}

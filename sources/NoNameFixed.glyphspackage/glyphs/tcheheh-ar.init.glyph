@@ -1,0 +1,19 @@
+{
+glyphname = "tcheheh-ar.init";
+layers = (
+{
+components = (
+{
+name = "hah-ar.init";
+},
+{
+name = "fourdotsaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 1, -790}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB80;
+}

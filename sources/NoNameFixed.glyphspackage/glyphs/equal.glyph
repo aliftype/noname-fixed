@@ -1,0 +1,37 @@
+{
+glyphname = equal;
+layers = (
+{
+components = (
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, 76}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"486 195 OFFCURVE",
+"449 195 OFFCURVE",
+"435 195 CURVE SMOOTH",
+"89 195 LINE SMOOTH",
+"75 195 OFFCURVE",
+"38 195 OFFCURVE",
+"38 230 CURVE SMOOTH",
+"38 265 OFFCURVE",
+"71 265 OFFCURVE",
+"83 265 CURVE SMOOTH",
+"441 265 LINE SMOOTH",
+"453 265 OFFCURVE",
+"486 265 OFFCURVE",
+"486 230 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 003D;
+}

@@ -1,0 +1,32 @@
+{
+glyphname = "fathaHorizont-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"425 889 OFFCURVE",
+"435 887 OFFCURVE",
+"435 855 CURVE SMOOTH",
+"435 823 OFFCURVE",
+"425 817 OFFCURVE",
+"391 817 CURVE SMOOTH",
+"132 817 LINE SMOOTH",
+"99 817 OFFCURVE",
+"89 819 OFFCURVE",
+"89 850 CURVE SMOOTH",
+"89 881 OFFCURVE",
+"98 889 OFFCURVE",
+"132 889 CURVE SMOOTH",
+"391 889 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0659;
+subCategory = Spacing;
+}

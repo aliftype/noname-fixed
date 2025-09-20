@@ -1,0 +1,18 @@
+{
+glyphname = "dalThreedotsdown-ar.fina";
+layers = (
+{
+components = (
+{
+name = "dal-ar.fina";
+},
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -32, 279}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "yehTail-ar";
+layers = (
+{
+components = (
+{
+name = tail.comp;
+transform = "{1, 0, 0, 1, 12, -2}";
+},
+{
+name = "alefMaksura-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06CD;
+}

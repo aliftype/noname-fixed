@@ -1,0 +1,41 @@
+{
+glyphname = exclam;
+layers = (
+{
+components = (
+{
+name = dotaccent;
+transform = "{1, 0, 0, 1, -1, -505}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"312 512 OFFCURVE",
+"308 457 OFFCURVE",
+"307 405 CURVE SMOOTH",
+"303 232 LINE SMOOTH",
+"301 192 OFFCURVE",
+"298 184 OFFCURVE",
+"262 184 CURVE SMOOTH",
+"249 184 OFFCURVE",
+"223 184 OFFCURVE",
+"222 210 CURVE SMOOTH",
+"219 331 LINE",
+"212 565 LINE SMOOTH",
+"212 618 OFFCURVE",
+"253 622 OFFCURVE",
+"262 622 CURVE SMOOTH",
+"271 622 OFFCURVE",
+"312 618 OFFCURVE",
+"312 565 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0021;
+}

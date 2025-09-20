@@ -1,0 +1,20 @@
+{
+glyphname = iotapsilivaria;
+layers = (
+{
+components = (
+{
+name = psilivaria;
+transform = "{1, 0, 0, 1, -5, 0}";
+},
+{
+name = iota;
+transform = "{1, 0, 0, 1, 14, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1F32;
+}

@@ -1,0 +1,31 @@
+{
+glyphname = "rhombusStopbelow-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"154 -316 LINE",
+"260 -422 LINE",
+"367 -315 LINE",
+"260 -209 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"445 -315 LINE",
+"260 -500 LINE",
+"76 -316 LINE",
+"260 -131 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 06EA;
+subCategory = Spacing;
+}

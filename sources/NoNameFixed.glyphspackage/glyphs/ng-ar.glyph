@@ -1,0 +1,23 @@
+{
+glyphname = "ng-ar";
+layers = (
+{
+components = (
+{
+name = "miniKeheh-ar";
+transform = "{1, 0, 0, 1, 32, -126}";
+},
+{
+name = "kafDotless-ar";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, -8, 424}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "06AD,FBD3";
+}

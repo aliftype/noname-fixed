@@ -1,0 +1,15 @@
+{
+glyphname = "Ka-cy";
+layers = (
+{
+components = (
+{
+name = K;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 041A;
+}

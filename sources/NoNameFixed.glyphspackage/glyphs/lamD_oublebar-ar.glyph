@@ -1,0 +1,19 @@
+{
+glyphname = "lamDoublebar-ar";
+layers = (
+{
+components = (
+{
+name = "doublestroke-ar";
+transform = "{1, 0, 0, 1, 204, 7}";
+},
+{
+name = "lam-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08A6;
+}

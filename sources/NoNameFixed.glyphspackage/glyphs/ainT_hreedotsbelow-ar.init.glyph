@@ -1,0 +1,18 @@
+{
+glyphname = "ainThreedotsbelow-ar.init";
+layers = (
+{
+components = (
+{
+name = "ain-ar.init";
+},
+{
+name = "threedotsdownbelowSymbol-ar";
+transform = "{1, 0, 0, 1, 64, -107}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

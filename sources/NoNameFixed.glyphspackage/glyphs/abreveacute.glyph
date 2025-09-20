@@ -1,0 +1,19 @@
+{
+glyphname = abreveacute;
+layers = (
+{
+components = (
+{
+name = abreve;
+},
+{
+name = acute;
+transform = "{1, 0, 0, 1, 0, 144}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EAF;
+}

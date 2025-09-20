@@ -1,0 +1,19 @@
+{
+glyphname = Ocircumflexhookabove;
+layers = (
+{
+components = (
+{
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 624, 325}";
+},
+{
+name = Ocircumflex;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1ED4;
+}

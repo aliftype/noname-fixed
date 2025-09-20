@@ -1,0 +1,17 @@
+{
+glyphname = "kasraCurly-ar";
+layers = (
+{
+components = (
+{
+name = "fathaCurly-ar";
+transform = "{1, 0, 0, 1, 0, -1071}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08E6;
+subCategory = Spacing;
+}

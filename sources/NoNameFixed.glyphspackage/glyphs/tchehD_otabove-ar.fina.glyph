@@ -1,0 +1,26 @@
+{
+glyphname = "tchehDotabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "khah-ar.fina";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 9, 342}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 74, 499}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -83, 477}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

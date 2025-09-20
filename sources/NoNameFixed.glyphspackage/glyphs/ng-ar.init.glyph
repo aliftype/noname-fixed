@@ -1,0 +1,19 @@
+{
+glyphname = "ng-ar.init";
+layers = (
+{
+components = (
+{
+name = "keheh-ar.init";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, -118, 424}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBD5;
+}

@@ -1,0 +1,38 @@
+{
+glyphname = "fatha-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"349 815 OFFCURVE",
+"356 820 OFFCURVE",
+"366 820 CURVE SMOOTH",
+"380 820 OFFCURVE",
+"402 796 OFFCURVE",
+"402 780 CURVE SMOOTH",
+"402 772 OFFCURVE",
+"395 763 OFFCURVE",
+"384 753 CURVE SMOOTH",
+"187 577 LINE SMOOTH",
+"175 567 OFFCURVE",
+"167 561 OFFCURVE",
+"157 561 CURVE SMOOTH",
+"143 561 OFFCURVE",
+"123 585 OFFCURVE",
+"123 601 CURVE SMOOTH",
+"123 609 OFFCURVE",
+"130 616 OFFCURVE",
+"142 627 CURVE SMOOTH",
+"336 804 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = "064E,FE76";
+subCategory = Spacing;
+}

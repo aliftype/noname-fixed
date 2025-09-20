@@ -1,0 +1,71 @@
+{
+glyphname = graphemejoinercomb;
+layers = (
+{
+components = (
+{
+name = charbox.comp;
+},
+{
+name = C;
+transform = "{0.42869, 0, 0, 0.42869, 23, 482}";
+},
+{
+name = G;
+transform = "{0.42869, 0, 0, 0.42869, 248, 482}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"319 411 OFFCURVE",
+"307 411 OFFCURVE",
+"299 411 CURVE SMOOTH",
+"292 411 LINE",
+"292 238 LINE SMOOTH",
+"292 196 OFFCURVE",
+"259 169 OFFCURVE",
+"222 169 CURVE SMOOTH",
+"182 169 OFFCURVE",
+"155 192 OFFCURVE",
+"155 223 CURVE SMOOTH",
+"155 239 OFFCURVE",
+"166 248 OFFCURVE",
+"176 248 CURVE SMOOTH",
+"188 248 OFFCURVE",
+"196 236 OFFCURVE",
+"196 224 CURVE SMOOTH",
+"196 221 OFFCURVE",
+"195 218 OFFCURVE",
+"194 216 CURVE",
+"205 208 OFFCURVE",
+"218 208 OFFCURVE",
+"222 208 CURVE SMOOTH",
+"229 208 OFFCURVE",
+"256 209 OFFCURVE",
+"256 240 CURVE SMOOTH",
+"256 411 LINE",
+"229 411 LINE SMOOTH",
+"221 411 OFFCURVE",
+"208 411 OFFCURVE",
+"208 429 CURVE SMOOTH",
+"208 447 OFFCURVE",
+"221 447 OFFCURVE",
+"229 447 CURVE SMOOTH",
+"299 447 LINE SMOOTH",
+"307 447 OFFCURVE",
+"319 447 OFFCURVE",
+"319 429 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 034F;
+category = Separator;
+subCategory = Format;
+}

@@ -1,0 +1,47 @@
+{
+glyphname = "sukunoval-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"356 680 OFFCURVE",
+"311 622 OFFCURVE",
+"262 622 CURVE SMOOTH",
+"214 622 OFFCURVE",
+"168 678 OFFCURVE",
+"168 756 CURVE SMOOTH",
+"168 831 OFFCURVE",
+"213 889 OFFCURVE",
+"262 889 CURVE SMOOTH",
+"310 889 OFFCURVE",
+"356 833 OFFCURVE",
+"356 755 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"300 797 OFFCURVE",
+"282 827 OFFCURVE",
+"262 827 CURVE SMOOTH",
+"242 827 OFFCURVE",
+"224 797 OFFCURVE",
+"224 756 CURVE SMOOTH",
+"224 712 OFFCURVE",
+"243 684 OFFCURVE",
+"262 684 CURVE SMOOTH",
+"281 684 OFFCURVE",
+"300 712 OFFCURVE",
+"300 756 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 06E0;
+subCategory = Spacing;
+}

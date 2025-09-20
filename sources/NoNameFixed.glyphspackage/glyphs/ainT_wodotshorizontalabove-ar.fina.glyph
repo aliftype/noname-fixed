@@ -1,0 +1,18 @@
+{
+glyphname = "ainTwodotshorizontalabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "ain-ar.fina";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -20, 146}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "tehMarbutagoal-ar.fina";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 0, 55}";
+},
+{
+name = "hehgoal-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,18 @@
+{
+glyphname = scaron;
+layers = (
+{
+components = (
+{
+name = caron;
+},
+{
+name = s;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0161;
+}

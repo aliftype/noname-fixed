@@ -1,0 +1,30 @@
+{
+glyphname = "dotStopabove-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"139 834 OFFCURVE",
+"194 890 OFFCURVE",
+"262 890 CURVE SMOOTH",
+"330 890 OFFCURVE",
+"386 834 OFFCURVE",
+"386 766 CURVE SMOOTH",
+"386 698 OFFCURVE",
+"330 643 OFFCURVE",
+"262 643 CURVE SMOOTH",
+"194 643 OFFCURVE",
+"139 698 OFFCURVE",
+"139 766 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 06EC;
+subCategory = Spacing;
+}

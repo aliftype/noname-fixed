@@ -1,0 +1,21 @@
+{
+glyphname = "qifabove-ar";
+layers = (
+{
+components = (
+{
+name = "feh-ar.fina";
+transform = "{0.32593, 0, 0, 0.32593, 88, 475}";
+},
+{
+name = "qaf-ar.init";
+transform = "{0.32593, 0, 0, 0.32593, 260, 475}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08DE;
+subCategory = Spacing;
+}

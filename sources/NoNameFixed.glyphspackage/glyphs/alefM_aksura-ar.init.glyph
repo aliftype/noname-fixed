@@ -1,0 +1,36 @@
+{
+glyphname = "alefMaksura-ar.init";
+layers = (
+{
+components = (
+{
+name = ittisal.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"425 431 OFFCURVE",
+"431 421 OFFCURVE",
+"431 390 CURVE SMOOTH",
+"431 151 LINE SMOOTH",
+"431 120 OFFCURVE",
+"424 110 OFFCURVE",
+"396 110 CURVE SMOOTH",
+"0 110 LINE",
+"0 180 LINE",
+"362 180 LINE",
+"362 390 LINE SMOOTH",
+"362 421 OFFCURVE",
+"369 431 OFFCURVE",
+"397 431 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FBE8;
+}

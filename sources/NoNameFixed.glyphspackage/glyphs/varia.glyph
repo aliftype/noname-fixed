@@ -1,0 +1,30 @@
+{
+glyphname = varia;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"256 612 OFFCURVE",
+"294 549 OFFCURVE",
+"322 511 CURVE",
+"336 485 OFFCURVE",
+"302 462 OFFCURVE",
+"282 477 CURVE",
+"276 480 OFFCURVE",
+"200 568 OFFCURVE",
+"200 578 CURVE SMOOTH",
+"200 585 OFFCURVE",
+"206 612 OFFCURVE",
+"234 612 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1FEF;
+subCategory = Spacing;
+}

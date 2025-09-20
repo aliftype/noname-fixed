@@ -1,0 +1,30 @@
+{
+glyphname = dotaccent;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"313 527 OFFCURVE",
+"291 505 OFFCURVE",
+"263 505 CURVE SMOOTH",
+"235 505 OFFCURVE",
+"213 527 OFFCURVE",
+"213 555 CURVE SMOOTH",
+"213 583 OFFCURVE",
+"235 605 OFFCURVE",
+"263 605 CURVE SMOOTH",
+"291 605 OFFCURVE",
+"313 583 OFFCURVE",
+"313 555 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 02D9;
+subCategory = Spacing;
+}

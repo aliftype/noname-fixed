@@ -1,0 +1,40 @@
+{
+glyphname = Delta;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"70 0 LINE SMOOTH",
+"54 0 OFFCURVE",
+"34 0 OFFCURVE",
+"34 22 CURVE",
+"208 590 LINE SMOOTH",
+"218 623 OFFCURVE",
+"240 623 OFFCURVE",
+"262 623 CURVE SMOOTH",
+"296 623 OFFCURVE",
+"308 620 OFFCURVE",
+"318 587 CURVE SMOOTH",
+"490 22 LINE",
+"490 0 OFFCURVE",
+"470 0 OFFCURVE",
+"456 0 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"120 67 LINE",
+"406 67 LINE",
+"264 540 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0394;
+}

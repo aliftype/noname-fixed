@@ -1,0 +1,21 @@
+{
+glyphname = "fathaDotabove-ar";
+layers = (
+{
+components = (
+{
+name = "toneonedotabove-ar";
+transform = "{1, 0, 0, 1, -58, 1}";
+},
+{
+name = "fatha-ar";
+transform = "{1, 0, 0, 1, 17, -18}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08F5;
+subCategory = Spacing;
+}

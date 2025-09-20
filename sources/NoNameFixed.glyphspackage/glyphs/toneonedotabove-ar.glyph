@@ -1,0 +1,30 @@
+{
+glyphname = "toneonedotabove-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"229 848 OFFCURVE",
+"263 889 OFFCURVE",
+"277 889 CURVE SMOOTH",
+"290 889 OFFCURVE",
+"325 847 OFFCURVE",
+"325 831 CURVE SMOOTH",
+"325 812 OFFCURVE",
+"290 772 OFFCURVE",
+"277 772 CURVE SMOOTH",
+"263 772 OFFCURVE",
+"229 813 OFFCURVE",
+"229 831 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08EA;
+subCategory = Spacing;
+}

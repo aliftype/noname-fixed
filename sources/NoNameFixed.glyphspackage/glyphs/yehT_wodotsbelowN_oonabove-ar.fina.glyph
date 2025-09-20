@@ -1,0 +1,18 @@
+{
+glyphname = "yehTwodotsbelowNoonabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "yeh-ar.fina";
+},
+{
+name = "noonabove-ar";
+transform = "{1, 0, 0, 1, -50, -280}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

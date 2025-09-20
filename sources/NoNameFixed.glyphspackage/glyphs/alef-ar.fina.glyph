@@ -1,0 +1,34 @@
+{
+glyphname = "alef-ar.fina";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"525 110 LINE",
+"351 110 LINE SMOOTH",
+"261 110 OFFCURVE",
+"228 166 OFFCURVE",
+"228 250 CURVE SMOOTH",
+"228 680 LINE SMOOTH",
+"228 711 OFFCURVE",
+"235 721 OFFCURVE",
+"264 721 CURVE SMOOTH",
+"291 721 OFFCURVE",
+"297 711 OFFCURVE",
+"297 680 CURVE SMOOTH",
+"297 250 LINE SMOOTH",
+"297 228 OFFCURVE",
+"297 180 OFFCURVE",
+"351 180 CURVE SMOOTH",
+"525 180 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FE8E;
+}

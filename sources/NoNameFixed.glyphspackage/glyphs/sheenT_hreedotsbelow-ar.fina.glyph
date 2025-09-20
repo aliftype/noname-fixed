@@ -1,0 +1,18 @@
+{
+glyphname = "sheenThreedotsbelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "sheen-ar.fina";
+},
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 93, -781}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,36 @@
+{
+glyphname = logicalnot;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"486 211 OFFCURVE",
+"470 195 OFFCURVE",
+"451 195 CURVE SMOOTH",
+"432 195 OFFCURVE",
+"416 211 OFFCURVE",
+"416 230 CURVE SMOOTH",
+"416 347 LINE",
+"73 347 LINE SMOOTH",
+"54 347 OFFCURVE",
+"38 363 OFFCURVE",
+"38 382 CURVE SMOOTH",
+"38 401 OFFCURVE",
+"54 417 OFFCURVE",
+"73 417 CURVE SMOOTH",
+"451 417 LINE SMOOTH",
+"470 417 OFFCURVE",
+"486 401 OFFCURVE",
+"486 382 CURVE SMOOTH",
+"486 230 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 00AC;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = uacute;
+layers = (
+{
+components = (
+{
+name = acute;
+},
+{
+name = u;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 00FA;
+}

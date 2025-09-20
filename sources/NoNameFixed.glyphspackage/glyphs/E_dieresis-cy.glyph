@@ -1,0 +1,51 @@
+{
+glyphname = "Edieresis-cy";
+layers = (
+{
+components = (
+{
+name = "Ereversed-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"91 797 OFFCURVE",
+"114 819 OFFCURVE",
+"141 819 CURVE SMOOTH",
+"167 819 OFFCURVE",
+"191 798 OFFCURVE",
+"191 769 CURVE SMOOTH",
+"191 740 OFFCURVE",
+"166 719 OFFCURVE",
+"142 719 CURVE SMOOTH",
+"112 719 OFFCURVE",
+"91 742 OFFCURVE",
+"91 769 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"295 798 OFFCURVE",
+"319 819 OFFCURVE",
+"345 819 CURVE SMOOTH",
+"371 819 OFFCURVE",
+"395 798 OFFCURVE",
+"395 769 CURVE SMOOTH",
+"395 742 OFFCURVE",
+"374 719 OFFCURVE",
+"345 719 CURVE SMOOTH",
+"315 719 OFFCURVE",
+"295 744 OFFCURVE",
+"295 769 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04EC;
+}

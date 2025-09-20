@@ -1,0 +1,23 @@
+{
+glyphname = "jeemThreedotsbelow-ar";
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 30, 548}";
+},
+{
+name = "hah-ar";
+},
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{0.52433, 0, 0, 0.52433, 164, -275}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08C6;
+}

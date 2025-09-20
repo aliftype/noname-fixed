@@ -1,0 +1,15 @@
+{
+glyphname = omicronoxia;
+layers = (
+{
+components = (
+{
+name = omicrontonos;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1F79;
+}

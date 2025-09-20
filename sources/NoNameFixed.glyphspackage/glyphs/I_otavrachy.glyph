@@ -1,0 +1,40 @@
+{
+glyphname = Iotavrachy;
+layers = (
+{
+components = (
+{
+name = I;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"127 754 OFFCURVE",
+"192 695 OFFCURVE",
+"261 694 CURVE SMOOTH",
+"309 694 OFFCURVE",
+"373 727 OFFCURVE",
+"410 761 CURVE",
+"426 761 OFFCURVE",
+"430 751 OFFCURVE",
+"430 744 CURVE",
+"384 698 OFFCURVE",
+"313 660 OFFCURVE",
+"261 660 CURVE SMOOTH",
+"189 660 OFFCURVE",
+"126 713 OFFCURVE",
+"94 744 CURVE",
+"94 754 OFFCURVE",
+"102 761 OFFCURVE",
+"115 761 CURVE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1FD8;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "ghainThreedotsabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "ghain-ar.medi";
+},
+{
+name = "threedotsabove-ar";
+transform = "{0.5, 0, 0, 0.5, 132, 470}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

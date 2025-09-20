@@ -1,0 +1,41 @@
+{
+glyphname = exclamdown;
+layers = (
+{
+components = (
+{
+name = dotaccent;
+transform = "{1, 0, 0, 1, -1, -216}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"312 -229 OFFCURVE",
+"271 -233 OFFCURVE",
+"262 -233 CURVE SMOOTH",
+"253 -233 OFFCURVE",
+"212 -229 OFFCURVE",
+"212 -176 CURVE SMOOTH",
+"212 -123 OFFCURVE",
+"216 -68 OFFCURVE",
+"217 -16 CURVE SMOOTH",
+"221 157 LINE SMOOTH",
+"223 197 OFFCURVE",
+"227 205 OFFCURVE",
+"262 205 CURVE SMOOTH",
+"274 205 OFFCURVE",
+"301 205 OFFCURVE",
+"302 180 CURVE SMOOTH",
+"305 58 LINE",
+"312 -176 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 00A1;
+}

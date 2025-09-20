@@ -1,0 +1,19 @@
+{
+glyphname = Uhornacute;
+layers = (
+{
+components = (
+{
+name = Uhorn;
+},
+{
+name = acute;
+transform = "{1, 0, 0, 1, -29, 185}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EE8;
+}

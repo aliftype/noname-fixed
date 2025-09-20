@@ -1,0 +1,46 @@
+{
+glyphname = "Zhebreve-cy";
+layers = (
+{
+components = (
+{
+name = "Zhe-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"86 807 OFFCURVE",
+"98 819 OFFCURVE",
+"117 819 CURVE SMOOTH",
+"149 819 OFFCURVE",
+"147 788 OFFCURVE",
+"149 780 CURVE SMOOTH",
+"157 742 OFFCURVE",
+"204 716 OFFCURVE",
+"263 716 CURVE SMOOTH",
+"310 716 OFFCURVE",
+"371 736 OFFCURVE",
+"377 786 CURVE SMOOTH",
+"379 799 OFFCURVE",
+"382 819 OFFCURVE",
+"408 819 CURVE SMOOTH",
+"427 819 OFFCURVE",
+"439 808 OFFCURVE",
+"439 788 CURVE SMOOTH",
+"439 711 OFFCURVE",
+"360 652 OFFCURVE",
+"263 652 CURVE SMOOTH",
+"156 652 OFFCURVE",
+"86 717 OFFCURVE",
+"86 788 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04C1;
+}

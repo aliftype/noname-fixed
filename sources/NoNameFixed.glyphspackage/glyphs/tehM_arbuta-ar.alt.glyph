@@ -1,0 +1,14 @@
+{
+glyphname = "tehMarbuta-ar.alt";
+layers = (
+{
+components = (
+{
+name = "hehgoal-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

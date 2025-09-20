@@ -1,0 +1,20 @@
+{
+glyphname = "semicolon-ar";
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -1, 596}";
+},
+{
+name = "comma-ar";
+transform = "{1, 0, 0, 1, 0, 262}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 061B;
+}

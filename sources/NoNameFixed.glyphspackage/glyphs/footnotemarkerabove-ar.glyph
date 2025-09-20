@@ -1,0 +1,17 @@
+{
+glyphname = "footnotemarkerabove-ar";
+layers = (
+{
+components = (
+{
+name = "footnotemarker-ar";
+transform = "{0.7, 0, 0, 0.7, 80, 530}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08E0;
+subCategory = Spacing;
+}

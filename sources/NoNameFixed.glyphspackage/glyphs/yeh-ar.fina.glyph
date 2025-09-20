@@ -1,0 +1,19 @@
+{
+glyphname = "yeh-ar.fina";
+layers = (
+{
+components = (
+{
+name = "yehFarsi-ar.fina";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -17, -959}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FEF2;
+}

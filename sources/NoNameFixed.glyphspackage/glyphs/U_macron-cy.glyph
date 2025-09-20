@@ -1,0 +1,36 @@
+{
+glyphname = "Umacron-cy";
+layers = (
+{
+components = (
+{
+name = "U-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"42 803 OFFCURVE",
+"49 819 OFFCURVE",
+"78 819 CURVE SMOOTH",
+"444 819 LINE SMOOTH",
+"455 819 OFFCURVE",
+"481 816 OFFCURVE",
+"481 787 CURVE SMOOTH",
+"481 772 OFFCURVE",
+"474 756 OFFCURVE",
+"446 756 CURVE SMOOTH",
+"77 756 LINE SMOOTH",
+"49 756 OFFCURVE",
+"42 772 OFFCURVE",
+"42 787 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04EE;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = "noonAfrican-ar.medi";
+layers = (
+{
+components = (
+{
+name = "noon-ar.medi";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

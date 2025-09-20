@@ -1,0 +1,18 @@
+{
+glyphname = "rehDotbelowdotabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "zain-ar.fina";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 29, 140}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

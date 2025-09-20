@@ -1,0 +1,14 @@
+{
+glyphname = "qafDotless-ar.init";
+layers = (
+{
+components = (
+{
+name = "fehDotless-ar.init";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

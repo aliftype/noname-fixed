@@ -1,0 +1,55 @@
+{
+glyphname = percent;
+layers = (
+{
+components = (
+{
+name = percent.arabic.comp;
+},
+{
+name = perthousandzero;
+transform = "{1, 0, 0, 1, 139, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"209 485 OFFCURVE",
+"171 427 OFFCURVE",
+"122 427 CURVE SMOOTH",
+"74 427 OFFCURVE",
+"35 483 OFFCURVE",
+"35 561 CURVE SMOOTH",
+"35 636 OFFCURVE",
+"73 694 OFFCURVE",
+"122 694 CURVE SMOOTH",
+"170 694 OFFCURVE",
+"209 638 OFFCURVE",
+"209 560 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"153 602 OFFCURVE",
+"135 632 OFFCURVE",
+"122 632 CURVE SMOOTH",
+"109 632 OFFCURVE",
+"91 602 OFFCURVE",
+"91 561 CURVE SMOOTH",
+"91 517 OFFCURVE",
+"110 489 OFFCURVE",
+"122 489 CURVE SMOOTH",
+"134 489 OFFCURVE",
+"153 517 OFFCURVE",
+"153 561 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0025;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "beeh-ar.fina";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.fina";
+},
+{
+name = "twodotsverticalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 33, -735}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB53;
+}

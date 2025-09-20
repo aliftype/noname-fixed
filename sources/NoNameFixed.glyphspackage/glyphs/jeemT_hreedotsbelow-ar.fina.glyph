@@ -1,0 +1,22 @@
+{
+glyphname = "jeemThreedotsbelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 30, 548}";
+},
+{
+name = "hah-ar.fina";
+},
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{0.5, 0, 0, 0.5, 164, -265}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

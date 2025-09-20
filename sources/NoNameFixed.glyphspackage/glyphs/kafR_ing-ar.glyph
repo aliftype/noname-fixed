@@ -1,0 +1,19 @@
+{
+glyphname = "kafRing-ar";
+layers = (
+{
+components = (
+{
+name = "sukunoval-ar";
+transform = "{1, 0, 0, 1, 176, -170}";
+},
+{
+name = "keheh-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06AB;
+}

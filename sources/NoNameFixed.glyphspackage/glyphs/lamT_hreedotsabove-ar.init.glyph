@@ -1,0 +1,18 @@
+{
+glyphname = "lamThreedotsabove-ar.init";
+layers = (
+{
+components = (
+{
+name = "lam-ar.init";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, -48, 302}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

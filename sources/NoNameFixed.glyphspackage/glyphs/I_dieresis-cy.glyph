@@ -1,0 +1,51 @@
+{
+glyphname = "Idieresis-cy";
+layers = (
+{
+components = (
+{
+name = "Ii-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"109 798 OFFCURVE",
+"134 819 OFFCURVE",
+"159 819 CURVE SMOOTH",
+"185 819 OFFCURVE",
+"209 798 OFFCURVE",
+"209 769 CURVE SMOOTH",
+"209 740 OFFCURVE",
+"185 719 OFFCURVE",
+"160 719 CURVE SMOOTH",
+"130 719 OFFCURVE",
+"109 742 OFFCURVE",
+"109 769 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"313 798 OFFCURVE",
+"338 819 OFFCURVE",
+"363 819 CURVE SMOOTH",
+"389 819 OFFCURVE",
+"413 798 OFFCURVE",
+"413 769 CURVE SMOOTH",
+"413 740 OFFCURVE",
+"389 719 OFFCURVE",
+"364 719 CURVE SMOOTH",
+"334 719 OFFCURVE",
+"313 742 OFFCURVE",
+"313 769 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04E4;
+}

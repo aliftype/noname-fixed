@@ -1,0 +1,19 @@
+{
+glyphname = Egrave;
+layers = (
+{
+components = (
+{
+name = grave;
+transform = "{1, 0, 0, 1, 0, 185}";
+},
+{
+name = E;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 00C8;
+}

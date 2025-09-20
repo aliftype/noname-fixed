@@ -1,0 +1,53 @@
+{
+glyphname = "fita-cy";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"47 336 OFFCURVE",
+"139 442 OFFCURVE",
+"262 442 CURVE SMOOTH",
+"376 442 OFFCURVE",
+"477 346 OFFCURVE",
+"477 215 CURVE SMOOTH",
+"477 94 OFFCURVE",
+"385 -11 OFFCURVE",
+"262 -11 CURVE SMOOTH",
+"149 -11 OFFCURVE",
+"47 85 OFFCURVE",
+"47 215 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"120 130 OFFCURVE",
+"176 51 OFFCURVE",
+"262 51 CURVE SMOOTH",
+"316 51 OFFCURVE",
+"396 88 OFFCURVE",
+"407 207 CURVE",
+"117 207 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"400 267 LINE",
+"380 338 OFFCURVE",
+"321 380 OFFCURVE",
+"262 380 CURVE SMOOTH",
+"190 380 OFFCURVE",
+"140 323 OFFCURVE",
+"124 267 CURVE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0473;
+}

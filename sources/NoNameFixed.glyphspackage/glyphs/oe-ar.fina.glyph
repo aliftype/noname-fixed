@@ -1,0 +1,19 @@
+{
+glyphname = "oe-ar.fina";
+layers = (
+{
+components = (
+{
+name = "waw-ar.fina";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, -5, -239}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBDA;
+}

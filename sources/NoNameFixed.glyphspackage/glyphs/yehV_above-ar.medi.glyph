@@ -1,0 +1,18 @@
+{
+glyphname = "yehVabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.medi";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 14, -215}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

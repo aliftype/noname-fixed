@@ -1,0 +1,19 @@
+{
+glyphname = Odblgrave;
+layers = (
+{
+components = (
+{
+name = dblgravecomb;
+transform = "{1, 0, 0, 1, 525, 188}";
+},
+{
+name = O;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 020C;
+}

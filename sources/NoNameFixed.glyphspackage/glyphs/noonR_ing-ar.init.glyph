@@ -1,0 +1,18 @@
+{
+glyphname = "noonRing-ar.init";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init";
+},
+{
+name = "sukunoval-ar";
+transform = "{1, 0, 0, 1, 28, -716}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

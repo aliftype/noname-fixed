@@ -1,8 +1,8 @@
 all: NoNameFixed-Regular.ttf
 
-export SOURCE_DATE_EPOCH=$(shell stat -c "%Y" NoNameFixed.glyphs)
+export SOURCE_DATE_EPOCH=$(shell stat -c "%Y" sources/NoNameFixed.glyphspackage)
 
-NoNameFixed-Regular.ttf: NoNameFixed.glyphs
+NoNameFixed-Regular.ttf: sources/NoNameFixed.glyphspackage
 	@echo "  MAKE   $@"
 	@fontmake -g $<                                                        \
 		  --output=ttf                                                 \

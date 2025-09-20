@@ -1,0 +1,19 @@
+{
+glyphname = Uhornhookabove;
+layers = (
+{
+components = (
+{
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 525, 234}";
+},
+{
+name = Uhorn;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EEC;
+}

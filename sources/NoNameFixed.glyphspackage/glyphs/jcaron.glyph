@@ -1,0 +1,19 @@
+{
+glyphname = jcaron;
+layers = (
+{
+components = (
+{
+name = caron;
+transform = "{1, 0, 0, 1, 56, 0}";
+},
+{
+name = jdotless;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 01F0;
+}

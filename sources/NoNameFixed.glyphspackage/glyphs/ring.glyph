@@ -1,0 +1,47 @@
+{
+glyphname = ring;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"310 583 OFFCURVE",
+"286 598 OFFCURVE",
+"263 598 CURVE SMOOTH",
+"240 598 OFFCURVE",
+"216 583 OFFCURVE",
+"216 564 CURVE SMOOTH",
+"216 545 OFFCURVE",
+"240 530 OFFCURVE",
+"263 530 CURVE SMOOTH",
+"286 530 OFFCURVE",
+"310 545 OFFCURVE",
+"310 564 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"360 527 OFFCURVE",
+"319 492 OFFCURVE",
+"263 492 CURVE SMOOTH",
+"207 492 OFFCURVE",
+"166 527 OFFCURVE",
+"166 564 CURVE SMOOTH",
+"166 601 OFFCURVE",
+"207 636 OFFCURVE",
+"263 636 CURVE SMOOTH",
+"319 636 OFFCURVE",
+"360 601 OFFCURVE",
+"360 564 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 02DA;
+subCategory = Spacing;
+}

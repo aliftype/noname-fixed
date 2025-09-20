@@ -1,0 +1,23 @@
+{
+glyphname = "seenDotbelowDotabove-ar";
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 92, 1091}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 123, 359}";
+},
+{
+name = "seen-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 069A;
+}

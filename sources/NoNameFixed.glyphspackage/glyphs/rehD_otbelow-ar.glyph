@@ -1,0 +1,19 @@
+{
+glyphname = "rehDotbelow-ar";
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 29, 168}";
+},
+{
+name = "reh-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0694;
+}

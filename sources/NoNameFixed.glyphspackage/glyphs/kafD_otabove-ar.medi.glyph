@@ -1,0 +1,18 @@
+{
+glyphname = "kafDotabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "keheh-ar.medi";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -164, 1198}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "thal-ar";
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 3, 1137}";
+},
+{
+name = "dal-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "0630,FEAB";
+}

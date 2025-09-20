@@ -1,0 +1,17 @@
+{
+glyphname = "toneonedotbelow-ar";
+layers = (
+{
+components = (
+{
+name = "toneonedotabove-ar";
+transform = "{1, 0, 0, 1, 0, -1272}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08ED;
+subCategory = Spacing;
+}

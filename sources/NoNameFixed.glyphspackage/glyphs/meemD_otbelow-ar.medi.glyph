@@ -1,0 +1,18 @@
+{
+glyphname = "meemDotbelow-ar.medi";
+layers = (
+{
+components = (
+{
+name = "meem-ar.medi";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 0, 255}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

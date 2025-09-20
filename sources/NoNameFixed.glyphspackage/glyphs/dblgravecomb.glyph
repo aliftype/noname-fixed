@@ -1,0 +1,51 @@
+{
+glyphname = dblgravecomb;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-114 482 OFFCURVE",
+"-136 481 OFFCURVE",
+"-151 494 CURVE SMOOTH",
+"-228 564 LINE SMOOTH",
+"-242 577 OFFCURVE",
+"-244 599 OFFCURVE",
+"-231 613 CURVE SMOOTH",
+"-218 628 OFFCURVE",
+"-196 629 OFFCURVE",
+"-181 616 CURVE SMOOTH",
+"-104 546 LINE SMOOTH",
+"-90 533 OFFCURVE",
+"-88 511 OFFCURVE",
+"-101 497 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-308 482 OFFCURVE",
+"-330 481 OFFCURVE",
+"-345 494 CURVE SMOOTH",
+"-422 564 LINE SMOOTH",
+"-436 577 OFFCURVE",
+"-438 599 OFFCURVE",
+"-425 613 CURVE SMOOTH",
+"-412 628 OFFCURVE",
+"-390 629 OFFCURVE",
+"-375 616 CURVE SMOOTH",
+"-298 546 LINE SMOOTH",
+"-284 533 OFFCURVE",
+"-282 511 OFFCURVE",
+"-295 497 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 030F;
+subCategory = Spacing;
+}

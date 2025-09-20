@@ -1,0 +1,51 @@
+{
+glyphname = "Yerudieresis-cy";
+layers = (
+{
+components = (
+{
+name = "Yeru-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"110 798 OFFCURVE",
+"134 819 OFFCURVE",
+"160 819 CURVE SMOOTH",
+"186 819 OFFCURVE",
+"210 798 OFFCURVE",
+"210 769 CURVE SMOOTH",
+"210 740 OFFCURVE",
+"186 719 OFFCURVE",
+"160 719 CURVE SMOOTH",
+"134 719 OFFCURVE",
+"110 740 OFFCURVE",
+"110 769 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"314 796 OFFCURVE",
+"336 819 OFFCURVE",
+"364 819 CURVE SMOOTH",
+"394 819 OFFCURVE",
+"414 794 OFFCURVE",
+"414 769 CURVE SMOOTH",
+"414 743 OFFCURVE",
+"392 719 OFFCURVE",
+"364 719 CURVE SMOOTH",
+"335 719 OFFCURVE",
+"314 742 OFFCURVE",
+"314 769 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04F8;
+}

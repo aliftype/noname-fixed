@@ -1,0 +1,18 @@
+{
+glyphname = "hehgoalHamzaabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "hehgoal-ar.fina";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, -23, -128}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

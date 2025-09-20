@@ -1,0 +1,16 @@
+{
+glyphname = Chi;
+layers = (
+{
+components = (
+{
+name = X;
+transform = "{1, 0, 0, 1, 1, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 03A7;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = "noonVabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "noonghunna-ar.fina";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 15, 862}";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 14, -181}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

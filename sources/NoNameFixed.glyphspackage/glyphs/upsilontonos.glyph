@@ -1,0 +1,34 @@
+{
+glyphname = upsilontonos;
+layers = (
+{
+components = (
+{
+name = upsilon;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"334 612 OFFCURVE",
+"340 585 OFFCURVE",
+"340 578 CURVE SMOOTH",
+"340 568 OFFCURVE",
+"263 480 OFFCURVE",
+"257 477 CURVE",
+"237 462 OFFCURVE",
+"204 485 OFFCURVE",
+"217 511 CURVE",
+"245 549 OFFCURVE",
+"284 612 OFFCURVE",
+"305 612 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 03CD;
+}

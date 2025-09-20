@@ -1,0 +1,54 @@
+{
+glyphname = "dammatanCurly-ar";
+layers = (
+{
+components = (
+{
+name = "dammaCurly-ar";
+transform = "{1, 0, 0, 1, 93, -126}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"223 829 OFFCURVE",
+"193 798 OFFCURVE",
+"193 737 CURVE SMOOTH",
+"193 708 OFFCURVE",
+"215 700 OFFCURVE",
+"222 700 CURVE SMOOTH",
+"236 700 OFFCURVE",
+"239 706 OFFCURVE",
+"251 706 CURVE SMOOTH",
+"262 706 OFFCURVE",
+"280 686 OFFCURVE",
+"280 662 CURVE SMOOTH",
+"280 626 OFFCURVE",
+"252 595 OFFCURVE",
+"213 595 CURVE SMOOTH",
+"171 595 OFFCURVE",
+"124 629 OFFCURVE",
+"124 702 CURVE SMOOTH",
+"124 839 OFFCURVE",
+"207 890 OFFCURVE",
+"268 890 CURVE SMOOTH",
+"345 890 OFFCURVE",
+"380 857 OFFCURVE",
+"380 812 CURVE SMOOTH",
+"380 790 OFFCURVE",
+"365 776 OFFCURVE",
+"348 776 CURVE SMOOTH",
+"308 776 OFFCURVE",
+"326 829 OFFCURVE",
+"267 829 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08E8;
+subCategory = Spacing;
+}

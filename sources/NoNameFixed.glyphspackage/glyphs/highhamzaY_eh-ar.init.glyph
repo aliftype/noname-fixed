@@ -1,0 +1,39 @@
+{
+glyphname = "highhamzaYeh-ar.init";
+layers = (
+{
+components = (
+{
+name = ittisal.comp;
+},
+{
+name = "highhamza-ar.narrow";
+transform = "{1, 0, 0, 1, 113, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"245 431 OFFCURVE",
+"251 421 OFFCURVE",
+"251 390 CURVE SMOOTH",
+"251 151 LINE SMOOTH",
+"251 120 OFFCURVE",
+"244 110 OFFCURVE",
+"216 110 CURVE SMOOTH",
+"0 110 LINE",
+"0 180 LINE",
+"182 180 LINE",
+"182 390 LINE SMOOTH",
+"182 421 OFFCURVE",
+"189 431 OFFCURVE",
+"217 431 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+}

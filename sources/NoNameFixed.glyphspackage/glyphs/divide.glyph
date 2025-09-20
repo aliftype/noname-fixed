@@ -1,0 +1,23 @@
+{
+glyphname = divide;
+layers = (
+{
+components = (
+{
+name = minus;
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -1, 31}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -1, 455}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 00F7;
+}

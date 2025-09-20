@@ -1,0 +1,18 @@
+{
+glyphname = "wawThreeAbove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "threeabove-ar";
+transform = "{1, 0, 0, 1, -95, -307}";
+},
+{
+name = "waw-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

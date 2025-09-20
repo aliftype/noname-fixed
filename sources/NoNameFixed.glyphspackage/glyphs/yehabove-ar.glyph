@@ -1,0 +1,17 @@
+{
+glyphname = "yehabove-ar";
+layers = (
+{
+components = (
+{
+name = "yehSmall-ar";
+transform = "{1, 0, 0, 1, 0, 600}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06E7;
+subCategory = Spacing;
+}

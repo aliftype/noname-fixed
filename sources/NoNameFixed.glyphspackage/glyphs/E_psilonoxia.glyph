@@ -1,0 +1,15 @@
+{
+glyphname = Epsilonoxia;
+layers = (
+{
+components = (
+{
+name = Epsilontonos;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1FC9;
+}

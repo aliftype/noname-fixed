@@ -1,0 +1,53 @@
+{
+glyphname = "obarred-cy";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"56 334 OFFCURVE",
+"144 439 OFFCURVE",
+"262 439 CURVE SMOOTH",
+"370 439 OFFCURVE",
+"467 344 OFFCURVE",
+"467 215 CURVE SMOOTH",
+"467 87 OFFCURVE",
+"369 -5 OFFCURVE",
+"261 -5 CURVE SMOOTH",
+"156 -5 OFFCURVE",
+"56 85 OFFCURVE",
+"56 216 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"133 127 OFFCURVE",
+"188 56 OFFCURVE",
+"262 56 CURVE SMOOTH",
+"334 56 OFFCURVE",
+"390 125 OFFCURVE",
+"396 207 CURVE",
+"127 207 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"392 267 LINE",
+"372 341 OFFCURVE",
+"317 376 OFFCURVE",
+"263 376 CURVE SMOOTH",
+"210 376 OFFCURVE",
+"153 344 OFFCURVE",
+"131 267 CURVE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04E9;
+}

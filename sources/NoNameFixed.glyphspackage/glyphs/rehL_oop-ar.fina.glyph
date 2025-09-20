@@ -1,0 +1,26 @@
+{
+glyphname = "rehLoop-ar.fina";
+layers = (
+{
+components = (
+{
+name = "rehLoop-ar";
+transform = "{1, 0, 0, 1, -6, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"525 110 LINE",
+"453 110 LINE",
+"453 180 LINE",
+"525 180 LINE"
+);
+}
+);
+width = 525;
+}
+);
+}

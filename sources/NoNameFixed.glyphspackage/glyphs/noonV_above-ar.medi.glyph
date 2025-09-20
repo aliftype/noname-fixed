@@ -1,0 +1,18 @@
+{
+glyphname = "noonVabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "noon-ar.medi";
+},
+{
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, 16, -3}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

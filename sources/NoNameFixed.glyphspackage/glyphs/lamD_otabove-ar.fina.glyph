@@ -1,0 +1,18 @@
+{
+glyphname = "lamDotabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "lam-ar.fina";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -5, 1137}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

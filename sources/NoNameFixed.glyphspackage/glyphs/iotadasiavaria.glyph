@@ -1,0 +1,20 @@
+{
+glyphname = iotadasiavaria;
+layers = (
+{
+components = (
+{
+name = dasiavaria;
+transform = "{1, 0, 0, 1, -13, 0}";
+},
+{
+name = iota;
+transform = "{1, 0, 0, 1, 16, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1F33;
+}

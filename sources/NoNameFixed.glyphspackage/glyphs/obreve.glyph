@@ -1,0 +1,18 @@
+{
+glyphname = obreve;
+layers = (
+{
+components = (
+{
+name = breve;
+},
+{
+name = o;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 014F;
+}

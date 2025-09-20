@@ -1,0 +1,18 @@
+{
+glyphname = "sadThreedots-ar.init";
+layers = (
+{
+components = (
+{
+name = "sad-ar.init";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 90, 388}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

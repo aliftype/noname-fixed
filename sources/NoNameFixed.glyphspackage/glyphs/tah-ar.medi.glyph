@@ -1,0 +1,58 @@
+{
+glyphname = "tah-ar.medi";
+layers = (
+{
+components = (
+{
+name = ittisal.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 110 LINE",
+"0 180 LINE",
+"129 180 LINE",
+"129 737 LINE SMOOTH",
+"129 768 OFFCURVE",
+"136 778 OFFCURVE",
+"164 778 CURVE SMOOTH",
+"192 778 OFFCURVE",
+"198 768 OFFCURVE",
+"198 737 CURVE SMOOTH",
+"198 286 LINE",
+"227 339 OFFCURVE",
+"289 459 OFFCURVE",
+"400 459 CURVE SMOOTH",
+"461 459 OFFCURVE",
+"494 408 OFFCURVE",
+"494 352 CURVE SMOOTH",
+"494 291 OFFCURVE",
+"472 227 OFFCURVE",
+"420 180 CURVE",
+"525 180 LINE",
+"525 110 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"386 180 OFFCURVE",
+"424 271 OFFCURVE",
+"424 331 CURVE SMOOTH",
+"424 361 OFFCURVE",
+"414 389 OFFCURVE",
+"387 389 CURVE SMOOTH",
+"310 389 OFFCURVE",
+"247 262 OFFCURVE",
+"214 180 CURVE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FEC4;
+}

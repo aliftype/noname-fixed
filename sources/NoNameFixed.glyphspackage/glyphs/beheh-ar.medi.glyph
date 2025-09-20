@@ -1,0 +1,19 @@
+{
+glyphname = "beheh-ar.medi";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.medi";
+},
+{
+name = "fourdotsaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 17, -790}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB5D;
+}

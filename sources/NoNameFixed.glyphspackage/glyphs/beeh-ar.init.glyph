@@ -1,0 +1,19 @@
+{
+glyphname = "beeh-ar.init";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar.init";
+},
+{
+name = "twodotsverticalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 33, -735}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB54;
+}

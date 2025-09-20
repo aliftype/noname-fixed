@@ -1,0 +1,37 @@
+{
+glyphname = iotamacron;
+layers = (
+{
+components = (
+{
+name = iota;
+transform = "{1, 0, 0, 1, 27, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"426 590 OFFCURVE",
+"428 585 OFFCURVE",
+"430 562 CURVE",
+"426 539 OFFCURVE",
+"424 542 OFFCURVE",
+"418 536 CURVE",
+"106 536 LINE",
+"104 535 OFFCURVE",
+"96 545 OFFCURVE",
+"94 562 CURVE",
+"94 579 OFFCURVE",
+"100 598 OFFCURVE",
+"106 598 CURVE SMOOTH",
+"418 598 LINE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1FD1;
+}

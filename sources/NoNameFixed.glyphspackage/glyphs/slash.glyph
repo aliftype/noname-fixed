@@ -1,0 +1,37 @@
+{
+glyphname = slash;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"466 651 OFFCURVE",
+"465 651 OFFCURVE",
+"458 635 CURVE SMOOTH",
+"128 -55 LINE SMOOTH",
+"122 -68 OFFCURVE",
+"115 -83 OFFCURVE",
+"93 -83 CURVE SMOOTH",
+"73 -83 OFFCURVE",
+"58 -66 OFFCURVE",
+"58 -48 CURVE SMOOTH",
+"58 -40 OFFCURVE",
+"59 -40 OFFCURVE",
+"66 -24 CURVE SMOOTH",
+"396 666 LINE SMOOTH",
+"402 679 OFFCURVE",
+"409 694 OFFCURVE",
+"431 694 CURVE SMOOTH",
+"451 694 OFFCURVE",
+"466 677 OFFCURVE",
+"466 659 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 002F;
+}

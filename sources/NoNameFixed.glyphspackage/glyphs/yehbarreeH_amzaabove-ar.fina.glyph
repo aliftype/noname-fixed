@@ -1,0 +1,19 @@
+{
+glyphname = "yehbarreeHamzaabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "yehbarree-ar.fina";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, -112, -254}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBB1;
+}

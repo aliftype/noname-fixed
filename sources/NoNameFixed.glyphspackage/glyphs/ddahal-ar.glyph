@@ -1,0 +1,19 @@
+{
+glyphname = "ddahal-ar";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 4, -643}";
+},
+{
+name = "dal-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "068D,FB82";
+}

@@ -1,0 +1,19 @@
+{
+glyphname = omegatonos;
+layers = (
+{
+components = (
+{
+name = oxia;
+transform = "{1, 0, 0, 1, 25, 0}";
+},
+{
+name = omega;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 03CE;
+}

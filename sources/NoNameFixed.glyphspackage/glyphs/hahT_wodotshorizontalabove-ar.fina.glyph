@@ -1,0 +1,18 @@
+{
+glyphname = "hahTwodotshorizontalabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "hah-ar.fina";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 12, -295}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

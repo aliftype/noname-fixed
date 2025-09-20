@@ -1,0 +1,18 @@
+{
+glyphname = wgrave;
+layers = (
+{
+components = (
+{
+name = w;
+},
+{
+name = grave;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1E81;
+}

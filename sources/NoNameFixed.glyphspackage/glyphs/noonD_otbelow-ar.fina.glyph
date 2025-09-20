@@ -1,0 +1,18 @@
+{
+glyphname = "noonDotbelow-ar.fina";
+layers = (
+{
+components = (
+{
+name = "noon-ar.fina";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 35, 27}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,22 @@
+{
+glyphname = "ttehVabove-ar";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 0, -60}";
+},
+{
+name = "vabove-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08C0;
+}

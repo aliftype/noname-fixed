@@ -1,0 +1,48 @@
+{
+glyphname = "alefMaksura-ar.medi";
+layers = (
+{
+components = (
+{
+name = ittisal.comp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"227 180 OFFCURVE",
+"244 238 OFFCURVE",
+"244 305 CURVE SMOOTH",
+"244 390 LINE SMOOTH",
+"244 421 OFFCURVE",
+"251 431 OFFCURVE",
+"279 431 CURVE SMOOTH",
+"307 431 OFFCURVE",
+"313 421 OFFCURVE",
+"313 390 CURVE SMOOTH",
+"313 305 LINE SMOOTH",
+"313 238 OFFCURVE",
+"330 180 OFFCURVE",
+"383 180 CURVE SMOOTH",
+"525 180 LINE",
+"525 110 LINE",
+"383 110 LINE SMOOTH",
+"316 110 OFFCURVE",
+"291 147 OFFCURVE",
+"279 173 CURVE",
+"266 147 OFFCURVE",
+"241 110 OFFCURVE",
+"176 110 CURVE SMOOTH",
+"0 110 LINE",
+"0 180 LINE",
+"174 180 LINE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FBE9;
+}

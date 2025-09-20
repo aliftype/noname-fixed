@@ -1,0 +1,19 @@
+{
+glyphname = lacute;
+layers = (
+{
+components = (
+{
+name = acute;
+transform = "{1, 0, 0, 1, 0, 185}";
+},
+{
+name = l;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 013A;
+}

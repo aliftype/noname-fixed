@@ -1,0 +1,22 @@
+{
+glyphname = "noonTwodotsbelow-ar.init";
+layers = (
+{
+components = (
+{
+name = "noon-ar.init";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 101, 359}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -56, 338}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,33 @@
+{
+glyphname = "kashidaFina-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"139 375 OFFCURVE",
+"155 355 OFFCURVE",
+"155 333 CURVE SMOOTH",
+"155 284 OFFCURVE",
+"97 305 OFFCURVE",
+"97 235 CURVE SMOOTH",
+"97 128 OFFCURVE",
+"189 110 OFFCURVE",
+"277 110 CURVE",
+"107 110 LINE SMOOTH",
+"38 110 OFFCURVE",
+"28 193 OFFCURVE",
+"28 235 CURVE SMOOTH",
+"28 294 OFFCURVE",
+"58 375 OFFCURVE",
+"112 375 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FE73;
+}

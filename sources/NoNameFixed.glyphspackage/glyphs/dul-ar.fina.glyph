@@ -1,0 +1,19 @@
+{
+glyphname = "dul-ar.fina";
+layers = (
+{
+components = (
+{
+name = "dal-ar.fina";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, -32, 424}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB87;
+}

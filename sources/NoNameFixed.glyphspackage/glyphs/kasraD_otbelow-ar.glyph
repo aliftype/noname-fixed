@@ -1,0 +1,21 @@
+{
+glyphname = "kasraDotbelow-ar";
+layers = (
+{
+components = (
+{
+name = "toneonedotabove-ar";
+transform = "{1, 0, 0, 1, 41, -1272}";
+},
+{
+name = "fatha-ar";
+transform = "{1, 0, 0, 1, 17, -1013}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08F6;
+subCategory = Spacing;
+}

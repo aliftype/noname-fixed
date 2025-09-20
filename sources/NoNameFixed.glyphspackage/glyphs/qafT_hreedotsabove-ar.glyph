@@ -1,0 +1,19 @@
+{
+glyphname = "qafThreedotsabove-ar";
+layers = (
+{
+components = (
+{
+name = "qafDotless-ar";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 105, 424}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06A8;
+}

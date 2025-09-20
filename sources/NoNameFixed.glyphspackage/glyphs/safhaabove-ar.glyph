@@ -1,0 +1,18 @@
+{
+glyphname = "safhaabove-ar";
+layers = (
+{
+components = (
+{
+name = "pagenumber-ar";
+transform = "{1, 0, 0, 0.7, 0, 500}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08E1;
+category = Mark;
+subCategory = Spacing;
+}

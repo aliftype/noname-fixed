@@ -1,0 +1,18 @@
+{
+glyphname = "hahTwodotsverticalabove-ar.init";
+layers = (
+{
+components = (
+{
+name = "hah-ar.init";
+},
+{
+name = "twodotsverticalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -2, 93}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

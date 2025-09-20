@@ -1,0 +1,38 @@
+{
+glyphname = "fathasmall-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"384 891 OFFCURVE",
+"407 861 OFFCURVE",
+"407 843 CURVE SMOOTH",
+"407 833 OFFCURVE",
+"400 822 OFFCURVE",
+"388 811 CURVE SMOOTH",
+"251 696 LINE SMOOTH",
+"234 682 OFFCURVE",
+"218 671 OFFCURVE",
+"208 671 CURVE SMOOTH",
+"192 671 OFFCURVE",
+"167 702 OFFCURVE",
+"167 717 CURVE SMOOTH",
+"167 726 OFFCURVE",
+"176 738 OFFCURVE",
+"189 750 CURVE SMOOTH",
+"325 867 LINE SMOOTH",
+"337 878 OFFCURVE",
+"353 891 OFFCURVE",
+"363 891 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0618;
+subCategory = Spacing;
+}

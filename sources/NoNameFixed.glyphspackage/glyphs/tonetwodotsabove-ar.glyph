@@ -1,0 +1,21 @@
+{
+glyphname = "tonetwodotsabove-ar";
+layers = (
+{
+components = (
+{
+name = "toneonedotabove-ar";
+transform = "{1, 0, 0, 1, 54, 0}";
+},
+{
+name = "toneonedotabove-ar";
+transform = "{1, 0, 0, 1, -84, -40}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08EB;
+subCategory = Spacing;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "smallainabove-ar";
+layers = (
+{
+components = (
+{
+name = "ain-ar";
+transform = "{0.5, 0, 0, 0.5, 126, 471}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08D6;
+script = arabic;
+category = Mark;
+subCategory = Spacing;
+}

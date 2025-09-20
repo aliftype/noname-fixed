@@ -1,0 +1,18 @@
+{
+glyphname = "yehTail-ar.fina";
+layers = (
+{
+components = (
+{
+name = tail.comp;
+transform = "{1, 0, 0, 1, 12, -166}";
+},
+{
+name = "yehFarsi-ar.fina";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

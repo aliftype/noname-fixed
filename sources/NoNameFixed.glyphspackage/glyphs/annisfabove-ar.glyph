@@ -1,0 +1,80 @@
+{
+glyphname = "annisfabove-ar";
+layers = (
+{
+components = (
+{
+name = "feh-ar.fina";
+transform = "{0.32593, 0, 0, 0.32593, -2, 475}";
+},
+{
+name = "sad-ar.medi";
+transform = "{0.32593, 0, 0, 0.32593, 170, 475}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{0.32593, 0, 0, 0.32593, 284, 813}";
+},
+{
+name = "alef-ar";
+transform = "{0.32593, 0, 0, 0.32593, 393, 475}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"353 533 OFFCURVE",
+"358 551 OFFCURVE",
+"358 573 CURVE SMOOTH",
+"358 601 LINE SMOOTH",
+"358 611 OFFCURVE",
+"361 614 OFFCURVE",
+"370 614 CURVE SMOOTH",
+"379 614 OFFCURVE",
+"381 611 OFFCURVE",
+"381 601 CURVE SMOOTH",
+"381 573 LINE SMOOTH",
+"381 551 OFFCURVE",
+"387 533 OFFCURVE",
+"404 533 CURVE",
+"404 510 LINE",
+"382 510 OFFCURVE",
+"374 522 OFFCURVE",
+"370 530 CURVE",
+"366 522 OFFCURVE",
+"358 510 OFFCURVE",
+"336 510 CURVE",
+"336 533 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"445 709 OFFCURVE",
+"447 706 OFFCURVE",
+"447 696 CURVE SMOOTH",
+"447 555 LINE SMOOTH",
+"447 528 OFFCURVE",
+"436 510 OFFCURVE",
+"407 510 CURVE SMOOTH",
+"403 510 LINE",
+"403 533 LINE",
+"407 533 LINE SMOOTH",
+"425 533 OFFCURVE",
+"425 548 OFFCURVE",
+"425 555 CURVE SMOOTH",
+"425 696 LINE SMOOTH",
+"425 706 OFFCURVE",
+"427 709 OFFCURVE",
+"436 709 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08DC;
+subCategory = Spacing;
+}

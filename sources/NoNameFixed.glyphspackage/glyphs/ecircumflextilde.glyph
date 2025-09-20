@@ -1,0 +1,19 @@
+{
+glyphname = ecircumflextilde;
+layers = (
+{
+components = (
+{
+name = circumflexcomb_tildecomb.cap;
+transform = "{1, 0, 0, 1, 0, 5}";
+},
+{
+name = e;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EC5;
+}

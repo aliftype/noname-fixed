@@ -1,0 +1,23 @@
+{
+glyphname = ittisal.comp;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 110 LINE",
+"-17 110 OFFCURVE",
+"-17 128 OFFCURVE",
+"-17 145 CURVE SMOOTH",
+"-17 162 OFFCURVE",
+"-17 180 OFFCURVE",
+"0 180 CURVE"
+);
+}
+);
+width = 525;
+}
+);
+}

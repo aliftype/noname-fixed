@@ -1,0 +1,18 @@
+{
+glyphname = "alefTwoabove-ar.fina.alt";
+layers = (
+{
+components = (
+{
+name = "alef-ar.fina.alt";
+},
+{
+name = "twoabove-ar";
+transform = "{1, 0, 0, 1, 6, -99}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

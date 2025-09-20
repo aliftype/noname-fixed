@@ -1,0 +1,51 @@
+{
+glyphname = "udieresis-cy";
+layers = (
+{
+components = (
+{
+name = "u-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"110 590 OFFCURVE",
+"134 611 OFFCURVE",
+"160 611 CURVE SMOOTH",
+"186 611 OFFCURVE",
+"210 590 OFFCURVE",
+"210 561 CURVE SMOOTH",
+"210 532 OFFCURVE",
+"186 511 OFFCURVE",
+"160 511 CURVE SMOOTH",
+"134 511 OFFCURVE",
+"110 531 OFFCURVE",
+"110 561 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"314 590 OFFCURVE",
+"338 611 OFFCURVE",
+"364 611 CURVE SMOOTH",
+"390 611 OFFCURVE",
+"414 590 OFFCURVE",
+"414 561 CURVE SMOOTH",
+"414 532 OFFCURVE",
+"390 511 OFFCURVE",
+"364 511 CURVE SMOOTH",
+"338 511 OFFCURVE",
+"314 531 OFFCURVE",
+"314 561 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04F1;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "dadDotbelow-ar.medi";
+layers = (
+{
+components = (
+{
+name = "dad-ar.medi";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 119, 359}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

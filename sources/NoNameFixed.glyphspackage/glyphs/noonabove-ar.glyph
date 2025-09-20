@@ -1,0 +1,20 @@
+{
+glyphname = "noonabove-ar";
+layers = (
+{
+components = (
+{
+name = "toneonedotabove-ar";
+transform = "{1, 0, 0, 1, -7, -66}";
+},
+{
+name = "noonghunnaabove-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06E8;
+subCategory = Spacing;
+}

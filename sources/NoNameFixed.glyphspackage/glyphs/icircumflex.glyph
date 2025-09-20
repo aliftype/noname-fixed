@@ -1,0 +1,18 @@
+{
+glyphname = icircumflex;
+layers = (
+{
+components = (
+{
+name = circumflex;
+},
+{
+name = dotlessi;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 00EE;
+}

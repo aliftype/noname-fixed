@@ -1,0 +1,19 @@
+{
+glyphname = "dalFourdots-ar";
+layers = (
+{
+components = (
+{
+name = "fourdotsaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 4, -812}";
+},
+{
+name = "dal-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0690;
+}

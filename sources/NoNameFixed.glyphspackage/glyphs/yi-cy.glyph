@@ -1,0 +1,51 @@
+{
+glyphname = "yi-cy";
+layers = (
+{
+components = (
+{
+name = dotlessi;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"123 588 OFFCURVE",
+"146 611 OFFCURVE",
+"172 611 CURVE SMOOTH",
+"198 611 OFFCURVE",
+"222 590 OFFCURVE",
+"222 561 CURVE SMOOTH",
+"222 532 OFFCURVE",
+"199 511 OFFCURVE",
+"173 511 CURVE SMOOTH",
+"143 511 OFFCURVE",
+"123 534 OFFCURVE",
+"123 561 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"327 590 OFFCURVE",
+"349 611 OFFCURVE",
+"376 611 CURVE SMOOTH",
+"402 611 OFFCURVE",
+"426 590 OFFCURVE",
+"426 561 CURVE SMOOTH",
+"426 532 OFFCURVE",
+"402 511 OFFCURVE",
+"377 511 CURVE SMOOTH",
+"348 511 OFFCURVE",
+"327 534 OFFCURVE",
+"327 561 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0457;
+}

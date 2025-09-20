@@ -1,0 +1,19 @@
+{
+glyphname = "veh-ar.medi";
+layers = (
+{
+components = (
+{
+name = "fehDotless-ar.medi";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 1, 416}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FB6D;
+}

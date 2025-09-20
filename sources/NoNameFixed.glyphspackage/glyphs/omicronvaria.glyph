@@ -1,0 +1,34 @@
+{
+glyphname = omicronvaria;
+layers = (
+{
+components = (
+{
+name = omicron;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"229 612 OFFCURVE",
+"268 549 OFFCURVE",
+"296 511 CURVE",
+"309 485 OFFCURVE",
+"276 462 OFFCURVE",
+"256 477 CURVE",
+"250 480 OFFCURVE",
+"173 568 OFFCURVE",
+"173 578 CURVE SMOOTH",
+"173 585 OFFCURVE",
+"179 612 OFFCURVE",
+"208 612 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1F78;
+}

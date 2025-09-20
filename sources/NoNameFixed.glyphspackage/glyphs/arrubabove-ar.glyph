@@ -1,0 +1,72 @@
+{
+glyphname = "arrubabove-ar";
+layers = (
+{
+components = (
+{
+name = "ain-ar.fina";
+transform = "{0.32737, 0, 0, 0.32737, 11, 474}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{0.33392, 0, 0, 0.33392, 123, 605}";
+},
+{
+name = "reh-ar.fina";
+transform = "{0.32737, 0, 0, 0.32737, 234, 474}";
+},
+{
+name = "alef-ar";
+transform = "{0.32593, 0, 0, 0.32593, 393, 475}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"243 613 OFFCURVE",
+"245 610 OFFCURVE",
+"245 600 CURVE SMOOTH",
+"245 523 LINE SMOOTH",
+"245 514 OFFCURVE",
+"242 510 OFFCURVE",
+"234 510 CURVE SMOOTH",
+"173 510 LINE",
+"173 533 LINE",
+"222 533 LINE",
+"222 600 LINE SMOOTH",
+"222 610 OFFCURVE",
+"225 613 OFFCURVE",
+"234 613 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"445 709 OFFCURVE",
+"447 706 OFFCURVE",
+"447 696 CURVE SMOOTH",
+"447 555 LINE SMOOTH",
+"447 528 OFFCURVE",
+"436 510 OFFCURVE",
+"407 510 CURVE SMOOTH",
+"393 510 LINE",
+"393 533 LINE",
+"407 533 LINE SMOOTH",
+"425 533 OFFCURVE",
+"425 548 OFFCURVE",
+"425 555 CURVE SMOOTH",
+"425 696 LINE SMOOTH",
+"425 706 OFFCURVE",
+"427 709 OFFCURVE",
+"436 709 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08D4;
+subCategory = Spacing;
+}

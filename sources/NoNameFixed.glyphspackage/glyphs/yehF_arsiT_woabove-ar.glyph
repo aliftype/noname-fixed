@@ -1,0 +1,19 @@
+{
+glyphname = "yehFarsiTwoabove-ar";
+layers = (
+{
+components = (
+{
+name = "twoabove-ar";
+transform = "{1, 0, 0, 1, -58, -157}";
+},
+{
+name = "alefMaksura-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0775;
+}

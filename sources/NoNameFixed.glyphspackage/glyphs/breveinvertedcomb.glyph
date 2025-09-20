@@ -1,0 +1,42 @@
+{
+glyphname = breveinvertedcomb;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-86 511 OFFCURVE",
+"-98 499 OFFCURVE",
+"-117 499 CURVE SMOOTH",
+"-141 499 OFFCURVE",
+"-145 516 OFFCURVE",
+"-147 528 CURVE",
+"-152 548 OFFCURVE",
+"-219 548 OFFCURVE",
+"-262 548 CURVE SMOOTH",
+"-304 548 OFFCURVE",
+"-372 548 OFFCURVE",
+"-377 528 CURVE",
+"-379 516 OFFCURVE",
+"-383 499 OFFCURVE",
+"-407 499 CURVE SMOOTH",
+"-427 499 OFFCURVE",
+"-438 511 OFFCURVE",
+"-438 530 CURVE SMOOTH",
+"-438 612 OFFCURVE",
+"-328 612 OFFCURVE",
+"-262 612 CURVE SMOOTH",
+"-196 612 OFFCURVE",
+"-86 612 OFFCURVE",
+"-86 530 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0311;
+subCategory = Spacing;
+}

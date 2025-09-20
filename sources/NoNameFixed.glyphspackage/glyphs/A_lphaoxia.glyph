@@ -1,0 +1,15 @@
+{
+glyphname = Alphaoxia;
+layers = (
+{
+components = (
+{
+name = Alphatonos;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1FBB;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = "kehehThreedotsabove-ar.init";
+layers = (
+{
+components = (
+{
+name = "ng-ar.init";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,40 @@
+{
+glyphname = "Gje-cy";
+layers = (
+{
+components = (
+{
+name = "Ge-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"188 748 OFFCURVE",
+"208 754 OFFCURVE",
+"220 758 CURVE SMOOTH",
+"361 806 OFFCURVE",
+"360 807 OFFCURVE",
+"370 807 CURVE SMOOTH",
+"387 807 OFFCURVE",
+"404 792 OFFCURVE",
+"404 772 CURVE SMOOTH",
+"404 750 OFFCURVE",
+"388 741 OFFCURVE",
+"372 736 CURVE SMOOTH",
+"236 689 OFFCURVE",
+"226 686 OFFCURVE",
+"220 686 CURVE SMOOTH",
+"194 686 OFFCURVE",
+"188 718 OFFCURVE",
+"188 727 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0403;
+}

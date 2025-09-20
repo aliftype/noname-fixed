@@ -1,0 +1,51 @@
+{
+glyphname = "schwadieresis-cy";
+layers = (
+{
+components = (
+{
+name = "schwa-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"102 590 OFFCURVE",
+"127 611 OFFCURVE",
+"152 611 CURVE SMOOTH",
+"178 611 OFFCURVE",
+"202 590 OFFCURVE",
+"202 561 CURVE SMOOTH",
+"202 532 OFFCURVE",
+"178 511 OFFCURVE",
+"153 511 CURVE SMOOTH",
+"123 511 OFFCURVE",
+"102 534 OFFCURVE",
+"102 561 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"306 590 OFFCURVE",
+"331 611 OFFCURVE",
+"356 611 CURVE SMOOTH",
+"382 611 OFFCURVE",
+"406 590 OFFCURVE",
+"406 561 CURVE SMOOTH",
+"406 532 OFFCURVE",
+"382 511 OFFCURVE",
+"357 511 CURVE SMOOTH",
+"327 511 OFFCURVE",
+"306 534 OFFCURVE",
+"306 561 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04DB;
+}

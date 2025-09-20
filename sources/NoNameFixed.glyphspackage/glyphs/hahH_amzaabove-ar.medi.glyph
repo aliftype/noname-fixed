@@ -1,0 +1,18 @@
+{
+glyphname = "hahHamzaabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 0, -34}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

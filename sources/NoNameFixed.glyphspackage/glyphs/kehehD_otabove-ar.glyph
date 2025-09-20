@@ -1,0 +1,19 @@
+{
+glyphname = "kehehDotabove-ar";
+layers = (
+{
+components = (
+{
+name = "keheh-ar";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -76, 1150}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0762;
+}

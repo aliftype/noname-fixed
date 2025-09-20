@@ -1,0 +1,52 @@
+{
+glyphname = "adieresis-cy";
+layers = (
+{
+components = (
+{
+name = a;
+transform = "{1, 0, 0, 1, 5, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"322 586 OFFCURVE",
+"342 611 OFFCURVE",
+"372 611 CURVE SMOOTH",
+"400 611 OFFCURVE",
+"422 587 OFFCURVE",
+"422 561 CURVE SMOOTH",
+"422 536 OFFCURVE",
+"401 511 OFFCURVE",
+"372 511 CURVE SMOOTH",
+"343 511 OFFCURVE",
+"322 534 OFFCURVE",
+"322 561 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"118 590 OFFCURVE",
+"144 610 OFFCURVE",
+"168 610 CURVE SMOOTH",
+"197 610 OFFCURVE",
+"218 587 OFFCURVE",
+"218 560 CURVE SMOOTH",
+"218 535 OFFCURVE",
+"198 510 OFFCURVE",
+"168 510 CURVE SMOOTH",
+"140 510 OFFCURVE",
+"118 534 OFFCURVE",
+"118 560 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04D3;
+}

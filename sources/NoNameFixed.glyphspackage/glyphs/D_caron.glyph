@@ -1,0 +1,19 @@
+{
+glyphname = Dcaron;
+layers = (
+{
+components = (
+{
+name = caron.cap;
+transform = "{1, 0, 0, 1, -63, 181}";
+},
+{
+name = D;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 010E;
+}

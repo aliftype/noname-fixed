@@ -1,0 +1,17 @@
+{
+glyphname = "tehVabove-ar.init";
+layers = (
+{
+components = (
+{
+name = "teh-ar.init";
+},
+{
+name = "vabove-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

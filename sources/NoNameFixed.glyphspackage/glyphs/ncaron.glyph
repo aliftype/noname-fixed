@@ -1,0 +1,18 @@
+{
+glyphname = ncaron;
+layers = (
+{
+components = (
+{
+name = caron;
+},
+{
+name = n;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0148;
+}

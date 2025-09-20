@@ -1,0 +1,47 @@
+{
+glyphname = dieresis;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"225 530 OFFCURVE",
+"205 510 OFFCURVE",
+"180 510 CURVE SMOOTH",
+"155 510 OFFCURVE",
+"135 530 OFFCURVE",
+"135 555 CURVE SMOOTH",
+"135 581 OFFCURVE",
+"155 600 OFFCURVE",
+"180 600 CURVE SMOOTH",
+"205 600 OFFCURVE",
+"225 581 OFFCURVE",
+"225 555 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"390 530 OFFCURVE",
+"370 510 OFFCURVE",
+"345 510 CURVE SMOOTH",
+"320 510 OFFCURVE",
+"300 530 OFFCURVE",
+"300 555 CURVE SMOOTH",
+"300 581 OFFCURVE",
+"320 600 OFFCURVE",
+"345 600 CURVE SMOOTH",
+"370 600 OFFCURVE",
+"390 581 OFFCURVE",
+"390 555 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 00A8;
+subCategory = Spacing;
+}

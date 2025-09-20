@@ -1,0 +1,19 @@
+{
+glyphname = circumflexcomb_hookabovecomb.cap;
+layers = (
+{
+components = (
+{
+name = circumflex.cap;
+},
+{
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 624, 144}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+subCategory = Spacing;
+}

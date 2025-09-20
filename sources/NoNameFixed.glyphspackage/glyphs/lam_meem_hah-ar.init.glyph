@@ -1,0 +1,45 @@
+{
+glyphname = "lam_meem_hah-ar.init";
+layers = (
+{
+components = (
+{
+name = "hah-ar.init";
+transform = "{1, 0, 0, 1, 0.365, -0.109}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"364.196 868.254 OFFCURVE",
+"371.196 858.254 OFFCURVE",
+"371.196 827.254 CURVE SMOOTH",
+"371.196 610.254 LINE",
+"371.196 595.581 OFFCURVE",
+"450.199 558.457 OFFCURVE",
+"504 538 CURVE",
+"467 461 LINE",
+"421.36 472.028 OFFCURVE",
+"371 496 OFFCURVE",
+"348 516 CURVE",
+"316 544 OFFCURVE",
+"157.804 424.746 OFFCURVE",
+"102 340 CURVE",
+"57 381 LINE",
+"81 466 OFFCURVE",
+"252 575 OFFCURVE",
+"302.196 610.254 CURVE",
+"302.196 827.254 LINE SMOOTH",
+"302.196 858.254 OFFCURVE",
+"308.196 868.254 OFFCURVE",
+"336.196 868.254 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = FD88;
+}

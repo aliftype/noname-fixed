@@ -1,0 +1,27 @@
+{
+glyphname = "kafswash-ar.fina";
+layers = (
+{
+components = (
+{
+name = "kafswash-ar";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"525 110 LINE",
+"371 110 LINE",
+"371 179 LINE",
+"422 165 OFFCURVE",
+"474 182 OFFCURVE",
+"525 182 CURVE"
+);
+}
+);
+width = 525;
+}
+);
+}

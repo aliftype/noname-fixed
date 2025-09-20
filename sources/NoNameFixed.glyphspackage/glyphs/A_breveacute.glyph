@@ -1,0 +1,19 @@
+{
+glyphname = Abreveacute;
+layers = (
+{
+components = (
+{
+name = Abreve;
+},
+{
+name = acute;
+transform = "{1, 0, 0, 1, 0, 318}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EAE;
+}

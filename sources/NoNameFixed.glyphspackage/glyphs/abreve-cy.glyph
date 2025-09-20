@@ -1,0 +1,47 @@
+{
+glyphname = "abreve-cy";
+layers = (
+{
+components = (
+{
+name = a;
+transform = "{1, 0, 0, 1, 5, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"93 627 OFFCURVE",
+"107 639 OFFCURVE",
+"124 639 CURVE SMOOTH",
+"155 639 OFFCURVE",
+"155 608 OFFCURVE",
+"156 604 CURVE SMOOTH",
+"166 565 OFFCURVE",
+"246 563 OFFCURVE",
+"268 563 CURVE SMOOTH",
+"307 563 OFFCURVE",
+"367 569 OFFCURVE",
+"381 598 CURVE SMOOTH",
+"386 608 OFFCURVE",
+"382 639 OFFCURVE",
+"415 639 CURVE SMOOTH",
+"433 639 OFFCURVE",
+"446 627 OFFCURVE",
+"446 608 CURVE SMOOTH",
+"446 564 OFFCURVE",
+"408 498 OFFCURVE",
+"270 498 CURVE SMOOTH",
+"130 498 OFFCURVE",
+"93 564 OFFCURVE",
+"93 608 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 04D1;
+}

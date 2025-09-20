@@ -1,0 +1,19 @@
+{
+glyphname = "u-ar.fina";
+layers = (
+{
+components = (
+{
+name = "waw-ar.fina";
+},
+{
+name = "damma-ar";
+transform = "{1, 0, 0, 1, 101, -63}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBD8;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "noon-ar";
+layers = (
+{
+components = (
+{
+name = "noonghunna-ar";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 35, 1009}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "0646,FEE5";
+}

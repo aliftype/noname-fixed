@@ -1,0 +1,19 @@
+{
+glyphname = "hahThreedotsabove-ar";
+layers = (
+{
+components = (
+{
+name = "hah-ar";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 3, 305}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0685;
+}

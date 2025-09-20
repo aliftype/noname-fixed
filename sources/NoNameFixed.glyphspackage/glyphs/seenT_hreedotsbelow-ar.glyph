@@ -1,0 +1,19 @@
+{
+glyphname = "seenThreedotsbelow-ar";
+layers = (
+{
+components = (
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 93, -782}";
+},
+{
+name = "seen-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 069B;
+}

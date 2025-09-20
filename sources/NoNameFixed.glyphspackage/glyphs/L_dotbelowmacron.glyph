@@ -1,0 +1,19 @@
+{
+glyphname = Ldotbelowmacron;
+layers = (
+{
+components = (
+{
+name = Ldotbelow;
+},
+{
+name = macron;
+transform = "{1, 0, 0, 1, -109, 159}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1E38;
+}

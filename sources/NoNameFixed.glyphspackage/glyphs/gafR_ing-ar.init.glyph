@@ -1,0 +1,18 @@
+{
+glyphname = "gafRing-ar.init";
+layers = (
+{
+components = (
+{
+name = "gaf-ar.init";
+},
+{
+name = "sukunoval-ar";
+transform = "{1, 0, 0, 1, 176, -172}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

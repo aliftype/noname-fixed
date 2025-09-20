@@ -1,0 +1,18 @@
+{
+glyphname = "ghainDotbelow-ar.init";
+layers = (
+{
+components = (
+{
+name = "ghain-ar.init";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 58, 359}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

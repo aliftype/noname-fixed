@@ -1,0 +1,51 @@
+{
+glyphname = "io-cy";
+layers = (
+{
+components = (
+{
+name = e;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"307 590 OFFCURVE",
+"333 610 OFFCURVE",
+"357 610 CURVE SMOOTH",
+"386 610 OFFCURVE",
+"407 587 OFFCURVE",
+"407 560 CURVE SMOOTH",
+"407 535 OFFCURVE",
+"387 510 OFFCURVE",
+"357 510 CURVE SMOOTH",
+"329 510 OFFCURVE",
+"307 534 OFFCURVE",
+"307 560 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"102 590 OFFCURVE",
+"128 610 OFFCURVE",
+"152 610 CURVE SMOOTH",
+"181 610 OFFCURVE",
+"202 587 OFFCURVE",
+"202 560 CURVE SMOOTH",
+"202 535 OFFCURVE",
+"182 510 OFFCURVE",
+"152 510 CURVE SMOOTH",
+"124 510 OFFCURVE",
+"102 534 OFFCURVE",
+"102 560 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0451;
+}

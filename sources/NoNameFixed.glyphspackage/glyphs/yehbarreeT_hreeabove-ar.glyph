@@ -1,0 +1,19 @@
+{
+glyphname = "yehbarreeThreeabove-ar";
+layers = (
+{
+components = (
+{
+name = "threeabove-ar";
+transform = "{1, 0, 0, 1, -128, -129}";
+},
+{
+name = "yehbarree-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 077B;
+}

@@ -1,0 +1,46 @@
+{
+glyphname = quotesinglbase;
+layers = (
+{
+components = (
+{
+name = quoteright;
+transform = "{1, 0, 0, 1, 0, -531}";
+}
+);
+layerId = master01;
+width = 525;
+},
+{
+associatedMasterId = master01;
+layerId = "C1E6D5D4-98AD-4F05-BA5D-C78EFB61A3C4";
+name = Back;
+paths = (
+{
+closed = 1;
+nodes = (
+"294 -167 LINE SMOOTH",
+"293 -184 OFFCURVE",
+"288 -202 OFFCURVE",
+"263 -202 CURVE SMOOTH",
+"235 -202 OFFCURVE",
+"232 -181 OFFCURVE",
+"231 -166 CURVE SMOOTH",
+"218 37 LINE SMOOTH",
+"215 81 OFFCURVE",
+"244 92 OFFCURVE",
+"263 92 CURVE SMOOTH",
+"276 92 OFFCURVE",
+"310 84 OFFCURVE",
+"307 37 CURVE SMOOTH"
+);
+}
+);
+userData = {
+org.fontforge.glyphclass = baseglyph;
+};
+width = 525;
+}
+);
+unicode = 201A;
+}

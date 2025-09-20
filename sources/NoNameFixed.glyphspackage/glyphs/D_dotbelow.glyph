@@ -1,0 +1,19 @@
+{
+glyphname = Ddotbelow;
+layers = (
+{
+components = (
+{
+name = dotaccent;
+transform = "{1, 0, 0, 1, -63, -705}";
+},
+{
+name = D;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1E0C;
+}

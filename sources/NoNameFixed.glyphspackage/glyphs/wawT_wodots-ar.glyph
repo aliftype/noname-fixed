@@ -1,0 +1,19 @@
+{
+glyphname = "wawTwodots-ar";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -5, 55}";
+},
+{
+name = "waw-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06CA;
+}

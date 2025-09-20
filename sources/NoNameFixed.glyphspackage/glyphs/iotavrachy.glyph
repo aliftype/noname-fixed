@@ -1,0 +1,41 @@
+{
+glyphname = iotavrachy;
+layers = (
+{
+components = (
+{
+name = iota;
+transform = "{1, 0, 0, 1, 20, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"128 603 OFFCURVE",
+"192 544 OFFCURVE",
+"262 543 CURVE SMOOTH",
+"310 543 OFFCURVE",
+"374 576 OFFCURVE",
+"410 610 CURVE",
+"426 610 OFFCURVE",
+"430 600 OFFCURVE",
+"430 593 CURVE",
+"384 547 OFFCURVE",
+"314 509 OFFCURVE",
+"262 509 CURVE SMOOTH",
+"190 509 OFFCURVE",
+"126 562 OFFCURVE",
+"94 593 CURVE",
+"94 603 OFFCURVE",
+"102 610 OFFCURVE",
+"116 610 CURVE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1FD0;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = "rehDadabove-ar";
+layers = (
+{
+components = (
+{
+name = "rehabove-ar";
+transform = "{1, 0, 0, 1, 78, -41}";
+},
+{
+name = "sadabove-ar";
+transform = "{1, 0, 0, 1, -94, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0613;
+subCategory = Spacing;
+}

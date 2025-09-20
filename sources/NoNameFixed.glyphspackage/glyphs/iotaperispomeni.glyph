@@ -1,0 +1,50 @@
+{
+glyphname = iotaperispomeni;
+layers = (
+{
+components = (
+{
+name = iota;
+transform = "{1, 0, 0, 1, 11, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"438 629 OFFCURVE",
+"438 604 OFFCURVE",
+"438 597 CURVE",
+"434 535 OFFCURVE",
+"360 525 OFFCURVE",
+"336 525 CURVE SMOOTH",
+"280 525 OFFCURVE",
+"224 567 OFFCURVE",
+"190 567 CURVE SMOOTH",
+"176 567 OFFCURVE",
+"152 564 OFFCURVE",
+"152 550 CURVE",
+"148 517 OFFCURVE",
+"88 514 OFFCURVE",
+"88 555 CURVE SMOOTH",
+"88 597 OFFCURVE",
+"132 629 OFFCURVE",
+"194 629 CURVE SMOOTH",
+"260 626 OFFCURVE",
+"284 588 OFFCURVE",
+"336 588 CURVE SMOOTH",
+"358 588 OFFCURVE",
+"374 594 OFFCURVE",
+"374 602 CURVE SMOOTH",
+"374 608 OFFCURVE",
+"378 629 OFFCURVE",
+"404 629 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 1FD6;
+}

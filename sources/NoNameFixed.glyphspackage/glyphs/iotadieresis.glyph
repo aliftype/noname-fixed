@@ -1,0 +1,52 @@
+{
+glyphname = iotadieresis;
+layers = (
+{
+components = (
+{
+name = iota;
+transform = "{1, 0, 0, 1, 23, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"60 601 OFFCURVE",
+"70 639 OFFCURVE",
+"110 639 CURVE SMOOTH",
+"120 639 OFFCURVE",
+"160 629 OFFCURVE",
+"160 588 CURVE SMOOTH",
+"160 561 OFFCURVE",
+"138 538 OFFCURVE",
+"110 538 CURVE SMOOTH",
+"100 538 OFFCURVE",
+"60 548 OFFCURVE",
+"60 589 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"364 601 OFFCURVE",
+"374 639 OFFCURVE",
+"414 639 CURVE SMOOTH",
+"456 639 OFFCURVE",
+"466 599 OFFCURVE",
+"466 588 CURVE SMOOTH",
+"466 576 OFFCURVE",
+"454 538 OFFCURVE",
+"414 538 CURVE SMOOTH",
+"404 538 OFFCURVE",
+"364 548 OFFCURVE",
+"364 589 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 03CA;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = omicronpsili;
+layers = (
+{
+components = (
+{
+name = koronis;
+transform = "{1, 0, 0, 1, 1, 0}";
+},
+{
+name = omicron;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1F40;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = "zainabove-ar";
+layers = (
+{
+components = (
+{
+name = "rehabove-ar";
+transform = "{1, 0, 0, 1, 0, -157}";
+},
+{
+name = "toneonedotabove-ar";
+transform = "{1, 0, 0, 1, -40, -69}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0617;
+subCategory = Spacing;
+}

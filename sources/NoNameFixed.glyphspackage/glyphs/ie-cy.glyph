@@ -1,0 +1,15 @@
+{
+glyphname = "ie-cy";
+layers = (
+{
+components = (
+{
+name = e;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0435;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = dblverticalbar;
+layers = (
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 106, 0}";
+},
+{
+name = bar;
+transform = "{1, 0, 0, 1, -104, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 2016;
+}

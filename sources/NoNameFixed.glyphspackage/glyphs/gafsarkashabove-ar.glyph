@@ -1,0 +1,37 @@
+{
+glyphname = "gafsarkashabove-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"320 802 LINE SMOOTH",
+"333 815 OFFCURVE",
+"339 820 OFFCURVE",
+"349 820 CURVE SMOOTH",
+"364 820 OFFCURVE",
+"386 795 OFFCURVE",
+"386 781 CURVE SMOOTH",
+"386 773 OFFCURVE",
+"380 764 OFFCURVE",
+"370 754 CURVE SMOOTH",
+"203 588 LINE",
+"195 581 OFFCURVE",
+"183 569 OFFCURVE",
+"175 569 CURVE SMOOTH",
+"161 569 OFFCURVE",
+"138 593 OFFCURVE",
+"138 607 CURVE SMOOTH",
+"138 615 OFFCURVE",
+"144 625 OFFCURVE",
+"155 636 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+subCategory = Spacing;
+}

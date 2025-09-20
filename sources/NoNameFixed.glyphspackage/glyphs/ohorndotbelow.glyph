@@ -1,0 +1,19 @@
+{
+glyphname = ohorndotbelow;
+layers = (
+{
+components = (
+{
+name = dotaccent;
+transform = "{1, 0, 0, 1, 0, -705}";
+},
+{
+name = ohorn;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1EE3;
+}

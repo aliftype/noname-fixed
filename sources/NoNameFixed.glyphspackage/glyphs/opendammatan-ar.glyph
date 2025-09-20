@@ -1,0 +1,21 @@
+{
+glyphname = "opendammatan-ar";
+layers = (
+{
+components = (
+{
+name = "damma-ar";
+transform = "{1, 0, 0, 1, -118, -1}";
+},
+{
+name = "damma-ar";
+transform = "{1, 0, 0, 1, 91, -1}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08F1;
+subCategory = Spacing;
+}

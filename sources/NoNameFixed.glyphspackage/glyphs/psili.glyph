@@ -1,0 +1,16 @@
+{
+glyphname = psili;
+layers = (
+{
+components = (
+{
+name = koronis;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 1FBF;
+subCategory = Spacing;
+}

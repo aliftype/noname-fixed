@@ -1,0 +1,31 @@
+{
+glyphname = "aleflow-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"291 250 OFFCURVE",
+"297 240 OFFCURVE",
+"297 209 CURVE SMOOTH",
+"297 -84 LINE SMOOTH",
+"297 -115 OFFCURVE",
+"290 -125 OFFCURVE",
+"262 -125 CURVE SMOOTH",
+"234 -125 OFFCURVE",
+"228 -115 OFFCURVE",
+"228 -84 CURVE SMOOTH",
+"228 209 LINE SMOOTH",
+"228 240 OFFCURVE",
+"235 250 OFFCURVE",
+"263 250 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08AD;
+}

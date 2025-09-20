@@ -1,0 +1,16 @@
+{
+glyphname = "a-cy";
+layers = (
+{
+components = (
+{
+name = a;
+transform = "{1, 0, 0, 1, 5, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0430;
+}

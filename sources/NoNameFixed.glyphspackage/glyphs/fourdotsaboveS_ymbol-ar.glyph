@@ -1,0 +1,19 @@
+{
+glyphname = "fourdotsaboveSymbol-ar";
+layers = (
+{
+components = (
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 0, 169}";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBBA;
+}

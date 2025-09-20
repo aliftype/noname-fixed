@@ -1,0 +1,18 @@
+{
+glyphname = "kafThreedotsbelow-ar.medi";
+layers = (
+{
+components = (
+{
+name = "threedotsdownaboveSymbol-ar";
+transform = "{1, 0, 0, 1, 51, -621}";
+},
+{
+name = "keheh-ar.medi";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

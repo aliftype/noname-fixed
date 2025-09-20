@@ -1,0 +1,32 @@
+{
+glyphname = quotesingle;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"293 365 LINE SMOOTH",
+"292 349 OFFCURVE",
+"291 328 OFFCURVE",
+"262 328 CURVE SMOOTH",
+"233 328 OFFCURVE",
+"232 349 OFFCURVE",
+"231 365 CURVE SMOOTH",
+"219 557 LINE",
+"217 577 LINE",
+"217 602 OFFCURVE",
+"237 622 OFFCURVE",
+"262 622 CURVE SMOOTH",
+"286 622 OFFCURVE",
+"309 607 OFFCURVE",
+"306 565 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0027;
+}

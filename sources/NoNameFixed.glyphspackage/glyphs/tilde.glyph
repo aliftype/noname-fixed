@@ -1,0 +1,17 @@
+{
+glyphname = tilde;
+layers = (
+{
+components = (
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 0, 249}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 02DC;
+subCategory = Spacing;
+}

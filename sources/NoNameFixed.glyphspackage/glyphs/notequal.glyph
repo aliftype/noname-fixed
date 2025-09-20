@@ -1,0 +1,19 @@
+{
+glyphname = notequal;
+layers = (
+{
+components = (
+{
+name = equal;
+},
+{
+name = divisionslash;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+widthMetricsKey = space;
+unicode = 2260;
+}

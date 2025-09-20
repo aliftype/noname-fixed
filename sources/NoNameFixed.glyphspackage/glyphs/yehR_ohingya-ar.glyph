@@ -1,0 +1,36 @@
+{
+glyphname = "yehRohingya-ar";
+layers = (
+{
+components = (
+{
+name = "yehRohingya-ar.comp";
+},
+{
+name = "twodotshorizontalaboveSymbol-ar";
+transform = "{1, 0, 0, 1, -1, -621}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"368 182 LINE",
+"421 182 OFFCURVE",
+"438 225 OFFCURVE",
+"459 225 CURVE SMOOTH",
+"481 225 OFFCURVE",
+"501 209 OFFCURVE",
+"501 182 CURVE SMOOTH",
+"501 140 OFFCURVE",
+"437 110 OFFCURVE",
+"372 110 CURVE"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 08AC;
+}

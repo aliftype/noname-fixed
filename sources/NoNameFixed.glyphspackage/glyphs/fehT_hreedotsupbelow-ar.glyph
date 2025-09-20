@@ -1,0 +1,19 @@
+{
+glyphname = "fehThreedotsupbelow-ar";
+layers = (
+{
+components = (
+{
+name = "fehDotless-ar";
+},
+{
+name = "threedots-ar";
+transform = "{1, 0, 0, 1, 15, -476}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 0761;
+}

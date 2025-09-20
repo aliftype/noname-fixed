@@ -1,0 +1,17 @@
+{
+glyphname = "kasratanCurly-ar";
+layers = (
+{
+components = (
+{
+name = "fathatanCurly-ar";
+transform = "{1, 0, 0, 1, 0, -885}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08E9;
+subCategory = Spacing;
+}

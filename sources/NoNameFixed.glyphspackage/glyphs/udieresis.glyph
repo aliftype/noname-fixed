@@ -1,0 +1,18 @@
+{
+glyphname = udieresis;
+layers = (
+{
+components = (
+{
+name = dieresis;
+},
+{
+name = u;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 00FC;
+}

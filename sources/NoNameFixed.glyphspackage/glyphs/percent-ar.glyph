@@ -1,0 +1,24 @@
+{
+glyphname = "percent-ar";
+layers = (
+{
+components = (
+{
+name = percent.arabic.comp;
+transform = "{1, 0, 0, 1, -1, 0}";
+},
+{
+name = "zero-ar";
+transform = "{1, 0, 0, 1, 140, -255}";
+},
+{
+name = "zero-ar";
+transform = "{1, 0, 0, 1, -140, 256}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 066A;
+}

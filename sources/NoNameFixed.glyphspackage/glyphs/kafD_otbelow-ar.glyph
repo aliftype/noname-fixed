@@ -1,0 +1,19 @@
+{
+glyphname = "kafDotbelow-ar";
+layers = (
+{
+components = (
+{
+name = "kaf-ar";
+},
+{
+name = "dotbelowSymbol-ar";
+transform = "{1, 0, 0, 1, 51, 62}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08B4;
+}

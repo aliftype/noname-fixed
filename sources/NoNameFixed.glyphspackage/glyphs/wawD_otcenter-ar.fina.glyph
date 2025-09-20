@@ -1,0 +1,18 @@
+{
+glyphname = "wawDotcenter-ar.fina";
+layers = (
+{
+components = (
+{
+name = "waw-ar.fina";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -165, 588}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

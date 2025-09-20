@@ -1,0 +1,58 @@
+{
+glyphname = "rehHahabove-ar";
+layers = (
+{
+components = (
+{
+name = "rehabove-ar";
+transform = "{1, 0, 0, 1, 78, -41}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"320 778 LINE SMOOTH",
+"343 778 OFFCURVE",
+"350 773 OFFCURVE",
+"350 748 CURVE SMOOTH",
+"350 723 OFFCURVE",
+"343 718 OFFCURVE",
+"320 718 CURVE SMOOTH",
+"256 718 LINE",
+"221 691 LINE SMOOTH",
+"167 650 OFFCURVE",
+"91 585 OFFCURVE",
+"88 518 CURVE SMOOTH",
+"87 493 OFFCURVE",
+"76 484 OFFCURVE",
+"64 484 CURVE SMOOTH",
+"37 484 OFFCURVE",
+"37 505 OFFCURVE",
+"37 518 CURVE SMOOTH",
+"37 583 OFFCURVE",
+"79 645 OFFCURVE",
+"169 718 CURVE",
+"87 718 LINE",
+"83 710 OFFCURVE",
+"82 704 OFFCURVE",
+"82 697 CURVE SMOOTH",
+"82 678 OFFCURVE",
+"75 665 OFFCURVE",
+"56 665 CURVE SMOOTH",
+"37 665 OFFCURVE",
+"30 678 OFFCURVE",
+"30 697 CURVE SMOOTH",
+"30 722 OFFCURVE",
+"37 778 OFFCURVE",
+"87 778 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 0612;
+subCategory = Spacing;
+}

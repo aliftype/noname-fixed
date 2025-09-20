@@ -1,0 +1,18 @@
+{
+glyphname = "pehMeemabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "peh-ar.medi";
+},
+{
+name = "meemStopabove-ar";
+transform = "{1, 0, 0, 1, 10, -70}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

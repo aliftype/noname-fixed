@@ -1,0 +1,35 @@
+{
+glyphname = "decimalseparator-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"112 -70 OFFCURVE",
+"122 -68 OFFCURVE",
+"150 -68 CURVE SMOOTH",
+"290 -68 OFFCURVE",
+"348 25 OFFCURVE",
+"348 128 CURVE SMOOTH",
+"348 158 OFFCURVE",
+"354 166 OFFCURVE",
+"381 166 CURVE SMOOTH",
+"407 166 OFFCURVE",
+"412 158 OFFCURVE",
+"412 128 CURVE SMOOTH",
+"412 -32 OFFCURVE",
+"290 -125 OFFCURVE",
+"150 -125 CURVE SMOOTH",
+"122 -125 OFFCURVE",
+"112 -123 OFFCURVE",
+"112 -97 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 066B;
+}

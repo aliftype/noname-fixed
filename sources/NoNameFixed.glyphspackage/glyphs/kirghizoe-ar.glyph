@@ -1,0 +1,19 @@
+{
+glyphname = "kirghizoe-ar";
+layers = (
+{
+components = (
+{
+name = "stroke-ar";
+transform = "{1, 0, 0, 1, -103, -726}";
+},
+{
+name = "waw-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = "06C5,FBE0";
+}

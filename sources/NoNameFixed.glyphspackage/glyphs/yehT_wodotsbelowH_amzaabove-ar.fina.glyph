@@ -1,0 +1,18 @@
+{
+glyphname = "yehTwodotsbelowHamzaabove-ar.fina";
+layers = (
+{
+components = (
+{
+name = "yeh-ar.fina";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 145, -268}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ghainDotbelow-ar";
+layers = (
+{
+components = (
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, 28, 449}";
+},
+{
+name = "dotvowelbelow-ar";
+transform = "{1, 0, 0, 1, -79, 1145}";
+},
+{
+name = "ain-ar";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 06FC;
+}

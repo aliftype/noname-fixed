@@ -1,0 +1,18 @@
+{
+glyphname = "lamTahabove-ar.init";
+layers = (
+{
+components = (
+{
+name = "lam-ar.init";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, -40, 0}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+}

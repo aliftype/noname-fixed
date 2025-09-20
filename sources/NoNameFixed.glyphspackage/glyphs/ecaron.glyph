@@ -1,0 +1,18 @@
+{
+glyphname = ecaron;
+layers = (
+{
+components = (
+{
+name = caron;
+},
+{
+name = e;
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 011B;
+}

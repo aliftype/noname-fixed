@@ -1,0 +1,17 @@
+{
+glyphname = "leftarrowheadbelow-ar";
+layers = (
+{
+components = (
+{
+name = "leftarrowheadabove-ar";
+transform = "{1, 0, 0, 1, 0, -1043}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = 08F9;
+subCategory = Spacing;
+}

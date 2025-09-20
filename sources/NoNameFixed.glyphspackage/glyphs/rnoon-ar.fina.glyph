@@ -1,0 +1,19 @@
+{
+glyphname = "rnoon-ar.fina";
+layers = (
+{
+components = (
+{
+name = "noonghunna-ar.fina";
+},
+{
+name = "tahabove-ar";
+transform = "{1, 0, 0, 1, 0, -157}";
+}
+);
+layerId = master01;
+width = 525;
+}
+);
+unicode = FBA1;
+}

@@ -1,0 +1,43 @@
+{
+glyphname = ogonek;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"336 -177 OFFCURVE",
+"298 -203 OFFCURVE",
+"260 -203 CURVE SMOOTH",
+"197 -203 OFFCURVE",
+"161 -151 OFFCURVE",
+"161 -108 CURVE SMOOTH",
+"161 -61 OFFCURVE",
+"198 -16 OFFCURVE",
+"237 9 CURVE",
+"312 11 LINE",
+"258 -4 OFFCURVE",
+"220 -54 OFFCURVE",
+"220 -110 CURVE SMOOTH",
+"220 -134 OFFCURVE",
+"246 -149 OFFCURVE",
+"264 -149 CURVE SMOOTH",
+"284 -149 OFFCURVE",
+"307 -128 OFFCURVE",
+"318 -112 CURVE",
+"324 -106 OFFCURVE",
+"346 -102 OFFCURVE",
+"355 -107 CURVE",
+"363 -114 OFFCURVE",
+"367 -135 OFFCURVE",
+"360 -144 CURVE SMOOTH"
+);
+}
+);
+width = 525;
+}
+);
+unicode = 02DB;
+subCategory = Spacing;
+}
